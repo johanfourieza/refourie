@@ -11,7 +11,7 @@ I had two further motives. The first was to see how useful language models have 
 >
 > - **Coauthors.** Most of these papers were written with coauthors, who often hold original data and code that I no longer have, or never had. Where files did not survive in my own folders, the models rebuilt the analysis from what did survive. A verdict of "not testable" or "weakened" may therefore reflect my missing files rather than the paper.
 > - **Not corroborated.** I have not discussed these findings with my coauthors. They are the output of an automated audit, not agreed corrections.
-> - **The machines can be wrong.** Two model families from different companies checked each other's work, and the points on which they disagree are reported as disputed. The original plan provided for a human adjudicator; in the end, no human expert adjudicated the findings, and agreement between two models is not independent human validation.
+> - **The machines can be wrong.** Two model families from different companies checked each other's work, and the points on which they disagree are reported as disputed. No human expert adjudicated the findings, and agreement between two models is not independent human validation.
 > - **Responsibility.** I take full responsibility for every error exposed here. Coauthors and readers who see things differently are welcome to contact me.
 
 ## How the reanalysis was done
