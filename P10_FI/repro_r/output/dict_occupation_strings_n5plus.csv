@@ -1,0 +1,988 @@
+string,rule,n,spouse,class,hisco_major
+.,1,23749,female,NA,NA
+Domestic,15,2215,female,sales,5
+Machinist,16,2001,female,prod,7-9
+Domestic servant,15,1531,female,sales,5
+Clerk,12,1038,female,prof,3
+Household duties,2,1032,female,NA,NA
+Domestic duties,2,818,female,NA,NA
+Typist,12,665,female,prof,3
+Factory Hand,16,653,female,prod,7-9
+Shorthand Typist,12,610,female,prof,3
+School Teacher,13,535,female,prof,0/1
+Domestic service,15,485,female,sales,5
+Domestic Servant,15,435,female,sales,5
+Factory worker,16,390,female,prod,7-9
+Housewife,2,386,female,NA,NA
+Shop Assistant,14,338,female,sales,4
+Nurse,13,321,female,prof,0/1
+No Occupation,1,318,female,NA,NA
+Household Duties,2,313,female,NA,NA
+Factory Employee,16,286,female,prod,7-9
+Home Duties,2,280,female,NA,NA
+Saleslady,14,276,female,sales,4
+Secretary,12,273,female,prof,3
+Dressmaker,16,272,female,prod,7-9
+Home duties,2,266,female,NA,NA
+Packer,16,248,female,prod,7-9
+Factory-hand,16,207,female,prod,7-9
+Factory hand,16,201,female,prod,7-9
+Printer's Assistant,16,195,female,prod,7-9
+Waitress,15,195,female,sales,5
+Factory Worker,16,181,female,prod,7-9
+Shop assistant,14,177,female,sales,4
+Hairdresser,15,156,female,sales,5
+Bank Clerk,12,150,female,prof,3
+Stenographer,12,149,female,prof,3
+Bookkeeper,12,125,female,prof,3
+No occupation,1,122,female,NA,NA
+Cook,15,109,female,sales,5
+Domestic Service,15,104,female,sales,5
+Milliner,16,99,female,prod,7-9
+Printer's assistant,16,98,female,prod,7-9
+Teacher,13,93,female,prof,0/1
+Saleswoman,14,84,female,sales,4
+Cleaner,6,77,female,sales,5
+None,1,77,female,NA,NA
+Cashier,12,75,female,prof,3
+Servant,15,64,female,sales,5
+Clothing Machinist,16,61,female,prod,7-9
+Housemaid,15,59,female,sales,5
+Charwoman,15,58,female,sales,5
+Nursing sister,13,55,female,prof,0/1
+Telephonist,12,54,female,prof,3
+Radiographer,13,53,female,prof,0/1
+Housekeeper,15,48,female,sales,5
+Student,3,48,female,NA,NA
+Housework,2,46,female,NA,NA
+Seamstress,16,46,female,prod,7-9
+Receptionist,12,43,female,prof,3
+Typist/Clerk,12,42,female,prof,3
+At Home,2,40,female,NA,NA
+Labourer,16,39,female,prod,7-9
+Tailoress,16,39,female,prod,7-9
+Checker,16,38,female,prod,7-9
+At home,2,36,female,NA,NA
+Civil Servant,12,36,female,prof,3
+Box-maker,16,32,female,prod,7-9
+Commercial Artist,13,32,female,prof,0/1
+Comptometer Operator,12,31,female,prof,3
+Social Worker,13,31,female,prof,0/1
+Factory Machinist,16,30,female,prod,7-9
+Librarian,12,30,female,prof,3
+Trained Nurse,13,30,female,prof,0/1
+Ledger Clerk,12,29,female,prof,3
+Ironer,15,28,female,sales,5
+Sorter,16,28,female,prod,7-9
+Supervisor,11,28,female,prof,2
+Table-hand,16,28,female,prod,7-9
+Garment-worker,16,27,female,prod,7-9
+Shirt Machinist,16,27,female,prod,7-9
+Presser,16,26,female,prod,7-9
+Cutter,16,24,female,prod,7-9
+Cigarette Packer,16,23,female,prod,7-9
+Examiner,16,23,female,prod,7-9
+Marker,16,23,female,prod,7-9
+Binder's Assistant,16,22,female,prod,7-9
+Physiotherapist,13,22,female,prof,0/1
+Private Secretary,12,22,female,prof,3
+Finisher,16,21,female,prod,7-9
+Bookbinder,16,20,female,prod,7-9
+House-maid,15,20,female,sales,5
+Laundress,15,20,female,sales,5
+Music Teacher,13,20,female,prof,0/1
+Weaver,16,20,female,prod,7-9
+Nursing Sister,13,19,female,prof,0/1
+Printer,16,19,female,prod,7-9
+Artist,13,18,female,prof,0/1
+Despatch Clerk,12,18,female,prof,3
+Hospital Nurse,13,18,female,prof,0/1
+Insurance Clerk,12,18,female,prof,3
+Student Nurse,5,18,female,prof,1
+Accounting Machine Operator,12,17,female,prof,3
+Unemployed,1,17,female,NA,NA
+W.A.A.S.,6,17,female,sales,5
+Wrapper,16,17,female,prod,7-9
+Machine Operator,16,16,female,prod,7-9
+Medical Practitioner,13,16,female,prof,0/1
+Mother's Help,15,16,female,sales,5
+Dental Nurse,13,15,female,prof,0/1
+Flower-seller,14,15,female,sales,4
+Sweet-maker,16,15,female,prod,7-9
+Clerk/Typist,12,14,female,prof,3
+Domestic Duties,2,14,female,NA,NA
+Invoice Clerk,12,14,female,prof,3
+Binder's assistant,16,13,female,prod,7-9
+Florist,8,13,female,sales,4
+Journalist,13,13,female,prof,0/1
+Machinist (Factory),16,13,female,prod,7-9
+Washerwoman,15,13,female,sales,5
+Cook-General,15,12,female,sales,5
+Ladies Hairdresser,15,12,female,sales,5
+Leather worker,16,12,female,prod,7-9
+Chemist's Assistant,13,11,female,prof,0/1
+Clothing Factory Hand,16,11,female,prod,7-9
+Dancing Teacher,13,11,female,prof,0/1
+Layer-up,16,11,female,prod,7-9
+Medical Technologist,13,11,female,prof,0/1
+Midwife,13,11,female,prof,0/1
+Plain Sewer,16,11,female,prod,7-9
+Staff Nurse,13,11,female,prof,0/1
+Telegraphist,12,11,female,prof,3
+Clothing Factory Machinist,16,10,female,prod,7-9
+Draughtswoman,13,10,female,prof,0/1
+Trimmer,16,10,female,prod,7-9
+Accounts Clerk,12,9,female,prof,3
+General Servant,15,9,female,sales,5
+General Worker,16,9,female,prod,7-9
+Leather Worker,16,9,female,prod,7-9
+Machinist in Factory,16,9,female,prod,7-9
+Operator,16,9,female,prod,7-9
+Punch Operator,16,9,female,prod,7-9
+Shop-assistant,14,9,female,sales,4
+Social worker,13,9,female,prof,0/1
+Sweet-worker,16,9,female,prod,7-9
+Travel Clerk,12,9,female,prof,3
+W.A.A.F.,16,9,female,prod,7-9
+Accountant,12,8,female,prof,3
+Chemist,13,8,female,prof,0/1
+Civil servant,12,8,female,prof,3
+Hospital nurse,13,8,female,prof,0/1
+Laboratory Technician,13,8,female,prof,0/1
+Mender,16,8,female,prod,7-9
+Office Cleaner,6,8,female,sales,5
+Audit Clerk,12,7,female,prof,3
+Bank Official,11,7,female,prof,2
+Children's Nurse,9,7,female,sales,5
+Clerical Assistant,16,7,female,prod,7-9
+Clerk-Typist,12,7,female,prof,3
+Clothing Factory Worker,16,7,female,prod,7-9
+Depot Assistant,16,7,female,prod,7-9
+Doctor's Receptionist,12,7,female,prof,3
+Draper's Assistant,14,7,female,sales,4
+Factory machinist,16,7,female,prod,7-9
+Fish-cutter,16,7,female,prod,7-9
+General servant,15,7,female,sales,5
+Laboratory Assistant,13,7,female,prof,0/1
+Telephone Operator,12,7,female,prof,3
+Telex Operator,16,7,female,prod,7-9
+Tobacco Worker,16,7,female,prod,7-9
+Usherette,15,7,female,sales,5
+Wage Clerk,12,7,female,prof,3
+Box maker,16,6,female,prod,7-9
+Cashier/Bookkeeper,12,6,female,prof,3
+Commercial Artisit,16,6,female,prod,7-9
+Commercial Clerk,12,6,female,prof,3
+Cook-general,15,6,female,sales,5
+Dress Designer,13,6,female,prof,0/1
+House duties,2,6,female,NA,NA
+Invisible Mender,16,6,female,prod,7-9
+Invoice Typist,12,6,female,prof,3
+Laundry Employee,16,6,female,prod,7-9
+Laundry-maid,15,6,female,sales,5
+Machinist (Clothing Factory),16,6,female,prod,7-9
+Machinist Clothing Factory,16,6,female,prod,7-9
+Manageress,11,6,female,prof,2
+Mannequin,16,6,female,prod,7-9
+Medicine Packer,16,6,female,prod,7-9
+Messenger,12,6,female,prof,3
+Nursemaid,9,6,female,sales,5
+Occupational Therapist,16,6,female,prod,7-9
+Photographer,13,6,female,prof,0/1
+Photographer's Assistant,13,6,female,prof,0/1
+Plain sewer,16,6,female,prod,7-9
+Printing Assistant,16,6,female,prod,7-9
+Sales Assistant,14,6,female,sales,4
+Schoolmistress,5,6,female,prof,1
+Sweet Worker,16,6,female,prod,7-9
+Teller,12,6,female,prof,3
+NA,1,6,female,NA,NA
+Actress,13,5,female,prof,0/1
+Architect,13,5,female,prof,0/1
+Bookkeeper/Typist,12,5,female,prof,3
+Buyer,14,5,female,sales,4
+Chambermaid,15,5,female,sales,5
+Chemical Worker,16,5,female,prod,7-9
+Chemist's assistant,13,5,female,prof,0/1
+Clothing Factory,16,5,female,prod,7-9
+Coat Finisher,16,5,female,prod,7-9
+Commercial Traveller,14,5,female,sales,4
+Counter Hand,14,5,female,sales,4
+Counter-hand,16,5,female,prod,7-9
+Dietician,16,5,female,prod,7-9
+Domestic worker,15,5,female,sales,5
+Factory-worker,16,5,female,prod,7-9
+Garment worker,16,5,female,prod,7-9
+Hand in Shirt Factory,16,5,female,prod,7-9
+Laundry Hand,16,5,female,prod,7-9
+Ledger Machinist,12,5,female,prof,3
+Machinist in Clothing Factory,16,5,female,prod,7-9
+Musician,13,5,female,prof,0/1
+Office Clerk,12,5,female,prof,3
+On Active Service,15,5,female,sales,5
+Pensioner,4,5,female,NA,NA
+Photographic Assistant,16,5,female,prod,7-9
+Retired,4,5,female,NA,NA
+School teacher,13,5,female,prof,0/1
+Shirt Factory Hand,16,5,female,prod,7-9
+Shoe factory worker,16,5,female,prod,7-9
+Stamper,16,5,female,prod,7-9
+Labourer,16,9888,male,prod,7-9
+Clerk,12,1771,male,prof,3
+Carpenter,16,899,male,prod,7-9
+Painter,16,610,male,prod,7-9
+Storeman,12,598,male,prof,3
+Driver,16,537,male,prod,7-9
+Gardener,10,537,male,prod,6
+Farmer,10,507,male,prod,6
+Fisherman,10,476,male,prod,6
+Messenger,12,449,male,prof,3
+Machinist,16,428,male,prod,7-9
+Printer,16,410,male,prod,7-9
+Bricklayer,16,397,male,prod,7-9
+Engineer,13,380,male,prof,0/1
+Electrician,16,350,male,prod,7-9
+School Teacher,13,324,male,prof,0/1
+Soldier,15,320,male,sales,5
+Packer,16,314,male,prod,7-9
+Civil Servant,12,309,male,prof,3
+Plumber,16,309,male,prod,7-9
+Salesman,14,309,male,sales,4
+Accountant,12,308,male,prof,3
+Motor Driver,16,308,male,prod,7-9
+Butcher,16,304,male,prod,7-9
+Waiter,15,274,male,sales,5
+Mason,16,262,male,prod,7-9
+Baker,16,250,male,prod,7-9
+Seaman,16,233,male,prod,7-9
+Bank Clerk,12,207,male,prof,3
+Farm labourer,10,207,male,prod,6
+Coachman,16,204,male,prod,7-9
+Cabinet-maker,16,199,male,prod,7-9
+Blacksmith,16,191,male,prod,7-9
+Fireman,15,180,male,sales,5
+Shoemaker,16,180,male,prod,7-9
+Fitter,16,177,male,prod,7-9
+Tailor,16,157,male,prod,7-9
+Lorry Driver,16,152,male,prod,7-9
+Postman,12,146,male,prof,3
+.,1,144,male,NA,NA
+Labourer S.A.R.,16,143,male,prod,7-9
+Civil Engineer,13,141,male,prof,0/1
+Motor Mechanic,16,141,male,prod,7-9
+Printer's Assistant,16,139,male,prod,7-9
+Mechanic,16,136,male,prod,7-9
+Commercial Traveller,14,135,male,sales,4
+Hawker,14,134,male,sales,4
+Chauffeur,16,132,male,prod,7-9
+Handyman,16,132,male,prod,7-9
+Motor driver,16,129,male,prod,7-9
+Cook,15,125,male,sales,5
+Medical Practitioner,13,123,male,prof,0/1
+Cleaner,6,116,male,sales,5
+Factory worker,16,116,male,prod,7-9
+Upholsterer,16,112,male,prod,7-9
+Merchant,14,110,male,sales,4
+Barman,15,106,male,sales,5
+Bookkeeper,12,103,male,prof,3
+Clerk S.A.R.,12,95,male,prof,3
+Dock Labourer,16,95,male,prod,7-9
+Compositor,16,93,male,prod,7-9
+French Polisher,16,93,male,prod,7-9
+Traveller,14,93,male,sales,4
+Electrical Engineer,13,92,male,prof,0/1
+On Active Service,15,92,male,sales,5
+Presser,16,92,male,prod,7-9
+Shop Assistant,14,92,male,sales,4
+Bus Conductor,16,91,male,prod,7-9
+Motor mechanic,16,88,male,prod,7-9
+Cabinet maker,16,87,male,prod,7-9
+Schoolmaster,5,87,male,prof,1
+Teacher,13,87,male,prof,0/1
+Cutter,16,86,male,prod,7-9
+Architect,13,80,male,prof,0/1
+Polisher,16,80,male,prod,7-9
+Builder,16,79,male,prod,7-9
+Hairdresser,15,79,male,sales,5
+Chemist,13,77,male,prof,0/1
+Fitter + Turner,16,75,male,prod,7-9
+Insurance Clerk,12,75,male,prof,3
+Bootmaker,16,74,male,prod,7-9
+Police Constable,15,73,male,sales,5
+Welder,16,73,male,prod,7-9
+Groom,16,72,male,prod,7-9
+Confectioner,16,71,male,prod,7-9
+Checker,16,70,male,prod,7-9
+Despatch Clerk,12,70,male,prof,3
+Brickmaker,16,68,male,prod,7-9
+Engine Driver,16,68,male,prod,7-9
+Factory Employee,16,68,male,prod,7-9
+Factory Hand,16,68,male,prod,7-9
+Mariner,16,68,male,prod,7-9
+Grocer,14,66,male,sales,4
+Attorney,13,64,male,prof,0/1
+Draper,14,64,male,sales,4
+Representative,14,63,male,sales,4
+Caretaker,15,61,male,sales,5
+Deliveryman,16,61,male,prod,7-9
+Draughtsman,13,61,male,prof,0/1
+Sailor,16,61,male,prod,7-9
+Trawlerman,16,61,male,prod,7-9
+Foreman,11,59,male,prof,2
+Porter,15,59,male,sales,5
+Bookbinder,16,58,male,prod,7-9
+Chartered Accountant,12,58,male,prof,3
+Miner,16,58,male,prod,7-9
+Plasterer,16,57,male,prod,7-9
+Steward,15,57,male,sales,5
+Storekeeper,12,57,male,prof,3
+Fireman S.A.R.,16,56,male,prod,7-9
+Policeman,15,55,male,sales,5
+Weaver,16,55,male,prod,7-9
+Bank Official,11,54,male,prof,2
+Delivery-boy,16,54,male,prod,7-9
+Lorry driver,16,54,male,prod,7-9
+Shipping Clerk,12,54,male,prof,3
+Clerk in Holy Orders,12,53,male,prof,3
+Chef,15,52,male,sales,5
+Shipwright,16,52,male,prod,7-9
+Blockman,16,51,male,prod,7-9
+Boiler-maker,16,51,male,prod,7-9
+Civil Service,16,51,male,prod,7-9
+Harness-maker,16,51,male,prod,7-9
+Student,3,51,male,NA,NA
+Tinsmith,16,51,male,prod,7-9
+Gentleman,4,49,male,NA,NA
+Machine Operator,16,49,male,prod,7-9
+Mechanical Engineer,13,49,male,prof,0/1
+Dock labourer,16,48,male,prod,7-9
+Joiner,16,48,male,prod,7-9
+Railway Employee,16,48,male,prod,7-9
+Telegraphist,12,48,male,prof,3
+House-boy,16,47,male,prod,7-9
+Retired,4,47,male,NA,NA
+Printer's assistant,16,46,male,prod,7-9
+Contractor,16,45,male,prod,7-9
+Delivery-man,16,45,male,prod,7-9
+Farrier,16,45,male,prod,7-9
+Liftman,15,45,male,sales,5
+Sales Representative,14,45,male,sales,4
+Manager,11,44,male,prof,2
+Moulder,16,44,male,prod,7-9
+Solicitor,13,44,male,prof,0/1
+Constable,15,42,male,sales,5
+Platelayer,16,42,male,prod,7-9
+Shoe-maker,16,42,male,prod,7-9
+Boatman,16,41,male,prod,7-9
+Journalist,13,41,male,prof,0/1
+Clerk (Commercial),12,40,male,prof,3
+Agent,8,39,male,sales,4
+Boilermaker,16,39,male,prod,7-9
+Builder's labourer,16,39,male,prod,7-9
+Company Director,11,39,male,prof,2
+Insurance Agent,8,39,male,sales,4
+Shop assistant,14,39,male,sales,4
+Secretary,12,38,male,prof,3
+Cooper,16,37,male,prod,7-9
+Greengrocer,14,37,male,sales,4
+Medical Student,3,36,male,NA,NA
+Photographer,13,36,male,prof,0/1
+Van Driver,16,36,male,prod,7-9
+Saddler,16,35,male,prod,7-9
+Tram Conductor,16,35,male,prod,7-9
+Mining Engineer,13,34,male,prof,0/1
+Pensioner,4,33,male,NA,NA
+Box-maker,16,32,male,prod,7-9
+Bus Driver,16,32,male,prod,7-9
+Manufacturer's Representative,14,32,male,sales,4
+Quantity Surveyor,13,32,male,prof,0/1
+Soldier Cape Corps,15,32,male,sales,5
+Cartage Contractor,16,31,male,prod,7-9
+Factory Worker,16,31,male,prod,7-9
+Soldier on Active Service,15,31,male,sales,5
+Council Employee,16,30,male,prod,7-9
+Labourer Corporation,16,30,male,prod,7-9
+Land Surveyor,13,30,male,prof,0/1
+Dairyman,16,29,male,prod,7-9
+Fitter S.A.R.,16,29,male,prod,7-9
+Servant,15,29,male,sales,5
+Bank clerk,12,28,male,prof,3
+Delivery boy,16,28,male,prod,7-9
+Doctor of Medicine,13,28,male,prof,0/1
+General Dealer,14,28,male,sales,4
+Boot-maker,16,27,male,prod,7-9
+Harness maker,16,27,male,prod,7-9
+Jeweller,16,27,male,prod,7-9
+Musician,13,27,male,prof,0/1
+Porter S.A.R.,15,27,male,sales,5
+Sales Manager,11,27,male,prof,2
+Wood Machinist,16,27,male,prod,7-9
+Checker S.A.R.,16,26,male,prod,7-9
+Company Secretary,11,26,male,prof,2
+Railway Clerk,12,26,male,prof,3
+Shunter,16,26,male,prod,7-9
+Engine driver,16,25,male,prod,7-9
+Glazier,16,25,male,prod,7-9
+Rigger,16,25,male,prod,7-9
+Trader,14,25,male,sales,4
+Motorman,16,24,male,prod,7-9
+Attorney-at-Law,13,23,male,prof,0/1
+Butler,16,23,male,prod,7-9
+Clicker,16,23,male,prod,7-9
+Lawyer,13,23,male,prof,0/1
+Linesman,16,23,male,prod,7-9
+Naval Officer,12,23,male,prof,3
+Sheet Metal Worker,16,23,male,prod,7-9
+Stevedore,16,23,male,prod,7-9
+Able Seaman,16,22,male,prod,7-9
+City Council Employee,16,22,male,prod,7-9
+Commercial Artist,13,22,male,prof,0/1
+Master Mariner,11,22,male,prof,2
+Motor Driver for Firm,16,22,male,prod,7-9
+Private in Cape Corps,15,22,male,sales,5
+Skilled Labourer,16,22,male,prod,7-9
+Advocate,13,21,male,prof,0/1
+Business Manager,11,21,male,prof,2
+Butcher's Assistant,16,21,male,prod,7-9
+Ironmonger,16,21,male,prod,7-9
+Railway Porter,15,21,male,sales,5
+Shoe Repairer,16,21,male,prod,7-9
+Surveyor,13,21,male,prof,0/1
+Butcher's assistant,16,20,male,prod,7-9
+Carrier,16,20,male,prod,7-9
+Cart Driver,16,20,male,prod,7-9
+Lorry Guard,15,20,male,sales,5
+Miller,16,20,male,prod,7-9
+Municipal Labourer,16,20,male,prod,7-9
+Platelayer S.A.R.,16,20,male,prod,7-9
+Shoe-repairer,16,20,male,prod,7-9
+Ticket Examiner S.A.R.,16,20,male,prod,7-9
+Turner,16,20,male,prod,7-9
+Articled Clerk,12,19,male,prof,3
+Auditor,12,19,male,prof,3
+Commercial Clerk,12,19,male,prof,3
+Foreman S.A.R.,11,19,male,prof,2
+Grocer's assistant,14,19,male,sales,4
+Guard S.A.R.,15,19,male,sales,5
+Houseboy,16,19,male,prod,7-9
+Lift Operator,15,19,male,sales,5
+Motor Engineer,13,19,male,prof,0/1
+No Occupation,1,19,male,NA,NA
+Royal Navy,15,19,male,sales,5
+Stableman,16,19,male,prod,7-9
+Watchman,15,19,male,sales,5
+Assistant Storeman,12,18,male,prof,3
+Cab Driver,16,18,male,prod,7-9
+Clerk (Insurance),12,18,male,prof,3
+Delivery Boy,16,18,male,prod,7-9
+Factory hand,16,18,male,prod,7-9
+Grocer's Assistant,14,18,male,sales,4
+Hotel Manager,11,18,male,prof,2
+Labourer for Firm,16,18,male,prod,7-9
+Millwright,16,18,male,prod,7-9
+Motor-driver,16,18,male,prod,7-9
+Stoker,16,18,male,prod,7-9
+Trimmer,16,18,male,prod,7-9
+Wagon Driver,16,18,male,prod,7-9
+Dental Mechanic,13,17,male,prof,0/1
+Electrical Fitter,16,17,male,prod,7-9
+Estate Agent,8,17,male,sales,4
+Hand-sander,16,17,male,prod,7-9
+Insurance Inspector,11,17,male,prof,2
+Knitter,16,17,male,prod,7-9
+Operator,16,17,male,prod,7-9
+Outfitter,16,17,male,prod,7-9
+Panelbeater,16,17,male,prod,7-9
+S.A. Police,15,17,male,sales,5
+Sheet metal worker,16,17,male,prod,7-9
+Sign-writer,16,17,male,prod,7-9
+Soldier C.C.C.,15,17,male,sales,5
+Technician,13,17,male,prof,0/1
+Tiler,16,17,male,prod,7-9
+Audit Clerk,12,16,male,prof,3
+Cashier,12,16,male,prof,3
+Cleaner S.A.R.,6,16,male,sales,5
+Corporation,16,16,male,prod,7-9
+Overseer,11,16,male,prof,2
+Sawyer,16,16,male,prod,7-9
+Shopkeeper,14,16,male,sales,4
+Steward S.A.R.,15,16,male,sales,5
+Tanner,16,16,male,prod,7-9
+Tradesman,16,16,male,prod,7-9
+Assembler,16,15,male,prod,7-9
+Dental Surgeon,13,15,male,prof,0/1
+Factory-hand,16,15,male,prod,7-9
+Farm Labourer,10,15,male,prod,6
+Garage Attendant,15,15,male,sales,5
+Laboratory Assistant,13,15,male,prof,0/1
+Panel-beater,16,15,male,prod,7-9
+Postmaster,12,15,male,prof,3
+R.A.F.,16,15,male,prod,7-9
+Signalman,15,15,male,sales,5
+Tailor's Cutter,16,15,male,prod,7-9
+Window-dresser,16,15,male,prod,7-9
+Wine Steward,15,15,male,sales,5
+Artist,13,14,male,prof,0/1
+Bank Manager,11,14,male,prof,2
+Barrister-at-Law,13,14,male,prof,0/1
+Broker,8,14,male,sales,4
+Cab-driver,16,14,male,prod,7-9
+Cabinet Machinist,16,14,male,prod,7-9
+Constable S.A.P.,15,14,male,sales,5
+Furniture Polisher,16,14,male,prod,7-9
+Leather worker,16,14,male,prod,7-9
+Motor Salesman,14,14,male,sales,4
+Office-boy,12,14,male,prof,3
+Private Cape Corps,15,14,male,sales,5
+Sergeant,15,14,male,sales,5
+Shunter S.A.R.,16,14,male,prod,7-9
+Slaughterman,16,14,male,prod,7-9
+Wagon driver,16,14,male,prod,7-9
+Woodcutter,10,14,male,prod,6
+Bioscope Operator,16,13,male,prod,7-9
+Cab driver,16,13,male,prod,7-9
+Canvasser,14,13,male,sales,4
+Cart driver,16,13,male,prod,7-9
+Coach-man,16,13,male,prod,7-9
+Conductor,16,13,male,prod,7-9
+Domestic servant,15,13,male,sales,5
+Engine Fitter,16,13,male,prod,7-9
+Ganger,16,13,male,prod,7-9
+Geologist,16,13,male,prod,7-9
+Guard,15,13,male,sales,5
+Mail Porter,15,13,male,sales,5
+Marine Engineer,13,13,male,prof,0/1
+Optical Mechanic,16,13,male,prod,7-9
+Postal Clerk,12,13,male,prof,3
+Railway Guard,15,13,male,sales,5
+Signwriter,16,13,male,prod,7-9
+Spring-maker,16,13,male,prod,7-9
+Taxi Driver,16,13,male,prod,7-9
+Telephone Electrician,16,13,male,prod,7-9
+Van Conductor,16,13,male,prod,7-9
+Woodwork Machinist,16,13,male,prod,7-9
+Bar-boy,16,12,male,prod,7-9
+Branch Manager,11,12,male,prof,2
+Carter,16,12,male,prod,7-9
+Chemical Engineer,13,12,male,prof,0/1
+Clerk C.G.R.,12,12,male,prof,3
+Coach-builder,16,12,male,prod,7-9
+Hotel Proprietor,11,12,male,prof,2
+Linotype Operator,16,12,male,prod,7-9
+Manufacturer's Agent,8,12,male,sales,4
+Mattress-maker,16,12,male,prod,7-9
+Military Service,15,12,male,sales,5
+Physician,13,12,male,prof,0/1
+Printer for Firm,16,12,male,prod,7-9
+Sailmaker,16,12,male,prod,7-9
+Stone-cutter,16,12,male,prod,7-9
+Warehouseman,16,12,male,prod,7-9
+Analytical Chemist,13,11,male,prof,0/1
+Assistant Manager,11,11,male,prof,2
+Chemist's Assistant,13,11,male,prof,0/1
+Cinema Operator,16,11,male,prod,7-9
+Clerk G.P.O.,12,11,male,prof,3
+Corporation labourer,16,11,male,prod,7-9
+Customs Officer,12,11,male,prof,3
+Director,11,11,male,prof,2
+Doctor,13,11,male,prof,0/1
+Driller,16,11,male,prod,7-9
+Electrician S.A.R.,16,11,male,prod,7-9
+Engraver,16,11,male,prod,7-9
+Factory Manager,11,11,male,prof,2
+General Worker,16,11,male,prod,7-9
+Hospital Orderly,16,11,male,prod,7-9
+Hotel Porter,15,11,male,sales,5
+Insurance Broker,8,11,male,sales,4
+Jockey,16,11,male,prod,7-9
+Lithographer,16,11,male,prod,7-9
+Medical student,3,11,male,NA,NA
+Merchant Seaman,7,11,male,prod,9
+Motor Car Driver,16,11,male,prod,7-9
+Plumber's assistant,16,11,male,prod,7-9
+Publisher,16,11,male,prod,7-9
+Sail maker,16,11,male,prod,7-9
+Sheet Metal worker,16,11,male,prod,7-9
+Striker,16,11,male,prod,7-9
+Tram Guard,15,11,male,sales,5
+Veterinary Surgeon,13,11,male,prof,0/1
+Wagon-maker,16,11,male,prod,7-9
+Wagoner,16,11,male,prod,7-9
+?,1,10,male,NA,NA
+Able Seaman S.A.N.F.,16,10,male,prod,7-9
+Air Mechanic S.A.A.F.,15,10,male,sales,5
+Apprentice Carpenter,16,10,male,prod,7-9
+Banker,13,10,male,prof,0/1
+Barber,15,10,male,sales,5
+Cabinet-maker for Firm,16,10,male,prod,7-9
+Cabinetmaker,16,10,male,prod,7-9
+Captain,13,10,male,prof,0/1
+Caterer,16,10,male,prod,7-9
+Corporal Cape Corps,15,10,male,sales,5
+Departmental Manager,11,10,male,prof,2
+Fireman C.G.R.,16,10,male,prod,7-9
+Fitter and Turner,16,10,male,prod,7-9
+Florist,8,10,male,sales,4
+Hotel Keeper,15,10,male,sales,5
+House boy,16,10,male,prod,7-9
+Insurance Official,11,10,male,prof,2
+Leather Worker,16,10,male,prod,7-9
+Letter Carrier,16,10,male,prod,7-9
+Machine Minder,16,10,male,prod,7-9
+Manufacturer,16,10,male,prod,7-9
+Minister of Religion,13,10,male,prof,0/1
+Office Cleaner,6,10,male,sales,5
+Plumber's labourer,16,10,male,prod,7-9
+Police Force,15,10,male,sales,5
+Radio Engineer,13,10,male,prof,0/1
+Railway Labourer,16,10,male,prod,7-9
+Railway Servant,15,10,male,sales,5
+S.A.R. Employee,16,10,male,prod,7-9
+Sales Clerk,12,10,male,prof,3
+Sanitary Inspector,11,10,male,prof,2
+Shopman,14,10,male,sales,4
+Sorter,16,10,male,prod,7-9
+Spray Painter,16,10,male,prod,7-9
+Store Assistant,14,10,male,sales,4
+Taxi driver,16,10,male,prod,7-9
+Unemployed,1,10,male,NA,NA
+University Lecturer,13,10,male,prof,0/1
+Wireman,16,10,male,prod,7-9
+Attendant,15,9,male,sales,5
+Auctioneer,8,9,male,sales,4
+Bank Accountant,12,9,male,prof,3
+Barrister,13,9,male,prof,0/1
+Bookseller,14,9,male,sales,4
+Buyer,14,9,male,sales,4
+Cab Proprietor,11,9,male,prof,2
+Cable Operator,16,9,male,prod,7-9
+Carpenter + Joiner,16,9,male,prod,7-9
+Carpenter's labourer,16,9,male,prod,7-9
+Cart-driver,16,9,male,prod,7-9
+Cartdriver,16,9,male,prod,7-9
+Civil servant,12,9,male,prof,3
+Clerk S.A.R.+H.,12,9,male,prof,3
+Corporation Labourer,16,9,male,prod,7-9
+Costing Clerk,12,9,male,prof,3
+Dealer,14,9,male,sales,4
+Deck Hand,16,9,male,prod,7-9
+Fish Dealer,14,9,male,sales,4
+Fish Hawker,14,9,male,sales,4
+Frame-maker,16,9,male,prod,7-9
+Garage Proprietor,11,9,male,prof,2
+Gas-fitter,16,9,male,prod,7-9
+Grave-digger,16,9,male,prod,7-9
+Gunner,15,9,male,sales,5
+Industrial Chemist,13,9,male,prof,0/1
+Laundryman,16,9,male,prod,7-9
+Messenger S.A.R.,12,9,male,prof,3
+Petty Officer R.N.,12,9,male,prof,3
+Pilot S.A.A.F.,13,9,male,prof,0/1
+Process Engraver,16,9,male,prod,7-9
+Quarryman,16,9,male,prod,7-9
+Refrigeration Mechanic,16,9,male,prod,7-9
+School teacher,13,9,male,prof,0/1
+Speculator,16,9,male,prod,7-9
+Stainer,16,9,male,prod,7-9
+Station-master,16,9,male,prod,7-9
+Stonemason,16,9,male,prod,7-9
+Storeman S.A.R.,12,9,male,prof,3
+Supervisor,11,9,male,prof,2
+Tailor's Presser,16,9,male,prod,7-9
+Toolmaker,16,9,male,prod,7-9
+Valet,15,9,male,sales,5
+Van Guard,15,9,male,sales,5
+Warder,15,9,male,sales,5
+Watchmaker,16,9,male,prod,7-9
+Wood cutter,16,9,male,prod,7-9
+Wood-machinist,16,9,male,prod,7-9
+Actuary,16,8,male,prod,7-9
+Advertising Agent,8,8,male,sales,4
+Air Mechanic,16,8,male,prod,7-9
+Bank Teller,12,8,male,prof,3
+Brewer,16,8,male,prod,7-9
+"Clerk, Standard Bank",12,8,male,prof,3
+Coppersmith,16,8,male,prod,7-9
+Corporation Employee,16,8,male,prod,7-9
+Delivery man,16,8,male,prod,7-9
+Dentist,13,8,male,prof,0/1
+Despatcher,16,8,male,prod,7-9
+Draftsman,13,8,male,prof,0/1
+Electrician G.P.O.,16,8,male,prod,7-9
+Engine Driver S.A.R.,16,8,male,prod,7-9
+Engine-driver,16,8,male,prod,7-9
+Fruiterer,14,8,male,sales,4
+Glass Polisher,16,8,male,prod,7-9
+Greaser,16,8,male,prod,7-9
+Handsander,16,8,male,prod,7-9
+Harbour Board Labourer,16,8,male,prod,7-9
+Health Inspector,11,8,male,prof,2
+Hotel Waiter,15,8,male,sales,5
+House Painter,16,8,male,prod,7-9
+Laboratory Attendant,13,8,male,prof,0/1
+Lecturer,13,8,male,prof,0/1
+Ledger Clerk,12,8,male,prof,3
+Litographer,16,8,male,prod,7-9
+Male Nurse,13,8,male,prof,0/1
+Mining,16,8,male,prod,7-9
+Monumental Mason,16,8,male,prod,7-9
+Municipal Employee,16,8,male,prod,7-9
+Police,15,8,male,sales,5
+Post Office Employee,12,8,male,prof,3
+Railway Checker,16,8,male,prod,7-9
+Railway Worker,16,8,male,prod,7-9
+Railway worker,16,8,male,prod,7-9
+Rivetter,16,8,male,prod,7-9
+S.A.R.,16,8,male,prod,7-9
+Ship's Fireman,15,8,male,sales,5
+Spray painter,16,8,male,prod,7-9
+Station Foreman,11,8,male,prof,2
+Store Manager,11,8,male,prof,2
+Sweet-maker,16,8,male,prod,7-9
+Thatcher,16,8,male,prod,7-9
+Traffic Constable,15,8,male,sales,5
+Tramway Employee,16,8,male,prod,7-9
+Wheelwright,16,8,male,prod,7-9
+????,1,7,male,NA,NA
+Accounts Clerk,12,7,male,prof,3
+Apprentice Electrician,16,7,male,prod,7-9
+Asylum Attendant,15,7,male,sales,5
+Basket-maker,16,7,male,prod,7-9
+Binder,16,7,male,prod,7-9
+Boiler-maker S.A.R.,16,7,male,prod,7-9
+Building Contractor,16,7,male,prod,7-9
+Bus driver,16,7,male,prod,7-9
+Butcher's boy,16,7,male,prod,7-9
+Cabman,16,7,male,prod,7-9
+Cape Corps,16,7,male,prod,7-9
+Chair-maker,16,7,male,prod,7-9
+Chemist + Druggist,13,7,male,prof,0/1
+Civil service,16,7,male,prod,7-9
+Clerk in Civil Service,12,7,male,prof,3
+Detective,15,7,male,sales,5
+Director of Companies,11,7,male,prof,2
+Drainlayer,16,7,male,prod,7-9
+Electrician's Assistant,16,7,male,prod,7-9
+Electrician's labourer,16,7,male,prod,7-9
+Engine Cleaner,6,7,male,sales,5
+Furniture Machinist,16,7,male,prod,7-9
+Furniture Remover,16,7,male,prod,7-9
+General Merchant,14,7,male,sales,4
+Harbour Works Labourer,16,7,male,prod,7-9
+Insurance Manager,11,7,male,prof,2
+Insurance Representative,13,7,male,prof,0/1
+Insurance clerk,12,7,male,prof,3
+Laboratory Technician,13,7,male,prof,0/1
+Locksmith,16,7,male,prod,7-9
+Magistrate,11,7,male,prof,2
+Medical Technologist,13,7,male,prof,0/1
+Motor-mechanic,16,7,male,prod,7-9
+Nurseryman,13,7,male,prof,0/1
+Office Messenger,12,7,male,prof,3
+Packer for Firm,16,7,male,prod,7-9
+Plumber for Firm,16,7,male,prod,7-9
+Police Officer,12,7,male,prof,3
+Porter C.G.R.,15,7,male,sales,5
+Radio Mechanic,16,7,male,prod,7-9
+Radiotrician,16,7,male,prod,7-9
+Railway labourer,16,7,male,prod,7-9
+Slater,16,7,male,prod,7-9
+Sorter G.P.O.,16,7,male,prod,7-9
+Spray-painter,16,7,male,prod,7-9
+Stone-mason,16,7,male,prod,7-9
+Store-boy,14,7,male,sales,4
+Sugar boiler,16,7,male,prod,7-9
+Sugar-boiler,16,7,male,prod,7-9
+Switchboard Operator,12,7,male,prof,3
+Ticket Collector,16,7,male,prod,7-9
+Timekeeper,16,7,male,prod,7-9
+Wagon-driver,16,7,male,prod,7-9
+Wire worker,16,7,male,prod,7-9
+Wood machinist,16,7,male,prod,7-9
+Able Seaman R.N.,16,6,male,prod,7-9
+Advertising Executive,11,6,male,prof,2
+Apprentice Motor Mechanic,16,6,male,prod,7-9
+Apprentice Plumber,16,6,male,prod,7-9
+Architectural Student,3,6,male,NA,NA
+Artisan,16,6,male,prod,7-9
+Assistant Despatch Clerk,12,6,male,prof,3
+Astronomer,16,6,male,prod,7-9
+Barboy,16,6,male,prod,7-9
+Bedding Attendant S.A.R.,15,6,male,sales,5
+Builder + Contractor,16,6,male,prod,7-9
+Builder's Labourer,16,6,male,prod,7-9
+Butcher for Firm,16,6,male,prod,7-9
+Carpenter for Firm,16,6,male,prod,7-9
+Carpenter's Apprentice,16,6,male,prod,7-9
+Catechist,13,6,male,prof,0/1
+Chargeman,16,6,male,prod,7-9
+Cigar-maker,16,6,male,prod,7-9
+Cleaner G.P.O.,6,6,male,sales,5
+Clerk (Municipal),12,6,male,prof,3
+Clerk Civil Service,12,6,male,prof,3
+Clothing Cutter,16,6,male,prod,7-9
+Coach Trimmer,16,6,male,prod,7-9
+Coach-builder S.A.R.,16,6,male,prod,7-9
+Commerce,16,6,male,prod,7-9
+Company Representative,14,6,male,sales,4
+Constable S.A. Police,15,6,male,sales,5
+Corporal,15,6,male,sales,5
+Currier,16,6,male,prod,7-9
+Cycle mechanic,16,6,male,prod,7-9
+Delivery Clerk,12,6,male,prof,3
+Draper's Assistant,14,6,male,sales,4
+Duco-sprayer,16,6,male,prod,7-9
+Dyer,16,6,male,prod,7-9
+Electrician's assistant,16,6,male,prod,7-9
+Factory manager,11,6,male,prof,2
+Farm Manager,10,6,male,prod,6
+Garage attendant,15,6,male,sales,5
+Glass Beveller,16,6,male,prod,7-9
+Grinder,16,6,male,prod,7-9
+Groundsman,16,6,male,prod,7-9
+Hotelier,15,6,male,sales,5
+Hotelkeeper,15,6,male,sales,5
+Inside servant,15,6,male,sales,5
+Iron Moulder,16,6,male,prod,7-9
+Iron-moulder,16,6,male,prod,7-9
+Labourer for firm,16,6,male,prod,7-9
+Leading Seaman R.N.,16,6,male,prod,7-9
+Lieut. S.A.A.F.,15,6,male,sales,5
+Lift Attendant,15,6,male,sales,5
+Linesman G.P.O.,16,6,male,prod,7-9
+Mail Porter G.P.O.,15,6,male,sales,5
+Maltster,16,6,male,prod,7-9
+Marine,15,6,male,sales,5
+Market Porter,14,6,male,sales,4
+Matress-maker,16,6,male,prod,7-9
+Mattress Maker,16,6,male,prod,7-9
+Medical Doctor,13,6,male,prof,0/1
+Messenger for Firm,12,6,male,prof,3
+On Active Service U.D.F.,15,6,male,sales,5
+Optician,13,6,male,prof,0/1
+Printer's Assisant,16,6,male,prod,7-9
+Private,15,6,male,sales,5
+Private 86th Regiment,15,6,male,sales,5
+Produce Merchant,14,6,male,sales,4
+Railway Shunter,16,6,male,prod,7-9
+Railwayman,16,6,male,prod,7-9
+S.A. Air Force,15,6,male,sales,5
+Ship's Steward,15,6,male,sales,5
+Shunter C.G.R.,16,6,male,prod,7-9
+Signalman S.A.R.,15,6,male,sales,5
+Soldier S.A.F.,15,6,male,sales,5
+Stone cutter,16,6,male,prod,7-9
+Stores Clerk,12,6,male,prof,3
+Tailor for Firm,16,6,male,prod,7-9
+Telephone Mechanic,16,6,male,prod,7-9
+Telephonist,12,6,male,prof,3
+Tobacco Manufacturer,16,6,male,prod,7-9
+Tram Driver,16,6,male,prod,7-9
+Watch-maker,16,6,male,prod,7-9
+Wood-cutter,16,6,male,prod,7-9
+Airman,15,5,male,sales,5
+Apprentice,16,5,male,prod,7-9
+Apprentice Mechanic,16,5,male,prod,7-9
+Army,15,5,male,sales,5
+Army Officer,12,5,male,prof,3
+Assistant Foreman,11,5,male,prof,2
+Assistant Printer,16,5,male,prod,7-9
+Assistant Secretary,12,5,male,prof,3
+Assistant Storekeeper,12,5,male,prof,3
+Attorney at Law,13,5,male,prof,0/1
+Auto-Electrician,16,5,male,prod,7-9
+Bag-maker,16,5,male,prod,7-9
+Bank Messenger,12,5,male,prof,3
+Boat-builder,16,5,male,prod,7-9
+Boot Repairer,16,5,male,prod,7-9
+Brush-maker,16,5,male,prod,7-9
+Cape Government Railways,16,5,male,prod,7-9
+Chairmaker,16,5,male,prod,7-9
+Clergyman,13,5,male,prof,0/1
+Coach builder,16,5,male,prod,7-9
+Collector,16,5,male,prod,7-9
+Commercial Representative,14,5,male,sales,4
+Company Manager,11,5,male,prof,2
+Corporal S.A.A.F.,15,5,male,sales,5
+Crane Driver,16,5,male,prod,7-9
+Dairy Farmer,10,5,male,prod,6
+Despatch Packer,16,5,male,prod,7-9
+Diamond Cutter,16,5,male,prod,7-9
+Divisional Council Labourer,16,5,male,prod,7-9
+Driver Salesman,14,5,male,sales,4
+Electrical Wireman,16,5,male,prod,7-9
+Engine Room Artificer R.N.,16,5,male,prod,7-9
+Engineering Fitter,13,5,male,prof,0/1
+Filing Clerk,12,5,male,prof,3
+Fire Brigade,15,5,male,sales,5
+Fishmonger,16,5,male,prod,7-9
+Fitter R.A.F.,16,5,male,prod,7-9
+Garage Assistant,16,5,male,prod,7-9
+Government Messenger,12,5,male,prof,3
+Hospital Attendant,15,5,male,sales,5
+Hospital worker,16,5,male,prod,7-9
+Labourer Power Station,16,5,male,prod,7-9
+Labourer in Winery,16,5,male,prod,7-9
+Ladies Hairdresser,15,5,male,sales,5
+Learner Linesman,16,5,male,prod,7-9
+Librarian,12,5,male,prof,3
+Lift-man,15,5,male,sales,5
+Machine minder,16,5,male,prod,7-9
+Metal Polisher,16,5,male,prod,7-9
+Military,15,5,male,sales,5
+"Military, Indian + Malay Corps",15,5,male,sales,5
+Municipal labourer,16,5,male,prod,7-9
+Office Attendant,12,5,male,prof,3
+Office Boy,12,5,male,prof,3
+Office Clerk,12,5,male,prof,3
+Office Manager,11,5,male,prof,2
+Officer Mercantile Marine,12,5,male,prof,3
+Omnibus Conductor,16,5,male,prod,7-9
+Painter + Decorator,16,5,male,prod,7-9
+Pattern-maker,16,5,male,prod,7-9
+Pharmacist,13,5,male,prof,0/1
+Photo Litographer,16,5,male,prod,7-9
+Picture-framer,16,5,male,prod,7-9
+Pilot,13,5,male,prof,0/1
+Planter,16,5,male,prod,7-9
+Platen Pressman,16,5,male,prod,7-9
+Post Office,12,5,male,prof,3
+Postal Messenger,12,5,male,prof,3
+Postal Official,11,5,male,prof,2
+Postboy,16,5,male,prod,7-9
+Priest,13,5,male,prof,0/1
+Printer's Labourer,16,5,male,prod,7-9
+Prospector,16,5,male,prod,7-9
+Quarter-binder,16,5,male,prod,7-9
+Radio Operator,12,5,male,prof,3
+Railway,16,5,male,prod,7-9
+Railway Foreman,11,5,male,prof,2
+Railway Official,11,5,male,prof,2
+Royal Marine,15,5,male,sales,5
+S.A. Railways,16,5,male,prod,7-9
+Saddlemaker,16,5,male,prod,7-9
+Sail-maker,16,5,male,prod,7-9
+Sales Engineer,13,5,male,prof,0/1
+Sandpaperer,16,5,male,prod,7-9
+Seaman R.N.,16,5,male,prod,7-9
+Shipping clerk,12,5,male,prof,3
+Soldier On Active Service,15,5,male,sales,5
+Soldier U.D.F.,15,5,male,sales,5
+Stationmaster,16,5,male,prod,7-9
+Stereotyper,16,5,male,prod,7-9
+Stockbroker,8,5,male,sales,4
+Structural Engineer,13,5,male,prof,0/1
+Surgeon,13,5,male,prof,0/1
+Sweetmaker,16,5,male,prod,7-9
+Telephone Operator,12,5,male,prof,3
+Ticket Collector C.G.R.,16,5,male,prod,7-9
+Ticket Examiner,16,5,male,prod,7-9
+Timekeeper S.A.R.,16,5,male,prod,7-9
+Tobacconist,14,5,male,sales,4
+Traveller's assistant,14,5,male,sales,4
+Under-presser,16,5,male,prod,7-9
+Union Defence Force,16,5,male,prod,7-9
+Wagon builder,16,5,male,prod,7-9
+Wagonmaker,16,5,male,prod,7-9
+Winery Employee,16,5,male,prod,7-9
+Woodworking Machinist,16,5,male,prod,7-9

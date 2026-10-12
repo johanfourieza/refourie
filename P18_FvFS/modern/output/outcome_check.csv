@@ -1,0 +1,2 @@
+n,n_zero,n_pos_below_0.001,n_missing_wine,max_abs_diff,n_diff_gt_1e6,stored_type_note
+9078,6800,0,0,1.663821223019113e-7,0,l_wine_zero stored as Stata float; diffs at float precision only

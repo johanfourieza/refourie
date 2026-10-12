@@ -1,0 +1,11 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule
+H1-pt,49.45,"[30.55, 68.35] (Bonferroni 99.44%)",Holm 1.572e-08 (raw 1.746e-09),"|e| >= 25.69; null band (-25.69, 25.69); plausibility > 77.07",confirmed,§8 rule 3
+H1-rel,0.737,"[0.401, 1.073] (Bonferroni 99.44%)",Holm 8.12e-07 (raw 1.015e-07),"|e| >= 0.207; null band (-0.207, 0.207); plausibility > 0.622",confirmed,§8 rule 3; plausibility flag (A8)
+H2-SEA-pt,-27.65,"[-45.53, -9.78] (Bonferroni 99.44%)",Holm 0.000345 (raw 4.929e-05),"|e| >= 14.31; null band (-14.31, 14.31); plausibility > 42.95",confirmed,§8 rule 3
+H2-SEA-rel,-0.940,"[-1.610, -0.269] (Bonferroni 99.44%)",Holm 0.001123 (raw 0.0001871),"|e| >= 0.169; null band (-0.169, 0.169); plausibility > 0.506",confirmed,§8 rule 3; plausibility flag (A8)
+H2-IND-pt,-22.12,"[-45.16, 0.93] (Bonferroni 99.44%)",Holm 0.02272 (raw 0.007572),"|e| >= 10.12; null band (-10.12, 10.12); plausibility > 30.38",confirmed,§8 rule 3; Holm/Bonferroni discordance
+H2-IND-rel,-0.668,"[-1.493, 0.157] (Bonferroni 99.44%)",Holm 0.04512 (raw 0.02256),"|e| >= 0.113; null band (-0.113, 0.113); plausibility > 0.339",confirmed,§8 rule 3; plausibility flag (A8); Holm/Bonferroni discordance
+H2-MOZ-pt,-21.24,"[-38.40, -4.08] (Bonferroni 99.44%)",Holm 0.003957 (raw 0.0007914),"|e| >= 10.69; null band (-10.69, 10.69); plausibility > 32.07",confirmed,§8 rule 3
+H2-MOZ-rel,-0.631,"[-1.256, -0.006] (Bonferroni 99.44%)",Holm 0.02059 (raw 0.005148),"|e| >= 0.120; null band (-0.120, 0.120); plausibility > 0.361",confirmed,§8 rule 3; plausibility flag (A8)
+H2-all,-27.65 / -22.12 / -21.24,member -pt rows,Holm 0.000345 / 0.02272 / 0.003957,all three Delta < 0 with Holm p < 0.05 (A8 strict comparative),confirmed,§8 H2-all rule 3
+H3,-43.82,"[-96.38, 18.89] (WCR Bonferroni 99.44%, reported only)",Holm 0.04512 (raw 0.02732),Holm p < 0.05 (A4b; D fixed),confirmed,§8 rule 1

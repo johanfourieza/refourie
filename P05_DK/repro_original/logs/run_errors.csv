@@ -1,0 +1,8 @@
+"script","line","error"
+"census_1904_1970_cleaning_ddk.R",224,"could not find function ""tm_shape"""
+"census_1904_1970_cleaning_ddk.R",242,"could not find function ""tm_shape"""
+"railways_1907_cleaning_ddk.R",71,"could not find function ""tm_shape"""
+"railways_1907_cleaning_ddk.R",92,"object 'mapdata' not found"
+"railways_1907_cleaning_ddk.R",95,"could not find function ""tm_shape"""
+"railways_1907_cleaning_ddk.R",116,"could not find function ""tm_shape"""
+"census_1936_cleanedversion_ddk.R",115,"could not find function ""tm_shape"""

@@ -1,0 +1,6 @@
+P19_GF S6 pre-verdict checks (card §4): all passed
+1. unique year keys: yes; window years absent from sheet: none
+2. rebuild reproduced: TX_abs_rail70 = 65.0144644437 (|diff| 0.0e+00); TX_p351_pwdebt70 = 66.7146762841 (|diff| 0.0e+00)
+3. GE (NA = 0) equals repro_r classified in all 83 years (max rel. diff 4.6e-15)
+4. all Fig A2 and Table 1 workbook columns exist; no column in two classes; no negative observed value
+5. Fig A2 components are a subset of Table 1 public works

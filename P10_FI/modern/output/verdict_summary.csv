@@ -1,0 +1,5 @@
+group,rows,assessed,not_testable_or_diff,weakest
+H1 (Family Q + point rows),6,6,0,weakened
+Family E (primary LPM rows),4,4,0,weakened
+Family L (correction rows),4,4,0,weakened
+Not-testable / different-estimand,3,0,3,

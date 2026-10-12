@@ -1,0 +1,27 @@
+1918 polygon pairs with positive-area overlap: 293; total overlap area 0.8537 km2
+Overlap area remaining after the rule: 5.235e-09 km2
+Polygon not reached by the authors' matching: port shepstone (Port Shepstone) -> agrep: Port Shepstone
+Phillips rows mapped to more than one polygon: Paarl/ Wellington -> {paarl, wellington}; Umzimkulu -> {lower umzimkulu, umzimkulu}
+Dissolved units: paarl_wellington | borrowed (ineligible): lower umzimkulu
+1918 polygons without any Phillips rate: none
+Phillips rows without a 1918 polygon: Richmond (Natal)
+Units: 207 (eligible 206); polygons: 208
+1970 source polygons (Lesotho excluded): 404; missing T/B/C: 0/0/0; Lesotho was the only polygon with the -9999 sentinel: TRUE
+Authors' 1970->1918 assignment re-run: 207 polygons; max |T diff| 0; max |density diff| 0
+Rail algorithm validation (authors' geometry): cape 4.073818 vs 4.073818; durban 12.308982 vs 12.308982; paarl 2.251322 vs 2.251322; wellington 2.990483 vs 2.990483
+Rail re-run for: paarl_wellington (2.462 km), port shepstone (6.014 km)
+Table 1 districts: 249; missing white unemployed (P/M/F): 0/0/33; dash cells: 0
+Table 1 read check vs authors (NA->0 as authors): 249/249 districts matched; max |diff| 0
+Table 7 district-sex rows: 747; rows with >=1 missing 15-64 cell: 59 (P rows: 8)
+Table 7 read check vs authors (15-69, na.rm as authors): 248 districts; max |diff| 0
+1936 districts matching no 1937 polygon (listed; not attached): Walvis Bay
+1936 districts matching >1 polygon: 0
+1936 districts (P row) with a missing 15-64 age cell: Mount Ayliff; Qumbu; Elliotdale; Nqamakwe; Tsomo; Mapumulo; Msinga; Ndwedwe
+1937 polygons with no 1936 district: Clocolan; Umlezi
+1937 polygons: 250; with no 1936 district (counts missing): 2; with >1 1936 district: 0; missing u_t / wa1564_P among attached: 0/8
+Analysis sample: H1 N = 206; H3 N = 199; non-positive mortality: 0
+Coverage 1970 layer (eligible units): min 0.8348 p05 0.9564 median 1.0000 max 1.0000
+Coverage 1937 layer (eligible units): min 0.0000 p05 0.7501 median 1.0000 max 1.0000
+Units with any missing-source area: B 0, C 0, T 0, urate 36 (max share 1)
+Mass conservation: max relative discrepancy 6.65e-13 (stop above 1e-6)
+Corrected vs authors' (common 204 units): cor black share 0.9954, mean |diff| 0.0159, max |diff| 0.266; cor log1p density 0.9817

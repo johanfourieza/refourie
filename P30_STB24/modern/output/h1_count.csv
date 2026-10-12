@@ -1,0 +1,11 @@
+quantity,value
+rule2_rows (check 3: 142592),142592
+nonobservation_rows_removed,329
+N (H1 estimate),142263
+analysis_file_rows (published 142297),142297
+noname_rows_with_data,140
+exact_duplicate_rows_S3_within_census,25
+exact_duplicate_rows_analysisfile_within_census(excl nr),438
+census_years_analysis_file,143
+census_year_sheets_raw_workbook,143
+census_years_paper,144

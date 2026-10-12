@@ -1,0 +1,19 @@
+id,grp,coh,term,abcc
+F4_1,Europe,1650s-1740s,cellEuropean_early,91.5675158970662
+F4_2,Europe,1750s-1780s,cellEuropean_middle,95.55503711602694
+F4_3,Europe,1790s,cellEuropean_late,90.40965526031599
+F4_4,South-east Asia,1650s-1740s,cellSouth-east Asian_early,25.13127316359328
+F4_5,South-east Asia,1750s-1780s,cellSouth-east Asian_middle,9.819866130799596
+F4_6,India,1650s-1740s,cellIndian_early,26.28089514596773
+F4_7,India,1750s-1780s,cellIndian_middle,16.272945861543217
+F4_8,China,1650s-1740s,NA,58.70874931714357
+F4_9,Khoesan,1650s-1740s,cellKhoesan_early,67.17511129296098
+F4_10,Khoesan,1750s-1780s,cellKhoesan_middle,19.920453980018703
+F4_11,Khoesan,1790s,cellKhoesan_late,47.65215617621956
+F4_12,Mozambique,1750s-1780s,cellMozambican_middle,11.147479187769989
+F4_13,Mozambique,1790s,cellMozambican_late,38.909540704039124
+F4_14,Cape,1750s-1780s,cellCape-born_middle,34.430140450930004
+F4_15,Cape,1790s,cellCape-born_late,51.747978471322995
+F4_16,"Slaves, unknown",1650s-1740s,"cellSlave, unknown_early",41.44832850842295
+F4_17,"Slaves, unknown",1750s-1780s,"cellSlave, unknown_middle",28.46166549539908
+F4_18,"Slaves, unknown",1790s,"cellSlave, unknown_late",38.54429349586194

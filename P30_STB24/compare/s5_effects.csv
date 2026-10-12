@@ -1,0 +1,18 @@
+scenario,claim_id,published,original_code,scenario_value,note
+S1_types_fixed,TX_rows,142297,142297,142297,Row count unaffected by column types (s5_checks/01)
+S1_types_fixed,F5_wine_1702,3.3,2.516,0.677,"read_excel guess_max=all rows: wine is leaguers, not a 0/1 indicator; base year 1780 as in code"
+S1_types_fixed,TX_gini_lo,0.4,0.340,0.616,"minimum of 837 asset-year Ginis; p10 0.551->0.708; share in [0.4,1] 0.984->1.000"
+S2_base1795_types_fixed,F5_wine_1702,3.3,2.516,0.671,Types fixed and base year set to the labelled 1795; equals pair B (0.671)
+S6_base1795_only,F5_wine_1702,3.3,2.516,2.293,Base year fix alone (types as run)
+S3_horse_riding_types_fixed,F5_wine_1702,3.3,2.516,0.677,horse_riding added to horse fallback; no effect on wine
+S3_horse_riding_types_fixed,TX_gini_lo,0.4,0.340,0.616,horse_riding fix leaves the minimum unchanged
+S4_winecap1000_types_fixed,F5_wine_1702,3.3,2.516,0.677,Wine entries >1000 (vine counts) set NA; no 1702 effect (1717 index 11.8->0.71)
+S5_all_fixes_base1795,TX_rows,142297,142297,142297,All code fixes
+S5_all_fixes_base1795,F5_wine_1702,3.3,2.516,0.671,All code fixes; wine per household rises from 1702 to 1795 instead of falling
+S5_all_fixes_base1795,TX_gini_lo,0.4,0.340,0.616,All code fixes; every asset-year Gini in [0.62;1]
+S3rule_empty_numbered_rows,TX_rows,142297,142297,142592,Pair-B gap: S3 counts 303 empty numbered rows (1719-1737; ~30 per census) net of +-1-6 elsewhere (s5_checks/04)
+opgaaf_p10_operationalisation,TX_gini_lo,0.4,0.340,0.551,Original code with p10 (S3 rule 12) instead of minimum
+S1_types_fixed,F5_cattle_1712,70,50.9,1.11,"cattle_bull read as 0/1 from 1717: the 1716 'collapse' (index ~60->1) disappears"
+S5_all_fixes_base1795,F5_horses_1815,0.04,0.038,1.27,Horse 'collapse' after 1804 is an artefact (indicators + missing horse_riding); equals pair B
+S1_types_fixed,F6_cattle_1731,0.34,0.365,0.639,Low cattle Ginis are artefacts of the bull indicator
+S1_types_fixed,F6_wine_1702,0.56,0.679,0.818,Wine Gini level rises but shape (up to 1760s-80s then down) is kept

@@ -1,0 +1,16 @@
+# S5 check 1: inspect in-sheet workings (S2 candidate: Figs 2-3 / text correlations computed in Excel)
+suppressMessages({library(readxl); library(tidyxl); library(dplyr)})
+source("tools/paths.R")
+g15 <- dpath("P03_BoF17","original","Boshoff Fourie Globalisation","Globalisation data.xlsx")
+mea <- dpath("P03_BoF17","original","Boshoff Fourie","Mealies analysis.xlsx")
+cat("G15 sheets:", paste(excel_sheets(g15), collapse=" | "), "\n")
+cat("Mealies sheets:", paste(excel_sheets(mea), collapse=" | "), "\n")
+cells <- xlsx_cells(g15)
+# formulas computing correlations anywhere in the workbook
+f <- cells %>% filter(!is.na(formula), grepl("CORREL|PEARSON|RSQ", formula, ignore.case=TRUE))
+print(as.data.frame(f %>% select(sheet, address, formula, numeric)), right=FALSE)
+# cells whose values round to 0.05 or 0.86 in text-correlation-like sheets
+v <- cells %>% filter(!is.na(numeric), abs(numeric) < 1, round(numeric,2) %in% c(0.05,0.86))
+print(as.data.frame(v %>% select(sheet,address,formula,numeric) %>% head(30)), right=FALSE)
+mc <- xlsx_cells(mea) %>% filter(!is.na(formula), grepl("CORREL|PEARSON", formula, ignore.case=TRUE))
+cat("Mealies CORREL formulas:", nrow(mc), "\n"); print(as.data.frame(head(mc %>% select(sheet,address,formula,numeric),25)), right=FALSE)

@@ -1,0 +1,408 @@
+scenario,claim_id,published,original_code,scenario_value,note
+stel2x,T3_Stellenbosch_with,8.1,8.1225,6.48295,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T3_Total_with,8.2,8.18999,8.02161,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T4_Stellenbosch_with,2.3,2.30758,2.0583,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T4_Total_with,1.7,1.73812,1.69605,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Stellenbosch_wheat_with,4.9,4.88366,4.0365,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Stellenbosch_wine_with,1,1.04617,0.913762,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-58.2464,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Stellenbosch_wine_pct,-34.5,-34.5395,-42.8244,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Total_wheat_with,5.1,5.10213,4.94199,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Total_wine_with,0.9,0.855624,0.830594,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Total_wheat_pct,-43.4,-43.4401,-45.2154,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T5_Total_wine_pct,-39.4,-39.4438,-41.2153,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,4.60393,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,0.890951,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Total_s1to5_wheat_with,5.2,5.22759,4.99607,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Total_s1to5_wine_with,0.9,0.93205,0.897557,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,3.17212,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Stellenbosch_s6plus_wine_with,1.2,1.18197,1.05025,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Total_s6plus_wheat_with,5,4.97556,4.8951,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T6_Total_s6plus_wine_with,0.8,0.78299,0.759763,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1685_all_khoesan,122,121.767,182.651,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1692_all_khoesan,406,405.567,487.371,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1695_all_khoesan,380,380.036,460.336,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1700_all_khoesan,526,525.802,633.316,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1709_all_khoesan,1338,1338.08,1586.39,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1712_all_khoesan,1298,1297.52,1497.48,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1719_all_khoesan,1076,1075.77,1217.23,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1723_all_khoesan,1434,1433.84,1624.11,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1731_all_khoesan,2016,2015.84,2225.93,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1738_all_khoesan,2724,2724.17,2972.21,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1741_all_khoesan,2617,2617.09,2879.5,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1757_all_khoesan,5359,5358.8,5626.1,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1773_all_khoesan,6843,6842.98,7162.63,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_Total_all_khoesan,26137,26137.3,28555.3,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1685_csd_khoesan,122,121.767,182.651,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1692_csd_khoesan,406,405.567,487.371,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1695_csd_khoesan,380,380.036,460.336,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1700_csd_khoesan,526,525.802,633.316,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1709_csd_khoesan,1338,1338.08,1586.39,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1712_csd_khoesan,1298,1297.52,1497.48,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1719_csd_khoesan,1076,1075.77,1217.23,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1723_csd_khoesan,1434,1433.84,1624.11,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1731_csd_khoesan,2016,2015.84,2225.93,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1738_csd_khoesan,2724,2724.17,2972.21,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1741_csd_khoesan,2617,2617.09,2879.5,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1757_csd_khoesan,2123,2122.85,2390.15,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_1773_csd_khoesan,3296,3295.74,3615.39,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_Total_csd_khoesan,19354,19354.1,21772.1,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,T1_district2_khoesan,,4835.99,7253.98,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+keep0,T5_Total_n,1096,1095,1096,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wheat_without,9,9.02076,9.01496,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wheat_with,5.1,5.10213,5.09991,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wine_without,1.4,1.41294,1.41177,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wine_with,0.9,0.855624,0.854965,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wheat_pct,-43.4,-43.4401,-43.4284,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T5_Total_wine_pct,-39.4,-39.4438,-39.4404,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T6_Total_s6plus_n,432,431,432,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T6_Total_s6plus_wheat_without,6.3,6.2599,6.25158,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T6_Total_s6plus_wheat_with,5,4.97556,4.97022,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T6_Total_s6plus_wine_without,1,1.03949,1.03739,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T6_Total_s6plus_wine_with,0.8,0.78299,0.781486,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T1_1773_all_slaves,7101,7062,7101,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T1_Total_all_slaves,35211,35172,35211,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T1_1773_csd_slaves,6369,6330,6369,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+keep0,T1_Total_csd_slaves,34183,34144,34183,C5: CK:8 'drop if district==0' disabled (reproduces the published Totals)
+div_x2,T3_Stellenbosch_with,8.1,8.1225,11.0287,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T3_Drakenstein_with,5.6,5.57542,7.88668,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T3_Total_with,8.2,8.18999,9.77527,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T4_Stellenbosch_with,2.3,2.30758,2.66353,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T4_Drakenstein_with,2.3,2.25404,2.81432,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T4_Total_with,1.7,1.73812,2.06432,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Stellenbosch_wheat_with,4.9,4.88366,6.30599,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Stellenbosch_wine_with,1,1.04617,1.24245,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-34.7708,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Stellenbosch_wine_pct,-34.5,-34.5395,-22.2577,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Drakenstein_wheat_with,3.7,3.72149,5.17713,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Drakenstein_wine_with,1,0.964369,1.23091,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Drakenstein_wheat_pct,-61,-61.0019,-45.7481,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Drakenstein_wine_pct,-47.6,-47.5643,-33.0715,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Total_wheat_with,5.1,5.10213,6.12475,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Total_wine_with,0.9,0.855624,1.03075,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Total_wheat_pct,-43.4,-43.4401,-32.1038,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T5_Total_wine_pct,-39.4,-39.4438,-27.0494,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,7.91706,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,1.39511,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,5.3051,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Drakenstein_s1to5_wine_with,1,0.96658,1.27862,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Total_s1to5_wheat_with,5.2,5.22759,6.71786,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Total_s1to5_wine_with,0.9,0.93205,1.19701,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,4.25787,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Stellenbosch_s6plus_wine_with,1.2,1.18197,1.35489,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Drakenstein_s6plus_wheat_with,4.1,4.07957,5.15542,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Drakenstein_s6plus_wine_with,1,1.00001,1.20782,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Total_s6plus_wheat_with,5,4.97556,5.44849,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T6_Total_s6plus_wine_with,0.8,0.78299,0.883394,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1685_all_khoesan,122,121.767,60.8836,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1692_all_khoesan,406,405.567,202.783,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1695_all_khoesan,380,380.036,190.018,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1700_all_khoesan,526,525.802,262.901,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1709_all_khoesan,1338,1338.08,669.041,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1712_all_khoesan,1298,1297.52,648.76,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1719_all_khoesan,1076,1075.77,537.886,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1723_all_khoesan,1434,1433.84,716.918,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1731_all_khoesan,2016,2015.84,1007.92,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1738_all_khoesan,2724,2724.17,1362.09,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1741_all_khoesan,2617,2617.09,1308.55,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1757_all_khoesan,5359,5358.8,2679.4,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1773_all_khoesan,6843,6842.98,3421.49,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_Total_all_khoesan,26137,26137.3,13068.6,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1685_csd_khoesan,122,121.767,60.8836,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1692_csd_khoesan,406,405.567,202.783,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1695_csd_khoesan,380,380.036,190.018,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1700_csd_khoesan,526,525.802,262.901,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1709_csd_khoesan,1338,1338.08,669.041,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1712_csd_khoesan,1298,1297.52,648.76,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1719_csd_khoesan,1076,1075.77,537.886,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1723_csd_khoesan,1434,1433.84,716.918,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1731_csd_khoesan,2016,2015.84,1007.92,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1738_csd_khoesan,2724,2724.17,1362.09,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1741_csd_khoesan,2617,2617.09,1308.55,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1757_csd_khoesan,2123,2122.85,1061.43,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1773_csd_khoesan,3296,3295.74,1647.87,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_Total_csd_khoesan,19354,19354.1,9677.04,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1757_swe_khoesan,3236,3235.95,1617.97,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_1773_swe_khoesan,3547,3547.24,1773.62,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_Total_swe_khoesan,6783,6783.19,3391.59,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,T1_district2_khoesan,,4835.99,2417.99,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x05,T3_Stellenbosch_with,8.1,8.1225,5.41334,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T3_Drakenstein_with,5.6,5.57542,3.59477,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T3_Total_with,8.2,8.18999,6.80901,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T4_Stellenbosch_with,2.3,2.30758,1.87087,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T4_Drakenstein_with,2.3,2.25404,1.66737,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T4_Total_with,1.7,1.73812,1.38575,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Stellenbosch_wheat_with,4.9,4.88366,3.46168,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Stellenbosch_wine_with,1,1.04617,0.816557,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-64.1924,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Stellenbosch_wine_pct,-34.5,-34.5395,-48.9067,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Drakenstein_wheat_with,3.7,3.72149,2.4452,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Drakenstein_wine_with,1,0.964369,0.69364,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Drakenstein_wheat_pct,-61,-61.0019,-74.3764,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Drakenstein_wine_pct,-47.6,-47.5643,-62.2847,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Total_wheat_with,5.1,5.10213,4.17245,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Total_wine_with,0.9,0.855624,0.672032,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Total_wheat_pct,-43.4,-43.4401,-53.7462,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T5_Total_wine_pct,-39.4,-39.4438,-52.4374,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,3.86567,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,0.779402,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,2.30487,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Drakenstein_s1to5_wine_with,1,0.96658,0.677532,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Total_s1to5_wheat_with,5.2,5.22759,3.9988,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Total_s1to5_wine_with,0.9,0.93205,0.691681,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,2.82344,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Stellenbosch_s6plus_wine_with,1.2,1.18197,0.94616,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Drakenstein_s6plus_wheat_with,4.1,4.07957,2.89404,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Drakenstein_s6plus_wine_with,1,1.00001,0.752179,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Total_s6plus_wheat_with,5,4.97556,4.43477,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T6_Total_s6plus_wine_with,0.8,0.78299,0.658031,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1685_all_khoesan,122,121.767,243.534,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1692_all_khoesan,406,405.567,811.133,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1695_all_khoesan,380,380.036,760.073,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1700_all_khoesan,526,525.802,1051.6,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1709_all_khoesan,1338,1338.08,2676.16,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1712_all_khoesan,1298,1297.52,2595.04,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1719_all_khoesan,1076,1075.77,2151.54,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1723_all_khoesan,1434,1433.84,2867.67,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1731_all_khoesan,2016,2015.84,4031.68,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1738_all_khoesan,2724,2724.17,5448.35,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1741_all_khoesan,2617,2617.09,5234.19,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1757_all_khoesan,5359,5358.8,10717.6,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1773_all_khoesan,6843,6842.98,13686,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_Total_all_khoesan,26137,26137.3,52274.5,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1685_csd_khoesan,122,121.767,243.534,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1692_csd_khoesan,406,405.567,811.133,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1695_csd_khoesan,380,380.036,760.073,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1700_csd_khoesan,526,525.802,1051.6,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1709_csd_khoesan,1338,1338.08,2676.16,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1712_csd_khoesan,1298,1297.52,2595.04,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1719_csd_khoesan,1076,1075.77,2151.54,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1723_csd_khoesan,1434,1433.84,2867.67,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1731_csd_khoesan,2016,2015.84,4031.68,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1738_csd_khoesan,2724,2724.17,5448.35,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1741_csd_khoesan,2617,2617.09,5234.19,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1757_csd_khoesan,2123,2122.85,4245.7,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1773_csd_khoesan,3296,3295.74,6591.48,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_Total_csd_khoesan,19354,19354.1,38708.2,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1757_swe_khoesan,3236,3235.95,6471.9,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_1773_swe_khoesan,3547,3547.24,7094.48,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_Total_swe_khoesan,6783,6783.19,13566.4,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,T1_district2_khoesan,,4835.99,9671.97,C8: all divisors x0.5 (twice the Khoesan)
+wheatonly,T3_Capedistrict_without,12.5,12.485,10.954,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Capedistrict_with,12.5,12.485,10.954,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Stellenbosch_without,18.4,18.354,12.348,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Stellenbosch_with,8.1,8.1225,5.78011,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Drakenstein_without,15.1,15.1016,13.6766,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Drakenstein_with,5.6,5.57542,5.06285,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Total_without,14.5,14.5445,12.613,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T3_Total_with,8.2,8.18999,7.14268,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Capedistrict_wheat_without,7.7,7.68172,6.79462,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Capedistrict_wheat_with,7.7,7.68172,6.79462,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Stellenbosch_wheat_without,9.7,9.66743,7.00587,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Stellenbosch_wheat_with,4.9,4.88366,3.66975,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-47.619,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Drakenstein_wheat_without,9.5,9.54276,8.36261,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Drakenstein_wheat_with,3.7,3.72149,3.25113,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Drakenstein_wheat_pct,-61,-61.0019,-61.1231,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Total_wheat_without,9,9.02076,7.64647,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Total_wheat_with,5.1,5.10213,4.36904,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T5_Total_wheat_pct,-43.4,-43.4401,-42.862,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Capedistrict_s1to5_wheat_without,10.7,10.7087,9.77628,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Capedistrict_s1to5_wheat_with,10.7,10.7087,9.77628,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Stellenbosch_s1to5_wheat_without,12.3,12.2586,8.51628,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,4.19452,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Drakenstein_s1to5_wheat_without,10.4,10.3914,9.05138,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,3.15396,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Total_s1to5_wheat_without,10.8,10.8128,9.06699,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Total_s1to5_wheat_with,5.2,5.22759,4.4507,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Capedistrict_s6plus_wheat_without,6.1,6.08175,5.2186,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Capedistrict_s6plus_wheat_with,6.1,6.08175,5.2186,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Stellenbosch_s6plus_wheat_without,5.2,5.20099,4.4024,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,3.06519,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Drakenstein_s6plus_wheat_without,7.1,7.07294,6.35805,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Drakenstein_s6plus_wheat_with,4.1,4.07957,3.67604,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Total_s6plus_wheat_without,6.3,6.2599,5.45802,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+wheatonly,T6_Total_s6plus_wheat_with,5,4.97556,4.31992,N1: 'wheat' productivity on wheat only instead of wheat+rye+barley (CK:51)
+t6male,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,5.61187,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+t6male,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,0.967385,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+t6male,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,3.59845,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+t6male,T6_Drakenstein_s1to5_wine_with,1,0.96658,0.952122,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+t6male,T6_Total_s1to5_wheat_with,5.2,5.22759,5.18429,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+t6male,T6_Total_s1to5_wine_with,0.9,0.93205,0.90277,C6: T6 1-5 split on slavemales!=0 instead of slaves!=0 (CK:66)
+uniform,T3_Stellenbosch_with,8.1,8.1225,7.9883,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T3_Drakenstein_with,5.6,5.57542,5.38765,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T3_Total_with,8.2,8.18999,8.07166,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T4_Stellenbosch_with,2.3,2.30758,2.26576,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T4_Drakenstein_with,2.3,2.25404,2.18545,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T4_Total_with,1.7,1.73812,1.69848,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Stellenbosch_wheat_with,4.9,4.88366,4.77071,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Stellenbosch_wine_with,1,1.04617,1.02276,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-50.6517,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Stellenbosch_wine_pct,-34.5,-34.5395,-36.0045,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Drakenstein_wheat_with,3.7,3.72149,3.60588,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Drakenstein_wine_with,1,0.964369,0.935289,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Drakenstein_wheat_pct,-61,-61.0019,-62.2134,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Drakenstein_wine_pct,-47.6,-47.5643,-49.1455,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Total_wheat_with,5.1,5.10213,5.02092,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Total_wine_with,0.9,0.855624,0.83614,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Total_wheat_pct,-43.4,-43.4401,-44.3404,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T5_Total_wine_pct,-39.4,-39.4438,-40.8227,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,5.64822,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,1.04691,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,3.58187,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Drakenstein_s1to5_wine_with,1,0.96658,0.946681,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Total_s1to5_wheat_with,5.2,5.22759,5.16782,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Total_s1to5_wine_with,0.9,0.93205,0.916306,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,3.45436,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Stellenbosch_s6plus_wine_with,1.2,1.18197,1.13233,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Drakenstein_s6plus_wheat_with,4.1,4.07957,3.80625,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Drakenstein_s6plus_wine_with,1,1.00001,0.944776,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Total_s6plus_wheat_with,5,4.97556,4.85291,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T6_Total_s6plus_wine_with,0.8,0.78299,0.755654,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1685_all_khoesan,122,121.767,119.195,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1692_all_khoesan,406,405.567,343.742,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1695_all_khoesan,380,380.036,353.104,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1700_all_khoesan,526,525.802,518.847,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1709_all_khoesan,1338,1338.08,1352.95,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1712_all_khoesan,1298,1297.52,1341.87,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1719_all_khoesan,1076,1075.77,1121.23,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1723_all_khoesan,1434,1433.84,1436.86,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1731_all_khoesan,2016,2015.84,2093.69,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1738_all_khoesan,2724,2724.17,2850.65,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1741_all_khoesan,2617,2617.09,2717.92,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1757_all_khoesan,5359,5358.8,5205.17,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1773_all_khoesan,6843,6842.98,6817.74,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_Total_all_khoesan,26137,26137.3,26273,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1685_csd_khoesan,122,121.767,119.195,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1692_csd_khoesan,406,405.567,343.742,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1695_csd_khoesan,380,380.036,353.104,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1700_csd_khoesan,526,525.802,518.847,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1709_csd_khoesan,1338,1338.08,1352.95,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1712_csd_khoesan,1298,1297.52,1341.87,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1719_csd_khoesan,1076,1075.77,1121.23,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1723_csd_khoesan,1434,1433.84,1436.86,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1731_csd_khoesan,2016,2015.84,2093.69,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1738_csd_khoesan,2724,2724.17,2850.65,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1741_csd_khoesan,2617,2617.09,2717.92,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1757_csd_khoesan,2123,2122.85,2191.02,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1773_csd_khoesan,3296,3295.74,3395.7,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_Total_csd_khoesan,19354,19354.1,19836.8,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1757_swe_khoesan,3236,3235.95,3014.15,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_1773_swe_khoesan,3547,3547.24,3422.05,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_Total_swe_khoesan,6783,6783.19,6436.2,C8/T6: one divisor per district (no slave-category gradient)
+uniform,T1_district2_khoesan,,4835.99,4991.22,C8/T6: one divisor per district (no slave-category gradient)
+keep5262,T3_Capedistrict_n,126,126,164,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Capedistrict_without,12.5,12.485,14.1174,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Capedistrict_with,12.5,12.485,14.1174,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Stellenbosch_n,38,38,45,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Stellenbosch_without,18.4,18.354,20.6709,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Stellenbosch_with,8.1,8.1225,9.2266,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Drakenstein_n,206,206,269,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Drakenstein_without,15.1,15.1016,14.8109,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Drakenstein_with,5.6,5.57542,5.69051,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Total_n,370,370,478,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Total_without,14.5,14.5445,15.1246,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T3_Total_with,8.2,8.18999,8.91463,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Capedistrict_n,114,114,136,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Capedistrict_without,0.8,0.780478,0.8449,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Capedistrict_with,0.8,0.780478,0.8449,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Stellenbosch_n,54,54,92,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Stellenbosch_without,3.3,3.25252,2.59689,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Stellenbosch_with,2.3,2.30758,1.89187,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Drakenstein_n,152,152,236,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Drakenstein_without,4.1,4.05126,3.63815,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Drakenstein_with,2.3,2.25404,2.01543,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Total_n,320,320,464,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Total_without,2.8,2.75126,2.61298,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T4_Total_with,1.7,1.73812,1.64785,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Capedistrict_n,321,321,393,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Capedistrict_wheat_without,7.7,7.68172,8.61366,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Capedistrict_wheat_with,7.7,7.68172,8.61366,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Capedistrict_wine_without,0.5,0.540666,0.548115,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Capedistrict_wine_with,0.5,0.540666,0.548115,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_n,207,207,278,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wheat_without,9.7,9.66743,9.10319,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wheat_with,4.9,4.88366,4.64659,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wine_without,1.6,1.59817,1.60325,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wine_with,1,1.04617,1.06975,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wheat_pct,-49.5,-49.4833,-48.9564,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Stellenbosch_wine_pct,-34.5,-34.5395,-33.2761,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_n,567,567,774,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wheat_without,9.5,9.54276,8.9714,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wheat_with,3.7,3.72149,3.66404,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wine_without,1.8,1.83915,1.87304,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wine_with,1,0.964369,0.98323,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wheat_pct,-61,-61.0019,-59.1586,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Drakenstein_wine_pct,-47.6,-47.5643,-47.5063,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_n,1096,1095,1445,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wheat_without,9,9.02076,8.89946,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wheat_with,5.1,5.10213,5.19923,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wine_without,1.4,1.41294,1.4608,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wine_with,0.9,0.855624,0.881536,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wheat_pct,-43.4,-43.4401,-41.5781,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T5_Total_wine_pct,-39.4,-39.4438,-39.6537,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s1to5_n,111,111,136,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s1to5_wheat_without,10.7,10.7087,12.008,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s1to5_wheat_with,10.7,10.7087,12.008,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s1to5_wine_without,0.6,0.638889,0.592892,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s1to5_wine_with,0.6,0.638889,0.592892,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s1to5_n,131,131,170,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s1to5_wheat_without,12.3,12.2586,11.5665,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s1to5_wheat_with,5.8,5.75474,5.36344,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s1to5_wine_without,1.6,1.60051,1.59765,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s1to5_wine_with,1.1,1.0624,1.06189,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s1to5_n,422,422,576,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s1to5_wheat_without,10.4,10.3914,9.58325,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s1to5_wheat_with,3.6,3.64229,3.50641,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s1to5_wine_without,1.9,1.93973,1.97972,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s1to5_wine_with,1,0.96658,1.00813,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s1to5_n,664,664,882,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s1to5_wheat_without,10.8,10.8128,10.3394,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s1to5_wheat_with,5.2,5.22759,5.15768,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s1to5_wine_without,1.7,1.65535,1.69223,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s1to5_wine_with,0.9,0.93205,0.955663,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s6plus_n,210,210,257,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s6plus_wheat_without,6.1,6.08175,6.81745,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s6plus_wheat_with,6.1,6.08175,6.81745,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s6plus_wine_without,0.5,0.488748,0.524419,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Capedistrict_s6plus_wine_with,0.5,0.488748,0.524419,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s6plus_n,76,76,108,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s6plus_wheat_without,5.2,5.20099,5.22581,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s6plus_wheat_with,3.6,3.62847,3.70963,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s6plus_wine_without,1.6,1.59414,1.61207,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Stellenbosch_s6plus_wine_with,1.2,1.18197,1.19739,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s6plus_n,145,145,198,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s6plus_wheat_without,7.1,7.07294,7.19148,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s6plus_wheat_with,4.1,4.07957,4.20182,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s6plus_wine_without,1.5,1.54641,1.56272,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Drakenstein_s6plus_wine_with,1,1.00001,0.999046,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s6plus_n,432,431,563,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s6plus_wheat_without,6.3,6.2599,6.64367,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s6plus_wheat_with,5,4.97556,5.30139,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s6plus_wine_without,1,1.03949,1.09822,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T6_Total_s6plus_wine_with,0.8,0.78299,0.820435,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_all_khoesan,26137,26137.3,33049.8,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_all_slaves,35211,35172,42773,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_csd_khoesan,19354,19354.1,23425,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_csd_slaves,34183,34144,41510,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_swe_khoesan,6783,6783.19,9624.8,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_Total_swe_slaves,1028,1028,1263,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,T1_district2_khoesan,,4835.99,5948.77,C12: keep the 1752 and 1762 censuses dropped at CK:6
+stel2x,tx_p205_kh_growth,3.8,4.68468,4.25752,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+stel2x,tx_growth_csd_1685_1773,,3.81916,3.45068,C1: Stellenbosch divisors 95/115/135 (text: 'double' the Swellendam rates) instead of code 142.5/172.5/202.5 (CK:37-39)
+div_x2,tx_swe_ratio_allslaves,,6.59843,3.29922,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x2,tx_p205_swe_ratio,6.6,9.19131,4.59566,C8: all herd-value-per-Khoesan divisors x2 (half the Khoesan)
+div_x05,tx_swe_ratio_allslaves,,6.59843,13.1969,C8: all divisors x0.5 (twice the Khoesan)
+div_x05,tx_p205_swe_ratio,6.6,9.19131,18.3826,C8: all divisors x0.5 (twice the Khoesan)
+uniform,tx_p205_kh_growth,3.8,4.68468,4.70568,C8/T6: one divisor per district (no slave-category gradient)
+uniform,tx_growth_csd_1685_1773,,3.81916,3.87962,C8/T6: one divisor per district (no slave-category gradient)
+uniform,tx_swe_ratio_allslaves,,6.59843,6.26089,C8/T6: one divisor per district (no slave-category gradient)
+uniform,tx_p205_swe_ratio,6.6,9.19131,8.72114,C8/T6: one divisor per district (no slave-category gradient)
+keep5262,tx_swe_ratio_allslaves,,6.59843,7.62058,C12: keep the 1752 and 1762 censuses dropped at CK:6
+keep5262,tx_p205_swe_ratio,6.6,9.19131,10.6117,C12: keep the 1752 and 1762 censuses dropped at CK:6
+recompute,tx_p205_kh_growth,3.8,3.819,4.685,"C2: 3.8% is the Cape/Stellenbosch/Drakenstein series (121.8 -> 3,295.7); the stated endpoints 122 -> 6,843 (All regions) give 4.68%. All-region slaves 222 -> 7,101 grow 4.02%, so Khoesan grew faster than slaves, not 'equivalent'"
+recompute,tx_p205_swe_ratio,6.6,6.598,9.191,"C3: 6,783 / 1,028 (all slaves) = 6.6; per male slave as the text says (738) = 9.2. 6.6 is the right comparator for Viljoen's 'per slave'"
+recompute,T2_Totalpopulation_Total,38144,38144,52317,"C4: Dataset.xlsx 'Khoe pop 1790'!F7 = SUM(B7:D7) omits Graaff-Reinet (14,173); other Total cells include it"
+share_not_level,T7_TheilBetween_khoesan,0.35,0.3538,0.4775,C7: Khoesan-added Theil between/within are levels summing to the total 0.741 (Inequality!D12); as a share between = 0.48 (FvF share 0.33)
+share_not_level,T7_TheilWithin_khoesan,0.39,0.3872,0.5225,"C7: as a share within = 0.52 (FvF share 0.67), not 0.39"
+gdp_numerator,tx_p214_gdp_year_new,1710,,,"N2: in KhoesanGDPnew.xlsx the Khoesan count also raises the numerator (resteconomy!C,D craftsmen = f(Population!AC)); vs a pure denominator rescaling, model GDP pc is 1.3%-5.8% higher (1701-1795). Crossing years unaffected (S2)"

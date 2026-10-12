@@ -1,0 +1,5 @@
+claim,s,coded_scenario_satisfies,verdict,n_scenarios,n_satisfy,condition,n_nonfinite_excluded
+I1a,1,TRUE,confirmed,144,144,"Y1701 / Britain 1701 in [0.80, 1.25]",0
+I1b,1,TRUE,confirmed,144,144,"Y1701 / Holland 1701 in [0.60, 1.00)",0
+I2,1,TRUE,confirmed,144,144,R = Y1790/Y1701 <= 0.795 and population trend > GDP trend (OLS 1701-1793),0
+I3,1,TRUE,confirmed,144,144,">= 80% of years 1701-1793 with balanced GDP pc in [540, 1100]",0

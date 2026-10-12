@@ -1,0 +1,78 @@
+"spec","town","name","value"
+"c2","Cradock","Coloured_x_Pandemic",-1.22560816151561
+"c2","Cradock","Black_x_Pandemic",-0.760341564450244
+"c2","Elliot","Coloured_x_Pandemic",-1.28397661956509
+"c2","Elliot","Black_x_Pandemic",-0.851364623051336
+"c2","Komga","Coloured_x_Pandemic",-1.11771464625684
+"c2","Komga","Black_x_Pandemic",-0.935661544638727
+"c2","Kuruman","Coloured_x_Pandemic",-1.39961366449683
+"c2","Kuruman","Black_x_Pandemic",-0.981204305128041
+"c2","Mafeking","Coloured_x_Pandemic",-1.24937617717747
+"c2","Mafeking","Black_x_Pandemic",-1.0302827411218
+"c2","Oudtshoorn","Coloured_x_Pandemic",-1.31323476574758
+"c2","Oudtshoorn","Black_x_Pandemic",-0.673735154313661
+"c2","Paarl","Coloured_x_Pandemic",-0.692372508837904
+"c2","Paarl","Black_x_Pandemic",-0.913664132915148
+"c2","Peddie","Coloured_x_Pandemic",-1.2732009812619
+"c2","Peddie","Black_x_Pandemic",-0.74710991116747
+"c2","Queenstown","Coloured_x_Pandemic",-1.23738363561164
+"c2","Queenstown","Black_x_Pandemic",-0.553305866254708
+"c2","Sea Point","Coloured_x_Pandemic",-1.24881792847885
+"c2","Sea Point","Black_x_Pandemic",-0.851114920420071
+"c2","Vryburg","Coloured_x_Pandemic",-1.15869385210824
+"c2","Vryburg","Black_x_Pandemic",-0.851071434328366
+"c3","Cradock","Coloured_x_Pandemic",-0.838090530804241
+"c3","Cradock","Black_x_Pandemic",-0.680993219902392
+"c3","Cradock","Pandemic_x_Street_road_and_stad",-1.11758555572945
+"c3","Cradock","Street_road_and_stad",1.34283347796393
+"c3","Cradock","theta_U",0.225247922234482
+"c3","Elliot","Coloured_x_Pandemic",-0.921255236645043
+"c3","Elliot","Black_x_Pandemic",-0.77497314221806
+"c3","Elliot","Pandemic_x_Street_road_and_stad",-1.10871899825769
+"c3","Elliot","Street_road_and_stad",1.35611033872772
+"c3","Elliot","theta_U",0.247391340470029
+"c3","Komga","Coloured_x_Pandemic",-0.741228314090153
+"c3","Komga","Black_x_Pandemic",-0.822041065461681
+"c3","Komga","Pandemic_x_Street_road_and_stad",-1.06770859345687
+"c3","Komga","Street_road_and_stad",1.33991824777864
+"c3","Komga","theta_U",0.272209654321777
+"c3","Kuruman","Coloured_x_Pandemic",-1.02686486569566
+"c3","Kuruman","Black_x_Pandemic",-0.864724971328884
+"c3","Kuruman","Pandemic_x_Street_road_and_stad",-0.880550682373587
+"c3","Kuruman","Street_road_and_stad",1.32749736489645
+"c3","Kuruman","theta_U",0.446946682522859
+"c3","Mafeking","Coloured_x_Pandemic",-0.985444972038216
+"c3","Mafeking","Black_x_Pandemic",-1.21375203212265
+"c3","Mafeking","Pandemic_x_Street_road_and_stad",-1.77614032510173
+"c3","Mafeking","Street_road_and_stad",1.71035474366804
+"c3","Mafeking","theta_U",-0.0657855814336941
+"c3","Oudtshoorn","Coloured_x_Pandemic",-0.936936028532683
+"c3","Oudtshoorn","Black_x_Pandemic",-0.579005546178439
+"c3","Oudtshoorn","Pandemic_x_Street_road_and_stad",-0.673033649053821
+"c3","Oudtshoorn","Street_road_and_stad",0.835764613750294
+"c3","Oudtshoorn","theta_U",0.162730964696473
+"c3","Paarl","Coloured_x_Pandemic",-0.514363392496537
+"c3","Paarl","Black_x_Pandemic",-0.735423646507634
+"c3","Paarl","Pandemic_x_Street_road_and_stad",-0.392993452184819
+"c3","Paarl","Street_road_and_stad",1.49045324746984
+"c3","Paarl","theta_U",1.09745979528503
+"c3","Peddie","Coloured_x_Pandemic",-0.919558842264182
+"c3","Peddie","Black_x_Pandemic",-0.666829655618516
+"c3","Peddie","Pandemic_x_Street_road_and_stad",-1.08600162942141
+"c3","Peddie","Street_road_and_stad",1.35069308719609
+"c3","Peddie","theta_U",0.264691457774674
+"c3","Queenstown","Coloured_x_Pandemic",-0.813138084077052
+"c3","Queenstown","Black_x_Pandemic",-0.382804118435113
+"c3","Queenstown","Pandemic_x_Street_road_and_stad",-1.28505374114359
+"c3","Queenstown","Street_road_and_stad",1.45945273868767
+"c3","Queenstown","theta_U",0.174398997544084
+"c3","Sea Point","Coloured_x_Pandemic",-0.883646824618508
+"c3","Sea Point","Black_x_Pandemic",-0.766682849484522
+"c3","Sea Point","Pandemic_x_Street_road_and_stad",-1.07453551460244
+"c3","Sea Point","Street_road_and_stad",1.3480856017684
+"c3","Sea Point","theta_U",0.273550087165951
+"c3","Vryburg","Coloured_x_Pandemic",-0.749978433761546
+"c3","Vryburg","Black_x_Pandemic",-0.749616529741028
+"c3","Vryburg","Pandemic_x_Street_road_and_stad",-1.03101803463001
+"c3","Vryburg","Street_road_and_stad",1.32462221015906
+"c3","Vryburg","theta_U",0.293604175529049

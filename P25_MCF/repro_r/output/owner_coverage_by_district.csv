@@ -1,0 +1,13 @@
+District_name,owners,slaves,slaves_valued,owners_with_comp,owners_comp_any_valued,owners_comp_all_valued
+Albany,65,221,190,58,56,43
+Beaufort,161,530,265,102,63,55
+Cape,1805,11377,4505,778,372,284
+Clanwilliam,217,1502,0,191,0,0
+George,363,2186,2145,334,333,314
+Graaff Reinet,533,2185,2163,478,475,471
+Somerset,402,1681,1651,387,385,376
+Stellenbosch,999,8451,8416,970,969,946
+Swellendam,758,3704,0,498,0,0
+Uitenhage,277,1316,1149,250,218,194
+Worcester,448,3264,1499,419,382,222
+Total,6028,36417,21983,4465,3253,2905

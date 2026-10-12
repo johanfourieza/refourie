@@ -1,0 +1,394 @@
+section,quantity,estimate,note,L,U,n_undefined_draws
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3a x V4a H1 min decade,0.6577,max 0.829; all > 0.60: TRUE,NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3a x V4a H2 1780,0.9252,"in [0.89, 0.95]: TRUE",NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3b x V4a H1 min decade,0.6517,max 0.827; all > 0.60: TRUE,NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3b x V4a H2 1780,0.9236,"in [0.89, 0.95]: TRUE",NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3a x V4b H1 min decade,0.6582,max 0.829; all > 0.60: TRUE,NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3a x V4b H2 1780,0.9235,"in [0.89, 0.95]: TRUE",NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3b x V4b H1 min decade,0.6549,max 0.827; all > 0.60: TRUE,NA,NA,NA
+"5A price factorial (V3 x V4; points; assumption-conditional, equal weights are not probabilities)",V3b x V4b H2 1780,0.9224,"in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.1 V2b vines at one year's yield value (six-asset basket; double counts the wine flow),H1 min decade Gini,0.6594,different estimand; argmin 1730; max 0.850; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none,NA,NA,NA
+5B.1 V2b vines at one year's yield value (six-asset basket; double counts the wine flow),H2 1780 Gini,0.9326,"different estimand; in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.1 V2c vines at 0.5 rix-dollars per vine (exploratory; undocumented 2026 rule),H1 min decade Gini,0.7298,"different estimand, exploratory; argmin 1700; max 0.926; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none",NA,NA,NA
+5B.1 V2c vines at 0.5 rix-dollars per vine (exploratory; undocumented 2026 rule),H2 1780 Gini,0.9674,"different estimand, exploratory; in [0.89, 0.95]: FALSE",NA,NA,NA
+"5B.2 V1 coverage: 1685-89 at 1690 prices, 1840-44 at 1830 prices",H1 min decade Gini,0.6577,"rows 1685-89 252, 1840-44 6339; node 1680 G=0.726, 1840 G=0.733; argmin 1730; max 0.829; all computable > 0.60: TRUE; nodes 1680-1840; not computable (no rows): none",NA,NA,NA
+"5B.2 V1 coverage: 1685-89 at 1690 prices, 1840-44 at 1830 prices",H2 1780 Gini,0.9252,"rows 1685-89 252, 1840-44 6339; node 1680 G=0.726, 1840 G=0.733; in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.3 V5 mean of annual Ginis (Fig 1 caption),H1 min decade,0.6555,argmin 1730; max 0.827; all > 0.60: TRUE,NA,NA,NA
+5B.3 V5 mean of annual Ginis (Fig 1 caption),H2 1780 Gini,0.9232,"in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.4 V6 trimming (> 10 x year p99 of positive values; rows dropped),H1 min decade Gini,0.6577,1 rows flagged (of 135683 priced rows); argmin 1730; max 0.829; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none,NA,NA,NA
+5B.4 V6 trimming (> 10 x year p99 of positive values; rows dropped),H2 1780 Gini,0.9252,"1 rows flagged (of 135683 priced rows); in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.5 V7b enslaved people in owners' wealth (200 x sheep price),H2 1780 Gini,0.9245,"different estimand; in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.5 V7c enslaved people in owners' wealth (MOOC10 category prices),H2 1780 Gini,0.9268,"different estimand; in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.6 settler-only population (settler_men > 0 or settler_women > 0),H1 min decade Gini,0.6725,changed population; argmin 1730; max 0.821; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none,NA,NA,NA
+5B.6 settler-only population (settler_men > 0 or settler_women > 0),H2 1780 Gini,0.9257,"changed population; in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.7 H2 in other periods,H2 period 1760,0.9141,"in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.7 H2 in other periods,H2 period 1800,0.9381,"in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.8 H2 with all enslaved adults (men + women) as zero-value rows,H2 1780 Gini,0.9404,"in [0.89, 0.95]: TRUE",NA,NA,NA
+5B.11 vines capitalised at 6% (exploratory; the paper's rate for enslaved people),H1 min decade Gini,0.7205,"different estimand, exploratory; argmin 1700; max 0.934; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none",NA,NA,NA
+5B.11 vines capitalised at 6% (exploratory; the paper's rate for enslaved people),H2 1780 Gini,0.9669,"different estimand, exploratory; in [0.89, 0.95]: FALSE",NA,NA,NA
+5B.9 H3 with the code's Bethelsdorp1825 sheet,H3a Bethelsdorp cattle,0.7185,"in [0.69, 0.75]: TRUE",NA,NA,NA
+5B.9 H3 with the code's Bethelsdorp1825 sheet,H3b min other asset (computable),0.7526,argmin Groenekloof Horses; all computable > 0.75: TRUE; not computable: Swartrivier Sheep,NA,NA,NA
+"5B.10 H3b without Swartrivier sheep (the plotted set), central sheets",H3b min other asset,0.7526,argmin Groenekloof Horses; all > 0.75: TRUE (points only),NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"horses raw blank, all rows 1685-1844",0.4679,after the code's year-level NA->0: 0.0000; decades with any post-cleaning NA: ,NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"cattle raw blank, all rows 1685-1844",0.5577,after the code's year-level NA->0: 0.0000; decades with any post-cleaning NA: ,NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"sheep raw blank, all rows 1685-1844",0.7082,after the code's year-level NA->0: 0.0000; decades with any post-cleaning NA: ,NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"wheat raw blank, all rows 1685-1844",0.8261,after the code's year-level NA->0: 0.0277; decades with any post-cleaning NA: 1830,NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"vines raw blank, all rows 1685-1844",0.8203,after the code's year-level NA->0: 0.1361; decades with any post-cleaning NA: 1680 1790 1800 1830 1840,NA,NA,NA
+5C.1 missingness (share of rows; full table in missingness.csv),"wine raw blank, all rows 1685-1844",0.8095,after the code's year-level NA->0: 0.0229; decades with any post-cleaning NA: 1680 1690 1830,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Groenekloof horses,0.5741,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Groenekloof oxen,0.6944,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Groenekloof cattle,0.6204,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Groenekloof sheep,0.9907,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Groenekloof wheat,0.6852,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Swartrivier horses,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Swartrivier oxen,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Swartrivier cattle,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Swartrivier sheep,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Swartrivier wheat,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Bethelsdorp 1814 cattle_breeding,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Bethelsdorp 1814 horses,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Bethelsdorp 1814 cattle_oxen,0,,NA,NA,NA
+"5C.1 missingness, Khoe settlements (raw blank share)",Bethelsdorp 1814 sheep,0,,NA,NA,NA
+5C.1 alternative (a): rows with every basket asset NA dropped,H1 min decade Gini,0.6577,0 rows dropped (cattle is a row sum and never NA); argmin 1730; max 0.829; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): none,NA,NA,NA
+5C.1 alternative (a): rows with every basket asset NA dropped,H2 1780 Gini,0.9252,"0 rows dropped (cattle is a row sum and never NA); in [0.89, 0.95]: TRUE",NA,NA,NA
+5C.1 alternative (b): complete cases for the basket,H1 min decade Gini,0.6577,5869 rows dropped; argmin 1730; max 0.853; all computable > 0.60: TRUE; nodes 1690-1830; not computable (no rows): 1690,NA,NA,NA
+5C.1 alternative (b): complete cases for the basket,H2 1780 Gini,0.9252,"5869 rows dropped; in [0.89, 0.95]: TRUE",NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1690,0.0031,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1700,0.0017,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1710,0.0031,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1720,0.0019,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1730,0.0045,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1740,0.0035,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1750,0.0026,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1760,0.0023,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1770,0.0027,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1780,0.0032,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1790,0.0014,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1800,0.0013,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1810,9e-4,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1820,0.0015,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H1 decade 1830,5e-4,,NA,NA,NA
+5C.2 influence: max |dG| leaving one household cluster out,H2 1780,0.0013,,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Bethelsdorp 1814 Cattle,0.695,positive holders 244 of 425; max |dG| 0.0067,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Bethelsdorp 1814 Horses,0.9757,positive holders 15 of 425; max |dG| 0.0019,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Bethelsdorp 1814 Oxen,0.985,positive holders 13 of 425; max |dG| 0.0017,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Bethelsdorp 1814 Sheep,0.992,positive holders 7 of 425 [FLAG: < 10 holders]; max |dG| 0.0018,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Groenekloof Horses,0.7526,positive holders 46 of 108; max |dG| 0.0154,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Groenekloof Oxen,0.8001,positive holders 33 of 108; max |dG| 0.0062,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Groenekloof Cattle,0.7729,positive holders 41 of 108; max |dG| 0.0070,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Groenekloof Sheep,0.9907,positive holders 1 of 108 [FLAG: < 10 holders]; max |dG| 0.0001,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Groenekloof Wheat reaped,0.7782,positive holders 34 of 108; max |dG| 0.0060,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Swartrivier Horses,0.7708,positive holders 128 of 364; max |dG| 0.0025,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Swartrivier Oxen,0.9189,positive holders 44 of 364; max |dG| 0.0021,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Swartrivier Cattle,0.9558,positive holders 29 of 364; max |dG| 0.0023,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Swartrivier Sheep,NA,positive holders 0 of 364 [FLAG: < 10 holders]; max |dG| NA,NA,NA,NA
+"5C.2 influence, Khoe settlements: positive holders and max |dG| leaving one household out",Swartrivier Wheat reaped,0.8635,positive holders 76 of 364; max |dG| 0.0046,NA,NA,NA
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany valuation owners,0.461,95% percentile,0.3781,0.512,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany compensation owners,0.4544,95% percentile,0.3777,0.5075,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany valuation + non-owners (30% rule),0.8456,95% percentile,0.8206,0.8619,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany compensation + non-owners (30% rule),0.8493,95% percentile,0.8262,0.8665,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany valuation + non-owners (1825 shares),0.9219,95% percentile,0.909,0.9305,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany compensation + non-owners (1825 shares),0.9243,95% percentile,0.9122,0.9334,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Albany matched owners: valuation minus compensation,0.0171,95% percentile,-0.0286,0.0641,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort valuation owners,0.421,95% percentile,0.3667,0.4659,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort compensation owners,0.4418,95% percentile,0.3941,0.4774,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort valuation + non-owners (30% rule),0.8931,95% percentile,0.8766,0.9084,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort compensation + non-owners (30% rule),0.8782,95% percentile,0.8631,0.8915,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort valuation + non-owners (1825 shares),0.9469,95% percentile,0.938,0.955,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort compensation + non-owners (1825 shares),0.9382,95% percentile,0.9299,0.9456,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Beaufort matched owners: valuation minus compensation,-0.0075,95% percentile,-0.0545,0.0479,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape valuation owners,0.6489,95% percentile,0.6246,0.6702,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape compensation owners,0.578,95% percentile,0.5503,0.6021,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape valuation + non-owners (30% rule),0.952,95% percentile,0.9476,0.9559,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape compensation + non-owners (30% rule),0.9327,95% percentile,0.9274,0.9375,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape valuation + non-owners (1825 shares),0.9382,95% percentile,0.9327,0.9431,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape compensation + non-owners (1825 shares),0.914,95% percentile,0.9074,0.9202,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Cape matched owners: valuation minus compensation,-0.0027,95% percentile,-0.0237,0.0196,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam valuation owners,NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam compensation owners,0.5011,95% percentile,0.4576,0.5366,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam valuation + non-owners (30% rule),NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam compensation + non-owners (30% rule),0.8621,95% percentile,0.8491,0.873,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam valuation + non-owners (1825 shares),NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam compensation + non-owners (1825 shares),0.9057,95% percentile,0.8965,0.9133,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Clanwilliam matched owners: valuation minus compensation,NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George valuation owners,0.4976,95% percentile,0.4646,0.5274,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George compensation owners,0.4892,95% percentile,0.4555,0.5189,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George valuation + non-owners (30% rule),0.8499,95% percentile,0.84,0.8588,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George compensation + non-owners (30% rule),0.8546,95% percentile,0.8445,0.8636,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George valuation + non-owners (1825 shares),0.83,95% percentile,0.8187,0.8401,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George compensation + non-owners (1825 shares),0.8349,95% percentile,0.8235,0.845,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),George matched owners: valuation minus compensation,0.0052,95% percentile,-0.0075,0.0207,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet valuation owners,0.479,95% percentile,0.4486,0.5073,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet compensation owners,0.4593,95% percentile,0.4286,0.4873,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet valuation + non-owners (30% rule),0.8447,95% percentile,0.8355,0.8532,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet compensation + non-owners (30% rule),0.8494,95% percentile,0.8402,0.8578,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet valuation + non-owners (1825 shares),0.8663,95% percentile,0.8584,0.8737,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet compensation + non-owners (1825 shares),0.8709,95% percentile,0.8629,0.8781,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Graaff Reinet matched owners: valuation minus compensation,0.0073,95% percentile,-0.0056,0.0205,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset valuation owners,0.4714,95% percentile,0.4432,0.4951,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset compensation owners,0.4703,95% percentile,0.4419,0.4938,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset valuation + non-owners (30% rule),0.8421,95% percentile,0.8335,0.8492,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset compensation + non-owners (30% rule),0.8451,95% percentile,0.8366,0.8523,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset valuation + non-owners (1825 shares),0.8641,95% percentile,0.8567,0.8702,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset compensation + non-owners (1825 shares),0.8668,95% percentile,0.8595,0.8731,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Somerset matched owners: valuation minus compensation,-0.0045,95% percentile,-0.0145,0.0058,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch valuation owners,0.5461,95% percentile,0.5273,0.5636,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch compensation owners,0.5378,95% percentile,0.5171,0.5566,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch valuation + non-owners (30% rule),0.8641,95% percentile,0.8585,0.8694,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch compensation + non-owners (30% rule),0.8637,95% percentile,0.8574,0.8693,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch valuation + non-owners (1825 shares),0.7588,95% percentile,0.7487,0.7681,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch compensation + non-owners (1825 shares),0.7568,95% percentile,0.7458,0.7668,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Stellenbosch matched owners: valuation minus compensation,0.0041,95% percentile,-0.0074,0.0153,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam valuation owners,NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam compensation owners,0.4778,95% percentile,0.4446,0.5093,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam valuation + non-owners (30% rule),NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam compensation + non-owners (30% rule),0.8835,95% percentile,0.8746,0.8918,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam valuation + non-owners (1825 shares),NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam compensation + non-owners (1825 shares),0.8694,95% percentile,0.8595,0.8787,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Swellendam matched owners: valuation minus compensation,NA,95% percentile,NA,NA,9999
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage valuation owners,0.4931,95% percentile,0.4524,0.5271,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage compensation owners,0.5131,95% percentile,0.4605,0.5547,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage valuation + non-owners (30% rule),0.8621,95% percentile,0.8501,0.8725,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage compensation + non-owners (30% rule),0.8635,95% percentile,0.8482,0.8759,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage valuation + non-owners (1825 shares),0.8949,95% percentile,0.8856,0.9029,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage compensation + non-owners (1825 shares),0.8956,95% percentile,0.8839,0.9052,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Uitenhage matched owners: valuation minus compensation,-0.0181,95% percentile,-0.0481,0.0156,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester valuation owners,0.6333,95% percentile,0.5897,0.6702,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester compensation owners,0.5262,95% percentile,0.4996,0.5496,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester valuation + non-owners (30% rule),0.8968,95% percentile,0.8843,0.9076,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester compensation + non-owners (30% rule),0.8634,95% percentile,0.8554,0.8704,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester valuation + non-owners (1825 shares),0.8387,95% percentile,0.8194,0.8555,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester compensation + non-owners (1825 shares),0.7877,95% percentile,0.7756,0.7984,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),Worcester matched owners: valuation minus compensation,0.0976,95% percentile,0.0468,0.1416,0
+S-d Fig 5 at owner level (owner bootstrap within district; non-owner counts fixed),districts with matched valuation Gini > compensation Gini,5,of 9 districts with matched owners; 95% CI excludes 0 in 1,NA,NA,NA
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",combined horses,0.7403,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.7282,0.7515,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",combined cattle_oxen,0.714,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.6972,0.7302,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",combined cattle_breeding,0.8491,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8363,0.8612,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",combined wheat_sown,0.8002,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.7842,0.8156,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",combined wheat_reaped,0.8212,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8063,0.8352,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Khoe only horses,0.7726,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.7388,0.8028,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Khoe only cattle_oxen,0.9002,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.878,0.9206,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Khoe only cattle_breeding,0.9164,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8961,0.9337,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Khoe only wheat_sown,0.8783,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8506,0.9015,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Khoe only wheat_reaped,0.8803,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8572,0.8998,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Swellendam settlers only horses,0.6957,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.6811,0.7094,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Swellendam settlers only cattle_oxen,0.6543,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.6334,0.6743,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Swellendam settlers only cattle_breeding,0.8202,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.8045,0.8348,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Swellendam settlers only wheat_sown,0.7664,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.7471,0.7848,0
+"S-e Khoe (Groenekloof + Swartrivier) + Swellendam settlers combined, filter fixed",Swellendam settlers only wheat_reaped,0.7918,"95% percentile, iid households stratified by group; n = 472 Khoe + 1674 settlers",0.7737,0.8084,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1700 horse,0.9122,"95% percentile, iid probates within decade",0.8373,0.9521,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1700 cattle,0.7341,"95% percentile, iid probates within decade",0.6529,0.8006,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1700 sheep,0.7289,"95% percentile, iid probates within decade",0.6443,0.8021,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1700 plough,0.8066,"95% percentile, iid probates within decade",0.7238,0.8836,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1700 wagon,0.8161,"95% percentile, iid probates within decade",0.7349,0.8804,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1710 horse,0.9561,"95% percentile, iid probates within decade",0.9255,0.9759,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1710 cattle,0.7822,"95% percentile, iid probates within decade",0.733,0.8235,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1710 sheep,0.8151,"95% percentile, iid probates within decade",0.7621,0.8573,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1710 plough,0.7945,"95% percentile, iid probates within decade",0.743,0.8411,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1710 wagon,0.8034,"95% percentile, iid probates within decade",0.7442,0.849,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1720 horse,0.9505,"95% percentile, iid probates within decade",0.9103,0.9733,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1720 cattle,0.8132,"95% percentile, iid probates within decade",0.7148,0.8779,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1720 sheep,0.8154,"95% percentile, iid probates within decade",0.7569,0.8586,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1720 plough,0.8713,"95% percentile, iid probates within decade",0.8157,0.9125,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1720 wagon,0.7992,"95% percentile, iid probates within decade",0.7253,0.8541,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1730 horse,0.9406,"95% percentile, iid probates within decade",0.8963,0.9628,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1730 cattle,0.759,"95% percentile, iid probates within decade",0.7054,0.8019,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1730 sheep,0.7529,"95% percentile, iid probates within decade",0.6994,0.7998,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1730 plough,0.9043,"95% percentile, iid probates within decade",0.86240000000000006,0.9377,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1730 wagon,0.7316,"95% percentile, iid probates within decade",0.6744,0.7821,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1740 horse,0.9346,"95% percentile, iid probates within decade",0.8911,0.9661,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1740 cattle,0.6667,"95% percentile, iid probates within decade",0.6019,0.7213,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1740 sheep,0.6728,"95% percentile, iid probates within decade",0.608,0.7311,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1740 plough,0.7819,"95% percentile, iid probates within decade",0.7152,0.8355,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1740 wagon,0.7435,"95% percentile, iid probates within decade",0.6553,0.8143,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1750 horse,0.9618,"95% percentile, iid probates within decade",0.9156,0.9744,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1750 cattle,0.8045,"95% percentile, iid probates within decade",0.7483,0.849,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1750 sheep,0.8109,"95% percentile, iid probates within decade",0.7541,0.8529,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1750 plough,0.8755,"95% percentile, iid probates within decade",0.8242,0.9142,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1750 wagon,0.8203,"95% percentile, iid probates within decade",0.7672,0.8663,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1760 horse,0.9606,"95% percentile, iid probates within decade",0.9362,0.9731,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1760 cattle,0.7619,"95% percentile, iid probates within decade",0.7169,0.8026,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1760 sheep,0.7596,"95% percentile, iid probates within decade",0.7134,0.8,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1760 plough,0.9217,"95% percentile, iid probates within decade",0.8809,0.9435,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1760 wagon,0.6867,"95% percentile, iid probates within decade",0.6327,0.7356,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1770 horse,0.9526,"95% percentile, iid probates within decade",0.93,0.9679,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1770 cattle,0.7392,"95% percentile, iid probates within decade",0.6991,0.7736,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1770 sheep,0.7495,"95% percentile, iid probates within decade",0.6993,0.7944,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1770 plough,0.8816,"95% percentile, iid probates within decade",0.8255,0.9203,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1770 wagon,0.8523,"95% percentile, iid probates within decade",0.7003,0.9071,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1780 horse,0.8985,"95% percentile, iid probates within decade",0.869,0.9236,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1780 cattle,0.8346,"95% percentile, iid probates within decade",0.802,0.8609,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1780 sheep,0.8143,"95% percentile, iid probates within decade",0.7788,0.8433,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1780 plough,0.9001,"95% percentile, iid probates within decade",0.8646,0.9272,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1780 wagon,0.7019,"95% percentile, iid probates within decade",0.659,0.7416,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1790 horse,0.9045,"95% percentile, iid probates within decade",0.879,0.9256,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1790 cattle,0.8086,"95% percentile, iid probates within decade",0.7699,0.8384,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1790 sheep,0.8534,"95% percentile, iid probates within decade",0.8225,0.8793,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1790 plough,0.9199,"95% percentile, iid probates within decade",0.8666,0.9484,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1790 wagon,0.7969,"95% percentile, iid probates within decade",0.7039,0.8496,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1800 horse,0.913,"95% percentile, iid probates within decade",0.89,0.931,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1800 cattle,0.7579,"95% percentile, iid probates within decade",0.7281,0.7846,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1800 sheep,0.9171,"95% percentile, iid probates within decade",0.8925,0.9352,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1800 plough,0.8784,"95% percentile, iid probates within decade",0.8528,0.9012,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1800 wagon,0.7958,"95% percentile, iid probates within decade",0.7077,0.8669,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1810 horse,0.9377,"95% percentile, iid probates within decade",0.9201,0.9512,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1810 cattle,0.7885,"95% percentile, iid probates within decade",0.7546,0.8177,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1810 sheep,0.9215,"95% percentile, iid probates within decade",0.9047,0.9357,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1810 plough,0.8861,"95% percentile, iid probates within decade",0.8618,0.9083,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1810 wagon,0.7272,"95% percentile, iid probates within decade",0.6838,0.7689,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1820 horse,0.9203,"95% percentile, iid probates within decade",0.8814,0.9448,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1820 cattle,0.7829,"95% percentile, iid probates within decade",0.7595,0.8038,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1820 sheep,0.894,"95% percentile, iid probates within decade",0.8775,0.9083,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1820 plough,0.9192,"95% percentile, iid probates within decade",0.8959,0.9374,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1820 wagon,0.9232,"95% percentile, iid probates within decade",0.7601,0.9651,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1830 horse,0.9245,"95% percentile, iid probates within decade",0.8363,0.9553,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1830 cattle,0.7692,"95% percentile, iid probates within decade",0.7182,0.8106,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1830 sheep,0.8687,"95% percentile, iid probates within decade",0.8349,0.8961,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1830 plough,0.9378,"95% percentile, iid probates within decade",0.8538,0.9607,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),1830 wagon,0.6965,"95% percentile, iid probates within decade",0.6451,0.7451,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),min all,0.6667,"95% percentile, iid probates within decade",0.5968,0.6862,0
+S-f probate Ginis (legend corrected; 8 date-like counts set to NA),min from 1770,0.6965,"95% percentile, iid probates within decade",0.6429,0.7158,0
+S-a Fig 2 price-weighted (all census rows),settlers 1680,0.7359,"95% percentile, household-cluster bootstrap",0.7135,0.7568,0
+S-a Fig 2 price-weighted (all census rows),settlers 1700,0.7384,"95% percentile, household-cluster bootstrap",0.7203,0.7555,0
+S-a Fig 2 price-weighted (all census rows),settlers 1720,0.6766,"95% percentile, household-cluster bootstrap",0.6582,0.6939,0
+S-a Fig 2 price-weighted (all census rows),settlers 1740,0.7061,"95% percentile, household-cluster bootstrap",0.6903,0.7215,0
+S-a Fig 2 price-weighted (all census rows),settlers 1760,0.7246,"95% percentile, household-cluster bootstrap",0.7109,0.7378,0
+S-a Fig 2 price-weighted (all census rows),settlers 1780,0.7283,"95% percentile, household-cluster bootstrap",0.7174,0.7388,0
+S-a Fig 2 price-weighted (all census rows),settlers 1800,0.7713,"95% percentile, household-cluster bootstrap",0.7627,0.7798,0
+S-a Fig 2 price-weighted (all census rows),settlers 1820,0.8269,"95% percentile, household-cluster bootstrap",0.819,0.8346,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1680,0.777,"95% percentile, household-cluster bootstrap",0.751,0.8003,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1700,0.7725,"95% percentile, household-cluster bootstrap",0.7546,0.7891,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1720,0.7223,"95% percentile, household-cluster bootstrap",0.7035,0.7401,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1740,0.7208,"95% percentile, household-cluster bootstrap",0.7044,0.7367,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1760,0.7331,"95% percentile, household-cluster bootstrap",0.7197,0.7463,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1780,0.7255,"95% percentile, household-cluster bootstrap",0.7134,0.7372,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1800,0.7282,"95% percentile, household-cluster bootstrap",0.719,0.73740000000000006,0
+S-a Fig 2 price-weighted (all census rows),slaveassets 1820,0.7957,"95% percentile, household-cluster bootstrap",0.7876,0.8035,0
+S-a Fig 2 price-weighted (all census rows),zero 1680,0.814,"95% percentile, household-cluster bootstrap",0.7877,0.8377,0
+S-a Fig 2 price-weighted (all census rows),zero 1700,0.8933,"95% percentile, household-cluster bootstrap",0.8805,0.9047,0
+S-a Fig 2 price-weighted (all census rows),zero 1720,0.9105,"95% percentile, household-cluster bootstrap",0.9013,0.919,0
+S-a Fig 2 price-weighted (all census rows),zero 1740,0.9051,"95% percentile, household-cluster bootstrap",0.8965,0.913,0
+S-a Fig 2 price-weighted (all census rows),zero 1760,0.9141,"95% percentile, household-cluster bootstrap",0.9072,0.9206,0
+S-a Fig 2 price-weighted (all census rows),zero 1780,0.9252,"95% percentile, household-cluster bootstrap",0.9204,0.93,0
+S-a Fig 2 price-weighted (all census rows),zero 1800,0.9381,"95% percentile, household-cluster bootstrap",0.9352,0.9411,0
+S-a Fig 2 price-weighted (all census rows),zero 1820,0.9306,"95% percentile, household-cluster bootstrap",0.927,0.934,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1680,0.7968,"95% percentile, household-cluster bootstrap",0.7739,0.8168,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1700,0.8514,"95% percentile, household-cluster bootstrap",0.8407,0.8608,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1720,0.844,"95% percentile, household-cluster bootstrap",0.8363,0.8511,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1740,0.8676,"95% percentile, household-cluster bootstrap",0.8598,0.875,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1760,0.8754,"95% percentile, household-cluster bootstrap",0.8689,0.8816,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1780,0.8563,"95% percentile, household-cluster bootstrap",0.8515,0.861,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1800,0.8906,"95% percentile, household-cluster bootstrap",0.8878,0.8934,0
+S-a Fig 2 price-weighted (all census rows),sheep12 1820,0.8862,"95% percentile, household-cluster bootstrap",0.8827,0.8897,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1680,0.0781,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.0605,0.0962,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1700,0.1549,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.1408,0.1689,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1720,0.2339,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.219,0.2495,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1740,0.199,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.1866,0.2115,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1760,0.1895,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.1795,0.1999,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1780,0.197,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.1887,0.2057,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1800,0.1669,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.1596,0.1743,0
+S-a intro comparative: zero-asset minus settlers-only ('as large as'; similar = within +/-0.03),period 1820,0.1037,"95% percentile; similar (|diff| <= 0.03, CI inside): no",0.0974,0.1101,0
+S-b 12-sheep scenario vs '0.89 to 0.91' (periods 1760-1800),min over 1760/1780/1800,0.8563,95% percentile,0.8515,0.861,NA
+S-b 12-sheep scenario vs '0.89 to 0.91' (periods 1760-1800),max over 1760/1780/1800,0.8906,95% percentile,0.8878,0.8934,NA
+S-c 18th-century basket range vs '0.6-0.75' (decades 1700-1790),min,0.6577,95% percentile,0.6354,0.6791,NA
+S-c 18th-century basket range vs '0.6-0.75' (decades 1700-1790),max,0.7478,95% percentile,0.7324,0.7677,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top1 1800-1830,13.5934,95% percentile,12.6286,14.5504,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top1 1700-1790,11.213,95% percentile,10.3848,11.9326,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top1 all decades 1690-1830,11.7366,95% percentile,11.0999,12.2942,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top01 1800-1830,2.5979,95% percentile,2.211,2.8897,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top01 1700-1790,2.077,95% percentile,1.8123,2.2003,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top01 all decades 1690-1830,2.1766,95% percentile,1.9518,2.2771,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top001 1800-1830,0.5334,95% percentile,0.4048,0.6041,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top001 1700-1790,0.493,95% percentile,0.3856,0.5097,NA
+S-g top shares of the H1 basket (% of total value; mean of decade shares),top001 all decades 1690-1830,0.5256,95% percentile,0.4324,0.5386,NA
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1680,0.7273,98.75% percentile,0.6913,0.7616,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1700,0.7683,98.75% percentile,0.7414,0.7946,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1720,0.8373,98.75% percentile,0.815,0.8575,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1740,0.8835,98.75% percentile,0.8678,0.8979,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1760,0.9033,98.75% percentile,0.8918,0.9136,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1780,0.9147,98.75% percentile,0.9044,0.9241,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1800,0.8903,98.75% percentile,0.8804,0.8996,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",settlers 1820,0.8775,98.75% percentile,0.8616,0.8974,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1680,0.726,98.75% percentile,0.6899,0.7605,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1700,0.7644,98.75% percentile,0.7377,0.7905,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1720,0.8101,98.75% percentile,0.7879,0.831,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1740,0.8587,98.75% percentile,0.8433,0.8734,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1760,0.8795,98.75% percentile,0.8683,0.8893,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1780,0.8836,98.75% percentile,0.8737,0.8929,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1800,0.8621,98.75% percentile,0.8532,0.8705,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",slaveassets 1820,0.8671,98.75% percentile,0.8513,0.8871,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1680,0.8427,98.75% percentile,0.8183,0.866,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1700,0.9014,98.75% percentile,0.8869,0.9142,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1720,0.952,98.75% percentile,0.9457,0.9579,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1740,0.958,98.75% percentile,0.9534,0.9623,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1760,0.9678,98.75% percentile,0.9646,0.9708,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1780,0.9746,98.75% percentile,0.9721,0.977,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1800,0.9716,98.75% percentile,0.9693,0.9737,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",zero 1820,0.9605,98.75% percentile,0.9549,0.9671,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1680,0.8407,98.75% percentile,0.8168,0.8634,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1700,0.8975,98.75% percentile,0.8834,0.9099,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1720,0.9416,98.75% percentile,0.9358,0.9472,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1740,0.9505,98.75% percentile,0.9462,0.9546,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1760,0.9615,98.75% percentile,0.9587,0.964,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1780,0.968,98.75% percentile,0.9658,0.9701,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1800,0.9672,98.75% percentile,0.9652,0.9691,0
+"5C.3 diagnostic: raw-unit Fig 2 as printed (code populations), central bootstrap",sheep12 1820,0.9588,98.75% percentile,0.9532,0.9656,0
+S-h H3b on assets with >= 10 positive holders (report only),BD Horses,0.9757,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 15",0.9519,0.9995,NA
+S-h H3b on assets with >= 10 positive holders (report only),BD Oxen,0.985,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 13",0.968,1.002,NA
+S-h H3b on assets with >= 10 positive holders (report only),GK Horses,0.7526,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 46",0.6338,0.8714,NA
+S-h H3b on assets with >= 10 positive holders (report only),GK Oxen,0.8001,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 33",0.6919,0.9083,NA
+S-h H3b on assets with >= 10 positive holders (report only),GK Cattle,0.7729,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 41",0.6634,0.8825,NA
+S-h H3b on assets with >= 10 positive holders (report only),GK Wheat reaped,0.7782,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 34",0.664,0.8924,NA
+S-h H3b on assets with >= 10 positive holders (report only),SR Horses,0.7708,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 128",0.7069,0.8347,NA
+S-h H3b on assets with >= 10 positive holders (report only),SR Oxen,0.9189,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 44",0.8771,0.9606,NA
+S-h H3b on assets with >= 10 positive holders (report only),SR Cattle,0.9558,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 29",0.925,0.9866,NA
+S-h H3b on assets with >= 10 positive holders (report only),SR Wheat reaped,0.8635,"98.75% sup-t, joint-draw rule; V = 9999/9999; c = 3.488; positive holders 76",0.8063,0.9207,NA
+S-h H3b on assets with >= 10 positive holders (report only),rule outcome (not a verdict),0.7526,qualified (inference-fragile) (rule 3),0.6338,NA,NA
+"S-h excluded assets (< 10 positive holders), point only",BD Sheep,0.992,positive holders 7,NA,NA,NA
+"S-h excluded assets (< 10 positive holders), point only",GK Sheep,0.9907,positive holders 1,NA,NA,NA
+"S-h excluded assets (< 10 positive holders), point only",SR Sheep,NA,positive holders 0,NA,NA,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",BD Horses,0.9757,98.75% sup-t; c = 3.535,0.9516,0.9998,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",BD Oxen,0.985,98.75% sup-t; c = 3.535,0.9678,1.0022,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",BD Sheep,0.992,98.75% sup-t; c = 3.535,0.8701,1.1139,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",GK Horses,0.7526,98.75% sup-t; c = 3.535,0.6322,0.873,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",GK Oxen,0.8001,98.75% sup-t; c = 3.535,0.6905,0.9097,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",GK Cattle,0.7729,98.75% sup-t; c = 3.535,0.6619,0.8839,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",GK Sheep,0.9907,98.75% sup-t; c = 3.535,-0.6884,2.6699,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",GK Wheat reaped,0.7782,98.75% sup-t; c = 3.535,0.6624,0.894,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",SR Horses,0.7708,98.75% sup-t; c = 3.535,0.7061,0.8355,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",SR Oxen,0.9189,98.75% sup-t; c = 3.535,0.8765,0.9612,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",SR Cattle,0.9558,98.75% sup-t; c = 3.535,0.9246,0.987,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",SR Wheat reaped,0.8635,98.75% sup-t; c = 3.535,0.8055,0.9215,NA
+"S-h zero-replicate convention (G* = 0 for undefined draws; a convention, not an estimate)",rule outcome (not a verdict),0.7526,qualified (inference-fragile) (rule 3),-0.6884,NA,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1690,0.7359,98.75% sup-t; c = 3.322; V = 9999,0.7103,0.7616,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1700,0.7478,98.75% sup-t; c = 3.322; V = 9999,0.7279,0.7678,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1710,0.7217,98.75% sup-t; c = 3.322; V = 9999,0.7008,0.7426,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1720,0.6971,98.75% sup-t; c = 3.322; V = 9999,0.6794,0.7148,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1730,0.6577,98.75% sup-t; c = 3.322; V = 9999,0.6416,0.6738,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1740,0.6869,98.75% sup-t; c = 3.322; V = 9999,0.6713,0.7026,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1750,0.704,98.75% sup-t; c = 3.322; V = 9999,0.6902,0.7177,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1760,0.7341,98.75% sup-t; c = 3.322; V = 9999,0.7216,0.7466,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1770,0.71,98.75% sup-t; c = 3.322; V = 9999,0.6991,0.7209,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1780,0.7269,98.75% sup-t; c = 3.322; V = 9999,0.7159,0.738,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1790,0.7272,98.75% sup-t; c = 3.322; V = 9999,0.7174,0.7369,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1800,0.7395,98.75% sup-t; c = 3.322; V = 9999,0.7296,0.7493,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1810,0.8033,98.75% sup-t; c = 3.322; V = 9999,0.7948,0.8118,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1820,0.8286,98.75% sup-t; c = 3.322; V = 9999,0.8214,0.8357,NA
+5C.3 diagnostic: iid household-year - H1 sup-t band,decade 1830,0.8238,98.75% sup-t; c = 3.322; V = 9999,0.8149,0.8328,NA
+5C.3 diagnostic: iid household-year - H2,1780,0.9252,"98.75% percentile; central [0.919, 0.931]",0.9229,0.9276,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1690,0.7359,98.75% sup-t; c = 3.930; V = 9999,0.6026,0.8692,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1700,0.7478,98.75% sup-t; c = 3.930; V = 9999,0.6944,0.8012,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1710,0.7217,98.75% sup-t; c = 3.930; V = 9999,0.6941,0.7493,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1720,0.6971,98.75% sup-t; c = 3.930; V = 9999,0.6682,0.7259,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1730,0.6577,98.75% sup-t; c = 3.930; V = 9999,0.6342,0.6812,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1740,0.6869,98.75% sup-t; c = 3.930; V = 9999,0.6622,0.7116,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1750,0.704,98.75% sup-t; c = 3.930; V = 9999,0.6897,0.7182,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1760,0.7341,98.75% sup-t; c = 3.930; V = 9999,0.7261,0.742,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1770,0.71,98.75% sup-t; c = 3.930; V = 9999,0.6936,0.7264,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1780,0.7269,98.75% sup-t; c = 3.930; V = 9999,0.7141,0.7398,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1790,0.7272,98.75% sup-t; c = 3.930; V = 9999,0.7035,0.7509,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1800,0.7395,98.75% sup-t; c = 3.930; V = 9999,0.6834,0.7956,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1810,0.8033,98.75% sup-t; c = 3.930; V = 9999,0.7915,0.815,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1820,0.8286,98.75% sup-t; c = 3.930; V = 9999,0.8223,0.8348,NA
+5C.3 diagnostic: year-block (census years within decades) - H1 sup-t band,decade 1830,0.8238,98.75% sup-t; c = 3.930; V = 9999,0.7278,0.9199,NA
+5C.3 diagnostic: year-block (census years within decades) - H2,1780,0.9252,"98.75% percentile; central [0.919, 0.931]",0.9209,0.929,NA

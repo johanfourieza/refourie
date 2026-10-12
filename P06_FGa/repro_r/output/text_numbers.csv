@@ -1,0 +1,37 @@
+quantity,value,n
+tx_p12_obs,24993,24993
+tx_p13_cattle_cape,52.43549622496991,9139
+tx_p13_cattle_us,8.018985744926177,15854
+tx_p13_cattle_us_owners,8.292544517647878,15331
+tx_p14_share_mass,70.7897793263647,8610
+tx_p14_share_gr,81.69515669515668,4212
+tx_p14_share_stel,46.17490739249477,6209
+tx_p16_cropval_mass,38.30511623598578,NA
+tx_p16_cropval_tulb,228.39842229958228,NA
+tx_p16_cropval_stel,183.34095717079205,NA
+tx_p16_cropval_maine,19.985778603439922,NA
+tx_p16_cropval_gr,37.07599894315898,NA
+tx_p16_cropval_cape,126.81442500949153,9139
+tx_p16_cropval_us,28.591278631984586,12975
+tx_p16_cropwine_stel,648.4110313134374,NA
+tx_p16_cropwine_tulb,308.60227809942313,NA
+tx_p16_cropwine_us,28.591278631984586,12975
+tx_p16_cropwine_cape,294.6233413846127,9139
+tx_p16_livinc_gr,149.04798901482127,NA
+tx_p16_livinc_maine,7.706346017450343,NA
+tx_p16_livinc_mass,7.507065529122231,NA
+tx_p16_income_cape,225.6542491696841,9139
+tx_p16_income_us,36.204012736035324,12975
+tx_p17_income_cape_cons,182.33717642649557,9139
+tx_p17_income_us_cons,36.204012736035324,12975
+tx_p17_income_cape_cons_wine,350.14609280161676,9139
+tx_p17_ensinc_stel_med,53.328301249999996,2990
+tx_p17_ensinc_va_med,32.1318,4275
+tx_p17_ensinc_va_mean,66.22135985964911,4275
+tx_p17_ensinc_stel_mean,72.86332684406354,2990
+"cattle mean, all Cape households",33.45723661244153,NA
+"cattle mean, all US households",4.723499907117206,NA
+"cattle mean, US households with cattle>0",8.292544517647878,NA
+US crop value per farmer incl. Virginia farmers as zero,23.399258247130064,NA
+"Stellenbosch fig7 income median, baseline Cape price",209.87765575,NA
+"Stellenbosch fig7 income mean, baseline Cape price",286.75926046262543,NA

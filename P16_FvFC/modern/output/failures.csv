@@ -1,0 +1,5 @@
+row,B,valid,F,causes,verdict_valid,verdict_bounded,escalated,flagged_after,perturb_k,perturb_combos,perturb_agree
+H2-rise,39999,39999,0,ok:39999,qualified (significant against a subset of the initial period only),qualified (significant against a subset of the initial period only),TRUE,,0,1,TRUE
+H3-rise,9999,9999,0,ok:9999,confirmed,confirmed,FALSE,,0,1,TRUE
+H4,9999,9999,0,ok:9999,confirmed,confirmed,FALSE,,0,1,TRUE
+H4-w,9999,9999,0,ok:9999,confirmed,confirmed,FALSE,,0,1,TRUE

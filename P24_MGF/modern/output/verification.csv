@@ -1,0 +1,5 @@
+check,pass_or_value
+S3 Table 5 band counts reproduce (12 cells),1
+S3 Fig 1 SR reproduces from supp (39 points),1
+"records loaded = 12,092",1
+stray 1919 records under-five (dropped in S6),1

@@ -1,0 +1,9 @@
+claim_id,value,basis
+text_p11_effect_stell,-7.039916997420725,"100*(exp(10*T2_r1_c1)-1), AS in £"
+text_p11_effect_all,-4.495803780928531,"100*(exp(10*T2_r1_c4)-1), AS in £"
+text_p11_mean_shortfall_effect,-25.844059056498946,100*(exp(65*T2_r1_c4)-1)
+text_p11_years_lost,-17.315519567854295,67*(exp(65*T2_r1_c4)-1)
+text_p6_pop_g1,979,text_p6_stell_g1 + text_p5_nonstell_g1
+text_p6_pop_g2,6063,text_p6_stell_g2 + text_p5_nonstell_g2
+text_p6_pop_g3,10662,text_p6_stell_g3 + text_p5_nonstell_g3
+text_p4_wealth_loss,12,24% slave share x (1 - 0.5) shortfall share; 0.4 gives 14.4

@@ -1,0 +1,12 @@
+scenario,claim_id,published,original_code,scenario_value,note
+baseline_Aprime_pre1801,T5_total_mean,1650,1650.2,1650.2,"S2 A-prime: decades 1700-1800 (n=2,228), as the Table 5 note states"
+include_1801_1806,T5_total_mean,1650,1650.2,1578.7,"All 2,577 inventories; the 1806 bin (1801-06, n=349) has mean 1,122"
+drop_exact_duplicates,T5_total_mean,1650,1650.2,1653.1,"10 non-empty rows with identical date and 28-item vector dropped (possible original/clerk copies)"
+reweight_opgaaf_slave_share,T5_total_mean,1650,1650.2,1325.1,"Inventories reweighted so the zero-slave share equals the opgaafrolle 1700-73 share (55.5% vs 34.3%)"
+reweight_opgaaf_slave_share,T5_1700_mean,759,759.3,496.8,"Same reweighting within row 1700 (1673-1700)"
+reweight_opgaaf_slave_share,T5_1790_mean,1979,1978.7,1594.9,"Same reweighting within row 1790 (1781-90); rise from row 1700 is 3.2x vs 2.6x unweighted"
+reweight_opgaaf_slave_share,T4_excl_inv_slaves_mean,7.49,7.486,7.486,"Conditional on owning slaves; unaffected by construction"
+exclude_slave_value,T5_total_mean,1650,1650.2,1065.5,"Wealth net of slave value (slaves are 33-42% of the 28-item value in every decade)"
+exclude_slave_value,T5_1700_mean,759,759.3,466,"Row 1700 net of slaves"
+exclude_slave_value,T5_1790_mean,1979,1978.7,1298,"Row 1790 net of slaves; upward trend preserved"
+zeros_included_panel,T4_excl_inv_slaves_mean,7.49,7.486,4.92,"Same Table 4 with zeros included: inventories 4.92 vs opgaafrolle 3.30 slaves per household; 65.7% vs 44.5% own slaves"

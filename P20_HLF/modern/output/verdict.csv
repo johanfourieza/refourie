@@ -1,0 +1,8 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule
+H1a (T8_tot_lo = 22.35),A_b 20.54; A_g 25.63,"scenario envelope [20.54, 25.63] (deterministic)",NA,"A8/A8a band [20.115, 24.585]; A3 floor 11.175",qualified (envelope straddles the band),6
+H1b (T8_tot_hi = 25.09),A_b 23.27; A_g 28.94,"scenario envelope [23.27, 28.94] (deterministic)",NA,"A8/A8a band [22.581, 27.599]; A3 floor 12.545",qualified (envelope straddles the band),6
+"H1 (summary, 22-25%)","weaker of H1a, H1b",NA,NA,ordering §8,qualified (envelope straddles the band),§8 H1 summary
+H2 (T3_pct = 12.01),12.01,NA,NA,"[10.809, 13.211]",not-testable,§8 / §10.2
+H3a (T6_pct_lo = 10.0),9.98,NA,NA,"[9.00, 11.00]",not-testable,§8 / §10.2
+H3b (T6_pct_hi = 11.4),11.44,NA,NA,"[10.26, 12.54]",not-testable,§8 / §10.2
+H4 (TX_p19_pv = 0.99),not computable,NA,NA,"[0.891, 1.089]",not-testable,§8 / §10.3

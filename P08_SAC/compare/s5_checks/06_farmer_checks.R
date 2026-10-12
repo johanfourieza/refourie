@@ -1,0 +1,10 @@
+# S5 (P08): farmer definitions (aggregate counts only)
+suppressMessages(library(tidyverse))
+source("./tools/paths.R")
+av <- readRDS(dscratch("P08_SAC","compare","augmented_vars.rds")) %>% filter(repeatlast_a == 0)
+print(with(av, table(hisco6 = hisco_a == 6, farmer = farmer_a, useNA = "ifany")))
+print(av %>% filter(!is.na(hisco_a)) %>% group_by(regiondum_a) %>% summarise(n = n(), farmer_dummy = mean(farmer_a == 1), hisco6 = mean(hisco_a == 6)) %>% as.data.frame())
+print(with(av %>% filter(hisco_a == 6), table(hisco2_a, farmer_a, useNA = "ifany")))
+L <- readRDS(dscratch("P08_SAC","compare","linked.rds")) %>% filter(repeatlast_a == 0, !is.na(calling_norm))
+print(L %>% filter(regiondum_a %in% c(1, 5)) %>% group_by(regiondum_a) %>%
+  summarise(n = n(), literal_farmer = mean(grepl("^farmer$|^farming$", calling_norm)), any_farm = mean(grepl("farm", calling_norm))) %>% as.data.frame())

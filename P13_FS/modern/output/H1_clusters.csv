@@ -1,0 +1,14 @@
+stat,value
+inventories resampled,2949
+debt rows/inv q0,1
+debt rows/inv q25,1
+debt rows/inv q50,3
+debt rows/inv q75,5
+debt rows/inv q100,169
+purpose rows/inv q0,0
+purpose rows/inv q25,0
+purpose rows/inv q50,1
+purpose rows/inv q75,2
+purpose rows/inv q100,22
+undefined draws,0
+B_eff,49999

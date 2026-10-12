@@ -1,0 +1,7 @@
+claim,estimate,interval,threshold_or_band,verdict,rule
+TX148_popgr (settler growth 3.6%),3.642 (workbook),NA,source audit,confirmed,source audit: workbook formula reproduces; series splice checked (Codex F1)
+TX158_paint_cape2 (paintings 34% vs Amsterdam 25%),34 (= P27 source table),NA,source audit,confirmed,source audit: matches the cited EHR table; welfare reading not supported (N2)
+TX158_paint_cape1 (paintings 38%),NA,NA,source audit,not-testable,not reconstructable from the cited tables without class weights
+TX163_slave_share (slaves 24% of movable probate assets),24.02 (auction wealth 1693-1748),NA,source audit,qualified,source figure describes auction wealth incl. property 1693-1748 not movable probate assets 1673-1806 (F5/N1)
+T1_1650_median (median life span 50),50 (typed in workbook),NA,source audit,not-testable,SAF microdata not available; typed values only
+T1_1900_median (median life span 66),66 (typed in workbook),NA,source audit,not-testable,SAF microdata not available; SD 101.9 anomaly (N7)

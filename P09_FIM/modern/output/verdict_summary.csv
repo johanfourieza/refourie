@@ -1,0 +1,6 @@
+item,value
+verdict rows,11
+assessed (T2),4
+not-testable,3
+different-estimand,4
+weakest assessed T2 verdict,qualified (inference-fragile)

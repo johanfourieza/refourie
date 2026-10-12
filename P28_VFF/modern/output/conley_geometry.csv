@@ -1,0 +1,9 @@
+"item","value"
+"n_districts",138
+"n_dropped_no_centroid",0
+"median_nn_km",42.6675363468224
+"twice_median_nn_km",85.3350726936448
+"rule_cutoff_km",100
+"card_cutoff_km",100
+"max_centroid_diff_vs_datafile_km",1.58486382756181
+"max_pair_km",1178.21383259851

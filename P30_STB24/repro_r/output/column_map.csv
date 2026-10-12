@@ -1,0 +1,3135 @@
+year,col,T,L,var,name_col
+1685,3,generale rolle van all vrijluijden - hague archives - 4021 - pgs 50 - 52,mannen,NA,name_men
+1685,4,generale rolle van all vrijluijden - hague archives - 4021 - pgs 50 - 52,vrouwen,NA,name_women
+1685,5,kinderen,zoonen,settler_sons,NA
+1685,6,kinderen,dogteren,settler_daughters,NA
+1685,7,kinderen,knegts,knechts,NA
+1685,8,slave,slaven,slave_men,NA
+1685,9,slave,slavinnen,slave_women,NA
+1685,10,slave,kinderen,slave_children,NA
+1685,11,slave,ossen,cattle,NA
+1685,12,slave,koeijen,cattle,NA
+1685,13,slave,vaerse,cattle,NA
+1685,14,slave,kalvers,cattle,NA
+1685,15,slave,paarden,horses,NA
+1685,16,slave,schapen,sheep,NA
+1685,17,slave,varkens,pigs,NA
+1685,18,slave,snaphaan,guns,NA
+1685,19,slave,pistolen,pistols,NA
+1685,20,slave,degens,swords,NA
+1685,24,gewonnen graanen,tarwe,wheat,NA
+1685,25,gewonnen graanen,rogge,rye,NA
+1685,26,gewonnen graanen,garst,barley,NA
+1689,3,"opneeminge der vrijluijden, stellenbosch 1689 - hague archives - 4027 - pgs 91 - 106",mannen,NA,name_men
+1689,5,kinderen,zoons,settler_sons,NA
+1689,6,kinderen,dogters,settler_daughters,NA
+1689,10,gewonne graanen,rogge,rye,NA
+1689,11,gewonne graanen,garst,barley,NA
+1689,12,gewonne graanen,tarwe,wheat,NA
+1689,13,gewonne graanen,wijngaard,vines,NA
+1689,17,hoe lang in possesie,pistolen,pistols,NA
+1689,18,hoe lang in possesie,snaphanen,guns,NA
+1689,20,zijt,varken,pigs,NA
+1689,22,bokken en,schapen,sheep,NA
+1689,23,bokken en,paarden,horses,NA
+1689,24,bokken en,kalven,cattle,NA
+1689,25,bokken en,ossen,cattle,NA
+1689,26,bokken en,vaarsen,cattle,NA
+1689,27,bokken en,koeijen,cattle,NA
+1689,28,bokken en,slave,slave_men,NA
+1689,29,bokken en,slavin,slave_women,NA
+1689,30,slave,kinderen,slave_children,NA
+1691,3,rolle der vrijluijden onder't district van stellenbosch (pgs 84 - 88) & onder't district van drakenstein (pgs 89 - 92) - hague archives - 4028,mans namen,NA,name_men
+1691,7,hoe lang,pistolen,pistols,NA
+1691,8,wijngaard,stokken,vines,NA
+1691,10,mudden,rogge gewonnen,rye,NA
+1691,12,mudden,garst gewonnen,barley,NA
+1691,14,mudden,tarwe gewonnen,wheat,NA
+1691,16,zijd,snaphanen,guns,NA
+1691,17,zijd,bokken,goats,NA
+1691,18,zijd,schapen,sheep,NA
+1691,19,zijd,paarden,horses,NA
+1691,20,zijd,calvers,cattle,NA
+1691,21,zijd,ossen,cattle,NA
+1691,22,zijd,vaarsen,cattle,NA
+1691,23,zijd,koeijen,cattle,NA
+1691,24,slaven kinderen,jong,slave_boys,NA
+1691,25,slaven kinderen,meijd,slave_girls,NA
+1691,26,slaven kinderen,slaven,slave_men,NA
+1691,27,slaven kinderen,slavinnen,slave_women,NA
+1691,28,slaven kinderen,varcken,pigs,NA
+1692,4,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,mannen,NA,name_men
+1692,5,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,vrouwen,NA,name_women
+1692,9,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,dogteren,settler_daughters,NA
+1692,10,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,knegten,knechts,NA
+1692,11,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,slaven,slave_men,NA
+1692,12,lijste der vrijluijden en derselver gedoente geseten in 't district van stellenbosch (folios 5 - 7) & in 't district van drakestijn (folios 8 - 11) - cape archives - j183,slavinnen,slave_women,NA
+1692,13,slaven,jonges,slave_boys,NA
+1692,14,slaven,meijsjes,slave_girls,NA
+1692,16,wijngaard,stokken,vines,NA
+1692,20,tarwe,gewonnen,wheat,NA
+1692,22,rogge,gewonnen,rye,NA
+1692,24,garst,gewonnen,barley,NA
+1692,27,snaphanen,schaapen,sheep,NA
+1692,28,snaphanen,varkens,pigs,NA
+1692,29,snaphanen,paarden,horses,NA
+1692,30,snaphanen,kalveren,cattle,NA
+1692,31,snaphanen,ossen,cattle,NA
+1692,32,snaphanen,vaarsen,cattle,NA
+1692,33,snaphanen,koeijen,cattle,NA
+1693,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,mannen namen,NA,name_men
+1693,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,vrouwen namen,NA,name_women
+1693,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,sonen,settler_sons,NA
+1693,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,dogteren,settler_daughters,NA
+1693,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,knegten,knechts,NA
+1693,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,slaven,slave_men,NA
+1693,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 70 - 77) & onder't district van drakenstein (pgs 78 - 86) - hague archives - 4032,slavinnen,slave_women,NA
+1693,12,slaven,jongens,slave_boys,NA
+1693,13,slaven,meijsjes,slave_girls,NA
+1693,14,slaven,paarden,horses,NA
+1693,15,slaven,ossen,cattle,NA
+1693,16,slaven,koeijen,cattle,NA
+1693,17,slaven,kalveren,cattle,NA
+1693,18,slaven,vaarsen,cattle,NA
+1693,19,slaven,schaapen,sheep,NA
+1693,20,slaven,varckens,pigs,NA
+1693,22,wijngaard,stokken,vines,NA
+1693,26,tarwe,gewonnen,wheat,NA
+1693,28,rogge,gewonnen,rye,NA
+1693,30,garst,gewonnen,barley,NA
+1693,33,snaphanen,pistolen,pistols,NA
+1695,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,mannen namen,NA,name_men
+1695,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,vrouwen namen,NA,name_women
+1695,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,sonen,settler_sons,NA
+1695,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,dogters,settler_daughters,NA
+1695,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,knegts,knechts,NA
+1695,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,slaven,slave_men,NA
+1695,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 220 - 223) & onder't district van drakenstein (pgs 223 - 228) - hague archives - 4036,slavinnen,slave_women,NA
+1695,12,slaven,sonen,settler_sons,NA
+1695,13,slaven,dogters,settler_daughters,NA
+1695,14,slaven,paarden,horses,NA
+1695,15,slaven,ossen,cattle,NA
+1695,16,slaven,koeijen,cattle,NA
+1695,17,slaven,kalveren,cattle,NA
+1695,18,slaven,vaarsen,cattle,NA
+1695,19,slaven,schaapen,sheep,NA
+1695,20,slaven,varckens,pigs,NA
+1695,22,bokken en,wijnstokken,vines,NA
+1695,26,tarwe,gewonnen,wheat,NA
+1695,28,rogge,gewonnen,rye,NA
+1695,30,garst,gewonnen,barley,NA
+1695,33,snaphanen,pistolen,pistols,NA
+1696,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,mannen namen,NA,name_men
+1696,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,vrouwen namen,NA,name_women
+1696,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,sonen,settler_sons,NA
+1696,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,dogters,settler_daughters,NA
+1696,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,knegten,knechts,NA
+1696,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,slaven,slave_men,NA
+1696,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 242 - 243) & onder't district van drakenstein (pgs 244 - 246) - hague archives - 4036,slavinnen,slave_women,NA
+1696,12,slaven,jongens,slave_boys,NA
+1696,13,slaven,meijsjes,slave_girls,NA
+1696,14,slaven,paarden,horses,NA
+1696,15,slaven,ossen,cattle,NA
+1696,16,slaven,koeijen,cattle,NA
+1696,17,slaven,kalveren,cattle,NA
+1696,18,slaven,vaarsen,cattle,NA
+1696,19,slaven,schaapen,sheep,NA
+1696,20,slaven,varkens,pigs,NA
+1696,22,wijngaard,stocken,vines,NA
+1696,26,tarwe,gewonnen,wheat,NA
+1696,28,rogge,gewonnen,rye,NA
+1696,30,garst,gewonnen,barley,NA
+1696,33,snaphanen,pistolen,pistols,NA
+1697,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,mannen namen,NA,name_men
+1697,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,vrouwen namen,NA,name_women
+1697,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,zoonen,settler_sons,NA
+1697,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,dogters,settler_daughters,NA
+1697,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,knegten,knechts,NA
+1697,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,slaven,slave_men,NA
+1697,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 163 - 168) & onder't district van drakenstein (pg 169 only - incomplete) - hague archives - 4039,slavinnen,slave_women,NA
+1697,12,slaven,jongens,slave_boys,NA
+1697,13,slaven,mijsies,slave_girls,NA
+1697,14,slaven,ossen,cattle,NA
+1697,15,slaven,koeijen,cattle,NA
+1697,16,slaven,kalveren,cattle,NA
+1697,17,slaven,varsen,cattle,NA
+1697,18,slaven,schapen,sheep,NA
+1697,19,slaven,varkens,pigs,NA
+1697,21,wijngaard,stocken,vines,NA
+1697,25,tarwe,gewonnen,wheat,NA
+1697,27,rogge,gewonnen,rye,NA
+1697,29,garst,gewonnen,barley,NA
+1697,32,snaphanen,pistolen,pistols,NA
+1697,33,snaphanen,paarden,horses,NA
+1698,3,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",mannen namen,NA,name_men
+1698,4,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",vrouwen namen,NA,name_women
+1698,7,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",sonen,settler_sons,NA
+1698,8,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",dogters,settler_daughters,NA
+1698,9,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",knegts,knechts,NA
+1698,10,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",slaven,slave_men,NA
+1698,11,"vrijluijden gehoorende onder't district van stellenbosch (pgs 394 - 396) & onder't district van drakenstein (pgs 397, 398 & 404) - hague archives - 4041",slavinnen,slave_women,NA
+1698,12,slaven,jongens,slave_boys,NA
+1698,13,slaven,meijsies,slave_girls,NA
+1698,14,slaven,paarden,horses,NA
+1698,15,slaven,ossen,cattle,NA
+1698,16,slaven,koeijen,cattle,NA
+1698,17,slaven,kalveren,cattle,NA
+1698,18,slaven,vaarsen,cattle,NA
+1698,19,slaven,schaapen,sheep,NA
+1698,20,slaven,varkens,pigs,NA
+1698,26,tarwe,gewonnen,wheat,NA
+1698,28,rogge,gewonnen,rye,NA
+1698,30,garst,gewonnen,barley,NA
+1698,33,snaphanen,pistolen,pistols,NA
+1700,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,mannen namen,NA,name_men
+1700,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,vrouwen namen,NA,name_women
+1700,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,sonen,settler_sons,NA
+1700,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,dogters,settler_daughters,NA
+1700,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,knegts,knechts,NA
+1700,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,slaven,slave_men,NA
+1700,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 336 - 338) & onder't district van drakenstein (pgs 339 - 341) - hague archives - 4045,slavinnen,slave_women,NA
+1700,12,slaven,jongens,slave_boys,NA
+1700,13,slaven,meijsies,slave_girls,NA
+1700,14,slaven,paarden,horses,NA
+1700,15,slaven,ossen,cattle,NA
+1700,16,slaven,koeijen,cattle,NA
+1700,17,slaven,kalveren,cattle,NA
+1700,18,slaven,vaersen,cattle,NA
+1700,19,slaven,schapen,sheep,NA
+1700,20,slaven,varkens,pigs,NA
+1700,21,wijn,stocken,vines,NA
+1700,22,wijn,leggers,wine,NA
+1700,26,tarwe,gewonnen,wheat,NA
+1700,28,rogge,gewonnen,rye,NA
+1700,30,garst,gewonnen,barley,NA
+1700,33,snaphanen,pistolen,pistols,NA
+1701,3,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,mannen namen,NA,name_men
+1701,4,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,vrouwen namen,NA,name_women
+1701,8,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,sonen,settler_sons,NA
+1701,9,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,dogters,settler_daughters,NA
+1701,10,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,knegts,knechts,NA
+1701,11,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,slaven,slave_men,NA
+1701,12,stellenbosch pgs 176 - 178; drakenstein pgs 179 - 181 - hague archives bk. 4047,slavinnen,slave_women,NA
+1701,13,slaven,jongens,slave_boys,NA
+1701,14,slaven,meijsies,slave_girls,NA
+1701,15,slaven,paarden,horses,NA
+1701,16,slaven,ossen,cattle,NA
+1701,17,slaven,koeijen,cattle,NA
+1701,18,slaven,kalveren,cattle,NA
+1701,19,slaven,vaersen,cattle,NA
+1701,20,slaven,schapen,sheep,NA
+1701,21,slaven,varkens,pigs,NA
+1701,22,wijn,stocken,vines,NA
+1701,23,wijn,leggers,wine,NA
+1701,27,tarwe,gewonnen,wheat,NA
+1701,29,rogge,gewonnen,rye,NA
+1701,31,garst,gewonnen,barley,NA
+1701,34,snaphanen,pistolen,pistols,NA
+1702,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,mannen namen,NA,name_men
+1702,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,vrouwen namen,NA,name_women
+1702,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,dogters,settler_daughters,NA
+1702,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,knegts,knechts,NA
+1702,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,slaven,slave_men,NA
+1702,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 482 - 485) & onder't district van drakenstein (pgs 486 - 488) - hague archives - 4048,slavinnen,slave_women,NA
+1702,12,slaven,jongens,slave_boys,NA
+1702,13,slaven,meijsies,slave_girls,NA
+1702,14,slaven,paarden,horses,NA
+1702,15,slaven,ossen,cattle,NA
+1702,16,slaven,koeijen,cattle,NA
+1702,17,slaven,kalveren,cattle,NA
+1702,18,slaven,vaarsen,cattle,NA
+1702,19,slaven,schaapen,sheep,NA
+1702,20,slaven,varkens,pigs,NA
+1702,21,wijn,stocken,vines,NA
+1702,22,wijn,leggers,wine,NA
+1702,26,tarwe,gewonnen,wheat,NA
+1702,28,rogge,gewonnen,rye,NA
+1702,30,garst,gewonnen,barley,NA
+1702,33,snaphanen,pistolen,pistols,NA
+1703,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,mannen namen,NA,name_men
+1703,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,vrouwen namen,NA,name_women
+1703,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,zoonen,settler_sons,NA
+1703,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,dogters,settler_daughters,NA
+1703,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,knegts,knechts,NA
+1703,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,slaven,slave_men,NA
+1703,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 278 - 281) & onder't district van drakenstein (pgs 282 - 286) - hague archives - 4050,slavinnen,slave_women,NA
+1703,12,slaven,jongetjes,slave_boys,NA
+1703,13,slaven,meijsjes,slave_girls,NA
+1703,14,slaven,paarden,horses,NA
+1703,15,slaven,ossen,cattle,NA
+1703,16,slaven,koeijen,cattle,NA
+1703,17,slaven,kalveren,cattle,NA
+1703,18,slaven,vaarsen,cattle,NA
+1703,19,slaven,schapen,sheep,NA
+1703,20,slaven,varkens,pigs,NA
+1703,21,wijn,stocken,vines,NA
+1703,22,leggers,wijn,wine,NA
+1703,26,tarwe,gewonnen,wheat,NA
+1703,28,rogge,gewonnen,rye,NA
+1703,30,garst,gewonnen,barley,NA
+1703,33,snaphanen,pistolen,pistols,NA
+1704,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,mannen namen,NA,name_men
+1704,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,vrouwen namen,NA,name_women
+1704,7,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,zoonen,settler_sons,NA
+1704,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,dogters,settler_daughters,NA
+1704,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,knegts,knechts,NA
+1704,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,slaven,slave_men,NA
+1704,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 427 - 432) & onder't district van drakenstein (pgs 433 - 436) - hague archives - 4051,slavinnen,slave_women,NA
+1704,12,slaven,jongetjes,slave_boys,NA
+1704,13,slaven,meijsjens,slave_girls,NA
+1704,14,slaven,paarden,horses,NA
+1704,15,slaven,ossen,cattle,NA
+1704,16,slaven,koeijen,cattle,NA
+1704,17,slaven,kalveren,cattle,NA
+1704,18,slaven,vaarsen,cattle,NA
+1704,19,slaven,schapen,sheep,NA
+1704,20,slaven,varkens,pigs,NA
+1704,21,wijn,stocken,vines,NA
+1704,22,leggers,wijn,wine,NA
+1704,26,tarwe,gewonnen,wheat,NA
+1704,28,rogge,gewonnen,rye,NA
+1704,30,garst,gewonnen,barley,NA
+1704,33,snaphanen,pistolen,pistols,NA
+1705,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,mannen namen,NA,name_men
+1705,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,vrouwen namen,NA,name_women
+1705,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,dogters,settler_daughters,NA
+1705,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,knegts,knechts,NA
+1705,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,slaven,slave_men,NA
+1705,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 424 - 427) & onder't district van drakenstein (pgs 428 - 432) - hague archives - 4052,slavinnen,slave_women,NA
+1705,12,slaven,jongetjes,slave_boys,NA
+1705,13,slaven,meijsjens,slave_girls,NA
+1705,14,slaven,paarden,horses,NA
+1705,15,slaven,ossen,cattle,NA
+1705,16,slaven,koeijen,cattle,NA
+1705,17,slaven,kalveren,cattle,NA
+1705,18,slaven,vaarsen,cattle,NA
+1705,19,slaven,schaapen,sheep,NA
+1705,20,slaven,varkens,pigs,NA
+1705,21,wijn,stocken,vines,NA
+1705,22,leggers,wijn,wine,NA
+1705,26,tarwe,gewonnen,wheat,NA
+1705,28,rogge,gewonnen,rye,NA
+1705,30,garst,gewonnen,barley,NA
+1705,33,snaphanen,pistolen,pistols,NA
+1706,3,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,mannen namen,NA,name_men
+1706,4,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,vrouwen namen,NA,name_women
+1706,8,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,dogters,settler_daughters,NA
+1706,9,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,knegts,knechts,NA
+1706,10,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,slaven,slave_men,NA
+1706,11,vrijluijden gehoorende onder't district van stellenbosch (pgs 536 - 540) & onder't district van drakenstein (pgs 541 - 547) - hague archives - 4055,slavinnen,slave_women,NA
+1706,12,slaven,jongens,slave_boys,NA
+1706,13,slaven,meijsies,slave_girls,NA
+1706,14,slaven,paarden,horses,NA
+1706,15,slaven,ossen,cattle,NA
+1706,16,slaven,koeijen,cattle,NA
+1706,17,slaven,kalveren,cattle,NA
+1706,18,slaven,vaersen,cattle,NA
+1706,19,slaven,schapen,sheep,NA
+1706,20,slaven,varkens,pigs,NA
+1706,21,wijn,stocken,vines,NA
+1706,22,leggers,wijn,wine,NA
+1706,26,tarwe,gewonnen,wheat,NA
+1706,28,rogge,gewonnen,rye,NA
+1706,30,garst,gewonnen,barley,NA
+1706,32,snaphanen,pistolen,pistols,NA
+1706,33,houwen &,degens,swords,NA
+1707,3,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,mannen namen,NA,name_men
+1707,4,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,vrouwen namen,NA,name_women
+1707,7,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,zoonen,settler_sons,NA
+1707,8,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,dogters,settler_daughters,NA
+1707,9,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,knegts,knechts,NA
+1707,10,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,slaven,slave_men,NA
+1707,11,stellenbosch (pgs 508 to 513) & drakenstijn (pgs 514 to 519) - hague archives - 4058,slavinnen,slave_women,NA
+1707,12,slaven,jongens,slave_boys,NA
+1707,13,slaven,meijsies,slave_girls,NA
+1707,14,slaven,paarden,horses,NA
+1707,15,slaven,ossen,cattle,NA
+1707,16,slaven,koeijen,cattle,NA
+1707,17,slaven,kalveren,cattle,NA
+1707,18,slaven,vaarsen,cattle,NA
+1707,19,slaven,schapen,sheep,NA
+1707,20,slaven,varkens,pigs,NA
+1707,21,wijn,stocken,vines,NA
+1707,22,leggers,wijn,wine,NA
+1707,26,tarwe,gewonnen,wheat,NA
+1707,28,rogge,gewonnen,rye,NA
+1707,30,garst,gewonnen,barley,NA
+1707,32,snaphanen,pistolen,pistols,NA
+1708,3,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,mannen namen,NA,name_men
+1708,4,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,vrouwen namen,NA,name_women
+1708,7,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,zoonen,settler_sons,NA
+1708,8,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,dogters,settler_daughters,NA
+1708,9,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,knegts,knechts,NA
+1708,10,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,slaven,slave_men,NA
+1708,11,stellenbosch (pgs 452 to 455) & drakenstijn (pgs 456 to 460) - hague archives - 4060,slavinnen,slave_women,NA
+1708,12,slaven,jongens,slave_boys,NA
+1708,13,slaven,meijsies,slave_girls,NA
+1708,14,slaven,paarden,horses,NA
+1708,15,slaven,ossen,cattle,NA
+1708,16,slaven,koeijen,cattle,NA
+1708,17,slaven,kalveren,cattle,NA
+1708,18,slaven,vaarsen,cattle,NA
+1708,19,slaven,schapen,sheep,NA
+1708,20,slaven,varkens,pigs,NA
+1708,21,wijn,stocken,vines,NA
+1708,22,leggers,wijn,wine,NA
+1708,26,tarwe,gewonnen,wheat,NA
+1708,28,rogge,gewonnen,rye,NA
+1708,30,garst,gewonnen,barley,NA
+1709,3,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,mannen namen,NA,name_men
+1709,4,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,vrouwen namen,NA,name_women
+1709,7,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,zoonen,settler_sons,NA
+1709,8,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,dogters,settler_daughters,NA
+1709,9,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,knegts,knechts,NA
+1709,10,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,slaven,slave_men,NA
+1709,11,stellenbosch (pgs 357 to 361) & drakensteijn (pgs 362 to 367) - hague archives - 4062,slavinnen,slave_women,NA
+1709,12,slaven,jongens,slave_boys,NA
+1709,13,slaven,meijsies,slave_girls,NA
+1709,14,slaven,paarden,horses,NA
+1709,15,slaven,ossen,cattle,NA
+1709,16,slaven,koeijen,cattle,NA
+1709,17,slaven,kalveren,cattle,NA
+1709,18,slaven,vaarsen,cattle,NA
+1709,19,slaven,schapen,sheep,NA
+1709,20,slaven,varkens,pigs,NA
+1709,21,wijn,stocken,vines,NA
+1709,22,leggers,wijn,wine,NA
+1709,26,tarwe,gewonnen,wheat,NA
+1709,29,rogge,gewonnen,rye,NA
+1709,32,garst,gewonnen,barley,NA
+1710,3,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,mannen namen,NA,name_men
+1710,4,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,vrouwen namen,NA,name_women
+1710,8,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,sonen,settler_sons,NA
+1710,9,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,dogters,settler_daughters,NA
+1710,10,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,knegts,knechts,NA
+1710,11,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,slaven,slave_men,NA
+1710,12,hague archives - stellenbosch pgs 269 - 272 & drakenstein pgs 273 - 277 - book 4065,slavinnen,slave_women,NA
+1710,13,slaven,jongens,slave_boys,NA
+1710,14,slaven,meijsies,slave_girls,NA
+1710,15,slaven,paarden,horses,NA
+1710,16,slaven,ossen,cattle,NA
+1710,17,slaven,koeijen,cattle,NA
+1710,18,slaven,kalveren,cattle,NA
+1710,19,slaven,vaersen,cattle,NA
+1710,20,slaven,schapen,sheep,NA
+1710,21,slaven,varkens,pigs,NA
+1710,22,wijn,stocken,vines,NA
+1710,23,wijn,leggers,wine,NA
+1710,27,tarwe,gewonnen,wheat,NA
+1710,30,rogge,gewonnen,rye,NA
+1710,33,garst,gewonnen,barley,NA
+1710,37,snaphanen,pistolen,pistols,NA
+1711,3,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,mannen namen,NA,name_men
+1711,4,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,vrouwen namen,NA,name_women
+1711,7,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,zoonen,settler_sons,NA
+1711,8,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,dogters,settler_daughters,NA
+1711,9,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,knegts,knechts,NA
+1711,10,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,slaven,slave_men,NA
+1711,11,stellenbosch (pgs 269 to 272) & drakensteijn (pgs 273 to 277) - hague archives - 4065,slavinnen,slave_women,NA
+1711,12,slaven,jongens,slave_boys,NA
+1711,13,slaven,meijsies,slave_girls,NA
+1711,14,slaven,paarden,horses,NA
+1711,15,slaven,ossen,cattle,NA
+1711,16,slaven,koeijen,cattle,NA
+1711,17,slaven,kalveren,cattle,NA
+1711,18,slaven,vaarsen,cattle,NA
+1711,19,slaven,schapen,sheep,NA
+1711,20,slaven,varkens,pigs,NA
+1711,21,wijn,stocken,vines,NA
+1711,22,leggers,wijn,wine,NA
+1711,26,tarwe,gewonnen,wheat,NA
+1711,29,rogge,gewonnen,rye,NA
+1711,32,garst,gewonnen,barley,NA
+1712,3,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,mannen namen,NA,name_men
+1712,4,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,vrouwen namen,NA,name_women
+1712,7,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,zoonen,settler_sons,NA
+1712,8,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,dogters,settler_daughters,NA
+1712,9,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,knegts,knechts,NA
+1712,10,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,slaven,slave_men,NA
+1712,11,stellenbosch (pgs 220 to 229) & drakenstijn (pgs 230 to 243) - hague archives - 4068,slavinnen,slave_women,NA
+1712,12,slaven,jongens,slave_boys,NA
+1712,13,slaven,meijsies,slave_girls,NA
+1712,14,slaven,paarden,horses,NA
+1712,15,slaven,ossen,cattle,NA
+1712,16,slaven,koeijen,cattle,NA
+1712,17,slaven,kalveren,cattle,NA
+1712,18,slaven,vaarsen,cattle,NA
+1712,19,slaven,varkens,pigs,NA
+1712,20,slaven,schapen,sheep,NA
+1712,21,leggers,wijn,wine,NA
+1712,22,wijn,stokken,vines,NA
+1712,26,tarwe,gewonnen,wheat,NA
+1712,29,rogge,gewonnen,rye,NA
+1712,32,garst,gewonnen,barley,NA
+1712,35,snaphanen,pistolen,pistols,NA
+1713,3,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,mannen namen,NA,name_men
+1713,4,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,vrouwen namen,NA,name_women
+1713,7,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,zoonen,settler_sons,NA
+1713,8,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,dogters,settler_daughters,NA
+1713,9,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,knegts,knechts,NA
+1713,10,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,slaven,slave_men,NA
+1713,11,stellenbosch (pgs 960 to 969) & drakensteijn (pgs 970 to 981) - hague archives - 4070,slavinnen,slave_women,NA
+1713,12,slaven,jongens,slave_boys,NA
+1713,13,slaven,meijsies,slave_girls,NA
+1713,14,slaven,paarden,horses,NA
+1713,15,slaven,ossen,cattle,NA
+1713,16,slaven,koeijen,cattle,NA
+1713,17,slaven,kalveren,cattle,NA
+1713,18,slaven,vaarsen,cattle,NA
+1713,19,slaven,varkens,pigs,NA
+1713,20,slaven,schapen,sheep,NA
+1713,21,leggers,wijn,wine,NA
+1713,22,wijn,stokken,vines,NA
+1713,26,tarwe,gewonnen,wheat,NA
+1713,28,rogge,gewonnen,rye,NA
+1713,30,garst,gewonnen,barley,NA
+1713,32,snaphanen,pistolen,pistols,NA
+1714,3,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,mannen namen,NA,name_men
+1714,4,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,vrouwen namen,NA,name_women
+1714,8,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,dogters,settler_daughters,NA
+1714,9,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,knegts,knechts,NA
+1714,10,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,slaven,slave_men,NA
+1714,11,stellenbosch (pgs 14 to 18) & drakensteijn (pgs 19 to 24) - hague archives - 4073,slavinnen,slave_women,NA
+1714,12,slaven,jongetjes,slave_boys,NA
+1714,13,slaven,meijsjes,slave_girls,NA
+1714,14,slaven,paarden,horses,NA
+1714,15,slaven,ossen,cattle,NA
+1714,16,slaven,koeijen,cattle,NA
+1714,17,slaven,kalveren,cattle,NA
+1714,18,slaven,vaarsen,cattle,NA
+1714,19,slaven,schapen,sheep,NA
+1714,20,slaven,varkens,pigs,NA
+1714,21,wijn,stokken,vines,NA
+1714,22,leggers,wijn,wine,NA
+1714,26,tarwe,gewonnen,wheat,NA
+1714,29,rogge,gewonnen,rye,NA
+1714,32,garst,gewonnen,barley,NA
+1714,36,houwens,pistolen,pistols,NA
+1716,3,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,mannen namen,NA,name_men
+1716,4,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,vrouwen namen,NA,name_women
+1716,7,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,zoonen,settler_sons,NA
+1716,8,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,dogters,settler_daughters,NA
+1716,9,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,knegts,knechts,NA
+1716,10,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,slaven,slave_men,NA
+1716,11,stellenbosch (pgs 638 to 643) & drakensteijn (pgs 644 to 653) - hague archives - 4077,slavinnen,slave_women,NA
+1716,12,slaven,jongetjes,slave_boys,NA
+1716,13,slaven,meijsjes,slave_girls,NA
+1716,14,slaven,paarden,horses,NA
+1716,15,slaven,ossen,cattle,NA
+1716,16,slaven,koeijen,cattle,NA
+1716,17,slaven,vaarsen,cattle,NA
+1716,18,slaven,kalveren,cattle,NA
+1716,19,slaven,schapen,sheep,NA
+1716,20,slaven,varkens,pigs,NA
+1716,21,wijn,stokken,vines,NA
+1716,22,leggers,wijn,wine,NA
+1716,26,tarwe,gewonnen,wheat,NA
+1716,28,rogge,gewonnen,rye,NA
+1716,30,garst,gewonnen,barley,NA
+1716,33,houwens,pistolen,pistols,NA
+1717,3,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,mannen namen,NA,name_men
+1717,4,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,vrouwen namen,NA,name_women
+1717,8,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,dogters,settler_daughters,NA
+1717,9,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,knegts,knechts,NA
+1717,10,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,slaven,slave_men,NA
+1717,11,stellenbosch (pgs 341 to 347) & drakensteijn (pgs 348 to 363 - hague archives - 4079,slavinnen,slave_women,NA
+1717,12,slaven,jongetjes,slave_boys,NA
+1717,13,slaven,meijsjes,slave_girls,NA
+1717,14,slaven,paarden,horses,NA
+1717,15,slaven,rundervee,cattle,NA
+1717,16,slaven,schapen,sheep,NA
+1717,17,slaven,varkens,pigs,NA
+1717,18,wijn,stokken,vines,NA
+1717,19,leggers,wijn,wine,NA
+1717,21,tarwe,gewonnen,wheat,NA
+1717,23,rogge,gewonnen,rye,NA
+1717,25,garst,gewonnen,barley,NA
+1717,26,garst,snaphanen,guns,NA
+1717,27,garst,houwens,swords,NA
+1717,28,garst,pistolen,pistols,NA
+1718,3,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,mannen namen,NA,name_men
+1718,4,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,vrouwen namen,NA,name_women
+1718,8,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,dogters,settler_daughters,NA
+1718,9,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,knegts,knechts,NA
+1718,10,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,slaven,slave_men,NA
+1718,11,stellenbosch (pgs 528 to 535) & drakensteijn (pgs 536 to 547 - hague archives - 4081,slavinnen,slave_women,NA
+1718,12,slaven,jongetjes,slave_boys,NA
+1718,13,slaven,meijsjes,slave_girls,NA
+1718,14,slaven,paarden,horses,NA
+1718,15,slaven,rundervee,cattle,NA
+1718,16,slaven,schapen,sheep,NA
+1718,17,slaven,varkens,pigs,NA
+1718,18,wijn,stokken,vines,NA
+1718,19,leggers,wijn,wine,NA
+1718,21,tarwe,gewonnen,wheat,NA
+1718,23,rogge,gewonnen,rye,NA
+1718,25,garst,gewonnen,barley,NA
+1718,26,garst,snaphanen,guns,NA
+1718,27,garst,houwens,swords,NA
+1718,28,garst,pistolen,pistols,NA
+1719,3,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,mannen,NA,name_men
+1719,4,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,vrouwen,NA,name_women
+1719,8,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,zoonen,settler_sons,NA
+1719,9,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,dogters,settler_daughters,NA
+1719,10,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,knegts,knechts,NA
+1719,11,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,slaven,slave_men,NA
+1719,12,hague archives - stellenbosch pgs 336 - 343 & drakenstein pgs 344 - 357 - book 4083,slavinnen,slave_women,NA
+1719,13,slaven,jongetjes,slave_boys,NA
+1719,14,slaven,meijsjes,slave_girls,NA
+1719,15,slaven,paarden,horses,NA
+1719,16,slaven,rundervee,cattle,NA
+1719,17,slaven,schapen,sheep,NA
+1719,18,slaven,varkens,pigs,NA
+1719,19,slaven,wijnstokken,vines,NA
+1719,20,leggers,wijn,wine,NA
+1719,22,tarwe,gewonnen,wheat,NA
+1719,24,rogge,gewonnen,rye,NA
+1719,26,garst,gewonnen,barley,NA
+1719,27,garst,snaphaanen,guns,NA
+1719,28,degens,degens,swords,NA
+1719,29,degens,pistolen,pistols,NA
+1721,3,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,mannen namen,NA,name_men
+1721,4,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,vrouwen namen,NA,name_women
+1721,8,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,dogters,settler_daughters,NA
+1721,9,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,knegts,knechts,NA
+1721,10,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,slaven,slave_men,NA
+1721,11,generale opneem rolle der burgers stellenbosch & drakensteijn (pgs 545-561) - hague archives - 4087,slavinnen,slave_women,NA
+1721,12,slaven,jongetjes,slave_boys,NA
+1721,13,slaven,meijsjes,slave_girls,NA
+1721,14,slaven,paarden,horses,NA
+1721,15,slaven,rundervee,cattle,NA
+1721,16,slaven,schapen,sheep,NA
+1721,17,slaven,varkens,pigs,NA
+1721,18,wijn,stokken,vines,NA
+1721,19,leggers,wijn,wine,NA
+1721,21,tarwe,gewonnen,wheat,NA
+1721,23,rogge,gewonnen,rye,NA
+1721,25,garst,gewonnen,barley,NA
+1721,26,garst,snaphanen,guns,NA
+1721,27,garst,houwens,swords,NA
+1721,28,garst,pistolen,pistols,NA
+1722,4,name,mannen,NA,name_men
+1722,5,name,vrouwen,NA,name_women
+1722,8,name,zoonen,settler_sons,NA
+1722,9,name,dogters,settler_daughters,NA
+1722,10,name,knegts,knechts,NA
+1722,11,name,slaven,slave_men,NA
+1722,12,name,slavinnen,slave_women,NA
+1722,13,slaven,jongetjes,slave_boys,NA
+1722,14,slaven,meijsjes,slave_girls,NA
+1722,15,slaven,paarden,horses,NA
+1722,16,slaven,rundervee,cattle,NA
+1722,17,slaven,schapen,sheep,NA
+1722,18,slaven,varkens,pigs,NA
+1722,19,slaven,wijnstokken,vines,NA
+1722,20,leggers,wijn,wine,NA
+1722,22,tarwe,gewonnen,wheat,NA
+1722,24,rogge,gewonnen,rye,NA
+1722,26,garst,gewonnen,barley,NA
+1722,27,garst,snaphaanen,guns,NA
+1722,28,houwens en degens,degens,swords,NA
+1722,29,houwens en degens,pistolen,pistols,NA
+1723,3,name,mannen,NA,name_men
+1723,4,name,vrouwen,NA,name_women
+1723,8,name,zoonen,settler_sons,NA
+1723,9,name,dogters,settler_daughters,NA
+1723,10,name,knegts,knechts,NA
+1723,11,name,slaven,slave_men,NA
+1723,12,name,slavinnen,slave_women,NA
+1723,13,slaven,jongetjes,slave_boys,NA
+1723,14,slaven,meijsjes,slave_girls,NA
+1723,15,slaven,paarden,horses,NA
+1723,16,slaven,rundervee,cattle,NA
+1723,17,slaven,schapen,sheep,NA
+1723,18,slaven,varkens,pigs,NA
+1723,19,slaven,wijnstokken,vines,NA
+1723,20,leggers,wijn,wine,NA
+1723,22,tarwe,gewonnen,wheat,NA
+1723,24,rogge,gewonnen,rye,NA
+1723,26,garst,gewonnen,barley,NA
+1723,27,garst,snaphaanen,guns,NA
+1723,28,houwens en degens,degens,swords,NA
+1723,29,houwens en degens,pistolen,pistols,NA
+1724,3,name,mannen,NA,name_men
+1724,4,name,vrouwen,NA,name_women
+1724,8,name,zoons,settler_sons,NA
+1724,9,name,dogters,settler_daughters,NA
+1724,10,name,knegts,knechts,NA
+1724,11,name,slaven,slave_men,NA
+1724,12,name,slavinnen,slave_women,NA
+1724,13,slaven,jongetjes,slave_boys,NA
+1724,14,slaven,meijsjes,slave_girls,NA
+1724,15,slaven,paarden,horses,NA
+1724,16,slaven,rundervee,cattle,NA
+1724,17,slaven,schapen,sheep,NA
+1724,18,slaven,varkens,pigs,NA
+1724,19,slaven,wijnstokken,vines,NA
+1724,20,leggers,wijn,wine,NA
+1724,22,tarwe,gewonnen,wheat,NA
+1724,24,rogge,gewonnen,rye,NA
+1724,26,garst,gewonnen,barley,NA
+1724,27,garst,snaphaanen,guns,NA
+1724,28,degens,degens,swords,NA
+1724,29,degens,pistolen,pistols,NA
+1725,3,name,mannen,NA,name_men
+1725,4,name,vrouwen,NA,name_women
+1725,8,name,zoonen,settler_sons,NA
+1725,9,name,dogters,settler_daughters,NA
+1725,10,name,knegts,knechts,NA
+1725,11,name,slaven,slave_men,NA
+1725,12,name,slavinnen,slave_women,NA
+1725,13,slaven,jongetjes,slave_boys,NA
+1725,14,slaven,meijsjes,slave_girls,NA
+1725,15,slaven,paarden,horses,NA
+1725,16,slaven,rundervee,cattle,NA
+1725,17,slaven,schapen,sheep,NA
+1725,18,slaven,varkens,pigs,NA
+1725,19,slaven,wijnstokken,vines,NA
+1725,20,leggers,wijn,wine,NA
+1725,22,tarwe,gewonnen,wheat,NA
+1725,24,rogge,gewonnen,rye,NA
+1725,26,garst,gewonnen,barley,NA
+1725,27,garst,snaphaanen,guns,NA
+1725,28,houwens en degens,degens,swords,NA
+1725,29,houwens en degens,pistolen,pistols,NA
+1726,3,name,mannen,NA,name_men
+1726,4,name,vrouwen,NA,name_women
+1726,8,name,zoonen,settler_sons,NA
+1726,9,name,dogters,settler_daughters,NA
+1726,10,name,knegts,knechts,NA
+1726,11,name,slaven,slave_men,NA
+1726,12,name,slavinnen,slave_women,NA
+1726,13,slaven,jongetjes,slave_boys,NA
+1726,14,slaven,meijsjes,slave_girls,NA
+1726,15,slaven,paarden,horses,NA
+1726,16,slaven,rundervee,cattle,NA
+1726,17,slaven,schapen,sheep,NA
+1726,18,slaven,varkens,pigs,NA
+1726,19,slaven,wijnstokken,vines,NA
+1726,20,leggers,wijn,wine,NA
+1726,22,tarwe,gewonnen,wheat,NA
+1726,24,rogge,gewonnen,rye,NA
+1726,26,garst,gewonnen,barley,NA
+1726,27,garst,snaphaanen,guns,NA
+1726,28,houwens en degens,degens,swords,NA
+1726,29,houwens en degens,pistolen,pistols,NA
+1727,3,name,mannen,NA,name_men
+1727,4,name,vrouwen,NA,name_women
+1727,8,name,zoonen,settler_sons,NA
+1727,9,name,dogters,settler_daughters,NA
+1727,10,name,knegts,knechts,NA
+1727,11,name,slaven,slave_men,NA
+1727,12,name,slavinnen,slave_women,NA
+1727,13,slaven,jongetjes,slave_boys,NA
+1727,14,slaven,meijsjes,slave_girls,NA
+1727,15,slaven,paarden,horses,NA
+1727,16,slaven,rundervee,cattle,NA
+1727,17,slaven,schapen,sheep,NA
+1727,18,slaven,varkens,pigs,NA
+1727,19,slaven,wijnstokken,vines,NA
+1727,20,leggers,wijn,wine,NA
+1727,22,tarwe,gewonnen,wheat,NA
+1727,24,rogge,gewonnen,rye,NA
+1727,26,garst,gewonnen,barley,NA
+1727,27,garst,snaphaanen,guns,NA
+1727,28,degens,degens,swords,NA
+1727,29,degens,pistolen,pistols,NA
+1728,3,name,mannen,NA,name_men
+1728,4,name,vrouwen,NA,name_women
+1728,8,name,zoonen,settler_sons,NA
+1728,9,name,dogters,settler_daughters,NA
+1728,10,name,knegts,knechts,NA
+1728,11,name,slaven,slave_men,NA
+1728,12,name,slavinnen,slave_women,NA
+1728,13,slaven,jongetjes,slave_boys,NA
+1728,14,slaven,meijsjes,slave_girls,NA
+1728,15,slaven,paarden,horses,NA
+1728,16,slaven,beesten,cattle,NA
+1728,17,slaven,schapen,sheep,NA
+1728,18,slaven,varkens,pigs,NA
+1728,19,slaven,wijnstokken,vines,NA
+1728,20,leggers,wijn,wine,NA
+1728,22,tarwe,gewonnen,wheat,NA
+1728,24,rogge,gewonnen,rye,NA
+1728,26,garst,gewonnen,barley,NA
+1728,27,garst,snaphaanen,guns,NA
+1728,28,houwens en degens,degens,swords,NA
+1728,29,houwens en degens,pistolen,pistols,NA
+1729,3,name,mannen,NA,name_men
+1729,4,name,vrouwen,NA,name_women
+1729,8,name,zoonen,settler_sons,NA
+1729,9,name,dogters,settler_daughters,NA
+1729,10,name,knegts,knechts,NA
+1729,11,name,slaven,slave_men,NA
+1729,12,name,slavinnen,slave_women,NA
+1729,13,slaven,jongetjes,slave_boys,NA
+1729,14,slaven,meijsjes,slave_girls,NA
+1729,15,slaven,paarden,horses,NA
+1729,16,slaven,rundervee,cattle,NA
+1729,17,slaven,schapen,sheep,NA
+1729,18,slaven,varkens,pigs,NA
+1729,19,slaven,wijnstokken,vines,NA
+1729,20,leggers,wijn,wine,NA
+1729,22,tarwe,gewonnen,wheat,NA
+1729,24,rogge,gewonnen,rye,NA
+1729,26,garst,gewonnen,barley,NA
+1729,27,garst,snaphaanen,guns,NA
+1729,28,houwens en degens,degens,swords,NA
+1729,29,houwens en degens,pistolen,pistols,NA
+1730,3,name,mannen,NA,name_men
+1730,4,name,vrouwen,NA,name_women
+1730,8,name,zoonen,settler_sons,NA
+1730,9,name,dogters,settler_daughters,NA
+1730,10,name,knegts,knechts,NA
+1730,11,name,slaven,slave_men,NA
+1730,12,name,slavinnen,slave_women,NA
+1730,13,slaven,jongetjes,slave_boys,NA
+1730,14,slaven,meijsjes,slave_girls,NA
+1730,15,slaven,paarden,horses,NA
+1730,16,slaven,rundervee,cattle,NA
+1730,17,slaven,schapen,sheep,NA
+1730,18,slaven,varkens,pigs,NA
+1730,19,slaven,wijnstokken,vines,NA
+1730,20,leggers,wijn,wine,NA
+1730,22,tarwe,gewonnen,wheat,NA
+1730,24,rogge,gewonnen,rye,NA
+1730,26,garst,gewonnen,barley,NA
+1730,27,garst,snaphaanen,guns,NA
+1730,28,degens,degens,swords,NA
+1730,29,degens,pistolen,pistols,NA
+1731,3,name,mannen,NA,name_men
+1731,4,name,vrouwen,NA,name_women
+1731,8,name,zoonen,settler_sons,NA
+1731,9,name,dogters,settler_daughters,NA
+1731,10,name,knegts,knechts,NA
+1731,11,name,slaven,slave_men,NA
+1731,12,name,slavinnen,slave_women,NA
+1731,13,slaven,jongetjes,slave_boys,NA
+1731,14,slaven,meijsjes,slave_girls,NA
+1731,15,slaven,paarden,horses,NA
+1731,16,slaven,rundervee,cattle,NA
+1731,17,slaven,schapen,sheep,NA
+1731,18,slaven,varkens,pigs,NA
+1731,19,slaven,wijnstokken,vines,NA
+1731,20,leggers,wijn,wine,NA
+1731,22,tarwe,gewonnen,wheat,NA
+1731,24,rogge,gewonnen,rye,NA
+1731,26,garst,gewonnen,barley,NA
+1731,27,garst,snaphaanen,guns,NA
+1731,28,degens,degens,swords,NA
+1731,29,degens,pistolen,pistols,NA
+1732,3,name,mannen,NA,name_men
+1732,4,name,vrouwen,NA,name_women
+1732,8,name,zoonen,settler_sons,NA
+1732,9,name,dogters,settler_daughters,NA
+1732,10,name,knegts,knechts,NA
+1732,11,name,slaven,slave_men,NA
+1732,12,name,slavinnen,slave_women,NA
+1732,13,slaven,jongetjes,slave_boys,NA
+1732,14,slaven,meijsjes,slave_girls,NA
+1732,15,slaven,paarden,horses,NA
+1732,16,slaven,rundervee,cattle,NA
+1732,17,slaven,schapen,sheep,NA
+1732,18,slaven,varkens,pigs,NA
+1732,19,slaven,wijnstokken,vines,NA
+1732,20,leggers,wijn,wine,NA
+1732,22,tarwe,gewonnen,wheat,NA
+1732,24,rogge,gewonnen,rye,NA
+1732,26,garst,gewonnen,barley,NA
+1732,27,garst,snaphaanen,guns,NA
+1732,28,degens,degens,swords,NA
+1732,29,degens,pistolen,pistols,NA
+1733,3,name,mannen,NA,name_men
+1733,4,name,vrouwen,NA,name_women
+1733,8,name,zoonen,settler_sons,NA
+1733,9,name,dogters,settler_daughters,NA
+1733,10,name,knegts,knechts,NA
+1733,11,name,slaven,slave_men,NA
+1733,12,name,slavinnen,slave_women,NA
+1733,13,slaven,jongetjes,slave_boys,NA
+1733,14,slaven,meijsjes,slave_girls,NA
+1733,15,slaven,paarden,horses,NA
+1733,16,slaven,rundervee,cattle,NA
+1733,17,slaven,schapen,sheep,NA
+1733,18,slaven,varkens,pigs,NA
+1733,19,slaven,wijnstokken,vines,NA
+1733,20,leggers,wijn,wine,NA
+1733,22,tarwe,gewonnen,wheat,NA
+1733,24,rogge,gewonnen,rye,NA
+1733,26,garst,gewonnen,barley,NA
+1733,27,garst,snaphaanen,guns,NA
+1733,28,degens,degens,swords,NA
+1733,29,degens,pistolen,pistols,NA
+1734,3,name,mannen,NA,name_men
+1734,4,name,vrouwen,NA,name_women
+1734,8,name,zoonen,settler_sons,NA
+1734,9,name,dogters,settler_daughters,NA
+1734,10,name,knegts,knechts,NA
+1734,11,name,slaven,slave_men,NA
+1734,12,name,slavinnen,slave_women,NA
+1734,13,slaven,jongetjes,slave_boys,NA
+1734,14,slaven,meijsjes,slave_girls,NA
+1734,15,slaven,paarden,horses,NA
+1734,16,slaven,rundervee,cattle,NA
+1734,17,slaven,schapen,sheep,NA
+1734,18,slaven,varkens,pigs,NA
+1734,19,slaven,wijnstokken,vines,NA
+1734,20,leggers,wijn,wine,NA
+1734,22,tarwe,gewonnen,wheat,NA
+1734,24,rogge,gewonnen,rye,NA
+1734,26,garst,gewonnen,barley,NA
+1734,27,garst,snaphaanen,guns,NA
+1734,28,degens,degens,swords,NA
+1734,29,degens,pistolen,pistols,NA
+1735,3,name,mannen,NA,name_men
+1735,4,name,vrouwen,NA,name_women
+1735,8,name,zoonen,settler_sons,NA
+1735,9,name,dogters,settler_daughters,NA
+1735,10,name,knegts,knechts,NA
+1735,11,name,slaven,slave_men,NA
+1735,12,name,slavinnen,slave_women,NA
+1735,13,slaven,jongetjes,slave_boys,NA
+1735,14,slaven,meijsjes,slave_girls,NA
+1735,15,slaven,paarden,horses,NA
+1735,16,slaven,rundervee,cattle,NA
+1735,17,slaven,schapen,sheep,NA
+1735,18,slaven,varkens,pigs,NA
+1735,19,slaven,wijnstokken,vines,NA
+1735,20,leggers,wijn,wine,NA
+1735,22,tarwe,gewonnen,wheat,NA
+1735,24,rogge,gewonnen,rye,NA
+1735,26,garst,gewonnen,barley,NA
+1735,27,garst,snaphaanen,guns,NA
+1735,28,degens,degens,swords,NA
+1735,29,degens,pistolen,pistols,NA
+1736,3,name,mannen,NA,name_men
+1736,4,name,vrouwen,NA,name_women
+1736,8,name,zoonen,settler_sons,NA
+1736,9,name,dogters,settler_daughters,NA
+1736,10,name,knegts,knechts,NA
+1736,11,name,slaven,slave_men,NA
+1736,12,name,slavinnen,slave_women,NA
+1736,13,slaven,jongetjes,slave_boys,NA
+1736,14,slaven,meijsjes,slave_girls,NA
+1736,15,slaven,paarden,horses,NA
+1736,16,slaven,rundervee,cattle,NA
+1736,17,slaven,schapen,sheep,NA
+1736,18,slaven,varkens,pigs,NA
+1736,19,slaven,wijnstokken,vines,NA
+1736,20,leggers,wijn,wine,NA
+1736,22,tarwe,gewonnen,wheat,NA
+1736,24,rogge,gewonnen,rye,NA
+1736,26,garst,gewonnen,barley,NA
+1736,27,garst,snaphaanen,guns,NA
+1736,28,degens,degens,swords,NA
+1736,29,degens,pistolen,pistols,NA
+1737,3,name,mannen,NA,name_men
+1737,4,name,vrouwen,NA,name_women
+1737,8,name,zoonen,settler_sons,NA
+1737,9,name,dogters,settler_daughters,NA
+1737,10,name,knegts,knechts,NA
+1737,11,name,slaven,slave_men,NA
+1737,12,name,slavinnen,slave_women,NA
+1737,13,slaven,jongetjes,slave_boys,NA
+1737,14,slaven,meijsjes,slave_girls,NA
+1737,15,slaven,paarden,horses,NA
+1737,16,slaven,rundervee,cattle,NA
+1737,17,slaven,schapen,sheep,NA
+1737,18,slaven,varkens,pigs,NA
+1737,19,slaven,wijnstokken,vines,NA
+1737,20,leggers,wijn,wine,NA
+1737,22,tarwe,gewonnen,wheat,NA
+1737,24,rogge,gewonnen,rye,NA
+1737,26,garst,gewonnen,barley,NA
+1737,27,garst,snaphaanen,guns,NA
+1737,28,degens,degens,swords,NA
+1737,29,degens,pistolen,pistols,NA
+1738,3,name,mannen,NA,name_men
+1738,4,name,vrouwen,NA,name_women
+1738,8,name,zoons,settler_sons,NA
+1738,9,name,dogters,settler_daughters,NA
+1738,10,name,knegts,knechts,NA
+1738,11,name,slaaven,slave_men,NA
+1738,12,name,slavinnen,slave_women,NA
+1738,13,slaaven,jongetjes,slave_boys,NA
+1738,14,slaaven,meisjes,slave_girls,NA
+1738,15,slaaven,paarden,horses,NA
+1738,16,slaaven,runderen,cattle,NA
+1738,17,slaaven,schaapen,sheep,NA
+1738,18,slaaven,varken,pigs,NA
+1738,19,slaaven,wijnstokke,vines,NA
+1738,20,leggers,wijn,wine,NA
+1738,22,rogge,gewonnen,wheat,NA
+1738,24,rogge,gewonnen,rye,NA
+1738,26,garst,gewonnen,barley,NA
+1738,27,garst,snaphaan,guns,NA
+1738,28,garst,pistolen,pistols,NA
+1738,29,garst,degens,swords,NA
+1739,3,name,mannen,NA,name_men
+1739,4,name,vrouwen,NA,name_women
+1739,8,name,zoons,settler_sons,NA
+1739,9,name,dogters,settler_daughters,NA
+1739,10,name,knegts,knechts,NA
+1739,11,name,slaaven,slave_men,NA
+1739,12,name,slavinnen,slave_women,NA
+1739,13,slaaven,jongetjes,slave_boys,NA
+1739,14,slaaven,meisjes,slave_girls,NA
+1739,15,slaaven,paarden,horses,NA
+1739,16,slaaven,runderen,cattle,NA
+1739,17,slaaven,schaapen,sheep,NA
+1739,18,slaaven,varken,pigs,NA
+1739,19,slaaven,wijnstokke,vines,NA
+1739,20,leggers,wijn,wine,NA
+1739,22,tarwe,gewonnen,wheat,NA
+1739,24,rogge,gewonnen,rye,NA
+1739,26,garst,gewonnen,barley,NA
+1739,27,garst,snaphaan,guns,NA
+1739,28,garst,pistolen,pistols,NA
+1739,29,garst,degens,swords,NA
+1740,3,name,mannen,NA,name_men
+1740,4,name,vrouwen,NA,name_women
+1740,8,name,zoons,settler_sons,NA
+1740,9,name,dogters,settler_daughters,NA
+1740,10,name,knegts,knechts,NA
+1740,11,name,slaaven,slave_men,NA
+1740,12,name,slavinnen,slave_women,NA
+1740,13,slaaven,jongetjes,slave_boys,NA
+1740,14,slaaven,meisjes,slave_girls,NA
+1740,15,slaaven,paarden,horses,NA
+1740,16,slaaven,runderen,cattle,NA
+1740,17,slaaven,schaapen,sheep,NA
+1740,18,slaaven,varken,pigs,NA
+1740,19,slaaven,wijnstokke,vines,NA
+1740,20,leggers,wijn,wine,NA
+1740,22,tarwe,gewonnen,wheat,NA
+1740,24,rogge,gewonnen,rye,NA
+1740,26,garst,gewonnen,barley,NA
+1740,27,garst,snaphaan,guns,NA
+1740,28,garst,pistolen,pistols,NA
+1740,29,garst,degens,swords,NA
+1741,3,name,mannen,NA,name_men
+1741,4,name,vrouwen,NA,name_women
+1741,8,name,zoons,settler_sons,NA
+1741,9,name,dogters,settler_daughters,NA
+1741,10,name,knegts,knechts,NA
+1741,11,name,slaaven,slave_men,NA
+1741,12,name,slavinnen,slave_women,NA
+1741,13,slaaven,jongetjes,slave_boys,NA
+1741,14,slaaven,meisjes,slave_girls,NA
+1741,15,slaaven,paarden,horses,NA
+1741,16,slaaven,runderen,cattle,NA
+1741,17,slaaven,schaapen,sheep,NA
+1741,18,slaaven,varken,pigs,NA
+1741,19,slaaven,wijnstokke,vines,NA
+1741,20,leggers,wijn,wine,NA
+1741,22,tarwe,gewonnen,wheat,NA
+1741,24,rogge,gewonnen,rye,NA
+1741,26,garst,gewonnen,barley,NA
+1741,27,garst,snaphaan,guns,NA
+1741,28,garst,pistolen,pistols,NA
+1741,29,garst,degens,swords,NA
+1742,3,name,mannen,NA,name_men
+1742,4,name,vrouwen,NA,name_women
+1742,8,name,zoons,settler_sons,NA
+1742,9,name,dogters,settler_daughters,NA
+1742,10,name,knegts,knechts,NA
+1742,11,name,slaaven,slave_men,NA
+1742,12,name,slavinnen,slave_women,NA
+1742,13,slaaven,jongetjes,slave_boys,NA
+1742,14,slaaven,meisjes,slave_girls,NA
+1742,15,slaaven,paarden,horses,NA
+1742,16,slaaven,runderen,cattle,NA
+1742,17,slaaven,schaapen,sheep,NA
+1742,18,slaaven,varken,pigs,NA
+1742,19,slaaven,wijnstokke,vines,NA
+1742,20,leggers,wijn,wine,NA
+1742,22,tarwe,gewonnen,wheat,NA
+1742,24,rogge,gewonnen,rye,NA
+1742,26,garst,gewonnen,barley,NA
+1742,27,garst,snaphaan,guns,NA
+1742,28,garst,pistolen,pistols,NA
+1742,29,garst,degens,swords,NA
+1743,3,name,mannen,NA,name_men
+1743,4,name,vrouwen,NA,name_women
+1743,8,name,zoons,settler_sons,NA
+1743,9,name,dogters,settler_daughters,NA
+1743,10,name,knegts,knechts,NA
+1743,11,name,slaaven,slave_men,NA
+1743,12,name,slavinnen,slave_women,NA
+1743,13,slaaven,jongetjes,slave_boys,NA
+1743,14,slaaven,meisjes,slave_girls,NA
+1743,15,slaaven,paarden,horses,NA
+1743,16,slaaven,runderen,cattle,NA
+1743,17,slaaven,schaapen,sheep,NA
+1743,18,slaaven,varken,pigs,NA
+1743,19,slaaven,wijnstokke,vines,NA
+1743,20,leggers,wijn,wine,NA
+1743,22,tarwe,gewonnen,wheat,NA
+1743,24,rogge,gewonnen,rye,NA
+1743,26,garst,gewonnen,barley,NA
+1743,27,garst,snaphaan,guns,NA
+1743,28,garst,pistolen,pistols,NA
+1743,29,garst,degens,swords,NA
+1744,3,name,mannen,NA,name_men
+1744,4,name,vrouwen,NA,name_women
+1744,8,name,zoonen,settler_sons,NA
+1744,9,name,dogters,settler_daughters,NA
+1744,10,name,knegts,knechts,NA
+1744,11,name,slaaven,slave_men,NA
+1744,12,name,slaavinnen,slave_women,NA
+1744,13,slaaven,jongetjes,slave_boys,NA
+1744,14,slaaven,meijsjes,slave_girls,NA
+1744,15,slaaven,paarden,horses,NA
+1744,16,slaaven,runderen,cattle,NA
+1744,17,slaaven,schaapen,sheep,NA
+1744,18,slaaven,varkens,pigs,NA
+1744,19,slaaven,wijnstokken,vines,NA
+1744,20,leggers,wijn,wine,NA
+1744,22,tarwe,gewonnen,wheat,NA
+1744,24,rogge,gewonnen,rye,NA
+1744,26,garst,gewonnen,barley,NA
+1744,27,garst,snaphaanen,guns,NA
+1745,3,names,mannen,NA,name_men
+1745,4,names,vrouwen,NA,name_women
+1745,8,names,zoons,settler_sons,NA
+1745,9,names,dogters,settler_daughters,NA
+1745,10,names,knegts,knechts,NA
+1745,11,names,slaaven,slave_men,NA
+1745,12,names,slavinnen,slave_women,NA
+1745,13,slaaven,jongetjes,slave_boys,NA
+1745,14,slaaven,meisjes,slave_girls,NA
+1745,15,slaaven,paarden,horses,NA
+1745,16,slaaven,runderen,cattle,NA
+1745,17,slaaven,schaapen,sheep,NA
+1745,18,slaaven,varken,pigs,NA
+1745,19,slaaven,wijnstokke,vines,NA
+1745,20,leggers,wijn,wine,NA
+1745,22,tarwe,gewonnen,wheat,NA
+1745,24,rogge,gewonnen,rye,NA
+1745,26,garst,gewonnen,barley,NA
+1745,27,garst,snaphaan,guns,NA
+1745,28,garst,pistolen,pistols,NA
+1745,29,garst,degens,swords,NA
+1746,3,name,mannen,NA,name_men
+1746,4,name,vrouwen,NA,name_women
+1746,8,name,zoons,settler_sons,NA
+1746,9,name,dogters,settler_daughters,NA
+1746,10,name,knegts,knechts,NA
+1746,11,name,slaaven,slave_men,NA
+1746,12,name,slavinnen,slave_women,NA
+1746,13,slaaven,jongetjes,slave_boys,NA
+1746,14,slaaven,meisjes,slave_girls,NA
+1746,15,slaaven,paarden,horses,NA
+1746,16,slaaven,runderen,cattle,NA
+1746,17,slaaven,schaapen,sheep,NA
+1746,18,slaaven,varken,pigs,NA
+1746,19,slaaven,wijnstokke,vines,NA
+1746,20,leggers,wijn,wine,NA
+1746,22,tarwe,gewonnen,wheat,NA
+1746,24,rogge,gewonnen,rye,NA
+1746,26,garst,gewonnen,barley,NA
+1746,27,garst,snaphaan,guns,NA
+1746,28,garst,pistolen,pistols,NA
+1746,29,garst,degens,swords,NA
+1748,3,name,mannen,NA,name_men
+1748,4,name,vrouwen,NA,name_women
+1748,8,name,zoons,settler_sons,NA
+1748,9,name,dogters,settler_daughters,NA
+1748,10,name,knegts,knechts,NA
+1748,11,name,slaaven,slave_men,NA
+1748,12,name,slavinnen,slave_women,NA
+1748,13,slaaven,jongetjes,slave_boys,NA
+1748,14,slaaven,meisjes,slave_girls,NA
+1748,15,slaaven,paarden,horses,NA
+1748,16,slaaven,runderen,cattle,NA
+1748,17,slaaven,schaapen,sheep,NA
+1748,18,slaaven,varken,pigs,NA
+1748,19,slaaven,wijnstokke,vines,NA
+1748,20,leggers,wijn,wine,NA
+1748,22,tarwe,gewonnen,wheat,NA
+1748,24,rogge,gewonnen,rye,NA
+1748,26,garst,gewonnen,barley,NA
+1748,27,garst,snaphaan,guns,NA
+1748,28,garst,pistolen,pistols,NA
+1748,29,garst,degens,swords,NA
+1749,3,name,mannen,NA,name_men
+1749,4,name,vrouwen,NA,name_women
+1749,8,name,zoons,settler_sons,NA
+1749,9,name,dogters,settler_daughters,NA
+1749,10,name,knegts,knechts,NA
+1749,11,name,slaaven,slave_men,NA
+1749,12,name,slavinnen,slave_women,NA
+1749,13,slaaven,jongetjes,slave_boys,NA
+1749,14,slaaven,meisjes,slave_girls,NA
+1749,15,slaaven,paarden,horses,NA
+1749,16,slaaven,runderen,cattle,NA
+1749,17,slaaven,schaapen,sheep,NA
+1749,18,slaaven,varken,pigs,NA
+1749,19,slaaven,wijnstokke,vines,NA
+1749,20,leggers,wijn,wine,NA
+1749,22,tarwe,gewonnen,wheat,NA
+1749,24,rogge,gewonnen,rye,NA
+1749,26,garst,gewonnen,barley,NA
+1749,27,garst,snaphaan,guns,NA
+1749,28,garst,pistolen,pistols,NA
+1749,29,garst,degens,swords,NA
+1750,3,,mannen,NA,name_men
+1750,4,,vrouwen,NA,name_women
+1750,8,,zoons,settler_sons,NA
+1750,9,,dogters,settler_daughters,NA
+1750,10,,knegts,knechts,NA
+1750,11,,slaaven,slave_men,NA
+1750,12,,slavinnen,slave_women,NA
+1750,13,slaaven,jongetjes,slave_boys,NA
+1750,14,slaaven,meisjes,slave_girls,NA
+1750,15,slaaven,paarden,horses,NA
+1750,16,slaaven,runderen,cattle,NA
+1750,17,slaaven,schaapen,sheep,NA
+1750,18,slaaven,varken,pigs,NA
+1750,19,slaaven,wijnstokke,vines,NA
+1750,20,leggers,wijn,wine,NA
+1750,22,tarwe,gewonnen,wheat,NA
+1750,24,rogge,gewonnen,rye,NA
+1750,26,garst,gewonnen,barley,NA
+1750,27,garst,snaphaan,guns,NA
+1750,28,garst,pistolen,pistols,NA
+1750,29,garst,degens,swords,NA
+1751,3,,mannen,NA,name_men
+1751,4,,vrouwen,NA,name_women
+1751,8,,zoons,settler_sons,NA
+1751,9,,dogters,settler_daughters,NA
+1751,10,,knegts,knechts,NA
+1751,11,,slaaven,slave_men,NA
+1751,12,,slavinnen,slave_women,NA
+1751,13,slaaven,jongetjes,slave_boys,NA
+1751,14,slaaven,meisjes,slave_girls,NA
+1751,15,slaaven,paarden,horses,NA
+1751,16,slaaven,runderen,cattle,NA
+1751,17,slaaven,schaapen,sheep,NA
+1751,18,slaaven,varken,pigs,NA
+1751,19,slaaven,wijnstokke,vines,NA
+1751,20,leggers,wijn,wine,NA
+1751,22,tarwe,gewonnen,wheat,NA
+1751,24,rogge,gewonnen,rye,NA
+1751,26,garst,gewonnen,barley,NA
+1751,27,garst,snaphaan,guns,NA
+1751,28,garst,pistolen,pistols,NA
+1751,29,garst,degens,swords,NA
+1752,3,,mannen,NA,name_men
+1752,4,,vrouwen,NA,name_women
+1752,8,,zoons,settler_sons,NA
+1752,9,,dogters,settler_daughters,NA
+1752,10,,knegts,knechts,NA
+1752,11,,slaaven,slave_men,NA
+1752,12,,slavinnen,slave_women,NA
+1752,13,slaaven,jongetjes,slave_boys,NA
+1752,14,slaaven,meisjes,slave_girls,NA
+1752,15,slaaven,paarden,horses,NA
+1752,16,slaaven,runderen,cattle,NA
+1752,17,slaaven,schaapen,sheep,NA
+1752,18,slaaven,varken,pigs,NA
+1752,19,slaaven,wijnstokke,vines,NA
+1752,20,leggers,wijn,wine,NA
+1752,22,tarwe,gewonnen,wheat,NA
+1752,24,rogge,gewonnen,rye,NA
+1752,26,garst,gewonnen,barley,NA
+1752,27,garst,snaphaan,guns,NA
+1752,28,garst,pistolen,pistols,NA
+1752,29,garst,degens,swords,NA
+1753,3,,mannen,NA,name_men
+1753,4,,vrouwen,NA,name_women
+1753,8,,zoons,settler_sons,NA
+1753,9,,dogters,settler_daughters,NA
+1753,10,,knegts,knechts,NA
+1753,11,,slaaven,slave_men,NA
+1753,12,,slavinnen,slave_women,NA
+1753,13,slaaven,jongetjes,slave_boys,NA
+1753,14,slaaven,meisjes,slave_girls,NA
+1753,15,slaaven,paarden,horses,NA
+1753,16,slaaven,runderen,cattle,NA
+1753,17,slaaven,schaapen,sheep,NA
+1753,18,slaaven,varken,pigs,NA
+1753,19,slaaven,wijnstokke,vines,NA
+1753,20,leggers,wijn,wine,NA
+1753,22,tarwe,gewonnen,wheat,NA
+1753,24,rogge,gewonnen,rye,NA
+1753,26,garst,gewonnen,barley,NA
+1753,27,garst,snaphaan,guns,NA
+1753,28,garst,pistolen,pistols,NA
+1753,29,garst,degens,swords,NA
+1754,3,,mannen,NA,name_men
+1754,4,,vrouwen,NA,name_women
+1754,8,,zoons,settler_sons,NA
+1754,9,,dogters,settler_daughters,NA
+1754,10,,knegts,knechts,NA
+1754,11,,slaaven,slave_men,NA
+1754,12,,slavinnen,slave_women,NA
+1754,13,slaaven,jongetjes,slave_boys,NA
+1754,14,slaaven,meisjes,slave_girls,NA
+1754,15,slaaven,paarden,horses,NA
+1754,16,slaaven,runderen,cattle,NA
+1754,17,slaaven,schaapen,sheep,NA
+1754,18,slaaven,varken,pigs,NA
+1754,19,slaaven,wijnstokke,vines,NA
+1754,20,leggers,wijn,wine,NA
+1754,22,tarwe,gewonnen,wheat,NA
+1754,24,rogge,gewonnen,rye,NA
+1754,26,garst,gewonnen,barley,NA
+1754,27,garst,snaphaan,guns,NA
+1754,28,garst,pistolen,pistols,NA
+1754,29,garst,degens,swords,NA
+1755,3,,mannen,NA,name_men
+1755,4,,vrouwen,NA,name_women
+1755,8,,zoons,settler_sons,NA
+1755,9,,dogters,settler_daughters,NA
+1755,10,,knegts,knechts,NA
+1755,11,,slaaven,slave_men,NA
+1755,12,,slavinnen,slave_women,NA
+1755,13,slaaven,jongetjes,slave_boys,NA
+1755,14,slaaven,meisjes,slave_girls,NA
+1755,15,slaaven,paarden,horses,NA
+1755,16,slaaven,runderen,cattle,NA
+1755,17,slaaven,schaapen,sheep,NA
+1755,18,slaaven,varken,pigs,NA
+1755,19,slaaven,wijnstokke,vines,NA
+1755,20,leggers,wijn,wine,NA
+1755,22,tarwe,gewonnen,wheat,NA
+1755,24,rogge,gewonnen,rye,NA
+1755,26,garst,gewonnen,barley,NA
+1755,27,garst,snaphaan,guns,NA
+1755,28,garst,pistolen,pistols,NA
+1755,29,garst,degens,swords,NA
+1756,3,,mannen,NA,name_men
+1756,4,,vrouwen,NA,name_women
+1756,8,,zoons,settler_sons,NA
+1756,9,,dogters,settler_daughters,NA
+1756,10,,knegts,knechts,NA
+1756,11,,slaaven,slave_men,NA
+1756,12,,slavinnen,slave_women,NA
+1756,13,slaaven,jongetjes,slave_boys,NA
+1756,14,slaaven,meisjes,slave_girls,NA
+1756,15,slaaven,paarden,horses,NA
+1756,16,slaaven,runderen,cattle,NA
+1756,17,slaaven,schaapen,sheep,NA
+1756,18,slaaven,varken,pigs,NA
+1756,19,slaaven,wijnstokke,vines,NA
+1756,20,leggers,wijn,wine,NA
+1756,22,tarwe,gewonnen,wheat,NA
+1756,24,rogge,gewonnen,rye,NA
+1756,26,garst,gewonnen,barley,NA
+1756,27,garst,snaphaan,guns,NA
+1756,28,garst,pistolen,pistols,NA
+1756,29,garst,degens,swords,NA
+1757,3,,mannen,NA,name_men
+1757,4,,vrouwen,NA,name_women
+1757,8,,zoons,settler_sons,NA
+1757,9,,dogters,settler_daughters,NA
+1757,10,,knegts,knechts,NA
+1757,11,,slaaven,slave_men,NA
+1757,12,,slavinnen,slave_women,NA
+1757,13,slaaven,jongetjes,slave_boys,NA
+1757,14,slaaven,meisjes,slave_girls,NA
+1757,15,slaaven,paarden,horses,NA
+1757,16,slaaven,runderen,cattle,NA
+1757,17,slaaven,schaapen,sheep,NA
+1757,18,slaaven,varken,pigs,NA
+1757,19,slaaven,wijnstokke,vines,NA
+1757,20,leggers,wijn,wine,NA
+1757,22,tarwe,gewonnen,wheat,NA
+1757,24,rogge,gewonnen,rye,NA
+1757,26,garst,gewonnen,barley,NA
+1757,27,garst,snaphaan,guns,NA
+1757,28,garst,pistolen,pistols,NA
+1757,29,garst,degens,swords,NA
+1758,3,,mannen,NA,name_men
+1758,4,,vrouwen,NA,name_women
+1758,8,,zoons,settler_sons,NA
+1758,9,,dogters,settler_daughters,NA
+1758,10,,knegts,knechts,NA
+1758,11,,slaaven,slave_men,NA
+1758,12,,slavinnen,slave_women,NA
+1758,13,slaaven,jongetjes,slave_boys,NA
+1758,14,slaaven,meisjes,slave_girls,NA
+1758,15,slaaven,paarden,horses,NA
+1758,16,slaaven,runderen,cattle,NA
+1758,17,slaaven,schaapen,sheep,NA
+1758,18,slaaven,varken,pigs,NA
+1758,19,slaaven,wijnstokke,vines,NA
+1758,20,leggers,wijn,wine,NA
+1758,22,tarwe,gewonnen,wheat,NA
+1758,24,rogge,gewonnen,rye,NA
+1758,26,garst,gewonnen,barley,NA
+1758,27,garst,snaphaan,guns,NA
+1758,28,garst,pistolen,pistols,NA
+1758,29,garst,degens,swords,NA
+1759,3,,mannen,NA,name_men
+1759,4,,vrouwen,NA,name_women
+1759,8,,zoons,settler_sons,NA
+1759,9,,dogters,settler_daughters,NA
+1759,10,,knegts,knechts,NA
+1759,11,,slaaven,slave_men,NA
+1759,12,,slavinnen,slave_women,NA
+1759,13,slaaven,jongetjes,slave_boys,NA
+1759,14,slaaven,meisjes,slave_girls,NA
+1759,15,slaaven,paarden,horses,NA
+1759,16,slaaven,runderen,cattle,NA
+1759,17,slaaven,schaapen,sheep,NA
+1759,18,slaaven,varken,pigs,NA
+1759,19,slaaven,wijnstokke,vines,NA
+1759,20,leggers,wijn,wine,NA
+1759,22,tarwe,gewonnen,wheat,NA
+1759,24,rogge,gewonnen,rye,NA
+1759,26,garst,gewonnen,barley,NA
+1759,27,garst,snaphaan,guns,NA
+1759,28,garst,pistolen,pistols,NA
+1759,29,garst,degens,swords,NA
+1760,3,,mannen,NA,name_men
+1760,4,,vrouwen,NA,name_women
+1760,8,,zoons,settler_sons,NA
+1760,9,,dogters,settler_daughters,NA
+1760,10,,knegts,knechts,NA
+1760,11,,slaaven,slave_men,NA
+1760,12,,slavinnen,slave_women,NA
+1760,13,slaaven,jongetjes,slave_boys,NA
+1760,14,slaaven,meisjes,slave_girls,NA
+1760,15,slaaven,paarden,horses,NA
+1760,16,slaaven,runderen,cattle,NA
+1760,17,slaaven,schaapen,sheep,NA
+1760,18,slaaven,varken,pigs,NA
+1760,19,slaaven,wijnstokke,vines,NA
+1760,20,leggers,wijn,wine,NA
+1760,22,tarwe,gewonnen,wheat,NA
+1760,24,rogge,gewonnen,rye,NA
+1760,26,garst,gewonnen,barley,NA
+1760,27,garst,snaphaan,guns,NA
+1760,28,garst,pistolen,pistols,NA
+1760,29,garst,degens,swords,NA
+1761,3,,mannen,NA,name_men
+1761,4,,vrouwen,NA,name_women
+1761,8,,zoons,settler_sons,NA
+1761,9,,dogters,settler_daughters,NA
+1761,10,,knegts,knechts,NA
+1761,11,,slaaven,slave_men,NA
+1761,12,,slavinnen,slave_women,NA
+1761,13,slaaven,jongetjes,slave_boys,NA
+1761,14,slaaven,meisjes,slave_girls,NA
+1761,15,slaaven,paarden,horses,NA
+1761,16,slaaven,runderen,cattle,NA
+1761,17,slaaven,schaapen,sheep,NA
+1761,18,slaaven,varken,pigs,NA
+1761,19,slaaven,wijnstokke,vines,NA
+1761,20,leggers,wijn,wine,NA
+1761,22,tarwe,gewonnen,wheat,NA
+1761,24,rogge,gewonnen,rye,NA
+1761,26,garst,gewonnen,barley,NA
+1761,27,garst,snaphaan,guns,NA
+1761,28,garst,pistolen,pistols,NA
+1761,29,garst,degens,swords,NA
+1762,3,name,mannen,NA,name_men
+1762,4,name,vrouwen,NA,name_women
+1762,8,name,zoons,settler_sons,NA
+1762,9,name,dogters,settler_daughters,NA
+1762,10,name,knegts,knechts,NA
+1762,11,name,slaaven,slave_men,NA
+1762,12,name,slavinnen,slave_women,NA
+1762,13,slaaven,jongetjes,slave_boys,NA
+1762,14,slaaven,meisjes,slave_girls,NA
+1762,15,slaaven,paarden,horses,NA
+1762,16,slaaven,runderen,cattle,NA
+1762,17,slaaven,schaapen,sheep,NA
+1762,18,slaaven,varken,pigs,NA
+1762,19,slaaven,wijnstokke,vines,NA
+1762,20,leggers,wijn,wine,NA
+1762,22,tarwe,gewonnen,wheat,NA
+1762,24,rogge,gewonnen,rye,NA
+1762,26,garst,gewonnen,barley,NA
+1762,27,garst,snaphaan,guns,NA
+1762,28,garst,pistolen,pistols,NA
+1762,29,garst,degens,swords,NA
+1763,3,name,mannen,NA,name_men
+1763,4,name,vrouwen,NA,name_women
+1763,8,name,zoons,settler_sons,NA
+1763,9,name,dogters,settler_daughters,NA
+1763,10,name,knegts,knechts,NA
+1763,11,name,slaaven,slave_men,NA
+1763,12,name,slavinnen,slave_women,NA
+1763,13,slaaven,jongetjes,slave_boys,NA
+1763,14,slaaven,meisjes,slave_girls,NA
+1763,15,slaaven,paarden,horses,NA
+1763,16,slaaven,runderen,cattle,NA
+1763,17,slaaven,schaapen,sheep,NA
+1763,18,slaaven,varken,pigs,NA
+1763,19,slaaven,wijnstokke,vines,NA
+1763,20,leggers,wijn,wine,NA
+1763,22,tarwe,gewonnen,wheat,NA
+1763,24,rogge,gewonnen,rye,NA
+1763,26,garst,gewonnen,barley,NA
+1763,27,garst,snaphaan,guns,NA
+1763,28,garst,pistolen,pistols,NA
+1763,29,garst,degens,swords,NA
+1764,3,name,mannen,NA,name_men
+1764,4,name,vrouwen,NA,name_women
+1764,8,name,zoons,settler_sons,NA
+1764,9,name,dogters,settler_daughters,NA
+1764,10,name,knegts,knechts,NA
+1764,11,name,slaaven,slave_men,NA
+1764,12,name,slavinnen,slave_women,NA
+1764,13,slaaven,jongetjes,slave_boys,NA
+1764,14,slaaven,meisjes,slave_girls,NA
+1764,15,slaaven,paarden,horses,NA
+1764,16,slaaven,runderen,cattle,NA
+1764,17,slaaven,schaapen,sheep,NA
+1764,18,slaaven,varken,pigs,NA
+1764,19,slaaven,wijnstokke,vines,NA
+1764,20,leggers,wijn,wine,NA
+1764,22,tarwe,gewonnen,wheat,NA
+1764,24,rogge,gewonnen,rye,NA
+1764,26,garst,gewonnen,barley,NA
+1764,27,garst,snaphaan,guns,NA
+1764,28,garst,pistolen,pistols,NA
+1764,29,garst,degens,swords,NA
+1765,3,name,mannen,NA,name_men
+1765,4,name,vrouwen,NA,name_women
+1765,8,name,zoons,settler_sons,NA
+1765,9,name,dogters,settler_daughters,NA
+1765,10,name,knegts,knechts,NA
+1765,11,name,slaaven,slave_men,NA
+1765,12,name,slavinnen,slave_women,NA
+1765,13,slaaven,jongetjes,slave_boys,NA
+1765,14,slaaven,meisjes,slave_girls,NA
+1765,15,slaaven,paarden,horses,NA
+1765,16,slaaven,runderen,cattle,NA
+1765,17,slaaven,schaapen,sheep,NA
+1765,18,slaaven,varken,pigs,NA
+1765,19,slaaven,wijnstokke,vines,NA
+1765,20,leggers,wijn,wine,NA
+1765,22,tarwe,gewonnen,wheat,NA
+1765,24,rogge,gewonnen,rye,NA
+1765,26,garst,gewonnen,barley,NA
+1765,27,garst,snaphaan,guns,NA
+1765,28,garst,pistolen,pistols,NA
+1765,29,garst,degens,swords,NA
+1766,3,name,mannen,NA,name_men
+1766,4,name,vrouwen,NA,name_women
+1766,8,name,zoons,settler_sons,NA
+1766,9,name,dogters,settler_daughters,NA
+1766,10,name,knegts,knechts,NA
+1766,11,name,slaaven,slave_men,NA
+1766,12,name,slavinnen,slave_women,NA
+1766,13,slaaven,jongetjes,slave_boys,NA
+1766,14,slaaven,meisjes,slave_girls,NA
+1766,15,slaaven,paarden,horses,NA
+1766,16,slaaven,runderen,cattle,NA
+1766,17,slaaven,schaapen,sheep,NA
+1766,18,slaaven,varken,pigs,NA
+1766,19,slaaven,wijnstokke,vines,NA
+1766,20,leggers,wijn,wine,NA
+1766,22,tarwe,gewonnen,wheat,NA
+1766,24,rogge,gewonnen,rye,NA
+1766,26,garst,gewonnen,barley,NA
+1766,27,garst,snaphaan,guns,NA
+1766,28,garst,pistolen,pistols,NA
+1766,29,garst,degens,swords,NA
+1767,3,name,mannen,NA,name_men
+1767,4,name,vrouwen,NA,name_women
+1767,8,name,zoons,settler_sons,NA
+1767,9,name,dogters,settler_daughters,NA
+1767,10,name,knegts,knechts,NA
+1767,11,name,slaaven,slave_men,NA
+1767,12,name,slavinnen,slave_women,NA
+1767,13,slaaven,jongetjes,slave_boys,NA
+1767,14,slaaven,meisjes,slave_girls,NA
+1767,15,slaaven,paarden,horses,NA
+1767,16,slaaven,runderen,cattle,NA
+1767,17,slaaven,schaapen,sheep,NA
+1767,18,slaaven,varken,pigs,NA
+1767,19,slaaven,wijnstokke,vines,NA
+1767,20,leggers,wijn,wine,NA
+1767,22,tarwe,gewonnen,wheat,NA
+1767,24,rogge,gewonnen,rye,NA
+1767,26,garst,gewonnen,barley,NA
+1767,27,garst,snaphaan,guns,NA
+1767,28,garst,pistolen,pistols,NA
+1767,29,garst,degens,swords,NA
+1768,3,name,mannen,NA,name_men
+1768,4,name,vrouwen,NA,name_women
+1768,8,name,zoons,settler_sons,NA
+1768,9,name,dogters,settler_daughters,NA
+1768,10,name,knegts,knechts,NA
+1768,11,name,slaaven,slave_men,NA
+1768,12,name,slavinnen,slave_women,NA
+1768,13,slaaven,jongetjes,slave_boys,NA
+1768,14,slaaven,meisjes,slave_girls,NA
+1768,15,slaaven,paarden,horses,NA
+1768,16,slaaven,runderen,cattle,NA
+1768,17,slaaven,schaapen,sheep,NA
+1768,18,slaaven,varken,pigs,NA
+1768,19,slaaven,wijnstokke,vines,NA
+1768,20,leggers,wijn,wine,NA
+1768,22,tarwe,gewonnen,wheat,NA
+1768,24,rogge,gewonnen,rye,NA
+1768,26,garst,gewonnen,barley,NA
+1768,27,garst,snaphaan,guns,NA
+1768,28,garst,pistolen,pistols,NA
+1768,29,garst,degens,swords,NA
+1769,3,name,mannen,NA,name_men
+1769,4,name,vrouwen,NA,name_women
+1769,8,name,zoons,settler_sons,NA
+1769,9,name,dogters,settler_daughters,NA
+1769,10,name,knegts,knechts,NA
+1769,11,name,slaaven,slave_men,NA
+1769,12,name,slavinnen,slave_women,NA
+1769,13,slaaven,jongetjes,slave_boys,NA
+1769,14,slaaven,meisjes,slave_girls,NA
+1769,15,slaaven,paarden,horses,NA
+1769,16,slaaven,runderen,cattle,NA
+1769,17,slaaven,schaapen,sheep,NA
+1769,18,slaaven,varken,pigs,NA
+1769,19,slaaven,wijnstokke,vines,NA
+1769,20,leggers,wijn,wine,NA
+1769,22,tarwe,gewonnen,wheat,NA
+1769,24,rogge,gewonnen,rye,NA
+1769,26,garst,gewonnen,barley,NA
+1769,27,garst,snaphaan,guns,NA
+1769,28,garst,pistolen,pistols,NA
+1769,29,garst,degens,swords,NA
+1770,3,name,mannen,NA,name_men
+1770,4,name,vrouwen,NA,name_women
+1770,8,name,zoons,settler_sons,NA
+1770,9,name,dogters,settler_daughters,NA
+1770,10,name,knegts,knechts,NA
+1770,11,name,slaaven,slave_men,NA
+1770,12,name,slavinnen,slave_women,NA
+1770,13,slaaven,jongetjes,slave_boys,NA
+1770,14,slaaven,meisjes,slave_girls,NA
+1770,15,slaaven,paarden,horses,NA
+1770,16,slaaven,runderen,cattle,NA
+1770,17,slaaven,schaapen,sheep,NA
+1770,18,slaaven,varken,pigs,NA
+1770,19,slaaven,wijnstokke,vines,NA
+1770,20,leggers,wijn,wine,NA
+1770,22,tarwe,gewonnen,wheat,NA
+1770,24,rogge,gewonnen,rye,NA
+1770,26,garst,gewonnen,barley,NA
+1770,27,garst,snaphaan,guns,NA
+1770,28,garst,pistolen,pistols,NA
+1770,29,garst,degens,swords,NA
+1771,3,name,mannen,NA,name_men
+1771,4,name,vrouwen,NA,name_women
+1771,8,name,zoons,settler_sons,NA
+1771,9,name,dogters,settler_daughters,NA
+1771,10,name,knegts,knechts,NA
+1771,11,name,slaaven,slave_men,NA
+1771,12,name,slavinnen,slave_women,NA
+1771,13,slaaven,jongetjes,slave_boys,NA
+1771,14,slaaven,meisjes,slave_girls,NA
+1771,15,slaaven,paarden,horses,NA
+1771,16,slaaven,runderen,cattle,NA
+1771,17,slaaven,schaapen,sheep,NA
+1771,18,slaaven,varken,pigs,NA
+1771,19,slaaven,wijnstokke,vines,NA
+1771,20,leggers,wijn,wine,NA
+1771,22,tarwe,gewonnen,wheat,NA
+1771,24,rogge,gewonnen,rye,NA
+1771,26,garst,gewonnen,barley,NA
+1771,27,garst,snaphaan,guns,NA
+1771,28,garst,pistolen,pistols,NA
+1771,29,garst,degens,swords,NA
+1772,3,name,mannen,NA,name_men
+1772,4,name,vrouwen,NA,name_women
+1772,8,name,zoons,settler_sons,NA
+1772,9,name,dogters,settler_daughters,NA
+1772,10,name,knegts,knechts,NA
+1772,11,name,slaaven,slave_men,NA
+1772,12,name,slavinnen,slave_women,NA
+1772,13,slaaven,jongetjes,slave_boys,NA
+1772,14,slaaven,meisjes,slave_girls,NA
+1772,15,slaaven,paarden,horses,NA
+1772,16,slaaven,runderen,cattle,NA
+1772,17,slaaven,schaapen,sheep,NA
+1772,18,slaaven,varken,pigs,NA
+1772,19,slaaven,wijnstokke,vines,NA
+1772,20,leggers,wijn,wine,NA
+1772,22,tarwe,gewonnen,wheat,NA
+1772,24,rogge,gewonnen,rye,NA
+1772,26,garst,gewonnen,barley,NA
+1772,27,garst,snaphaan,guns,NA
+1772,28,garst,pistolen,pistols,NA
+1772,29,garst,degens,swords,NA
+1773,3,name,mannen,NA,name_men
+1773,4,name,vrouwen,NA,name_women
+1773,8,name,zoons,settler_sons,NA
+1773,9,name,dogters,settler_daughters,NA
+1773,10,name,knegts,knechts,NA
+1773,11,name,slaaven,slave_men,NA
+1773,12,name,slavinnen,slave_women,NA
+1773,13,slaaven,jongetjes,slave_boys,NA
+1773,14,slaaven,meisjes,slave_girls,NA
+1773,15,slaaven,paarden,horses,NA
+1773,16,slaaven,runderen,cattle,NA
+1773,17,slaaven,schaapen,sheep,NA
+1773,18,slaaven,varken,pigs,NA
+1773,19,slaaven,wijnstokke,vines,NA
+1773,20,leggers,wijn,wine,NA
+1773,22,tarwe,gewonnen,wheat,NA
+1773,24,rogge,gewonnen,rye,NA
+1773,26,garst,gewonnen,barley,NA
+1773,27,garst,snaphaan,guns,NA
+1773,28,garst,pistolen,pistols,NA
+1773,29,garst,degens,swords,NA
+1774,3,name,mannen,NA,name_men
+1774,4,name,vrouwen,NA,name_women
+1774,8,name,zoons,settler_sons,NA
+1774,9,name,dogters,settler_daughters,NA
+1774,10,name,knegts,knechts,NA
+1774,11,name,slaaven,slave_men,NA
+1774,12,name,slavinnen,slave_women,NA
+1774,13,slaaven,jongetjes,slave_boys,NA
+1774,14,slaaven,meisjes,slave_girls,NA
+1774,15,slaaven,paarden,horses,NA
+1774,16,slaaven,runderen,cattle,NA
+1774,17,slaaven,schaapen,sheep,NA
+1774,18,slaaven,varken,pigs,NA
+1774,19,slaaven,wijnstokke,vines,NA
+1774,20,leggers,wijn,wine,NA
+1774,22,tarwe,gewonnen,wheat,NA
+1774,24,rogge,gewonnen,rye,NA
+1774,26,garst,gewonnen,barley,NA
+1774,27,garst,snaphaan,guns,NA
+1774,28,garst,pistolen,pistols,NA
+1774,29,garst,degens,swords,NA
+1775,3,name,mannen,NA,name_men
+1775,4,name,vrouwen,NA,name_women
+1775,8,name,zoons,settler_sons,NA
+1775,9,name,dogters,settler_daughters,NA
+1775,10,name,knegts,knechts,NA
+1775,11,name,slaaven,slave_men,NA
+1775,12,name,slavinnen,slave_women,NA
+1775,13,slaaven,jongetjes,slave_boys,NA
+1775,14,slaaven,meisjes,slave_girls,NA
+1775,15,slaaven,paarden,horses,NA
+1775,16,slaaven,runderen,cattle,NA
+1775,17,slaaven,schaapen,sheep,NA
+1775,18,slaaven,varken,pigs,NA
+1775,19,slaaven,wijnstokke,vines,NA
+1775,20,leggers,wijn,wine,NA
+1775,22,tarwe,gewonnen,wheat,NA
+1775,24,rogge,gewonnen,rye,NA
+1775,26,garst,gewonnen,barley,NA
+1775,27,garst,snaphaan,guns,NA
+1775,28,garst,pistolen,pistols,NA
+1775,29,garst,degens,swords,NA
+1776,3,name,mannen,NA,name_men
+1776,4,name,vrouwen,NA,name_women
+1776,8,name,zoons,settler_sons,NA
+1776,9,name,dogters,settler_daughters,NA
+1776,10,name,knegts,knechts,NA
+1776,11,name,slaaven,slave_men,NA
+1776,12,name,slavinnen,slave_women,NA
+1776,13,slaaven,jongetjes,slave_boys,NA
+1776,14,slaaven,meisjes,slave_girls,NA
+1776,15,slaaven,paarden,horses,NA
+1776,16,slaaven,runderen,cattle,NA
+1776,17,slaaven,schaapen,sheep,NA
+1776,18,slaaven,varken,pigs,NA
+1776,19,slaaven,wijnstokke,vines,NA
+1776,20,leggers,wijn,wine,NA
+1776,22,tarwe,gewonnen,wheat,NA
+1776,24,rogge,gewonnen,rye,NA
+1776,26,garst,gewonnen,barley,NA
+1776,27,garst,snaphaan,guns,NA
+1776,28,garst,pistolen,pistols,NA
+1776,29,garst,degens,swords,NA
+1777,3,name,mannen,NA,name_men
+1777,4,name,vrouwen,NA,name_women
+1777,8,name,zoons,settler_sons,NA
+1777,9,name,dogters,settler_daughters,NA
+1777,10,name,knegts,knechts,NA
+1777,11,name,slaaven,slave_men,NA
+1777,12,name,slavinnen,slave_women,NA
+1777,13,slaaven,jongetjes,slave_boys,NA
+1777,14,slaaven,meisjes,slave_girls,NA
+1777,15,slaaven,paarden,horses,NA
+1777,16,slaaven,runderen,cattle,NA
+1777,17,slaaven,schaapen,sheep,NA
+1777,18,slaaven,varken,pigs,NA
+1777,19,slaaven,wijnstokke,vines,NA
+1777,20,leggers,wijn,wine,NA
+1777,22,tarwe,gewonnen,wheat,NA
+1777,24,rogge,gewonnen,rye,NA
+1777,26,garst,gewonnen,barley,NA
+1777,27,garst,snaphaan,guns,NA
+1777,28,garst,pistolen,pistols,NA
+1777,29,garst,degens,swords,NA
+1778,3,name,mannen,NA,name_men
+1778,4,name,vrouwen,NA,name_women
+1778,8,name,zoons,settler_sons,NA
+1778,9,name,dogters,settler_daughters,NA
+1778,10,name,knegts,knechts,NA
+1778,11,name,slaaven,slave_men,NA
+1778,12,name,slavinnen,slave_women,NA
+1778,13,slaaven,jongetjes,slave_boys,NA
+1778,14,slaaven,meisjes,slave_girls,NA
+1778,15,slaaven,paarden,horses,NA
+1778,16,slaaven,runderen,cattle,NA
+1778,17,slaaven,schaapen,sheep,NA
+1778,18,slaaven,varken,pigs,NA
+1778,19,slaaven,wijnstokke,vines,NA
+1778,20,leggers,wijn,wine,NA
+1778,22,tarwe,gewonnen,wheat,NA
+1778,24,rogge,gewonnen,rye,NA
+1778,26,garst,gewonnen,barley,NA
+1778,27,garst,snaphaan,guns,NA
+1778,28,garst,pistolen,pistols,NA
+1778,29,garst,degens,swords,NA
+1779,3,name,mannen,NA,name_men
+1779,4,name,vrouwen,NA,name_women
+1779,8,name,zoons,settler_sons,NA
+1779,9,name,dogters,settler_daughters,NA
+1779,10,name,knegts,knechts,NA
+1779,11,name,slaaven,slave_men,NA
+1779,12,name,slavinnen,slave_women,NA
+1779,13,slaaven,jongetjes,slave_boys,NA
+1779,14,slaaven,meisjes,slave_girls,NA
+1779,15,slaaven,paarden,horses,NA
+1779,16,slaaven,runderen,cattle,NA
+1779,17,slaaven,schaapen,sheep,NA
+1779,18,slaaven,varken,pigs,NA
+1779,19,slaaven,wijnstokke,vines,NA
+1779,20,leggers,wijn,wine,NA
+1779,22,tarwe,gewonnen,wheat,NA
+1779,24,rogge,gewonnen,rye,NA
+1779,26,garst,gewonnen,barley,NA
+1779,27,garst,snaphaan,guns,NA
+1779,28,garst,pistolen,pistols,NA
+1779,29,garst,degens,swords,NA
+1780,3,name,mannen,NA,name_men
+1780,4,name,vrouwen,NA,name_women
+1780,8,name,zoons,settler_sons,NA
+1780,9,name,dogters,settler_daughters,NA
+1780,10,name,knegts,knechts,NA
+1780,11,name,slaaven,slave_men,NA
+1780,12,name,slavinnen,slave_women,NA
+1780,13,slaaven,jongetjes,slave_boys,NA
+1780,14,slaaven,meisjes,slave_girls,NA
+1780,15,slaaven,paarden,horses,NA
+1780,16,slaaven,runderen,cattle,NA
+1780,17,slaaven,schaapen,sheep,NA
+1780,18,slaaven,varken,pigs,NA
+1780,19,slaaven,wijnstokke,vines,NA
+1780,20,leggers,wijn,wine,NA
+1780,22,tarwe,gewonnen,wheat,NA
+1780,24,rogge,gewonnen,rye,NA
+1780,26,garst,gewonnen,barley,NA
+1780,27,garst,snaphaan,guns,NA
+1780,28,garst,pistolen,pistols,NA
+1780,29,garst,degens,swords,NA
+1782,3,name,mannen,NA,name_men
+1782,4,name,vrouwen,NA,name_women
+1782,8,name,zoons,settler_sons,NA
+1782,9,name,dogters,settler_daughters,NA
+1782,10,name,knegts,knechts,NA
+1782,11,name,slaaven,slave_men,NA
+1782,12,name,slavinnen,slave_women,NA
+1782,13,slaaven,jongetjes,slave_boys,NA
+1782,14,slaaven,meisjes,slave_girls,NA
+1782,15,slaaven,paarden,horses,NA
+1782,16,slaaven,runderen,cattle,NA
+1782,17,slaaven,schaapen,sheep,NA
+1782,18,slaaven,varken,pigs,NA
+1782,19,slaaven,wijnstokke,vines,NA
+1782,20,leggers,wijn,wine,NA
+1782,22,tarwe,gewonnen,wheat,NA
+1782,24,rogge,gewonnen,rye,NA
+1782,26,garst,gewonnen,barley,NA
+1782,27,garst,snaphaan,guns,NA
+1782,28,garst,pistolen,pistols,NA
+1782,29,garst,degens,swords,NA
+1784,3,name,mannen,NA,name_men
+1784,4,name,vrouwen,NA,name_women
+1784,8,name,zoons,settler_sons,NA
+1784,9,name,dogters,settler_daughters,NA
+1784,10,name,knegts,knechts,NA
+1784,11,name,slaaven,slave_men,NA
+1784,12,name,slavinnen,slave_women,NA
+1784,13,slaaven,jongetjes,slave_boys,NA
+1784,14,slaaven,meisjes,slave_girls,NA
+1784,15,slaaven,paarden,horses,NA
+1784,16,slaaven,runderen,cattle,NA
+1784,17,slaaven,schaapen,sheep,NA
+1784,18,slaaven,varken,pigs,NA
+1784,19,slaaven,wijnstokke,vines,NA
+1784,20,leggers,wijn,wine,NA
+1784,22,tarwe,gewonnen,wheat,NA
+1784,24,rogge,gewonnen,rye,NA
+1784,26,garst,gewonnen,barley,NA
+1784,27,garst,snaphaan,guns,NA
+1784,28,garst,pistolen,pistols,NA
+1784,29,garst,degens,swords,NA
+1785,3,name,mannen,NA,name_men
+1785,4,name,vrouwen,NA,name_women
+1785,8,name,zoons,settler_sons,NA
+1785,9,name,dogters,settler_daughters,NA
+1785,10,name,knegts,knechts,NA
+1785,11,name,slaaven,slave_men,NA
+1785,12,name,slavinnen,slave_women,NA
+1785,13,slaaven,jongetjes,slave_boys,NA
+1785,14,slaaven,meisjes,slave_girls,NA
+1785,15,slaaven,paarden,horses,NA
+1785,16,slaaven,runderen,cattle,NA
+1785,17,slaaven,schaapen,sheep,NA
+1785,18,slaaven,varken,pigs,NA
+1785,19,slaaven,wijnstokke,vines,NA
+1785,20,leggers,wijn,wine,NA
+1785,22,tarwe,gewonnen,wheat,NA
+1785,24,rogge,gewonnen,rye,NA
+1785,26,garst,gewonnen,barley,NA
+1785,27,garst,snaphaan,guns,NA
+1785,28,garst,pistolen,pistols,NA
+1785,29,garst,degens,swords,NA
+1786,3,name,mannen,NA,name_men
+1786,4,name,vrouwen,NA,name_women
+1786,8,name,zoons,settler_sons,NA
+1786,9,name,dogters,settler_daughters,NA
+1786,10,name,knegts,knechts,NA
+1786,11,name,slaaven,slave_men,NA
+1786,12,name,slavinnen,slave_women,NA
+1786,13,slaaven,jongetjes,slave_boys,NA
+1786,14,slaaven,meisjes,slave_girls,NA
+1786,15,slaaven,paarden,horses,NA
+1786,16,slaaven,runderen,cattle,NA
+1786,17,slaaven,schaapen,sheep,NA
+1786,18,slaaven,varken,pigs,NA
+1786,19,slaaven,wijnstokke,vines,NA
+1786,20,leggers,wijn,wine,NA
+1786,22,tarwe,gewonnen,wheat,NA
+1786,24,rogge,gewonnen,rye,NA
+1786,26,garst,gewonnen,barley,NA
+1786,27,garst,snaphaan,guns,NA
+1786,28,garst,pistolen,pistols,NA
+1786,29,garst,degens,swords,NA
+1787,3,name,mannen,NA,name_men
+1787,4,name,vrouwen,NA,name_women
+1787,8,name,zoons,settler_sons,NA
+1787,9,name,dogters,settler_daughters,NA
+1787,10,name,knegts,knechts,NA
+1787,11,name,slaaven,slave_men,NA
+1787,12,name,slavinnen,slave_women,NA
+1787,13,slaaven,jongetjes,slave_boys,NA
+1787,14,slaaven,meisjes,slave_girls,NA
+1787,15,slaaven,paarden,horses,NA
+1787,16,slaaven,runderen,cattle,NA
+1787,17,slaaven,schaapen,sheep,NA
+1787,18,slaaven,varken,pigs,NA
+1787,19,slaaven,wijnstokke,vines,NA
+1787,20,leggers,wijn,wine,NA
+1787,22,tarwe,gewonnen,wheat,NA
+1787,24,rogge,gewonnen,rye,NA
+1787,26,garst,gewonnen,barley,NA
+1787,27,garst,snaphaan,guns,NA
+1787,28,garst,pistolen,pistols,NA
+1787,29,garst,degens,swords,NA
+1788,3,name,mannen,NA,name_men
+1788,4,name,vrouwen,NA,name_women
+1788,8,name,zoons,settler_sons,NA
+1788,9,name,dogters,settler_daughters,NA
+1788,10,name,knegts,knechts,NA
+1788,11,name,slaaven,slave_men,NA
+1788,12,name,slavinnen,slave_women,NA
+1788,13,slaaven,jongetjes,slave_boys,NA
+1788,14,slaaven,meisjes,slave_girls,NA
+1788,15,slaaven,paarden,horses,NA
+1788,16,slaaven,runderen,cattle,NA
+1788,17,slaaven,schaapen,sheep,NA
+1788,18,slaaven,varken,pigs,NA
+1788,19,slaaven,wijnstokke,vines,NA
+1788,20,leggers,wijn,wine,NA
+1788,22,tarwe,gewonnen,wheat,NA
+1788,24,rogge,gewonnen,rye,NA
+1788,26,garst,gewonnen,barley,NA
+1788,27,garst,snaphaan,guns,NA
+1788,28,garst,pistolen,pistols,NA
+1788,29,garst,degens,swords,NA
+1789,3,name,mannen,NA,name_men
+1789,4,name,vrouwen,NA,name_women
+1789,8,name,zoons,settler_sons,NA
+1789,9,name,dogters,settler_daughters,NA
+1789,10,name,knegts,knechts,NA
+1789,11,name,slaaven,slave_men,NA
+1789,12,name,slavinnen,slave_women,NA
+1789,13,slaaven,jongetjes,slave_boys,NA
+1789,14,slaaven,meisjes,slave_girls,NA
+1789,15,slaaven,paarden,horses,NA
+1789,16,slaaven,runderen,cattle,NA
+1789,17,slaaven,schaapen,sheep,NA
+1789,18,slaaven,varken,pigs,NA
+1789,19,slaaven,wijnstokke,vines,NA
+1789,20,leggers,wijn,wine,NA
+1789,22,tarwe,gewonnen,wheat,NA
+1789,24,rogge,gewonnen,rye,NA
+1789,26,garst,gewonnen,barley,NA
+1789,27,garst,snaphaan,guns,NA
+1789,28,garst,pistolen,pistols,NA
+1789,29,garst,degens,swords,NA
+1790,2,name,mannen,NA,name_men
+1790,3,name,vrouwen,NA,name_women
+1790,7,name,zoons,settler_sons,NA
+1790,8,name,dogters,settler_daughters,NA
+1790,9,name,knegts,knechts,NA
+1790,10,name,slaaven,slave_men,NA
+1790,11,name,slavinnen,slave_women,NA
+1790,12,slaaven,jongetjes,slave_boys,NA
+1790,13,slaaven,meisjes,slave_girls,NA
+1790,14,slaaven,paarden,horses,NA
+1790,15,slaaven,runderen,cattle,NA
+1790,16,slaaven,schaapen,sheep,NA
+1790,17,slaaven,varken,pigs,NA
+1790,18,slaaven,wijnstokke,vines,NA
+1790,19,leggers,wijn,wine,NA
+1790,21,tarwe,gewonnen,wheat,NA
+1790,23,rogge,gewonnen,rye,NA
+1790,25,garst,gewonnen,barley,NA
+1790,26,garst,snaphaan,guns,NA
+1790,27,garst,pistolen,pistols,NA
+1790,28,garst,degens,swords,NA
+1791,2,name,mannen,NA,name_men
+1791,3,name,vrouwen,NA,name_women
+1791,7,name,zoons,settler_sons,NA
+1791,8,name,dogters,settler_daughters,NA
+1791,9,name,knegts,knechts,NA
+1791,10,name,slaaven,slave_men,NA
+1791,11,name,slavinnen,slave_women,NA
+1791,12,slaaven,jongetjes,slave_boys,NA
+1791,13,slaaven,meisjes,slave_girls,NA
+1791,14,slaaven,paarden,horses,NA
+1791,15,slaaven,runderen,cattle,NA
+1791,16,slaaven,schaapen,sheep,NA
+1791,17,slaaven,varken,pigs,NA
+1791,18,slaaven,wijnstokke,vines,NA
+1791,19,leggers,wijn,wine,NA
+1791,21,tarwe,gewonnen,wheat,NA
+1791,23,rogge,gewonnen,rye,NA
+1791,25,garst,gewonnen,barley,NA
+1791,26,garst,snaphaan,guns,NA
+1791,27,garst,pistolen,pistols,NA
+1791,28,garst,degens,swords,NA
+1792,2,name,mannen,NA,name_men
+1792,3,name,vrouwen,NA,name_women
+1792,7,name,zoons,settler_sons,NA
+1792,8,name,dogters,settler_daughters,NA
+1792,9,name,knegts,knechts,NA
+1792,10,name,slaaven,slave_men,NA
+1792,11,name,slavinnen,slave_women,NA
+1792,12,slaaven,jongetjes,slave_boys,NA
+1792,13,slaaven,meisjes,slave_girls,NA
+1792,14,slaaven,paarden,horses,NA
+1792,15,slaaven,runderen,cattle,NA
+1792,16,slaaven,schaapen,sheep,NA
+1792,17,slaaven,varken,pigs,NA
+1792,18,slaaven,wijnstokke,vines,NA
+1792,19,leggers,wijn,wine,NA
+1792,21,tarwe,gewonnen,wheat,NA
+1792,23,rogge,gewonnen,rye,NA
+1792,25,garst,gewonnen,barley,NA
+1792,26,garst,snaphaan,guns,NA
+1792,27,garst,pistolen,pistols,NA
+1792,28,garst,degens,swords,NA
+1793,2,name,mannen,NA,name_men
+1793,3,name,vrouwen,NA,name_women
+1793,7,name,zoons,settler_sons,NA
+1793,8,name,dogters,settler_daughters,NA
+1793,9,name,slaaven,slave_men,NA
+1793,10,name,slavinnen,slave_women,NA
+1793,11,slaaven,jongetjes,slave_boys,NA
+1793,12,slaaven,meisjes,slave_girls,NA
+1793,13,slaaven,paarden,horses,NA
+1793,14,slaaven,runderen,cattle,NA
+1793,15,slaaven,schaapen,sheep,NA
+1793,16,slaaven,varken,pigs,NA
+1793,17,slaaven,wijnstokken,vines,NA
+1793,18,leggers,wijn,wine,NA
+1793,20,tarwe,gewonnen,wheat,NA
+1793,22,rogge,gewonnen,rye,NA
+1793,24,garst,gewonnen,barley,NA
+1793,25,garst,snaphaan,guns,NA
+1793,26,garst,pistolen,pistols,NA
+1793,27,garst,degens,swords,NA
+1794,2,name,mannen,NA,name_men
+1794,3,name,vrouwen,NA,name_women
+1794,7,name,zoons,settler_sons,NA
+1794,8,name,dogters,settler_daughters,NA
+1794,9,name,slaaven,slave_men,NA
+1794,10,name,slavinnen,slave_women,NA
+1794,11,slaaven,jongetjes,slave_boys,NA
+1794,12,slaaven,meisjes,slave_girls,NA
+1794,13,slaaven,paarden,horses,NA
+1794,14,slaaven,runderen,cattle,NA
+1794,15,slaaven,schaapen,sheep,NA
+1794,16,slaaven,varken,pigs,NA
+1794,17,slaaven,wijnstokke,vines,NA
+1794,18,leggers,wijn,wine,NA
+1794,20,tarwe,gewonnen,wheat,NA
+1794,22,rog,gewonnen,rye,NA
+1794,24,garst,gewonnen,barley,NA
+1794,25,garst,snaphaan,guns,NA
+1794,26,garst,pistolen,pistols,NA
+1794,27,garst,degens,swords,NA
+1795,2,name,mannen,NA,name_men
+1795,3,name,vrouwen,NA,name_women
+1795,7,name,zoons,settler_sons,NA
+1795,8,name,dogters,settler_daughters,NA
+1795,9,name,slaaven,slave_men,NA
+1795,10,name,slavinnen,slave_women,NA
+1795,11,slaaven,jongetjes,slave_boys,NA
+1795,12,slaaven,meisjes,slave_girls,NA
+1795,13,slaaven,paarden,horses,NA
+1795,14,slaaven,runderen,cattle,NA
+1795,15,slaaven,schaapen,sheep,NA
+1795,16,slaaven,varken,pigs,NA
+1795,17,slaaven,wijnstokke,vines,NA
+1795,18,leggers,wijn,wine,NA
+1795,20,tarwe,gewonnen,wheat,NA
+1795,22,rog,gewonnen,rye,NA
+1795,24,garst,gewonnen,barley,NA
+1795,25,garst,snaphaan,guns,NA
+1795,26,garst,pistolen,pistols,NA
+1795,27,garst,degens,swords,NA
+1796,2,name,mannen,NA,name_men
+1796,3,name,vrouwen,NA,name_women
+1796,7,name,zoons,settler_sons,NA
+1796,8,name,dogters,settler_daughters,NA
+1796,9,name,slaaven,slave_men,NA
+1796,10,name,slavinnen,slave_women,NA
+1796,11,slaaven,jongetjes,slave_boys,NA
+1796,12,slaaven,meisjes,slave_girls,NA
+1796,13,slaaven,paarden,horses,NA
+1796,14,slaaven,runderen,cattle,NA
+1796,15,slaaven,schaapen,sheep,NA
+1796,16,slaaven,varken,pigs,NA
+1796,17,slaaven,wijnstokke,vines,NA
+1796,18,leggers,wijn,wine,NA
+1796,20,tarwe,gewonnen,wheat,NA
+1796,22,rog,gewonnen,rye,NA
+1796,24,garst,gewonnen,barley,NA
+1796,25,garst,snaphaan,guns,NA
+1796,26,garst,pistolen,pistols,NA
+1796,27,garst,degens,swords,NA
+1798,2,name,mannen,NA,name_men
+1798,3,name,vrouwen,NA,name_women
+1798,7,name,zoons,settler_sons,NA
+1798,8,name,dogters,settler_daughters,NA
+1798,9,name,slaaven,slave_men,NA
+1798,10,name,slavinnen,slave_women,NA
+1798,11,name,paarden,horses,NA
+1798,12,name,runderen,cattle,NA
+1798,13,name,schaapen,sheep,NA
+1798,14,gewonnen,wijnen,wine,NA
+1798,15,tarwe,gewonnen,wheat,NA
+1798,16,rog,gewonnen,rye,NA
+1798,17,garst,gewonnen,barley,NA
+1800,2,name,mannen,NA,name_men
+1800,3,name,vrouwen,NA,name_women
+1800,6,name,zoons,settler_sons,NA
+1800,7,name,dogters,settler_daughters,NA
+1800,8,name,knegts,knechts,NA
+1800,9,name,slaaven,slave_men,NA
+1800,10,name,slavinnen,slave_women,NA
+1800,11,slaaven,jongetjes,slave_boys,NA
+1800,12,slaaven,meisjes,slave_girls,NA
+1800,13,slaaven,paarden,horses,NA
+1800,14,slaaven,runderen,cattle,NA
+1800,15,slaaven,schaapen,sheep,NA
+1800,16,slaaven,varken,pigs,NA
+1800,17,leggers,wijn,wine,NA
+1800,19,tarwe,gewonnen,wheat,NA
+1800,21,rogge,gewonnen,rye,NA
+1800,23,garst,gewonnen,barley,NA
+1801,2,name,mannen (alphabetical),NA,name_men
+1801,3,name,vrouwen,NA,name_women
+1801,7,name,zoons,settler_sons,NA
+1801,8,name,dogters,settler_daughters,NA
+1801,9,name,knegts,knechts,NA
+1801,10,name,slaaven,slave_men,NA
+1801,11,name,slavinnen,slave_women,NA
+1801,12,slaaven,jongetjes,slave_boys,NA
+1801,13,slaaven,meisjes,slave_girls,NA
+1801,14,slaaven,paarden,horses,NA
+1801,15,slaaven,runderen,cattle,NA
+1801,16,slaaven,schaapen,sheep,NA
+1801,17,slaaven,varken,pigs,NA
+1801,18,leggers wijn,gewonnen,wine,NA
+1801,20,tarwe,gewonnen,wheat,NA
+1801,22,rogge,gewonnen,rye,NA
+1801,24,garst,gewonnen,barley,NA
+1802,2,name,mannen (alphabetical),NA,name_men
+1802,3,name,vrouwen,NA,name_women
+1802,7,name,zoons,settler_sons,NA
+1802,8,name,dogters,settler_daughters,NA
+1802,9,name,knegts,knechts,NA
+1802,10,name,slaaven,slave_men,NA
+1802,11,name,slavinnen,slave_women,NA
+1802,12,slaaven,jongetjes,slave_boys,NA
+1802,13,slaaven,meisjes,slave_girls,NA
+1802,14,slaaven,paarden,horses,NA
+1802,15,slaaven,runderen,cattle,NA
+1802,16,slaaven,schaapen,sheep,NA
+1802,17,slaaven,varken,pigs,NA
+1802,18,leggers,wijn,wine,NA
+1802,20,tarwe,gewonnen,wheat,NA
+1802,22,rogge,gewonnen,rye,NA
+1802,24,garst,gewonnen,barley,NA
+1803,2,name,mannen,NA,name_men
+1803,3,name,vrouwen,NA,name_women
+1803,7,name,zoons,settler_sons,NA
+1803,8,name,dogters,settler_daughters,NA
+1803,9,name,knegts,knechts,NA
+1803,10,name,slaaven,slave_men,NA
+1803,11,name,slavinnen,slave_women,NA
+1803,12,slaaven,jongetjes,slave_boys,NA
+1803,13,slaaven,meisjes,slave_girls,NA
+1803,14,slaaven,paarden,horses,NA
+1803,15,slaaven,beesten,cattle,NA
+1803,16,slaaven,schaapen,sheep,NA
+1803,17,slaaven,varkens,pigs,NA
+1803,18,leggers,wijn,wine,NA
+1803,20,tarwe,gewonnen,wheat,NA
+1803,22,rog,gewonnen,rye,NA
+1803,24,garst,gewonnen,barley,NA
+1804,2,names,mannen,NA,name_men
+1804,3,names,vrouwen,NA,name_women
+1804,7,names,zoons,settler_sons,NA
+1804,8,names,dogters,settler_daughters,NA
+1804,9,names,knegts,knechts,NA
+1804,10,hottentotten,mannen boven 16 jaaren,khoe_men,NA
+1804,11,hottentotten,mannen beneden 16 jaaren,khoe_men,NA
+1804,12,hottentotten,vrouwen boven 14 jaaren,khoe_women,NA
+1804,13,hottentotten,vrouwen beneden 14 jaaren,khoe_women,NA
+1804,14,slaaven,mannen boven 16 jaaren,slave_men,NA
+1804,15,slaaven,mannen beneden 16 jaaren,slave_boys,NA
+1804,16,slaaven,vrouwen boven 14 jaaren,slave_women,NA
+1804,17,slaaven,vrouwen beneden 14 jaaren,slave_girls,NA
+1804,18,slaaven,wagen en rijd paarden,horses,NA
+1804,19,slaaven,aanteel paarden,horses,NA
+1804,20,slaaven,trek ossen,cattle,NA
+1804,21,slaaven,aanteel beesten,cattle,NA
+1804,22,slaaven,hamels,sheep,NA
+1804,23,slaaven,aanteel schapen,sheep,NA
+1804,24,slaaven,spaansche schapen,sheep,NA
+1804,25,slaaven,ezels,donkeys,NA
+1804,26,slaaven,bokken,goats,NA
+1804,27,slaaven,varkens,pigs,NA
+1804,32,mudden gewonnen,tarwe,wheat,NA
+1804,33,mudden gewonnen,garst,barley,NA
+1804,34,mudden gewonnen,rog,rye,NA
+1804,35,mudden gewonnen,haver,oats,NA
+1804,36,mudden gewonnen,wijnstokken,vines,NA
+1804,37,mudden gewonnen,leggers wijn gewonnen,wine,NA
+1804,38,mudden gewonnen,leggers brandewijn,brandy,NA
+1804,39,mudden gewonnen,wagens,wagons,NA
+1804,40,mudden gewonnen,karren,carts,NA
+1805,2,name,mannen,NA,name_men
+1805,3,name,vrouwen,NA,name_women
+1805,7,name,zoons,settler_sons,NA
+1805,8,name,dogters,settler_daughters,NA
+1805,9,name,knegts,knechts,NA
+1805,10,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1805,11,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1805,12,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1805,13,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1805,14,slaaven,mannen boven 16 jaar,slave_men,NA
+1805,15,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1805,16,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1805,17,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1805,18,paarden,wagens & rijd paarden,horses,NA
+1805,19,paarden,aanteel,horses,NA
+1805,20,runderen,trekossen,cattle,NA
+1805,21,runderen,aanteel,cattle,NA
+1805,22,schaapen,hamels,sheep,NA
+1805,23,schaapen,aanteel,sheep,NA
+1805,24,schaapen,wolgevende,sheep,NA
+1805,25,schaapen,ezels,donkeys,NA
+1805,26,schaapen,bokken,goats,NA
+1805,27,schaapen,varkens,pigs,NA
+1805,32,mudden gewonnen,tarwe,wheat,NA
+1805,33,mudden gewonnen,garst,barley,NA
+1805,34,mudden gewonnen,rog,rye,NA
+1805,35,mudden gewonnen,haver,oats,NA
+1805,36,mudden gewonnen,wijnstokken,vines,NA
+1805,37,leggers,wijn,wine,NA
+1805,38,leggers,brandewijn,brandy,NA
+1805,39,leggers,wagens,wagons,NA
+1805,40,leggers,karren,carts,NA
+1806,3,name,mannen,NA,name_men
+1806,4,name,vrouwen,NA,name_women
+1806,8,name,zoons,settler_sons,NA
+1806,9,name,dochters,settler_daughters,NA
+1806,10,name,knegts,knechts,NA
+1806,11,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1806,12,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1806,13,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1806,14,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1806,15,slaaven,mannen boven 16 jaar,slave_men,NA
+1806,16,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1806,17,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1806,18,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1806,19,slaaven,wagens & rijd paarden,horses,NA
+1806,20,slaaven,aanteel paarden,horses,NA
+1806,21,slaaven,trekossen,cattle,NA
+1806,22,slaaven,aanteel beesten,cattle,NA
+1806,23,schaapen,hamels,sheep,NA
+1806,24,schaapen,aanteel,sheep,NA
+1806,25,schaapen,wolgeevende,sheep,NA
+1806,26,schaapen,ezels,donkeys,NA
+1806,27,schaapen,bokken,goats,NA
+1806,28,schaapen,varkens,pigs,NA
+1806,33,muddens gewonnen,koorn,wheat,NA
+1806,34,muddens gewonnen,garst,barley,NA
+1806,35,muddens gewonnen,rog,rye,NA
+1806,36,muddens gewonnen,haver,oats,NA
+1806,37,muddens gewonnen,wijnstokken,vines,NA
+1806,38,muddens gewonnen,leggers wijn,wine,NA
+1806,39,muddens gewonnen,leggers brandewijn,brandy,NA
+1806,40,muddens gewonnen,wagens,wagons,NA
+1806,41,muddens gewonnen,karren,carts,NA
+1808,2,name,mannen,NA,name_men
+1808,3,name,vrouwen,NA,name_women
+1808,8,name,zoons,settler_sons,NA
+1808,9,name,dogters,settler_daughters,NA
+1808,10,name,knegts,knechts,NA
+1808,11,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1808,12,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1808,13,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1808,14,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1808,15,slaaven,mannen boven 16 jaar,slave_men,NA
+1808,16,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1808,17,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1808,18,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1808,19,waagens,met 4 wielen,wagons,NA
+1808,20,waagens,met 2 wielen,carts,NA
+1808,21,paarden,trek & rijd,horses,NA
+1808,22,paarden,aanteel,horses,NA
+1808,23,runderen,trekossen,cattle,NA
+1808,24,runderen,aanteel beesten,cattle,NA
+1808,25,schaapen,hamels,sheep,NA
+1808,26,schaapen,aanteel,sheep,NA
+1808,27,schaapen,wolgeevende,sheep,NA
+1808,28,schaapen,ezels,donkeys,NA
+1808,29,schaapen,bokken,goats,NA
+1808,30,schaapen,varkens,pigs,NA
+1808,35,mudden gewonnen,koorn,wheat,NA
+1808,36,mudden gewonnen,garst,barley,NA
+1808,37,mudden gewonnen,haver,oats,NA
+1808,38,mudden gewonnen,rog,rye,NA
+1808,39,mudden gewonnen,wijnstokken,vines,NA
+1808,40,leggers,wijn,wine,NA
+1808,41,leggers,brandewijn,brandy,NA
+1809,3,name,mannen,NA,name_men
+1809,4,name,vrouwen,NA,name_women
+1809,8,name,zoons,settler_sons,NA
+1809,9,name,dochters,settler_daughters,NA
+1809,10,name,knegts,knechts,NA
+1809,11,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1809,12,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1809,13,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1809,14,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1809,15,slaaven,mannen boven 16 jaar,slave_men,NA
+1809,16,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1809,17,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1809,18,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1809,19,wagens,4 wielen,wagons,NA
+1809,20,wagens,2 wielen,carts,NA
+1809,21,paarden,wagens & rijd,horses,NA
+1809,22,paarden,aanteel,horses,NA
+1809,23,runderen,trekossen,cattle,NA
+1809,24,runderen,aanteel beesten,cattle,NA
+1809,25,schaapen,hamels,sheep,NA
+1809,26,schaapen,aanteel,sheep,NA
+1809,27,schaapen,wolgeevende,sheep,NA
+1809,28,schaapen,ezels,donkeys,NA
+1809,29,schaapen,bokken,goats,NA
+1809,30,schaapen,varkens,pigs,NA
+1809,35,muddens gewonnen,koorn,wheat,NA
+1809,36,muddens gewonnen,garst,barley,NA
+1809,37,muddens gewonnen,haver,oats,NA
+1809,38,muddens gewonnen,rog,rye,NA
+1809,39,muddens gewonnen,wijnstokken,vines,NA
+1809,40,leggers,wijn,wine,NA
+1809,41,leggers,brandewijn,brandy,NA
+1810,3,name,mannen,NA,name_men
+1810,4,name,vrouwen,NA,name_women
+1810,8,name,zoons,settler_sons,NA
+1810,9,name,dochters,settler_daughters,NA
+1810,10,name,knegts,knechts,NA
+1810,11,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1810,12,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1810,13,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1810,14,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1810,15,slaaven,mannen boven 16 jaar,slave_men,NA
+1810,16,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1810,17,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1810,18,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1810,19,wagens,4 wielen,wagons,NA
+1810,20,wagens,2 wielen,carts,NA
+1810,21,paarden,wagens & rijd,horses,NA
+1810,22,paarden,aanteel,horses,NA
+1810,23,runderen,trekossen,cattle,NA
+1810,24,runderen,aanteel beesten,cattle,NA
+1810,25,schaapen,hamels,sheep,NA
+1810,26,schaapen,aanteel,sheep,NA
+1810,27,schaapen,wolgeevende,sheep,NA
+1810,28,schaapen,ezels,donkeys,NA
+1810,29,schaapen,bokken,goats,NA
+1810,30,schaapen,varkens,pigs,NA
+1810,35,muddens gewonnen,koorn,wheat,NA
+1810,36,muddens gewonnen,garst,barley,NA
+1810,37,muddens gewonnen,haver,oats,NA
+1810,38,muddens gewonnen,rog,rye,NA
+1810,39,muddens gewonnen,wijnstokken,vines,NA
+1810,40,leggers,wijn,wine,NA
+1810,41,leggers,brandewijn,brandy,NA
+1811,2,names,mannen,NA,name_men
+1811,3,names,vrouwen,NA,name_women
+1811,8,names,zoons,settler_sons,NA
+1811,9,names,dogters,settler_daughters,NA
+1811,10,names,knegts,knechts,NA
+1811,11,hottentotten,mannen boven 16 jaaren,khoe_men,NA
+1811,12,hottentotten,mannen beneden 16 jaaren,khoe_men,NA
+1811,13,hottentotten,vrouwen boven 14 jaaren,khoe_women,NA
+1811,14,hottentotten,vrouwen beneden 14 jaaren,khoe_women,NA
+1811,15,slaaven,mannen boven 16 jaaren,slave_men,NA
+1811,16,slaaven,mannen beneden 16 jaaren,slave_boys,NA
+1811,17,slaaven,vrouwen boven 14 jaaren,slave_women,NA
+1811,18,slaaven,vrouwen beneden 14 jaaren,slave_girls,NA
+1811,19,waagens,met 4 wielen,wagons,NA
+1811,20,waagens,met 2 wielen,carts,NA
+1811,21,waagens,wagen en rijd paarden,horses,NA
+1811,22,waagens,aanteel paarden,horses,NA
+1811,23,waagens,trek ossen,cattle,NA
+1811,24,waagens,aanteel beesten,cattle,NA
+1811,25,waagens,hamels,sheep,NA
+1811,26,waagens,aanteel schapen,sheep,NA
+1811,27,waagens,wolgeevende schapen,sheep,NA
+1811,28,waagens,ezels,donkeys,NA
+1811,29,waagens,bokken,goats,NA
+1811,30,waagens,varkens,pigs,NA
+1811,35,mudden gewonnen,koorn,wheat,NA
+1811,36,mudden gewonnen,garst,barley,NA
+1811,37,mudden gewonnen,haver,oats,NA
+1811,38,mudden gewonnen,rog,rye,NA
+1811,39,mudden gewonnen,wijnstokken,vines,NA
+1811,40,mudden gewonnen,leggers wijn,wine,NA
+1811,41,mudden gewonnen,leggers brandewijn,brandy,NA
+1812,3,name,mannen,NA,name_men
+1812,4,name,vrouwen,NA,name_women
+1812,8,name,zoons,settler_sons,NA
+1812,9,name,dochters,settler_daughters,NA
+1812,10,name,knegts,knechts,NA
+1812,11,hottentot,mannen,khoe_men,NA
+1812,12,hottentot,vrouwen,khoe_women,NA
+1812,13,hottentot,jongetjes,slave_boys,NA
+1812,14,hottentot,meisjes,slave_girls,NA
+1812,15,hottentot,slaaven,slave_men,NA
+1812,16,hottentot,slavinnen,slave_women,NA
+1812,17,slaaven,jongetjes,slave_boys,NA
+1812,18,slaaven,meisjes,slave_girls,NA
+1812,19,wagens,4 wielen,wagons,NA
+1812,20,wagens,2 wielen,carts,NA
+1812,21,wagens &,rijd paarden,horses,NA
+1812,22,aanteel,paarden,horses,NA
+1812,23,aanteel,trekossen,cattle,NA
+1812,24,aanteel,beesten,cattle,NA
+1812,25,schaapen,hamels,sheep,NA
+1812,26,schaapen,aanteel,sheep,NA
+1812,27,schaapen,wolgeevends,sheep,NA
+1812,28,schaapen,ezels,donkeys,NA
+1812,29,schaapen,bokken,goats,NA
+1812,30,schaapen,varkens,pigs,NA
+1812,35,muddens gewonnen,koorn,wheat,NA
+1812,36,muddens gewonnen,garst,barley,NA
+1812,37,muddens gewonnen,haver,oats,NA
+1812,38,muddens gewonnen,rog,rye,NA
+1812,39,muddens gewonnen,wijnstokken,vines,NA
+1812,40,leggers,wijn,wine,NA
+1812,41,leggers,brandewijn,brandy,NA
+1813,2,name,mannen,NA,name_men
+1813,3,name,vrouwen,NA,name_women
+1813,8,name,zoons,settler_sons,NA
+1813,9,name,dogters,settler_daughters,NA
+1813,10,name,knegts,knechts,NA
+1813,11,hottentotten,mannen boven 16 jaaren,khoe_men,NA
+1813,12,hottentotten,mannen beneden 16 jaaren,khoe_men,NA
+1813,13,hottentotten,vrouwen boven 14 jaaren,khoe_women,NA
+1813,14,hottentotten,vrouwen beneden 14 jaaren,khoe_women,NA
+1813,15,slaaven,mannen boven 16 jaaren,slave_men,NA
+1813,16,slaaven,mannen beneden 16 jaaren,slave_boys,NA
+1813,17,slaaven,vrouwen boven 14 jaaren,slave_women,NA
+1813,18,slaaven,vrouwen beneden 14 jaaren,slave_girls,NA
+1813,19,waagens,met 4 wielen,wagons,NA
+1813,20,waagens,met 2 wielen,carts,NA
+1813,21,waagens,wagen en rijd paarden,horses,NA
+1813,22,waagens,aanteel paarden,horses,NA
+1813,23,waagens,trek ossen,cattle,NA
+1813,24,waagens,aanteel beesten,cattle,NA
+1813,25,waagens,hamels,sheep,NA
+1813,26,waagens,aanteel schapen,sheep,NA
+1813,27,waagens,wolgeevende schapen,sheep,NA
+1813,28,waagens,ezels,donkeys,NA
+1813,29,waagens,bokken,goats,NA
+1813,30,waagens,varkens,pigs,NA
+1813,35,mudden gewonnen,koorn,wheat,NA
+1813,36,mudden gewonnen,garst,barley,NA
+1813,37,mudden gewonnen,haver,oats,NA
+1813,38,mudden gewonnen,rog,rye,NA
+1813,39,mudden gewonnen,wijnstokken,vines,NA
+1813,40,mudden gewonnen,leggers wijn,wine,NA
+1813,41,mudden gewonnen,leggers brandewijn,brandy,NA
+1814,3,name,mannen,NA,name_men
+1814,4,name,vrouwen,NA,name_women
+1814,8,name,zoons,settler_sons,NA
+1814,9,name,dochters,settler_daughters,NA
+1814,10,name,knegts,knechts,NA
+1814,11,hottentot,mannen,khoe_men,NA
+1814,12,hottentot,vrouwen,khoe_women,NA
+1814,13,hottentot,jongetjes,slave_boys,NA
+1814,14,hottentot,meisjes,slave_girls,NA
+1814,15,hottentot,slaaven,slave_men,NA
+1814,16,hottentot,slavinnen,slave_women,NA
+1814,17,slaaven,jongetjes,slave_boys,NA
+1814,18,slaaven,meisjes,slave_girls,NA
+1814,19,wagens,4 wielen,wagons,NA
+1814,20,wagens,2 wielen,carts,NA
+1814,21,wagens &,rijd paarden,horses,NA
+1814,22,aanteel,paarden,horses,NA
+1814,23,aanteel,trekossen,cattle,NA
+1814,24,aanteel,beesten,cattle,NA
+1814,25,schaapen,hamels,sheep,NA
+1814,26,schaapen,aanteel,sheep,NA
+1814,27,schaapen,wolgevende,sheep,NA
+1814,28,schaapen,ezels,donkeys,NA
+1814,29,schaapen,bokken,goats,NA
+1814,30,schaapen,varkens,pigs,NA
+1814,35,muddens gewonnen,koorn,wheat,NA
+1814,36,muddens gewonnen,garst,barley,NA
+1814,37,muddens gewonnen,haver,oats,NA
+1814,38,muddens gewonnen,rog,rye,NA
+1814,39,muddens gewonnen,wijnstokken,vines,NA
+1814,40,leggers,wijn,wine,NA
+1814,41,leggers,brandewijn,brandy,NA
+1816,3,name,mannen,NA,name_men
+1816,4,name,vrouwen,NA,name_women
+1816,8,name,zoons,settler_sons,NA
+1816,9,name,dochters,settler_daughters,NA
+1816,14,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1816,15,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1816,16,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1816,17,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1816,18,slaaven,mannen boven 16 jaar,slave_men,NA
+1816,19,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1816,20,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1816,21,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1816,22,wagens,4 wielen,wagons,NA
+1816,23,wagens,2 wielen,carts,NA
+1816,24,paarden,wagens & rijd paarden,horses,NA
+1816,25,paarden,aanteel,horses,NA
+1816,26,runderen,trekossen,cattle,NA
+1816,27,runderen,aanteel,cattle,NA
+1816,28,schaapen,hamels,sheep,NA
+1816,29,schaapen,aanteel,sheep,NA
+1816,30,schaapen,wolgevende,sheep,NA
+1816,31,schaapen,ezels,donkeys,NA
+1816,32,schaapen,bokken,goats,NA
+1816,33,schaapen,varkens,pigs,NA
+1816,38,muddens gewonnen,koorn,wheat,NA
+1816,39,muddens gewonnen,garst,barley,NA
+1816,40,muddens gewonnen,haver,oats,NA
+1816,41,muddens gewonnen,rog,rye,NA
+1816,42,muddens gewonnen,wijnstokken,vines,NA
+1816,43,leggers,wijn,wine,NA
+1816,44,leggers,brandewijn,brandy,NA
+1817,3,name,mannen,NA,name_men
+1817,4,name,vrouwen,NA,name_women
+1817,7,name,zoons,settler_sons,NA
+1817,8,name,dochters,settler_daughters,NA
+1817,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1817,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1817,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1817,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1817,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1817,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1817,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1817,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1817,21,wagens,4 wielen,wagons,NA
+1817,22,wagens,2 wielen,carts,NA
+1817,23,paarden,wagens & rijd paarden,horses,NA
+1817,24,paarden,aanteel,horses,NA
+1817,25,runderen,trekossen,cattle,NA
+1817,26,runderen,aanteel,cattle,NA
+1817,27,schaapen,hamels,sheep,NA
+1817,28,schaapen,aanteel,sheep,NA
+1817,29,schaapen,wolgevende,sheep,NA
+1817,30,schaapen,ezels,donkeys,NA
+1817,31,schaapen,bokken,goats,NA
+1817,32,schaapen,varkens,pigs,NA
+1817,37,muddens gewonnen,koorn,wheat,NA
+1817,38,muddens gewonnen,garst,barley,NA
+1817,39,muddens gewonnen,haver,oats,NA
+1817,40,muddens gewonnen,rog,rye,NA
+1817,41,muddens gewonnen,wijnstokken,vines,NA
+1817,42,leggers,wijn,wine,NA
+1817,43,leggers,brandewijn,brandy,NA
+1818,3,name,mannen,NA,name_men
+1818,4,name,vrouwen,NA,name_women
+1818,8,name,zoons,settler_sons,NA
+1818,9,name,dochters,settler_daughters,NA
+1818,14,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1818,15,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1818,16,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1818,17,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1818,18,slaaven,mannen boven 16 jaar,slave_men,NA
+1818,19,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1818,20,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1818,21,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1818,22,wagens,4 wielen,wagons,NA
+1818,23,wagens,2 wielen,carts,NA
+1818,24,paarden,wagens & rijd paarden,horses,NA
+1818,25,paarden,aanteel,horses,NA
+1818,26,runderen,trekossen,cattle,NA
+1818,27,runderen,aanteel,cattle,NA
+1818,28,schaapen,hamels,sheep,NA
+1818,29,schaapen,aanteel,sheep,NA
+1818,30,schaapen,wolgevende,sheep,NA
+1818,31,schaapen,ezels,donkeys,NA
+1818,32,schaapen,bokken,goats,NA
+1818,33,schaapen,varkens,pigs,NA
+1818,38,muddens gewonnen,koorn,wheat,NA
+1818,39,muddens gewonnen,garst,barley,NA
+1818,40,muddens gewonnen,haver,oats,NA
+1818,41,muddens gewonnen,rog,rye,NA
+1818,42,muddens gewonnen,wijnstokken,vines,NA
+1818,43,leggers,wijn,wine,NA
+1818,44,leggers,brandewijn,brandy,NA
+1819,3,name,mannen,NA,name_men
+1819,4,name,vrouwen,NA,name_women
+1819,7,name,zoons,settler_sons,NA
+1819,8,name,dochters,settler_daughters,NA
+1819,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1819,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1819,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1819,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1819,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1819,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1819,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1819,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1819,21,wagens,4 wielen,wagons,NA
+1819,22,wagens,2 wielen,carts,NA
+1819,23,paarden,wagens & rijd paarden,horses,NA
+1819,24,paarden,aanteel,horses,NA
+1819,25,runderen,trekossen,cattle,NA
+1819,26,runderen,aanteel,cattle,NA
+1819,27,schaapen,hamels,sheep,NA
+1819,28,schaapen,aanteel,sheep,NA
+1819,29,schaapen,wolgevende,sheep,NA
+1819,30,schaapen,ezels,donkeys,NA
+1819,31,schaapen,bokken,goats,NA
+1819,32,schaapen,varkens,pigs,NA
+1819,37,muddens gewonnen,koorn,wheat,NA
+1819,38,muddens gewonnen,garst,barley,NA
+1819,39,muddens gewonnen,haver,oats,NA
+1819,40,muddens gewonnen,rog,rye,NA
+1819,41,muddens gewonnen,wijnstokken,vines,NA
+1819,42,leggers,wijn,wine,NA
+1819,43,leggers,brandewijn,brandy,NA
+1820,3,name,mannen,NA,name_men
+1820,4,name,vrouwen,NA,name_women
+1820,7,name,zoons,settler_sons,NA
+1820,8,name,dochters,settler_daughters,NA
+1820,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1820,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1820,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1820,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1820,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1820,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1820,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1820,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1820,21,wagens,4 wielen,wagons,NA
+1820,22,wagens,2 wielen,carts,NA
+1820,23,paarden,wagens & rijd paarden,horses,NA
+1820,24,paarden,aanteel,horses,NA
+1820,25,runderen,trekossen,cattle,NA
+1820,26,runderen,aanteel,cattle,NA
+1820,27,schaapen,hamels,sheep,NA
+1820,28,schaapen,aanteel,sheep,NA
+1820,29,schaapen,wolgevende,sheep,NA
+1820,30,schaapen,ezels,donkeys,NA
+1820,31,schaapen,bokken,goats,NA
+1820,32,schaapen,varkens,pigs,NA
+1820,37,muddens gewonnen,koorn,wheat,NA
+1820,38,muddens gewonnen,garst,barley,NA
+1820,39,muddens gewonnen,haver,oats,NA
+1820,41,muddens gewonnen,rog,rye,NA
+1820,42,muddens gewonnen,wijnstokken,vines,NA
+1820,43,leggers,wijn,wine,NA
+1820,44,leggers,brandewijn,brandy,NA
+1821,3,name,mannen,NA,name_men
+1821,4,name,vrouwen,NA,name_women
+1821,7,name,zoons,settler_sons,NA
+1821,8,name,dochters,settler_daughters,NA
+1821,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1821,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1821,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1821,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1821,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1821,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1821,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1821,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1821,21,wagens,4 wielen,wagons,NA
+1821,22,wagens,2 wielen,carts,NA
+1821,23,paarden,wagens & rijd paarden,horses,NA
+1821,24,paarden,aanteel,horses,NA
+1821,25,runderen,trekossen,cattle,NA
+1821,26,runderen,aanteel,cattle,NA
+1821,27,schaapen,hamels,sheep,NA
+1821,28,schaapen,aanteel,sheep,NA
+1821,29,schaapen,wolgevende,sheep,NA
+1821,30,schaapen,ezels,donkeys,NA
+1821,31,schaapen,bokken,goats,NA
+1821,32,schaapen,varkens,pigs,NA
+1821,37,muddens gewonnen,koorn,wheat,NA
+1821,38,muddens gewonnen,garst,barley,NA
+1821,39,muddens gewonnen,haver,oats,NA
+1821,41,muddens gewonnen,rog,rye,NA
+1821,42,muddens gewonnen,wijnstokken,vines,NA
+1821,43,leggers,wijn,wine,NA
+1821,44,leggers,brandewijn,brandy,NA
+1822,3,name,mannen,NA,name_men
+1822,4,name,vrouwen,NA,name_women
+1822,7,name,zoons,settler_sons,NA
+1822,8,name,dochters,settler_daughters,NA
+1822,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1822,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1822,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1822,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1822,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1822,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1822,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1822,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1822,21,wagens,4 wielen,wagons,NA
+1822,22,wagens,2 wielen,carts,NA
+1822,23,paarden,wagens & rijd paarden,horses,NA
+1822,24,paarden,aanteel,horses,NA
+1822,25,runderen,trekossen,cattle,NA
+1822,26,runderen,aanteel,cattle,NA
+1822,27,schaapen,hamels,sheep,NA
+1822,28,schaapen,aanteel,sheep,NA
+1822,29,schaapen,wolgevende,sheep,NA
+1822,30,schaapen,ezels,donkeys,NA
+1822,31,schaapen,bokken,goats,NA
+1822,32,schaapen,varkens,pigs,NA
+1822,37,muddens gewonnen,koorn,wheat,NA
+1822,38,muddens gewonnen,garst,barley,NA
+1822,39,muddens gewonnen,haver,oats,NA
+1822,41,muddens gewonnen,rog,rye,NA
+1822,42,muddens gewonnen,wijnstokken,vines,NA
+1822,43,leggers,wijn,wine,NA
+1822,44,leggers,brandewijn,brandy,NA
+1823,2,name,mannen,NA,name_men
+1823,3,name,vrouwen,NA,name_women
+1823,8,burgers & ingezeetenen,zoons beneden de 16 jaren,settler_sons,NA
+1823,9,burgers & ingezeetenen,dochters beneden de 20 jaren,settler_daughters,NA
+1823,14,hottentotten,mannen boven de 16 jaren,khoe_men,NA
+1823,15,hottentotten,mannen beneden de 16 jaren,khoe_men,NA
+1823,16,hottentotten,vrouwen boven de 14 jaren,khoe_women,NA
+1823,17,hottentotten,vrouwen beneden de 14 jaren,khoe_women,NA
+1823,18,slaven,mannen boven de 16 jaren,slave_men,NA
+1823,19,slaven,mannen beneden de 16 jaren,slave_boys,NA
+1823,20,slaven,vrouwen boven de 14 jaren,slave_women,NA
+1823,21,slaven,vrouwen beneden de 14 jaren,slave_girls,NA
+1823,22,wagens,met 4 wielen,wagons,NA
+1823,23,wagens,met 2 wielen,carts,NA
+1823,24,paarden,trek & ryd,horses,NA
+1823,25,paarden,aanteel,horses,NA
+1823,26,runderen,trek ossen,cattle,NA
+1823,27,runderen,aanteel,cattle,NA
+1823,28,schaapen,hamels,sheep,NA
+1823,29,schaapen,aanteel,sheep,NA
+1823,30,schaapen,wolgeevende,sheep,NA
+1823,31,schaapen,ezels,donkeys,NA
+1823,32,schaapen,bokken,goats,NA
+1823,33,schaapen,varken,pigs,NA
+1823,38,mudden gezaaijd,koorn,wheat,NA
+1823,39,mudden gezaaijd,garst,barley,NA
+1823,40,mudden gezaaijd,haver,oats,NA
+1823,42,mudden gezaaijd,rog,rye,NA
+1823,43,mudden gezaaijd,wijnstokken,vines,NA
+1823,44,mudden gezaaijd,leggers wijn,wine,NA
+1823,45,mudden gezaaijd,leggers brandewijn,brandy,NA
+1824,3,name,mannen,NA,name_men
+1824,4,name,vrouwen,NA,name_women
+1824,7,name,zoons,settler_sons,NA
+1824,8,name,dochters,settler_daughters,NA
+1824,13,hottentotten,mannen boven 16 jaar,khoe_men,NA
+1824,14,hottentotten,mannen beneden 16 jaar,khoe_men,NA
+1824,15,hottentotten,vrouwen boven 14 jaar,khoe_women,NA
+1824,16,hottentotten,vrouwen beneden 14 jaar,khoe_women,NA
+1824,17,slaaven,mannen boven 16 jaar,slave_men,NA
+1824,18,slaaven,mannen beneden 16 jaar,slave_boys,NA
+1824,19,slaaven,vrouwen boven 14 jaar,slave_women,NA
+1824,20,slaaven,vrouwen beneden 14 jaar,slave_girls,NA
+1824,21,wagens,4 wielen,wagons,NA
+1824,22,wagens,2 wielen,carts,NA
+1824,23,paarden,wagens & rijd paarden,horses,NA
+1824,24,paarden,aanteel,horses,NA
+1824,25,runderen,trekossen,cattle,NA
+1824,26,runderen,aanteel,cattle,NA
+1824,27,schaapen,hamels,sheep,NA
+1824,28,schaapen,aanteel,sheep,NA
+1824,29,schaapen,wolgevende,sheep,NA
+1824,30,schaapen,ezels,donkeys,NA
+1824,31,schaapen,bokken,goats,NA
+1824,32,schaapen,varkens,pigs,NA
+1824,37,muddens gewonnen,koorn,wheat,NA
+1824,38,muddens gewonnen,garst,barley,NA
+1824,39,muddens gewonnen,haver,oats,NA
+1824,41,muddens gewonnen,rog,rye,NA
+1824,42,muddens gewonnen,wijnstokken,vines,NA
+1824,43,leggers,wijn,wine,NA
+1824,44,leggers,brandewijn,brandy,NA
+1825,2,names,"1. of the husband; 2. of the sons above 16 years of age; 3. of the european servants, free-blacks and other inhabitants",NA,name_men
+1825,3,names,1. of the wives; 2. of the daughters above 20 years of age,NA,name_women
+1825,7,white inhabitants,sons below 16,settler_sons,NA
+1825,8,white inhabitants,daughters below 20,settler_daughters,NA
+1825,21,slaves,males above 16,slave_men,NA
+1825,22,slaves,males below 16,slave_boys,NA
+1825,23,slaves,females above 14,slave_women,NA
+1825,24,slaves,females below 14,slave_girls,NA
+1825,25,waggons and other carriages,on 4 wheels,wagons,NA
+1825,26,waggons and other carriages,on 2 wheels,carts,NA
+1825,27,horses,saddle & waggon,horses,NA
+1825,28,horses,breeding,horses,NA
+1825,29,black cattle,draught oxen,cattle,NA
+1825,30,black cattle,breeding stock,cattle,NA
+1825,31,sheep,wethers,sheep,NA
+1825,32,sheep,breeding,sheep,NA
+1825,33,sheep,spanish,sheep,NA
+1825,34,sheep,asses & mules,donkeys,NA
+1825,35,sheep,goats,goats,NA
+1825,36,sheep,pigs,pigs,NA
+1825,41,quantity of muids reaped,wheat,wheat,NA
+1825,42,quantity of muids reaped,barley,barley,NA
+1825,43,quantity of muids reaped,oats,oats,NA
+1825,44,quantity of muids reaped,rye,rye,NA
+1825,46,quantity of muids reaped,vines,vines,NA
+1825,47,leagers made of,wine,wine,NA
+1825,48,leagers made of,brandy,brandy,NA
+1826,3,names of inhabitants above 16 years of age,men,NA,name_men
+1826,4,names of inhabitants above 16 years of age,women,NA,name_women
+1826,7,families,sons,settler_sons,NA
+1826,8,families,daughters,settler_daughters,NA
+1826,18,slaves,males above 16 years,slave_men,NA
+1826,19,slaves,males under 16 years,slave_boys,NA
+1826,20,slaves,females above 20 years,slave_women,NA
+1826,21,slaves,females under 20 years,slave_girls,NA
+1826,26,horses,wagon & saddle horses,horses,NA
+1826,27,horses,breeding horses,horses,NA
+1826,28,cattle,oxen,cattle,NA
+1826,29,cattle,breeding cattle,cattle,NA
+1826,30,cattle,wethers,sheep,NA
+1826,31,sheep,breeding sheep,sheep,NA
+1826,32,sheep,spanish sheep,sheep,NA
+1826,33,sheep,asses,donkeys,NA
+1826,34,sheep,goats,goats,NA
+1826,35,sheep,pigs,pigs,NA
+1826,40,muids reaped,wheat,wheat,NA
+1826,41,muids reaped,barley,barley,NA
+1826,42,muids reaped,rye,rye,NA
+1826,43,muids reaped,oats,oats,NA
+1826,44,muids reaped,vines,vines,NA
+1826,45,leagers,wine,wine,NA
+1826,46,leagers,brandy,brandy,NA
+1827,3,names of inhabitants above 16 years of age,men,NA,name_men
+1827,4,names of inhabitants above 16 years of age,women,NA,name_women
+1827,8,families,sons,settler_sons,NA
+1827,9,families,daughters,settler_daughters,NA
+1827,19,slaves,males above 16 years,slave_men,NA
+1827,20,slaves,males under 16 years,slave_boys,NA
+1827,21,slaves,females above 20 years,slave_women,NA
+1827,22,slaves,females under 20 years,slave_girls,NA
+1827,27,horses,wagon & saddle horses,horses,NA
+1827,28,horses,breeding horses,horses,NA
+1827,29,cattle,oxen,cattle,NA
+1827,30,cattle,breeding cattle,cattle,NA
+1827,31,cattle,wethers,sheep,NA
+1827,32,sheep,breeding sheep,sheep,NA
+1827,33,sheep,spanish sheep,sheep,NA
+1827,34,sheep,asses,donkeys,NA
+1827,35,sheep,goats,goats,NA
+1827,36,sheep,pigs,pigs,NA
+1827,41,muids reaped,wheat,wheat,NA
+1827,42,muids reaped,barley,barley,NA
+1827,43,muids reaped,rye,rye,NA
+1827,44,muids reaped,oats,oats,NA
+1827,45,muids reaped,vines,vines,NA
+1827,46,leagers,wine,wine,NA
+1827,47,leagers,brandy,brandy,NA
+1828,3,names of inhabitants above 16 years of age,men,NA,name_men
+1828,4,names of inhabitants above 16 years of age,women,NA,name_women
+1828,8,families,sons,settler_sons,NA
+1828,9,families,daughters,settler_daughters,NA
+1828,19,slaves,males above 16 years,slave_men,NA
+1828,20,slaves,males under 16 years,slave_boys,NA
+1828,21,slaves,females above 20 years,slave_women,NA
+1828,22,slaves,females under 20 years,slave_girls,NA
+1828,27,horses,wagon & saddle horses,horses,NA
+1828,28,horses,breeding horses,horses,NA
+1828,29,cattle,oxen,cattle,NA
+1828,30,cattle,breeding cattle,cattle,NA
+1828,31,cattle,wethers,sheep,NA
+1828,32,sheep,breeding sheep,sheep,NA
+1828,33,sheep,spanish sheep,sheep,NA
+1828,34,sheep,asses,donkeys,NA
+1828,35,sheep,goats,goats,NA
+1828,36,sheep,pigs,pigs,NA
+1828,41,muids reaped,wheat,wheat,NA
+1828,42,muids reaped,barley,barley,NA
+1828,43,muids reaped,rye,rye,NA
+1828,44,muids reaped,oats,oats,NA
+1828,45,muids reaped,vines,vines,NA
+1828,46,leagers,wine,wine,NA
+1828,47,leagers,brandy,brandy,NA
+1829,3,names of inhabitants above 16 years of age,men,NA,name_men
+1829,4,names of inhabitants above 16 years of age,women,NA,name_women
+1829,7,families,sons,settler_sons,NA
+1829,8,families,daughters,settler_daughters,NA
+1829,18,slaves,males above 16 years,slave_men,NA
+1829,19,slaves,males under 16 years,slave_boys,NA
+1829,20,slaves,females above 20 years,slave_women,NA
+1829,21,slaves,females under 20 years,slave_girls,NA
+1829,26,horses,wagon & saddle horses,horses,NA
+1829,27,horses,breeding horses,horses,NA
+1829,28,cattle,oxen,cattle,NA
+1829,29,cattle,breeding cattle,cattle,NA
+1829,30,cattle,wethers,sheep,NA
+1829,31,sheep,breeding sheep,sheep,NA
+1829,32,sheep,spanish sheep,sheep,NA
+1829,33,sheep,asses,donkeys,NA
+1829,34,sheep,goats,goats,NA
+1829,35,sheep,pigs,pigs,NA
+1829,40,muids reaped,wheat,wheat,NA
+1829,41,muids reaped,barley,barley,NA
+1829,42,muids reaped,rye,rye,NA
+1829,43,muids reaped,oats,oats,NA
+1829,44,muids reaped,vines,vines,NA
+1829,45,leagers,wine,wine,NA
+1829,46,leagers,brandy,brandy,NA
+1830,3,names,men,NA,name_men
+1830,4,names,women,NA,name_women
+1830,15,horses & mules,pleasure & riding,horses,NA
+1830,16,horses & mules,trade or agriculture,horses,NA
+1830,20,stock,breeding horses,horses,NA
+1830,21,stock,cattle,cattle,NA
+1830,22,stock,"sheep, goats or pigs",sheep,NA
+1830,26,produce,muids reaped,grain_all,NA
+1830,27,produce,leagers of wine,wine,NA
+1830,28,produce,leagers of brandy,brandy,NA
+1830,32,carriages and wagons kept or used for pleasure,on 4 wheels,wagons,NA
+1830,33,carriages and wagons kept or used for pleasure,on 2 wheels,carts,NA
+1830,34,carriages and wagons used for trade & agriculture,on 4 wheels,wagons,NA
+1830,35,carriages and wagons used for trade & agriculture,on 2 wheels,carts,NA
+1832,3,names,men½,NA,name_men
+1832,4,names,women,NA,name_women
+1832,15,horses & mules,pleasure & riding,horses,NA
+1832,16,horses & mules,trade or agriculture,horses,NA
+1832,20,stock,breeding horses,horses,NA
+1832,21,stock,cattle,cattle,NA
+1832,22,stock,"sheep, goats or pigs",sheep,NA
+1832,26,produce,muids reaped,grain_all,NA
+1832,27,produce,leagers of wine,wine,NA
+1832,28,produce,leagers of brandy½,brandy,NA
+1832,32,carriages and wagons kept or used for pleasure,on 4 wheels,wagons,NA
+1832,33,carriages and wagons kept or used for pleasure,on 2 wheels,carts,NA
+1832,34,carriages and wagons used for trade & agriculture,on 4 wheels,wagons,NA
+1832,35,carriages and wagons used for trade & agriculture,on 2 wheels,carts,NA
+1834,2,,surname & christian name (men & women),NA,name_men
+1834,13,horses & mules,carriage and riding,horses,NA
+1834,14,horses & mules,"trade, agriculture or burgher duties",horses,NA
+1834,18,stock,breeding horses,horses,NA
+1834,19,stock,cattle,cattle,NA
+1834,20,stock,"sheep, goats or pigs",sheep,NA
+1834,24,produce,"muids of barley, rye, oats and wheat reaped",grain_all,NA
+1834,25,produce,leagers of wine made,wine,NA
+1834,26,produce,leagers of brandy made,brandy,NA
+1834,30,carriages & waggons kept for pleasure,on 4 wheels,wagons,NA
+1834,31,carriages & waggons kept for pleasure,on 2 wheels,carts,NA
+1834,32,carriages & waggons used for trade or agriculture,on 4 wheels,wagons,NA
+1834,33,carriages & waggons used for trade or agriculture,on 2 wheels,carts,NA
+1835,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1835,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1835,8,huisgezinnen,zoons,settler_sons,NA
+1835,9,huisgezinnen,dochters,settler_daughters,NA
+1835,10,huisgezinnen,knechts,knechts,NA
+1835,11,hottentotten,mans boven de 16 jaren,khoe_men,NA
+1835,12,hottentotten,mans beneden de 16 jaren,khoe_men,NA
+1835,13,hottentotten,vrouwen boven de 20 jaren,khoe_women,NA
+1835,14,hottentotten,vrouwen beneden de 20 jaren,khoe_women,NA
+1835,19,slaven,mans boven de 16 jaren,slave_men,NA
+1835,20,slaven,mans beneden de 16 jaren,slave_boys,NA
+1835,21,slaven,vrouwen boven de 20 jaren,slave_women,NA
+1835,22,slaven,vrouwen beneden de 20 jaren,slave_girls,NA
+1835,25,slaven,schapen,sheep,NA
+1835,26,slaven,bokken,goats,NA
+1835,27,mudden gewonnen,koorn,wheat,NA
+1835,28,mudden gewonnen,garst,barley,NA
+1835,29,mudden gewonnen,rog,rye,NA
+1835,30,mudden gewonnen,haver,oats,NA
+1835,35,mudden gewonnen,wynstokken,vines,NA
+1835,36,mudden gewonnen,leggers wyn,wine,NA
+1835,37,mudden gewonnen,brandewyn,brandy,NA
+1836,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1836,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1836,8,huisgezinnen,zoons,settler_sons,NA
+1836,9,huisgezinnen,dochters,settler_daughters,NA
+1836,10,huisgezinnen,knechts,knechts,NA
+1836,11,hottentotten,mans boven de 16 jaren,khoe_men,NA
+1836,12,hottentotten,mans beneden de 16 jaren,khoe_men,NA
+1836,13,hottentotten,vrouwen boven de 20 jaren,khoe_women,NA
+1836,14,hottentotten,vrouwen beneden de 20 jaren,khoe_women,NA
+1836,19,slaven/apprenticen,mans boven de 16 jaren,slave_men,NA
+1836,20,slaven/apprenticen,mans beneden de 16 jaren,slave_boys,NA
+1836,21,slaven/apprenticen,vrouwen boven de 20 jaren,slave_women,NA
+1836,22,slaven/apprenticen,vrouwen beneden de 20 jaren,slave_girls,NA
+1836,25,slaven/apprenticen,paarden,horses,NA
+1836,26,slaven/apprenticen,hoornvee,cattle,NA
+1836,27,slaven/apprenticen,schapen,sheep,NA
+1836,28,slaven/apprenticen,bokken,goats,NA
+1836,29,mudden gewonnen,koorn,wheat,NA
+1836,30,mudden gewonnen,garst,barley,NA
+1836,31,mudden gewonnen,rog,rye,NA
+1836,32,mudden gewonnen,haver,oats,NA
+1836,37,mudden gewonnen,wynstokken,vines,NA
+1836,38,mudden gewonnen,leggers wyn,wine,NA
+1836,39,mudden gewonnen,leggers brandewyn,brandy,NA
+1837,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1837,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1837,8,huisgezinnen,zoons,settler_sons,NA
+1837,9,huisgezinnen,dochters,settler_daughters,NA
+1837,10,huisgezinnen,knechts,knechts,NA
+1837,11,hottentotten,mans boven de 16 jaren,khoe_men,NA
+1837,12,hottentotten,mans beneden de 16 jaren,khoe_men,NA
+1837,13,hottentotten,vrouwen boven de 20 jaren,khoe_women,NA
+1837,14,hottentotten,vrouwen beneden de 20 jaren,khoe_women,NA
+1837,19,slaven/apprenticen,mans boven de 16 jaren,slave_men,NA
+1837,20,slaven/apprenticen,mans beneden de 16 jaren,slave_boys,NA
+1837,21,slaven/apprenticen,vrouwen boven de 20 jaren,slave_women,NA
+1837,22,slaven/apprenticen,vrouwen beneden de 20 jaren,slave_girls,NA
+1837,25,slaven/apprenticen,paarden,horses,NA
+1837,26,slaven/apprenticen,hoornvee,cattle,NA
+1837,27,slaven/apprenticen,schapen,sheep,NA
+1837,28,slaven/apprenticen,bokken,goats,NA
+1837,29,mudden gewonnen,koorn,wheat,NA
+1837,30,mudden gewonnen,garst,barley,NA
+1837,31,mudden gewonnen,rog,rye,NA
+1837,32,mudden gewonnen,haver,oats,NA
+1837,37,mudden gewonnen,wynstokken,vines,NA
+1837,38,mudden gewonnen,leggers wyn,wine,NA
+1837,39,mudden gewonnen,leggers brandewyn,brandy,NA
+1838,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1838,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1838,8,huisgezinnen,zoons,settler_sons,NA
+1838,9,huisgezinnen,dochters,settler_daughters,NA
+1838,10,huisgezinnen,knechts,knechts,NA
+1838,11,hottentotten,mans boven de 16 jaren,khoe_men,NA
+1838,12,hottentotten,mans beneden de 16 jaren,khoe_men,NA
+1838,13,hottentotten,vrouwen boven de 20 jaren,khoe_women,NA
+1838,14,hottentotten,vrouwen beneden de 20 jaren,khoe_women,NA
+1838,19,apprenticen /slaves,mans boven de 16 jaren,slave_men,NA
+1838,20,apprenticen /slaves,mans beneden de 16 jaren,slave_boys,NA
+1838,21,apprenticen /slaves,vrouwen boven de 20 jaren,slave_women,NA
+1838,22,apprenticen /slaves,vrouwen beneden de 20 jaren,slave_girls,NA
+1838,25,apprenticen /slaves,paarden,horses,NA
+1838,26,apprenticen /slaves,hoornvee,cattle,NA
+1838,27,apprenticen /slaves,schapen,sheep,NA
+1838,28,apprenticen /slaves,bokken,goats,NA
+1838,29,mudden gewonnen,koorn,wheat,NA
+1838,30,mudden gewonnen,garst,barley,NA
+1838,31,mudden gewonnen,rog,rye,NA
+1838,32,mudden gewonnen,haver,oats,NA
+1838,37,mudden gewonnen,wynstokken,vines,NA
+1838,38,mudden gewonnen,leggers wyn,wine,NA
+1838,39,mudden gewonnen,leggers brandewyn,brandy,NA
+1839,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1839,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1839,13,getal van vee,aanteel paarden,horses,NA
+1839,14,getal van vee,hoornvee,cattle,NA
+1839,15,getal van vee,schapen en bokken,sheep,NA
+1839,16,getal van vee,varkens,pigs,NA
+1839,17,getal van mudden granen gewonnen,koorn,wheat,NA
+1839,18,getal van mudden granen gewonnen,garst,barley,NA
+1839,19,getal van mudden granen gewonnen,haver,oats,NA
+1839,20,getal van mudden granen gewonnen,rog,rye,NA
+1839,23,wyn,leggers wyn,wine,NA
+1839,24,wyn,leggers brandewyn,brandy,NA
+1840,3,,namen der christen mans boven de 16 jaren,NA,name_men
+1840,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1840,8,huisgezinnen,knechts,knechts,NA
+1840,9,hottentotten,getal mans boven 16 jaar,khoe_men,NA
+1840,10,hottentotten,getal mans beneden 16 jaar,khoe_men,NA
+1840,11,hottentotten,getal vrouwen boven 20 jaar,khoe_women,NA
+1840,12,hottentotten,getal vrouwen beneden 20 jaar,khoe_women,NA
+1840,23,apprenticen,paarden,horses,NA
+1840,24,apprenticen,hoornvee,cattle,NA
+1840,25,apprenticen,schapen,sheep,NA
+1840,26,apprenticen,bokken,goats,NA
+1840,27,mudden gewonnen,koorn,wheat,NA
+1840,28,mudden gewonnen,garst,barley,NA
+1840,29,mudden gewonnen,rog,rye,NA
+1840,30,mudden gewonnen,haver,oats,NA
+1840,35,mudden gewonnen,wynstokken,vines,NA
+1840,36,mudden gewonnen,leggers wyn,wine,NA
+1840,37,mudden gewonnen,leggers brandewyn,brandy,NA
+1841,3,,namen der bezitters van plaatsen en erven,NA,name_men
+1841,4,,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1841,16,1 july laast jaar to 30 juny van dit jaar,paarden,horses,NA
+1841,17,1 july laast jaar to 30 juny van dit jaar,hoornvee,cattle,NA
+1841,18,1 july laast jaar to 30 juny van dit jaar,schapen,sheep,NA
+1841,19,1 july laast jaar to 30 juny van dit jaar,bokken,goats,NA
+1841,20,mudden gewonnen,koorn,wheat,NA
+1841,21,mudden gewonnen,garst,barley,NA
+1841,22,mudden gewonnen,rog,rye,NA
+1841,23,mudden gewonnen,hawer,oats,NA
+1841,28,leggers gemaakt,wyn,wine,NA
+1841,29,leggers gemaakt,brandewyn,brandy,NA
+1842,3,nb: the pages and names in this book have been numbered by the transcriber,namen der bezitters van plaatsen en erven,NA,name_men
+1842,4,nb: the pages and names in this book have been numbered by the transcriber,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1842,16,1 july laast jaar to 30 juny van dit jaar,paarden,horses,NA
+1842,17,1 july laast jaar to 30 juny van dit jaar,hoornvee,cattle,NA
+1842,18,1 july laast jaar to 30 juny van dit jaar,schapen,sheep,NA
+1842,19,1 july laast jaar to 30 juny van dit jaar,bokken,goats,NA
+1842,20,mudden gewonnen,koorn,wheat,NA
+1842,21,mudden gewonnen,garst,barley,NA
+1842,22,mudden gewonnen,rog,rye,NA
+1842,23,mudden gewonnen,hawer,oats,NA
+1842,28,leggers gemaakt,wyn,wine,NA
+1842,29,leggers gemaakt,brandewyn,brandy,NA
+1843,3,nb: the pages and names in this book have been numbered by the transcriber,namen der bezitters van plaatsen en erven,NA,name_men
+1843,4,nb: the pages and names in this book have been numbered by the transcriber,namen der christen vrouwen boven de 20 jaren,NA,name_women
+1843,16,1 july laast jaar to 30 juny van dit jaar,paarden,horses,NA
+1843,17,1 july laast jaar to 30 juny van dit jaar,hoornvee,cattle,NA
+1843,18,1 july laast jaar to 30 juny van dit jaar,schapen,sheep,NA
+1843,19,1 july laast jaar to 30 juny van dit jaar,bokken,goats,NA
+1843,20,mudden gewonnen,koorn,wheat,NA
+1843,21,mudden gewonnen,garst,barley,NA
+1843,22,mudden gewonnen,rog,rye,NA
+1843,23,mudden gewonnen,hawer,oats,NA
+1843,28,leggers gemaakt,wyn,wine,NA
+1843,29,leggers gemaakt,brandewyn,brandy,NA
+1844,3,,namen der bezitters van plaatsen of erven,NA,name_men
+1844,15,"van den 1 july laatst jaar, tot den 30 juny van dit jaar",paarden,horses,NA
+1844,16,"van den 1 july laatst jaar, tot den 30 juny van dit jaar",hoornvee,cattle,NA
+1844,17,"van den 1 july laatst jaar, tot den 30 juny van dit jaar",schapen,sheep,NA
+1844,18,"van den 1 july laatst jaar, tot den 30 juny van dit jaar",bokken,goats,NA
+1844,19,mudden gewonnen,koorn,wheat,NA
+1844,20,mudden gewonnen,garst,barley,NA
+1844,21,mudden gewonnen,rog,rye,NA
+1844,22,mudden gewonnen,haver,oats,NA
+1844,27,leggers gemaakt,wyn,wine,NA
+1844,28,leggers gemaakt,brandewyn,brandy,NA

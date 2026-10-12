@@ -1,0 +1,4 @@
+                   gen_dad_flag
+gen_from_generation FALSE TRUE
+              FALSE  8788    0
+              TRUE      0  706

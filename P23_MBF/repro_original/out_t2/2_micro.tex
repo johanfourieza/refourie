@@ -1,0 +1,30 @@
+\documentclass[]{article}
+\setlength{\pdfpagewidth}{8.5in} \setlength{\pdfpageheight}{11in}
+\begin{document}
+\begin{tabular}{lcccc} \hline
+ & (1) & (2) & (3) & (4) \\
+VARIABLES & d\_primary & d\_primary & d\_primary & d\_primary \\ \hline
+ &  &  &  &  \\
+d\_birth & 0.49*** & 0.41*** & 0.46*** & 0.38*** \\
+ & (0.17) & (0.11) & (0.17) & (0.11) \\
+d\_birth\_bef\_indep &  &  & 0.23* & 0.28** \\
+ &  &  & (0.13) & (0.13) \\
+d\_age\_prim\_bef &  &  & -0.01 & 0.02 \\
+ &  &  & (0.05) & (0.05) \\
+894o.cntry\_code &  & - &  & - \\
+ &  &  &  &  \\
+ &  &  &  &  \\
+Observations & 5,077,010 & 5,077,010 & 5,077,010 & 5,077,010 \\
+Constant & yes & yes & yes & yes \\
+Controls ind & 5 & 5 & 5 & 5 \\
+Controls geo & 0 & 8 & 0 & 8 \\
+Country FE & yes & yes & yes & yes \\
+Level & geo1geo2 & geo1geo2 & geo1geo2 & geo1geo2 \\
+Leaders & all & all & all & all \\
+Drop & - & - & - & - \\
+Pseudo R2 & 0.245 & 0.261 & 0.245 & 0.261 \\
+ cluster & 624 & 624 & 624 & 624 \\ \hline
+\multicolumn{5}{c}{ Robust standard errors in parentheses} \\
+\multicolumn{5}{c}{ *** p$<$0.01, ** p$<$0.05, * p$<$0.1} \\
+\end{tabular}
+\end{document}

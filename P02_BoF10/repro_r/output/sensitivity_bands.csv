@@ -1,0 +1,10 @@
+how,dep,ind,F
+ma5t,wheat_reaped,ships,9.795738192083373
+ma5t,ships,wheat_reaped,0.5566694111522648
+ma5t,wheat_brunt,ships,0.9642004343602778
+med1220,wheat_reaped,ships,1684.1353246514454
+med1220,ships,wheat_reaped,1959.5626427915101
+med1220,wheat_brunt,ships,1705.5502260793282
+short,wheat_reaped,ships,62.427873555233994
+short,ships,wheat_reaped,41.94910201106551
+short,wheat_brunt,ships,37.28186114563388

@@ -1,0 +1,8 @@
+"claim","estimate","interval","test_p","threshold_or_band","verdict","rule"
+"H1","0.053","99% [-0.592, 0.797]; 95% [-0.469, 0.698]","0.993","confirm if 99% CI inside (-0.025, 0.025)","qualified (insignificant, but a null is not demonstrated)","§8 H1 row 3"
+"H2","0.858","99% [-0.083, 0.971]; 95% [0.275, 0.958]","0.016","r >= 0.43 and 99% L > 0","qualified (inference-fragile)","§8 H2 row 2"
+"H3","0.805","99% [-0.998, 1.612]; 95% [-0.624, 1.487]",NA,"99% MOVER(rho=-1) L > 0","weakened","§8 H3 row 3"
+"K1","0.377","99% [0.018, 0.637]; 95% [0.106, 0.591]","0.007","f = 0.135; null band (-0.135, 0.135)","confirmed","§8 K1 row 3"
+"K2","0.051","99% [-0.187, 0.452]; 95% [-0.127, 0.356]","0.592","f = 0.15; null band (-0.15, 0.15)","weakened","§8 K2 row 6"
+"K3","ARDL(2,0) F_ov=6.50 t=-2.99 F_ind=11.16","CV 2.5%: F_ov 7.52, t -3.50, F_ind 10.65; 10%: 4.82, -2.73, 5.72 (B=9999)","F_ov 0.042; t 0.022; F_ind 0.066","all three reject at 2.5% (+D1-D3); 10% unadjusted","qualified (inference-fragile)","§8 K3 row 3"
+"K4","ARDL(3,0) F_ov=3.18 t=-2.52 F_ind=1.46","CV 2.5%: F_ov 9.91, t -4.06, F_ind 11.55; 10%: 4.91, -2.68, 6.20 (B=9999)","F_ov 0.216; t 0.418; F_ind 0.124","all three reject at 2.5% (+D1-D3); 10% unadjusted","weakened","§8 K4 row 4"

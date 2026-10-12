@@ -1,0 +1,24 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	d_primary	d_primary	d_primary	d_primary
+				
+d_birth	0.26*	0.36**	0.35**	0.35**
+	(0.14)	(0.14)	(0.14)	(0.15)
+d_birth_bef_indep	0.41***	0.37**	0.37**	0.37**
+	(0.14)	(0.18)	(0.18)	(0.17)
+d_age_prim_bef	0.02	0.04	0.01	0.06
+	(0.05)	(0.05)	(0.06)	(0.07)
+894o.cntry_code	-	-	-	-
+				
+				
+Observations	4,738,139	4,923,110	4,623,069	4,461,147
+Constant	yes	yes	yes	yes
+Controls ind	5	5	5	5
+Controls geo	8	8	8	8
+Country FE	yes	yes	yes	yes
+Level	geo1geo2	geo1geo2	geo1geo2	geo1geo2
+Leaders	coup	elite		
+Drop	-	-	indep+2	indep+3
+Pseudo R2	0.264	0.262	0.268	0.269
+cluster	602	609	609	609
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,5 @@
+claim,row,estimate,interval,test_p,threshold,n_supported_pos,n_supported_nonpos,n_point_nonpos,verdict,rule
+F7,F7-s,min c_t = 0.277 (1805); pooled 0.836,"decisive year 1821: [-3.478, 7.737] (Bonferroni z = 3.368, V = 999/999)",max_t one-sided p = 0.217 (unadjusted; band decides),c_t > 0 in all 22 years (T = 0 strict),0,0,0,qualified (on the S3 reconstruction),3
+F8,F8-s,min c_t = 0.323 (1828); pooled 0.845,"decisive year 1815: [-1.602, 2.705] (Bonferroni z = 3.368, V = 999/999)",max_t one-sided p = 0.274 (unadjusted; band decides),c_t > 0 in all 22 years (T = 0 strict),2,0,0,qualified (on the S3 reconstruction),3
+F9,F9-s,min c_t = -1.921 (1821); pooled 0.901,"decisive year 1821: [-6.400, 2.558] (Bonferroni z = 3.368, V = 999/999)",max_t one-sided p = 0.926 (unadjusted; band decides),c_t > 0 in all 22 years (T = 0 strict),8,0,5,weakened,4
+INT,INT,,,,HEC > 0 read as non-substitutability,NA,NA,NA,not-testable,NA

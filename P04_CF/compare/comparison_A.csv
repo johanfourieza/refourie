@@ -1,0 +1,452 @@
+claim_id,location,quantity_type,headline,pair,ref,rep,rep_se,status,delta,rel_delta,inferential_agree,note
+T1_r1_c1,"Table 1, rank 1, col 'Slavery'",share,0,A,18.8,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r2_c1,"Table 1, rank 2, col 'Slavery'",share,0,A,8.8,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r3_c1,"Table 1, rank 3, col 'Slavery'",share,0,A,8.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r4_c1,"Table 1, rank 4, col 'Slavery'",share,0,A,7.5,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r5_c1,"Table 1, rank 5, col 'Slavery'",share,0,A,5.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r6_c1,"Table 1, rank 6, col 'Slavery'",share,0,A,5.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r7_c1,"Table 1, rank 7, col 'Slavery'",share,0,A,5.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r8_c1,"Table 1, rank 8, col 'Slavery'",share,0,A,2.8,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r9_c1,"Table 1, rank 9, col 'Slavery'",share,0,A,2.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r10_c1,"Table 1, rank 10, col 'Slavery'",share,0,A,2.6,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r11_c1,"Table 1, row 'Total (%)', col 'Slavery'",share,0,A,68.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r1_c2,"Table 1, rank 1, col 'Stagnation'",share,0,A,4.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r2_c2,"Table 1, rank 2, col 'Stagnation'",share,0,A,4.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r3_c2,"Table 1, rank 3, col 'Stagnation'",share,0,A,4.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r4_c2,"Table 1, rank 4, col 'Stagnation'",share,0,A,4.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r5_c2,"Table 1, rank 5, col 'Stagnation'",share,0,A,4.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r6_c2,"Table 1, rank 6, col 'Stagnation'",share,0,A,4.1,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r7_c2,"Table 1, rank 7, col 'Stagnation'",share,0,A,3.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r8_c2,"Table 1, rank 8, col 'Stagnation'",share,0,A,3,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r9_c2,"Table 1, rank 9, col 'Stagnation'",share,0,A,2.6,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r10_c2,"Table 1, rank 10, col 'Stagnation'",share,0,A,2.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r11_c2,"Table 1, row 'Total (%)', col 'Stagnation'",share,0,A,37.9,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r1_c3,"Table 1, rank 1, col 'Diamonds'",share,0,A,4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r2_c3,"Table 1, rank 2, col 'Diamonds'",share,0,A,3.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r3_c3,"Table 1, rank 3, col 'Diamonds'",share,0,A,3.3,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r4_c3,"Table 1, rank 4, col 'Diamonds'",share,0,A,2.6,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r5_c3,"Table 1, rank 5, col 'Diamonds'",share,0,A,2,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r6_c3,"Table 1, rank 6, col 'Diamonds'",share,0,A,1.8,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r7_c3,"Table 1, rank 7, col 'Diamonds'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r8_c3,"Table 1, rank 8, col 'Diamonds'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r9_c3,"Table 1, rank 9, col 'Diamonds'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r10_c3,"Table 1, rank 10, col 'Diamonds'",share,0,A,1.6,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r11_c3,"Table 1, row 'Total (%)', col 'Diamonds'",share,0,A,23.9,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r1_c4,"Table 1, rank 1, col 'Gold'",share,0,A,2.4,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r2_c4,"Table 1, rank 2, col 'Gold'",share,0,A,2.3,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r3_c4,"Table 1, rank 3, col 'Gold'",share,0,A,2.1,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r4_c4,"Table 1, rank 4, col 'Gold'",share,0,A,2,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r5_c4,"Table 1, rank 5, col 'Gold'",share,0,A,2,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r6_c4,"Table 1, rank 6, col 'Gold'",share,0,A,1.9,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r7_c4,"Table 1, rank 7, col 'Gold'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r8_c4,"Table 1, rank 8, col 'Gold'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r9_c4,"Table 1, rank 9, col 'Gold'",share,0,A,1.7,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r10_c4,"Table 1, rank 10, col 'Gold'",share,0,A,1.6,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T1_r11_c4,"Table 1, row 'Total (%)', col 'Gold'",share,0,A,19.3,,,unavailable,,,,Table 1 (top birth towns): no code; R+R Tables.xlsx 'Top towns by period' holds values only
+T3_r1_c1,"Table 3, row 'White collar', col 'SAF 1806-1834'",share,0,A,17.2,17.22265321955004,,exact,0.022653219550040404,0.001317047648258163,,SAF column = do-file l.150
+T3_r1_c2,"Table 3, row 'White collar', col 'SAF 1835-1867'",share,0,A,20.6,20.59100911662999,,exact,-0.00899088337001075,-4.36450649029648e-4,,SAF column = do-file l.150
+T3_r1_c3,"Table 3, row 'White collar', col 'Census 1865'",share,0,A,29.7,29.747344539548315,,exact,0.04734453954831608,0.001594092240684043,,Excel recalculation: cc Summaries D11 1865: Summaries!B3/B7*100 <- '1865 v. 1875'!K cells
+T3_r1_c4,"Table 3, row 'White collar', col 'SAF 1868-1886'",share,0,A,26.6,26.60270388137811,,exact,0.0027038813781068427,1.0164967586867829e-4,,SAF column = do-file l.150
+T3_r1_c5,"Table 3, row 'White collar', col 'Census 1875'",share,0,A,33.8,33.814350163772325,,exact,0.014350163772327562,4.245610583528865e-4,,Excel recalculation: cc Summaries F11 1875: Summaries!C3/C7*100 <- '1865 v. 1875'!M cells
+T3_r1_c6,"Table 3, row 'White collar', col 'Census 1891'",share,0,A,27.9,27.926000281769515,,exact,0.026000281769515965,9.319097408428662e-4,,Excel recalculation: cc 1891 AC7 1891: '1891'!AB/AB11*100 <- census cells (Summaries G col is pasted values)
+T3_r1_c7,"Table 3, row 'White collar', col 'SAF 1887-1909'",share,0,A,34.8,34.78579274990846,,exact,-0.01420725009153756,-4.082543129752173e-4,,SAF column = do-file l.150
+T3_r2_c1,"Table 3, row 'Farmer', col 'SAF 1806-1834'",share,0,A,64.6,64.62373933281614,,exact,0.023739332816148817,3.674819321385266e-4,,SAF column = do-file l.150
+T3_r2_c2,"Table 3, row 'Farmer', col 'SAF 1835-1867'",share,0,A,61.7,61.74159069475008,,exact,0.04159069475007726,6.740793314437157e-4,,SAF column = do-file l.150
+T3_r2_c3,"Table 3, row 'Farmer', col 'Census 1865'",share,0,A,55.3,55.33463957925131,,exact,0.034639579251312114,6.263938381792426e-4,,Excel recalculation: cc Summaries D12 NA
+T3_r2_c4,"Table 3, row 'Farmer', col 'SAF 1868-1886'",share,0,A,60.2,60.18316615787178,,exact,-0.016833842128221477,-2.7963192904022384e-4,,SAF column = do-file l.150
+T3_r2_c5,"Table 3, row 'Farmer', col 'Census 1875'",share,0,A,52.6,52.6373524504048,,exact,0.0373524504047964,7.101226312698936e-4,,Excel recalculation: cc Summaries F12 NA
+T3_r2_c6,"Table 3, row 'Farmer', col 'Census 1891'",share,0,A,52.4,52.39944350521274,,exact,-5.564947872613857e-4,-1.062012952788904e-5,,Excel recalculation: cc 1891 AC8 NA
+T3_r2_c7,"Table 3, row 'Farmer', col 'SAF 1887-1909'",share,0,A,49.7,49.72537532039546,,exact,0.025375320395454537,5.105698268703126e-4,,SAF column = do-file l.150
+T3_r3_c1,"Table 3, row 'Skilled/semi-skilled', col 'SAF 1806-1834'",share,0,A,9.9,9.852598913886734,,exact,-0.047401086113266544,-0.004787988496289549,,SAF column = do-file l.150
+T3_r3_c2,"Table 3, row 'Skilled/semi-skilled', col 'SAF 1835-1867'",share,0,A,8.1,8.110657026092424,,exact,0.01065702609242436,0.001315682233632637,,SAF column = do-file l.150
+T3_r3_c3,"Table 3, row 'Skilled/semi-skilled', col 'Census 1865'",share,0,A,7.5,7.466226668041662,,exact,-0.033773331958338204,-0.004503110927778427,,Excel recalculation: cc Summaries D13 NA
+T3_r3_c4,"Table 3, row 'Skilled/semi-skilled', col 'SAF 1868-1886'",share,0,A,9,9.027474923680767,,exact,0.027474923680767205,0.0030527692978630228,,SAF column = do-file l.150
+T3_r3_c5,"Table 3, row 'Skilled/semi-skilled', col 'Census 1875'",share,0,A,8.8,8.806625054075766,,exact,0.006625054075765746,7.528470540642892e-4,,Excel recalculation: cc Summaries F13 NA
+T3_r3_c6,"Table 3, row 'Skilled/semi-skilled', col 'Census 1891'",share,0,A,17.7,17.676634263172726,,exact,-0.023365736827273054,-0.001320098125834636,,Excel recalculation: cc 1891 AC9 NA
+T3_r3_c7,"Table 3, row 'Skilled/semi-skilled', col 'SAF 1887-1909'",share,0,A,12.5,12.449652142072502,,close,-0.050347857927498296,-0.004027828634199863,,SAF column = do-file l.150
+T3_r4_c1,"Table 3, row 'Unskilled', col 'SAF 1806-1834'",share,0,A,8.3,8.30100853374709,,exact,0.001008533747089757,1.2151009001081409e-4,,SAF column = do-file l.150
+T3_r4_c2,"Table 3, row 'Unskilled', col 'SAF 1835-1867'",share,0,A,9.6,9.556743162527509,,exact,-0.04325683747249087,-0.004505920570051133,,SAF column = do-file l.150
+T3_r4_c3,"Table 3, row 'Unskilled', col 'Census 1865'",share,0,A,7.5,7.451789213158709,,exact,-0.048210786841290876,-0.006428104912172117,,Excel recalculation: cc Summaries D14 NA
+T3_r4_c4,"Table 3, row 'Unskilled', col 'SAF 1868-1886'",share,0,A,4.2,4.186655037069341,,exact,-0.013344962930658788,-0.0031773721263473305,,SAF column = do-file l.150
+T3_r4_c5,"Table 3, row 'Unskilled', col 'Census 1875'",share,0,A,4.7,4.741672331747111,,exact,0.041672331747110825,0.008866453563215068,,Excel recalculation: cc Summaries F14 NA
+T3_r4_c6,"Table 3, row 'Unskilled', col 'Census 1891'",share,0,A,2,1.9979219498450267,,exact,-0.00207805015497331,-0.001039025077486655,,Excel recalculation: cc 1891 AC10 NA
+T3_r4_c7,"Table 3, row 'Unskilled', col 'SAF 1887-1909'",share,0,A,3,3.0391797876235813,,exact,0.03917978762358132,0.01305992920786044,,SAF column = do-file l.150
+T3_r5_c1,"Table 3, row 'Total (%)', col 'SAF 1806-1834'",share,0,A,100,100,,exact,0,0,,l.150
+T3_r5_c2,"Table 3, row 'Total (%)', col 'SAF 1835-1867'",share,0,A,100,100,,exact,0,0,,l.150
+T3_r5_c3,"Table 3, row 'Total (%)', col 'Census 1865'",share,0,A,100,100,,exact,0,0,,Excel recalculation: cc Summaries D15 NA
+T3_r5_c4,"Table 3, row 'Total (%)', col 'SAF 1868-1886'",share,0,A,100,100,,exact,0,0,,l.150
+T3_r5_c5,"Table 3, row 'Total (%)', col 'Census 1875'",share,0,A,100,100,,exact,0,0,,Excel recalculation: cc Summaries F15 NA
+T3_r5_c6,"Table 3, row 'Total (%)', col 'Census 1891'",share,0,A,100,100,,exact,0,0,,Excel recalculation: cc 1891 AC11 NA
+T3_r5_c7,"Table 3, row 'Total (%)', col 'SAF 1887-1909'",share,0,A,100,100,,exact,0,0,,l.150
+T4_r1_c1,"Table 4, row 'White collar', col 'SAF 1887-1909'",share,0,A,34.8,34.78579274990846,,exact,-0.01420725009153756,-4.082543129752173e-4,,SAF column = do-file l.150 (Gold)
+T4_r1_c2,"Table 4, row 'White collar', col 'Census 1911'",share,0,A,29.3,29.30695637022299,,exact,0.006956370222990671,2.3741877894166113e-4,,Excel recalculation: oc Occupations Sub-Orders R4 1911: Census_1911_occupations R=Q/Q8*100 <- census cells
+T4_r2_c1,"Table 4, row 'Farmer', col 'SAF 1887-1909'",share,0,A,49.7,49.72537532039546,,exact,0.025375320395454537,5.105698268703126e-4,,SAF column = do-file l.150 (Gold)
+T4_r2_c2,"Table 4, row 'Farmer', col 'Census 1911'",share,0,A,47.8,47.82722332756574,,exact,0.02722332756574275,5.695256812916894e-4,,Excel recalculation: oc Occupations Sub-Orders R5 NA
+T4_r3_c1,"Table 4, row 'Skilled/semi-skilled', col 'SAF 1887-1909'",share,0,A,12.5,12.449652142072502,,close,-0.050347857927498296,-0.004027828634199863,,SAF column = do-file l.150 (Gold)
+T4_r3_c2,"Table 4, row 'Skilled/semi-skilled', col 'Census 1911'",share,0,A,19,19.034082850786728,,exact,0.0340828507867279,0.0017938342519330476,,Excel recalculation: oc Occupations Sub-Orders R6 NA
+T4_r4_c1,"Table 4, row 'Unskilled', col 'SAF 1887-1909'",share,0,A,3,3.0391797876235813,,exact,0.03917978762358132,0.01305992920786044,,SAF column = do-file l.150 (Gold)
+T4_r4_c2,"Table 4, row 'Unskilled', col 'Census 1911'",share,0,A,3.8,3.8317374514245426,,exact,0.03173745142454276,0.008351960901195464,,Excel recalculation: oc Occupations Sub-Orders R7 NA
+T4_r5_c1,"Table 4, row 'Total (%)', col 'SAF 1887-1909'",share,0,A,100,100,,exact,0,0,,l.150
+T4_r5_c2,"Table 4, row 'Total (%)', col 'Census 1911'",share,0,A,100,100,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders R8 NA
+T5_r1_c1,"Table 5, row 'White collar', col 'European/white N'",count,0,A,144648,144648,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q4 European N
+T5_r1_c2,"Table 5, row 'White collar', col 'European/white %'",share,0,A,70.7,70.6900006353147,,exact,-0.009999364685299383,-1.414337296364835e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r1_c3,"Table 5, row 'White collar', col 'Non-European N'",count,0,A,59975,59975,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q13 Non-European N
+T5_r1_c4,"Table 5, row 'White collar', col 'Non-European %'",share,0,A,29.3,29.3099993646853,,exact,0.009999364685299383,3.412752452320609e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r1_c5,"Table 5, row 'White collar', col 'Total N'",count,0,A,204623,204623,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r1_c6,"Table 5, row 'White collar', col 'Total %'",share,0,A,100,100,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r2_c1,"Table 5, row 'Farmer', col 'European/white N'",count,0,A,236057,236057,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q5 NA
+T5_r2_c2,"Table 5, row 'Farmer', col 'European/white %'",share,0,A,20.6,20.55871361398491,,exact,-0.04128638601509138,-0.002004193495878222,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r2_c3,"Table 5, row 'Farmer', col 'Non-European N'",count,0,A,912152,912152,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q14 NA
+T5_r2_c4,"Table 5, row 'Farmer', col 'Non-European %'",share,0,A,79.4,79.4412863860151,,exact,0.04128638601508783,5.199796727341036e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r2_c5,"Table 5, row 'Farmer', col 'Total N'",count,0,A,1148209,1148209,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r2_c6,"Table 5, row 'Farmer', col 'Total %'",share,0,A,100,100,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r3_c1,"Table 5, row 'Skilled/semi-skilled', col 'European/white N'",count,0,A,93945,93945,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q6 NA
+T5_r3_c2,"Table 5, row 'Skilled/semi-skilled', col 'European/white %'",share,0,A,52.7,52.69194743425075,,exact,-0.008052565749252949,-1.5280010909398385e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r3_c3,"Table 5, row 'Skilled/semi-skilled', col 'Non-European N'",count,0,A,84346,84346,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q15 NA
+T5_r3_c4,"Table 5, row 'Skilled/semi-skilled', col 'Non-European %'",share,0,A,47.3,47.30805256574925,,exact,0.008052565749252949,1.7024451901169027e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r3_c5,"Table 5, row 'Skilled/semi-skilled', col 'Total N'",count,0,A,178291,178291,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r3_c6,"Table 5, row 'Skilled/semi-skilled', col 'Total %'",share,0,A,100,100,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r4_c1,"Table 5, row 'Unskilled', col 'European/white N'",count,0,A,18912,18912,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q7 NA
+T5_r4_c2,"Table 5, row 'Unskilled', col 'European/white %'",share,0,A,12.5,12.4655601987951,,exact,-0.03443980120490053,-0.0027551840963920427,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r4_c3,"Table 5, row 'Unskilled', col 'Non-European N'",count,0,A,132802,132802,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q16 NA
+T5_r4_c4,"Table 5, row 'Unskilled', col 'Non-European %'",share,0,A,87.5,87.5344398012049,,exact,0.03443980120489698,3.935977280559655e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r4_c5,"Table 5, row 'Unskilled', col 'Total N'",count,0,A,151714,151714,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r4_c6,"Table 5, row 'Unskilled', col 'Total %'",share,0,A,100,100,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r5_c1,"Table 5, row 'Total', col 'European/white N'",count,0,A,493562,493562,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q8 NA
+T5_r5_c2,"Table 5, row 'Total', col 'European/white %'",share,0,A,29.3,29.32916259863552,,exact,0.029162598635519288,9.953105336354706e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r5_c3,"Table 5, row 'Total', col 'Non-European N'",count,0,A,1189275,1189275,,exact,0,0,,Excel recalculation: oc Occupations Sub-Orders Q17 NA
+T5_r5_c4,"Table 5, row 'Total', col 'Non-European %'",share,0,A,70.7,70.67083740136448,,exact,-0.02916259863552284,-4.1248371478815895e-4,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r5_c5,"Table 5, row 'Total', col 'Total N'",count,0,A,1682837,1682837,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T5_r5_c6,"Table 5, row 'Total', col 'Total %'",share,0,A,100,100,,exact,0,0,,Excel recalculation: derived NA NA no formula in workbook (pasted value); computed from recalculated Ns
+T6_r1_c1,"Table 6, row 'White collar', col 'Slavery'",share,0,A,17.2,17.22265321955004,,exact,0.022653219550040404,0.001317047648258163,,do-file l.150
+T6_r1_c2,"Table 6, row 'White collar', col 'Stagnation'",share,0,A,20.6,20.59100911662999,,exact,-0.00899088337001075,-4.36450649029648e-4,,do-file l.150
+T6_r1_c3,"Table 6, row 'White collar', col 'Diamonds'",share,0,A,26.6,26.60270388137811,,exact,0.0027038813781068427,1.0164967586867829e-4,,do-file l.150
+T6_r1_c4,"Table 6, row 'White collar', col 'Gold'",share,0,A,34.8,34.78579274990846,,exact,-0.01420725009153756,-4.082543129752173e-4,,do-file l.150
+T6_r1_c5,"Table 6, row 'White collar', col 'Overall change'",share,0,A,17.6,17.56313953035842,,exact,-0.03686046964158152,-0.00209434486599895,,"Gold minus Slavery, from l.150 output"
+T6_r2_c1,"Table 6, row 'Farmer', col 'Slavery'",share,0,A,64.6,64.62373933281614,,exact,0.023739332816148817,3.674819321385266e-4,,do-file l.150
+T6_r2_c2,"Table 6, row 'Farmer', col 'Stagnation'",share,0,A,61.7,61.74159069475008,,exact,0.04159069475007726,6.740793314437157e-4,,do-file l.150
+T6_r2_c3,"Table 6, row 'Farmer', col 'Diamonds'",share,0,A,60.2,60.18316615787178,,exact,-0.016833842128221477,-2.7963192904022384e-4,,do-file l.150
+T6_r2_c4,"Table 6, row 'Farmer', col 'Gold'",share,0,A,49.7,49.72537532039546,,exact,0.025375320395454537,5.105698268703126e-4,,do-file l.150
+T6_r2_c5,"Table 6, row 'Farmer', col 'Overall change'",share,0,A,-14.9,-14.898364012420686,,exact,0.0016359875793146017,1.0979782411507393e-4,,"Gold minus Slavery, from l.150 output"
+T6_r3_c1,"Table 6, row 'Skilled/semi-skilled', col 'Slavery'",share,0,A,9.9,9.852598913886734,,exact,-0.047401086113266544,-0.004787988496289549,,do-file l.150
+T6_r3_c2,"Table 6, row 'Skilled/semi-skilled', col 'Stagnation'",share,0,A,8.1,8.110657026092424,,exact,0.01065702609242436,0.001315682233632637,,do-file l.150
+T6_r3_c3,"Table 6, row 'Skilled/semi-skilled', col 'Diamonds'",share,0,A,9,9.027474923680767,,exact,0.027474923680767205,0.0030527692978630228,,do-file l.150
+T6_r3_c4,"Table 6, row 'Skilled/semi-skilled', col 'Gold'",share,0,A,12.5,12.449652142072502,,close,-0.050347857927498296,-0.004027828634199863,,do-file l.150
+T6_r3_c5,"Table 6, row 'Skilled/semi-skilled', col 'Overall change'",share,0,A,2.6,2.597053228185768,,exact,-0.0029467718142321964,-0.0011333737747046908,,"Gold minus Slavery, from l.150 output"
+T6_r4_c1,"Table 6, row 'Unskilled', col 'Slavery'",share,0,A,8.3,8.30100853374709,,exact,0.001008533747089757,1.2151009001081409e-4,,do-file l.150
+T6_r4_c2,"Table 6, row 'Unskilled', col 'Stagnation'",share,0,A,9.6,9.556743162527509,,exact,-0.04325683747249087,-0.004505920570051133,,do-file l.150
+T6_r4_c3,"Table 6, row 'Unskilled', col 'Diamonds'",share,0,A,4.2,4.186655037069341,,exact,-0.013344962930658788,-0.0031773721263473305,,do-file l.150
+T6_r4_c4,"Table 6, row 'Unskilled', col 'Gold'",share,0,A,3,3.0391797876235813,,exact,0.03917978762358132,0.01305992920786044,,do-file l.150
+T6_r4_c5,"Table 6, row 'Unskilled', col 'Overall change'",share,0,A,-5.3,-5.261828746123509,,exact,0.038171253876490674,0.0072021233729227686,,"Gold minus Slavery, from l.150 output"
+T6_r5_c1,"Table 6, row 'Total %', col 'Slavery'",share,0,A,100,100,,exact,0,0,,l.150
+T6_r5_c2,"Table 6, row 'Total %', col 'Stagnation'",share,0,A,100,100,,exact,0,0,,l.150
+T6_r5_c3,"Table 6, row 'Total %', col 'Diamonds'",share,0,A,100,100,,exact,0,0,,l.150
+T6_r5_c4,"Table 6, row 'Total %', col 'Gold'",share,0,A,100,100,,exact,0,0,,l.150
+T6_r6_c1,"Table 6, row 'Cohort size', col 'Slavery'",n,0,A,1289,1289,,exact,0,0,,l.145/150
+T6_r6_c2,"Table 6, row 'Cohort size', col 'Stagnation'",n,0,A,3181,3181,,exact,0,0,,l.145/150
+T6_r6_c3,"Table 6, row 'Cohort size', col 'Diamonds'",n,0,A,2293,2293,,exact,0,0,,l.145/150
+T6_r6_c4,"Table 6, row 'Cohort size', col 'Gold'",n,0,A,2731,2731,,exact,0,0,,l.145/150
+T6_r6_c5,"Table 6, row 'Cohort size', col 'Overall change'",n,0,A,9494,9494,,exact,0,0,,l.145
+T7_r1_c1,"Table 7, row 'White collar', col 'First occupation'",share,0,A,22.1,22.08763429534443,,exact,-0.012365704655572074,-5.595341473109536e-4,,l.151 summed over periods
+T7_r1_c2,"Table 7, row 'White collar', col 'Last occupation'",share,0,A,25.7,25.66884348009269,,exact,-0.031156519907309388,-0.0012123159497007545,,l.150 summed over periods
+T7_r2_c1,"Table 7, row 'Farmer', col 'First occupation'",share,0,A,68.7,68.70655150621445,,exact,0.006551506214449887,9.536399147670869e-5,,l.151 summed over periods
+T7_r2_c2,"Table 7, row 'Farmer', col 'Last occupation'",share,0,A,58.3,58.29997893406362,,exact,-2.1065936380182393e-5,-3.613368161266277e-7,,l.150 summed over periods
+T7_r3_c1,"Table 7, row 'Skilled/semi-skilled', col 'First occupation'",share,0,A,7.6,7.552138192542659,,exact,-0.047861807457340255,-0.006297606244386876,,l.151 summed over periods
+T7_r3_c2,"Table 7, row 'Skilled/semi-skilled', col 'Last occupation'",share,0,A,9.8,9.816726353486413,,exact,0.016726353486411938,0.0017067707639195854,,l.150 summed over periods
+T7_r4_c1,"Table 7, row 'Unskilled', col 'First occupation'",share,0,A,1.7,1.653676005898462,,exact,-0.04632399410153787,-0.027249408295022277,,l.151 summed over periods
+T7_r4_c2,"Table 7, row 'Unskilled', col 'Last occupation'",share,0,A,6.2,6.214451232357279,,exact,0.01445123235727852,0.00233084392859331,,l.150 summed over periods
+T7_r5_c1,"Table 7, row 'Total', col 'First occupation'",share,0,A,100,100,,exact,0,0,,
+T7_r5_c2,"Table 7, row 'Total', col 'Last occupation'",share,0,A,100,100,,exact,0,0,,
+T7_r6_c1,"Table 7, row 'N', col 'First occupation'",n,0,A,9494,9494,,exact,0,0,,
+T7_r6_c2,"Table 7, row 'N', col 'Last occupation'",n,0,A,9494,9494,,exact,0,0,,
+T8_r1_c1,"Table 8, panel 'Slavery 1806-1834', row 'White collar', col 'W'",share,0,A,47.3,47.32142857142857,,exact,0.02142857142857224,4.5303533675628417e-4,,l.156
+T8_r1_c2,"Table 8, panel 'Slavery 1806-1834', row 'White collar', col 'F'",share,0,A,36.2,36.160714285714285,,exact,-0.03928571428571814,-0.0010852407261248106,,l.156
+T8_r1_c3,"Table 8, panel 'Slavery 1806-1834', row 'White collar', col 'S'",share,0,A,10.7,10.714285714285714,,exact,0.014285714285714235,0.0013351134846461903,,l.156
+T8_r1_c4,"Table 8, panel 'Slavery 1806-1834', row 'White collar', col 'U'",share,0,A,5.8,5.803571428571429,,exact,0.003571428571429003,6.157635467981039e-4,,l.156
+T8_r1_c5,"Table 8, panel 'Slavery 1806-1834', row 'White collar', col 'Row (n)'",n,0,A,224,224,,exact,0,0,,l.156
+T8_r2_c1,"Table 8, panel 'Slavery 1806-1834', row 'Farmer', col 'W'",share,0,A,9.1,9.090909090909092,,exact,-0.009090909090907928,-9.990009990008713e-4,,l.156
+T8_r2_c2,"Table 8, panel 'Slavery 1806-1834', row 'Farmer', col 'F'",share,0,A,78.1,78.13578826237054,,exact,0.035788262370545,4.5823639398905253e-4,,l.156
+T8_r2_c3,"Table 8, panel 'Slavery 1806-1834', row 'Farmer', col 'S'",share,0,A,5.9,5.868814729574224,,exact,-0.03118527042577668,-0.005285639055216386,,l.156
+T8_r2_c4,"Table 8, panel 'Slavery 1806-1834', row 'Farmer', col 'U'",share,0,A,6.9,6.904487917146145,,exact,0.004487917146144937,6.504227748036141e-4,,l.156
+T8_r2_c5,"Table 8, panel 'Slavery 1806-1834', row 'Farmer', col 'Row (n)'",n,0,A,869,869,,exact,0,0,,l.156
+T8_r3_c1,"Table 8, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'W'",share,0,A,22.6,22.641509433962263,,exact,0.041509433962261255,0.0018367006177991705,,l.156
+T8_r3_c2,"Table 8, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'F'",share,0,A,29.3,29.245283018867923,,close,-0.05471698113207779,-0.001867473758773986,,l.156
+T8_r3_c3,"Table 8, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'S'",share,0,A,39.6,39.62264150943396,,exact,0.02264150943396004,5.717552887363646e-4,,l.156
+T8_r3_c4,"Table 8, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'U'",share,0,A,8.5,8.49056603773585,,exact,-0.009433962264150608,-0.0011098779134294833,,l.156
+T8_r3_c5,"Table 8, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,106,106,,exact,0,0,,l.156
+T8_r4_c1,"Table 8, panel 'Slavery 1806-1834', row 'Unskilled', col 'W'",share,0,A,14.4,14.444444444444445,,exact,0.04444444444444429,0.0030864197530864087,,l.156
+T8_r4_c2,"Table 8, panel 'Slavery 1806-1834', row 'Unskilled', col 'F'",share,0,A,46.7,46.666666666666664,,exact,-0.033333333333338544,-7.137758743755577e-4,,l.156
+T8_r4_c3,"Table 8, panel 'Slavery 1806-1834', row 'Unskilled', col 'S'",share,0,A,11.1,11.11111111111111,,exact,0.011111111111111072,0.0010010010010009975,,l.156
+T8_r4_c4,"Table 8, panel 'Slavery 1806-1834', row 'Unskilled', col 'U'",share,0,A,27.8,27.77777777777778,,exact,-0.022222222222222143,-7.993605115907246e-4,,l.156
+T8_r4_c5,"Table 8, panel 'Slavery 1806-1834', row 'Unskilled', col 'Row (n)'",n,0,A,90,90,,exact,0,0,,l.156
+T8_r5_c1,"Table 8, panel 'Slavery 1806-1834', row 'Col. (%)', col 'W'",share,0,A,17.2,17.22265321955004,,exact,0.022653219550040404,0.001317047648258163,,l.156 column total
+T8_r5_c2,"Table 8, panel 'Slavery 1806-1834', row 'Col. (%)', col 'F'",share,0,A,64.6,64.62373933281614,,exact,0.023739332816148817,3.674819321385266e-4,,l.156 column total
+T8_r5_c3,"Table 8, panel 'Slavery 1806-1834', row 'Col. (%)', col 'S'",share,0,A,9.9,9.852598913886734,,exact,-0.047401086113266544,-0.004787988496289549,,l.156 column total
+T8_r5_c4,"Table 8, panel 'Slavery 1806-1834', row 'Col. (%)', col 'U'",share,0,A,8.3,8.30100853374709,,exact,0.001008533747089757,1.2151009001081409e-4,,l.156 column total
+T8_r5_c5,"Table 8, panel 'Slavery 1806-1834', row 'Col. (%)', col 'Row (n)'",n,0,A,1289,1289,,exact,0,0,,l.156
+T8_r6_c1,"Table 8, panel 'Stagnation 1835-1867', row 'White collar', col 'W'",share,0,A,57.2,57.19298245614035,,exact,-0.0070175438596535855,-1.2268433321072702e-4,,l.156
+T8_r6_c2,"Table 8, panel 'Stagnation 1835-1867', row 'White collar', col 'F'",share,0,A,30.9,30.87719298245614,,exact,-0.022807017543858166,-7.380911826491316e-4,,l.156
+T8_r6_c3,"Table 8, panel 'Stagnation 1835-1867', row 'White collar', col 'S'",share,0,A,8.1,8.070175438596491,,exact,-0.0298245614035082,-0.0036820446177170617,,l.156
+T8_r6_c4,"Table 8, panel 'Stagnation 1835-1867', row 'White collar', col 'U'",share,0,A,3.9,3.8596491228070176,,exact,-0.04035087719298236,-0.010346378767431375,,l.156
+T8_r6_c5,"Table 8, panel 'Stagnation 1835-1867', row 'White collar', col 'Row (n)'",n,0,A,570,570,,exact,0,0,,l.156
+T8_r7_c1,"Table 8, panel 'Stagnation 1835-1867', row 'Farmer', col 'W'",share,0,A,10.7,10.675605982465187,,exact,-0.02439401753481185,-0.0022798147228796123,,l.156
+T8_r7_c2,"Table 8, panel 'Stagnation 1835-1867', row 'Farmer', col 'F'",share,0,A,76.9,76.89530685920577,,exact,-0.004693140794230999,-6.1029139066722996e-5,,l.156
+T8_r7_c3,"Table 8, panel 'Stagnation 1835-1867', row 'Farmer', col 'S'",share,0,A,4.7,4.7447137699845285,,exact,0.04471376998452836,0.009513568081814545,,l.156
+T8_r7_c4,"Table 8, panel 'Stagnation 1835-1867', row 'Farmer', col 'U'",share,0,A,7.7,7.684373388344508,,exact,-0.015626611655492617,-0.0020294300851289113,,l.156
+T8_r7_c5,"Table 8, panel 'Stagnation 1835-1867', row 'Farmer', col 'Row (n)'",n,0,A,1939,1939,,exact,0,0,,l.156
+T8_r8_c1,"Table 8, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'W'",share,0,A,25.5,25.477707006369428,,exact,-0.0222929936305718,-8.74235044336149e-4,,l.156
+T8_r8_c2,"Table 8, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'F'",share,0,A,36.9,36.94267515923567,,exact,0.04267515923567089,0.0011565083803704848,,l.156
+T8_r8_c3,"Table 8, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'S'",share,0,A,30.9,30.89171974522293,,exact,-0.008280254777069729,-2.679694102611563e-4,,l.156
+T8_r8_c4,"Table 8, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'U'",share,0,A,6.7,6.687898089171974,,exact,-0.012101910828025808,-0.0018062553474665385,,l.156
+T8_r8_c5,"Table 8, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,314,314,,exact,0,0,,l.156
+T8_r9_c1,"Table 8, panel 'Stagnation 1835-1867', row 'Unskilled', col 'W'",share,0,A,11.7,11.731843575418994,,exact,0.03184357541899452,0.0027216731127345743,,l.156
+T8_r9_c2,"Table 8, panel 'Stagnation 1835-1867', row 'Unskilled', col 'F'",share,0,A,50.6,50.55865921787709,,exact,-0.04134078212290859,-8.170115044053081e-4,,l.156
+T8_r9_c3,"Table 8, panel 'Stagnation 1835-1867', row 'Unskilled', col 'S'",share,0,A,6.4,6.424581005586592,,exact,0.024581005586592042,0.0038407821229050065,,l.156
+T8_r9_c4,"Table 8, panel 'Stagnation 1835-1867', row 'Unskilled', col 'U'",share,0,A,31.3,31.28491620111732,,exact,-0.01508379888268152,-4.819105074339144e-4,,l.156
+T8_r9_c5,"Table 8, panel 'Stagnation 1835-1867', row 'Unskilled', col 'Row (n)'",n,0,A,358,358,,exact,0,0,,l.156
+T8_r10_c1,"Table 8, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'W'",share,0,A,20.6,20.59100911662999,,exact,-0.00899088337001075,-4.36450649029648e-4,,l.156 column total
+T8_r10_c2,"Table 8, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'F'",share,0,A,61.7,61.74159069475008,,exact,0.04159069475007726,6.740793314437157e-4,,l.156 column total
+T8_r10_c3,"Table 8, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'S'",share,0,A,8.1,8.110657026092424,,exact,0.01065702609242436,0.001315682233632637,,l.156 column total
+T8_r10_c4,"Table 8, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'U'",share,0,A,9.6,9.556743162527509,,exact,-0.04325683747249087,-0.004505920570051133,,l.156 column total
+T8_r10_c5,"Table 8, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'Row (n)'",n,0,A,3181,3181,,exact,0,0,,l.156
+T8_r11_c1,"Table 8, panel 'Diamonds 1868-1886', row 'White collar', col 'W'",share,0,A,55.7,55.71142284569138,,exact,0.011422845691377859,2.050780195938574e-4,,l.156
+T8_r11_c2,"Table 8, panel 'Diamonds 1868-1886', row 'White collar', col 'F'",share,0,A,32.5,32.46492985971944,,exact,-0.03507014028055977,-0.001079081239401839,,l.156
+T8_r11_c3,"Table 8, panel 'Diamonds 1868-1886', row 'White collar', col 'S'",share,0,A,10,10.02004008016032,,exact,0.020040080160320883,0.0020040080160320882,,l.156
+T8_r11_c4,"Table 8, panel 'Diamonds 1868-1886', row 'White collar', col 'U'",share,0,A,1.8,1.8036072144288575,,exact,0.003607214428857475,0.0020040080160319304,,l.156
+T8_r11_c5,"Table 8, panel 'Diamonds 1868-1886', row 'White collar', col 'Row (n)'",n,0,A,499,499,,exact,0,0,,l.156
+T8_r12_c1,"Table 8, panel 'Diamonds 1868-1886', row 'Farmer', col 'W'",share,0,A,15.6,15.6227501799856,,exact,0.022750179985600028,0.0014583448708717966,,l.156
+T8_r12_c2,"Table 8, panel 'Diamonds 1868-1886', row 'Farmer', col 'F'",share,0,A,75.2,75.16198704103672,,exact,-0.03801295896327872,-5.054914755755149e-4,,l.156
+T8_r12_c3,"Table 8, panel 'Diamonds 1868-1886', row 'Farmer', col 'S'",share,0,A,5.6,5.615550755939525,,exact,0.015550755939525374,0.002776920703486674,,l.156
+T8_r12_c4,"Table 8, panel 'Diamonds 1868-1886', row 'Farmer', col 'U'",share,0,A,3.6,3.599712023038157,,exact,-2.8797696184312827e-4,-7.999360051198007e-5,,l.156
+T8_r12_c5,"Table 8, panel 'Diamonds 1868-1886', row 'Farmer', col 'Row (n)'",n,0,A,1389,1389,,exact,0,0,,l.156
+T8_r13_c1,"Table 8, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'W'",share,0,A,38.8,38.79781420765027,,exact,-0.002185792349727933,-5.633485437443127e-5,,l.156
+T8_r13_c2,"Table 8, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'F'",share,0,A,29,28.961748633879782,,exact,-0.03825136612021751,-0.0013190126248350865,,l.156
+T8_r13_c3,"Table 8, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'S'",share,0,A,29.5,29.50819672131147,,exact,0.008196721311470867,2.7785495971087686e-4,,l.156
+T8_r13_c4,"Table 8, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'U'",share,0,A,2.7,2.73224043715847,,exact,0.03224043715846969,0.01194090265128507,,l.156
+T8_r13_c5,"Table 8, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,183,183,,exact,0,0,,l.156
+T8_r14_c1,"Table 8, panel 'Diamonds 1868-1886', row 'Unskilled', col 'W'",share,0,A,19.8,19.81981981981982,,exact,0.019819819819819173,0.0010010010010009682,,l.156
+T8_r14_c2,"Table 8, panel 'Diamonds 1868-1886', row 'Unskilled', col 'F'",share,0,A,54.5,54.5045045045045,,exact,0.004504504504502904,8.265145879821843e-5,,l.156
+T8_r14_c3,"Table 8, panel 'Diamonds 1868-1886', row 'Unskilled', col 'S'",share,0,A,11.3,11.26126126126126,,exact,-0.0387387387387399,-0.0034282069680300793,,l.156
+T8_r14_c4,"Table 8, panel 'Diamonds 1868-1886', row 'Unskilled', col 'U'",share,0,A,14.4,14.414414414414416,,exact,0.014414414414416044,0.0010010010010011142,,l.156
+T8_r14_c5,"Table 8, panel 'Diamonds 1868-1886', row 'Unskilled', col 'Row (n)'",n,0,A,222,222,,exact,0,0,,l.156
+T8_r15_c1,"Table 8, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'W'",share,0,A,26.6,26.60270388137811,,exact,0.0027038813781068427,1.0164967586867829e-4,,l.156 column total
+T8_r15_c2,"Table 8, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'F'",share,0,A,60.2,60.18316615787178,,exact,-0.016833842128221477,-2.7963192904022384e-4,,l.156 column total
+T8_r15_c3,"Table 8, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'S'",share,0,A,9,9.027474923680767,,exact,0.027474923680767205,0.0030527692978630228,,l.156 column total
+T8_r15_c4,"Table 8, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'U'",share,0,A,4.2,4.186655037069341,,exact,-0.013344962930658788,-0.0031773721263473305,,l.156 column total
+T8_r15_c5,"Table 8, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'Row (n)'",n,0,A,2293,2293,,exact,0,0,,l.156
+T8_r16_c1,"Table 8, panel 'Gold 1887-1909', row 'White collar', col 'W'",share,0,A,67.9,67.89297658862876,,exact,-0.007023411371250177,-1.0343757542341938e-4,,l.156
+T8_r16_c2,"Table 8, panel 'Gold 1887-1909', row 'White collar', col 'F'",share,0,A,18.1,18.06020066889632,,exact,-0.03979933110367995,-0.0021988580720265164,,l.156
+T8_r16_c3,"Table 8, panel 'Gold 1887-1909', row 'White collar', col 'S'",share,0,A,12.7,12.709030100334449,,exact,0.009030100334449287,7.110315223975817e-4,,l.156
+T8_r16_c4,"Table 8, panel 'Gold 1887-1909', row 'White collar', col 'U'",share,0,A,1.3,1.3377926421404682,,exact,0.03779264214046818,0.02907126318497552,,l.156
+T8_r16_c5,"Table 8, panel 'Gold 1887-1909', row 'White collar', col 'Row (n)'",n,0,A,598,598,,exact,0,0,,l.156
+T8_r17_c1,"Table 8, panel 'Gold 1887-1909', row 'Farmer', col 'W'",share,0,A,22.6,22.608200455580867,,exact,0.008200455580865906,3.628520168524737e-4,,l.156
+T8_r17_c2,"Table 8, panel 'Gold 1887-1909', row 'Farmer', col 'F'",share,0,A,65.1,65.09111617312072,,exact,-0.008883826879269918,-1.364643145817192e-4,,l.156
+T8_r17_c3,"Table 8, panel 'Gold 1887-1909', row 'Farmer', col 'S'",share,0,A,9.5,9.453302961275629,,exact,-0.046697038724371254,-0.004915477760460132,,l.156
+T8_r17_c4,"Table 8, panel 'Gold 1887-1909', row 'Farmer', col 'U'",share,0,A,2.9,2.847380410022779,,close,-0.052619589977220826,-0.018144686199041665,,l.156
+T8_r17_c5,"Table 8, panel 'Gold 1887-1909', row 'Farmer', col 'Row (n)'",n,0,A,1756,1756,,exact,0,0,,l.156
+T8_r18_c1,"Table 8, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'W'",share,0,A,46.9,46.875,,exact,-0.02499999999999858,-5.330490405116968e-4,,l.156
+T8_r18_c2,"Table 8, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'F'",share,0,A,17.4,17.410714285714285,,exact,0.01071428571428612,6.15763546798053e-4,,l.156
+T8_r18_c3,"Table 8, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'S'",share,0,A,34.8,34.82142857142857,,exact,0.02142857142857224,6.15763546798053e-4,,l.156
+T8_r18_c4,"Table 8, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'U'",share,0,A,0.9,0.8928571428571429,,exact,-0.0071428571428571175,-0.007936507936507908,,l.156
+T8_r18_c5,"Table 8, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,224,224,,exact,0,0,,l.156
+T8_r19_c1,"Table 8, panel 'Gold 1887-1909', row 'Unskilled', col 'W'",share,0,A,27.5,27.45098039215686,,exact,-0.04901960784313886,-0.0017825311942959584,,l.156
+T8_r19_c2,"Table 8, panel 'Gold 1887-1909', row 'Unskilled', col 'F'",share,0,A,44.4,44.44444444444444,,exact,0.04444444444444429,0.0010010010010009975,,l.156
+T8_r19_c3,"Table 8, panel 'Gold 1887-1909', row 'Unskilled', col 'S'",share,0,A,13.1,13.0718954248366,,exact,-0.02810457516340037,-0.0021453874170534633,,l.156
+T8_r19_c4,"Table 8, panel 'Gold 1887-1909', row 'Unskilled', col 'U'",share,0,A,15,15.032679738562091,,exact,0.03267973856209139,0.0021786492374727593,,l.156
+T8_r19_c5,"Table 8, panel 'Gold 1887-1909', row 'Unskilled', col 'Row (n)'",n,0,A,153,153,,exact,0,0,,l.156
+T8_r20_c1,"Table 8, panel 'Gold 1887-1909', row 'Col. (%)', col 'W'",share,0,A,34.8,34.78579274990846,,exact,-0.01420725009153756,-4.082543129752173e-4,,l.156 column total
+T8_r20_c2,"Table 8, panel 'Gold 1887-1909', row 'Col. (%)', col 'F'",share,0,A,49.7,49.72537532039546,,exact,0.025375320395454537,5.105698268703126e-4,,l.156 column total
+T8_r20_c3,"Table 8, panel 'Gold 1887-1909', row 'Col. (%)', col 'S'",share,0,A,12.5,12.449652142072502,,close,-0.050347857927498296,-0.004027828634199863,,l.156 column total
+T8_r20_c4,"Table 8, panel 'Gold 1887-1909', row 'Col. (%)', col 'U'",share,0,A,3,3.0391797876235813,,exact,0.03917978762358132,0.01305992920786044,,l.156 column total
+T8_r20_c5,"Table 8, panel 'Gold 1887-1909', row 'Col. (%)', col 'Row (n)'",n,0,A,2731,2731,,exact,0,0,,l.156
+T9_r1_c1,"Table 9, panel 'Slavery 1806-1834', row 'White collar', col 'W'",share,0,A,47.3,47.32142857142857,,exact,0.02142857142857224,4.5303533675628417e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r1_c2,"Table 9, panel 'Slavery 1806-1834', row 'White collar', col 'F'",share,0,A,36.2,36.160714285714285,,exact,-0.03928571428571814,-0.0010852407261248106,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r1_c3,"Table 9, panel 'Slavery 1806-1834', row 'White collar', col 'S'",share,0,A,10.7,10.714285714285714,,exact,0.014285714285714235,0.0013351134846461903,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r1_c4,"Table 9, panel 'Slavery 1806-1834', row 'White collar', col 'U'",share,0,A,5.8,5.803571428571429,,exact,0.003571428571429003,6.157635467981039e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r1_c5,"Table 9, panel 'Slavery 1806-1834', row 'White collar', col 'Row (n)'",n,0,A,224,224,,exact,0,0,,l.156
+T9_r2_c1,"Table 9, panel 'Slavery 1806-1834', row 'Farmer', col 'W'",share,0,A,9.1,9.090909090909092,,exact,-0.009090909090907928,-9.990009990008713e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r2_c2,"Table 9, panel 'Slavery 1806-1834', row 'Farmer', col 'F'",share,0,A,78.1,78.13578826237054,,exact,0.035788262370545,4.5823639398905253e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r2_c3,"Table 9, panel 'Slavery 1806-1834', row 'Farmer', col 'S'",share,0,A,5.9,5.868814729574224,,exact,-0.03118527042577668,-0.005285639055216386,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r2_c4,"Table 9, panel 'Slavery 1806-1834', row 'Farmer', col 'U'",share,0,A,6.9,6.904487917146145,,exact,0.004487917146144937,6.504227748036141e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r2_c5,"Table 9, panel 'Slavery 1806-1834', row 'Farmer', col 'Row (n)'",n,0,A,869,869,,exact,0,0,,l.156
+T9_r3_c1,"Table 9, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'W'",share,0,A,22.6,22.641509433962263,,exact,0.041509433962261255,0.0018367006177991705,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r3_c2,"Table 9, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'F'",share,0,A,29.3,29.245283018867923,,close,-0.05471698113207779,-0.001867473758773986,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r3_c3,"Table 9, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'S'",share,0,A,39.6,39.62264150943396,,exact,0.02264150943396004,5.717552887363646e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r3_c4,"Table 9, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'U'",share,0,A,8.5,8.49056603773585,,exact,-0.009433962264150608,-0.0011098779134294833,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r3_c5,"Table 9, panel 'Slavery 1806-1834', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,106,106,,exact,0,0,,l.156
+T9_r4_c1,"Table 9, panel 'Slavery 1806-1834', row 'Unskilled', col 'W'",share,0,A,14.4,14.444444444444445,,exact,0.04444444444444429,0.0030864197530864087,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r4_c2,"Table 9, panel 'Slavery 1806-1834', row 'Unskilled', col 'F'",share,0,A,46.7,46.666666666666664,,exact,-0.033333333333338544,-7.137758743755577e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r4_c3,"Table 9, panel 'Slavery 1806-1834', row 'Unskilled', col 'S'",share,0,A,11.1,11.11111111111111,,exact,0.011111111111111072,0.0010010010010009975,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r4_c4,"Table 9, panel 'Slavery 1806-1834', row 'Unskilled', col 'U'",share,0,A,27.8,27.77777777777778,,exact,-0.022222222222222143,-7.993605115907246e-4,,"l.156 Slavery (reference panel, unadjusted by construction)"
+T9_r4_c5,"Table 9, panel 'Slavery 1806-1834', row 'Unskilled', col 'Row (n)'",n,0,A,90,90,,exact,0,0,,l.156
+T9_r5_c1,"Table 9, panel 'Slavery 1806-1834', row 'Col. (%)', col 'W'",share,0,A,17.2,17.22265321955004,,exact,0.022653219550040404,0.001317047648258163,,l.156
+T9_r5_c2,"Table 9, panel 'Slavery 1806-1834', row 'Col. (%)', col 'F'",share,0,A,64.6,64.62373933281614,,exact,0.023739332816148817,3.674819321385266e-4,,l.156
+T9_r5_c3,"Table 9, panel 'Slavery 1806-1834', row 'Col. (%)', col 'S'",share,0,A,9.9,9.852598913886734,,exact,-0.047401086113266544,-0.004787988496289549,,l.156
+T9_r5_c4,"Table 9, panel 'Slavery 1806-1834', row 'Col. (%)', col 'U'",share,0,A,8.3,8.30100853374709,,exact,0.001008533747089757,1.2151009001081409e-4,,l.156
+T9_r5_c5,"Table 9, panel 'Slavery 1806-1834', row 'Col. (%)', col 'Row (n)'",n,0,A,1289,1289,,exact,0,0,,l.156
+T9_r6_c1,"Table 9, panel 'Stagnation 1835-1867', row 'White collar', col 'W'",share,0,A,51.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r6_c2,"Table 9, panel 'Stagnation 1835-1867', row 'White collar', col 'F'",share,0,A,33.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r6_c3,"Table 9, panel 'Stagnation 1835-1867', row 'White collar', col 'S'",share,0,A,11.3,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r6_c4,"Table 9, panel 'Stagnation 1835-1867', row 'White collar', col 'U'",share,0,A,4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r6_c5,"Table 9, panel 'Stagnation 1835-1867', row 'White collar', col 'Row (n)'",n,0,A,224,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r7_c1,"Table 9, panel 'Stagnation 1835-1867', row 'Farmer', col 'W'",share,0,A,8.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r7_c2,"Table 9, panel 'Stagnation 1835-1867', row 'Farmer', col 'F'",share,0,A,77.6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r7_c3,"Table 9, panel 'Stagnation 1835-1867', row 'Farmer', col 'S'",share,0,A,6.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r7_c4,"Table 9, panel 'Stagnation 1835-1867', row 'Farmer', col 'U'",share,0,A,7.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r7_c5,"Table 9, panel 'Stagnation 1835-1867', row 'Farmer', col 'Row (n)'",n,0,A,869,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r8_c1,"Table 9, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'W'",share,0,A,20.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r8_c2,"Table 9, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'F'",share,0,A,35.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r8_c3,"Table 9, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'S'",share,0,A,38.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r8_c4,"Table 9, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'U'",share,0,A,6.1,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r8_c5,"Table 9, panel 'Stagnation 1835-1867', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,106,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r9_c1,"Table 9, panel 'Stagnation 1835-1867', row 'Unskilled', col 'W'",share,0,A,9.8,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r9_c2,"Table 9, panel 'Stagnation 1835-1867', row 'Unskilled', col 'F'",share,0,A,51.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r9_c3,"Table 9, panel 'Stagnation 1835-1867', row 'Unskilled', col 'S'",share,0,A,8.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r9_c4,"Table 9, panel 'Stagnation 1835-1867', row 'Unskilled', col 'U'",share,0,A,30.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r9_c5,"Table 9, panel 'Stagnation 1835-1867', row 'Unskilled', col 'Row (n)'",n,0,A,90,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r10_c1,"Table 9, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'W'",share,0,A,17.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r10_c2,"Table 9, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'F'",share,0,A,64.6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r10_c3,"Table 9, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'S'",share,0,A,9.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r10_c4,"Table 9, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'U'",share,0,A,8.3,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r10_c5,"Table 9, panel 'Stagnation 1835-1867', row 'Col. (%)', col 'Row (n)'",n,0,A,1289,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r11_c1,"Table 9, panel 'Diamonds 1868-1886', row 'White collar', col 'W'",share,0,A,42.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r11_c2,"Table 9, panel 'Diamonds 1868-1886', row 'White collar', col 'F'",share,0,A,39.7,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r11_c3,"Table 9, panel 'Diamonds 1868-1886', row 'White collar', col 'S'",share,0,A,12.8,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r11_c4,"Table 9, panel 'Diamonds 1868-1886', row 'White collar', col 'U'",share,0,A,4.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r11_c5,"Table 9, panel 'Diamonds 1868-1886', row 'White collar', col 'Row (n)'",n,0,A,224,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r12_c1,"Table 9, panel 'Diamonds 1868-1886', row 'Farmer', col 'W'",share,0,A,10,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r12_c2,"Table 9, panel 'Diamonds 1868-1886', row 'Farmer', col 'F'",share,0,A,76.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r12_c3,"Table 9, panel 'Diamonds 1868-1886', row 'Farmer', col 'S'",share,0,A,6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r12_c4,"Table 9, panel 'Diamonds 1868-1886', row 'Farmer', col 'U'",share,0,A,7.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r12_c5,"Table 9, panel 'Diamonds 1868-1886', row 'Farmer', col 'Row (n)'",n,0,A,869,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r13_c1,"Table 9, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'W'",share,0,A,27.1,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r13_c2,"Table 9, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'F'",share,0,A,32.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r13_c3,"Table 9, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'S'",share,0,A,34.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r13_c4,"Table 9, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'U'",share,0,A,6.3,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r13_c5,"Table 9, panel 'Diamonds 1868-1886', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,106,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r14_c1,"Table 9, panel 'Diamonds 1868-1886', row 'Unskilled', col 'W'",share,0,A,11.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r14_c2,"Table 9, panel 'Diamonds 1868-1886', row 'Unskilled', col 'F'",share,0,A,50.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r14_c3,"Table 9, panel 'Diamonds 1868-1886', row 'Unskilled', col 'S'",share,0,A,10.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r14_c4,"Table 9, panel 'Diamonds 1868-1886', row 'Unskilled', col 'U'",share,0,A,27.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r14_c5,"Table 9, panel 'Diamonds 1868-1886', row 'Unskilled', col 'Row (n)'",n,0,A,90,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r15_c1,"Table 9, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'W'",share,0,A,17.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r15_c2,"Table 9, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'F'",share,0,A,64.6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r15_c3,"Table 9, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'S'",share,0,A,9.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r15_c4,"Table 9, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'U'",share,0,A,8.3,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r15_c5,"Table 9, panel 'Diamonds 1868-1886', row 'Col. (%)', col 'Row (n)'",n,0,A,1289,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r16_c1,"Table 9, panel 'Gold 1887-1909', row 'White collar', col 'W'",share,0,A,45.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r16_c2,"Table 9, panel 'Gold 1887-1909', row 'White collar', col 'F'",share,0,A,35.6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r16_c3,"Table 9, panel 'Gold 1887-1909', row 'White collar', col 'S'",share,0,A,13.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r16_c4,"Table 9, panel 'Gold 1887-1909', row 'White collar', col 'U'",share,0,A,5.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r16_c5,"Table 9, panel 'Gold 1887-1909', row 'White collar', col 'Row (n)'",n,0,A,224,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r17_c1,"Table 9, panel 'Gold 1887-1909', row 'Farmer', col 'W'",share,0,A,9.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r17_c2,"Table 9, panel 'Gold 1887-1909', row 'Farmer', col 'F'",share,1,A,77.7,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r17_c3,"Table 9, panel 'Gold 1887-1909', row 'Farmer', col 'S'",share,0,A,6.1,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r17_c4,"Table 9, panel 'Gold 1887-1909', row 'Farmer', col 'U'",share,0,A,7,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r17_c5,"Table 9, panel 'Gold 1887-1909', row 'Farmer', col 'Row (n)'",n,0,A,870,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r18_c1,"Table 9, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'W'",share,0,A,29.5,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r18_c2,"Table 9, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'F'",share,0,A,32.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r18_c3,"Table 9, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'S'",share,0,A,34.8,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r18_c4,"Table 9, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'U'",share,0,A,3.4,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r18_c5,"Table 9, panel 'Gold 1887-1909', row 'Skilled/semi-skilled', col 'Row (n)'",n,0,A,106,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r19_c1,"Table 9, panel 'Gold 1887-1909', row 'Unskilled', col 'W'",share,0,A,10.1,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r19_c2,"Table 9, panel 'Gold 1887-1909', row 'Unskilled', col 'F'",share,0,A,48.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r19_c3,"Table 9, panel 'Gold 1887-1909', row 'Unskilled', col 'S'",share,0,A,7.7,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r19_c4,"Table 9, panel 'Gold 1887-1909', row 'Unskilled', col 'U'",share,0,A,34.1,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r19_c5,"Table 9, panel 'Gold 1887-1909', row 'Unskilled', col 'Row (n)'",n,0,A,90,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r20_c1,"Table 9, panel 'Gold 1887-1909', row 'Col. (%)', col 'W'",share,0,A,17.2,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r20_c2,"Table 9, panel 'Gold 1887-1909', row 'Col. (%)', col 'F'",share,0,A,64.6,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r20_c3,"Table 9, panel 'Gold 1887-1909', row 'Col. (%)', col 'S'",share,0,A,9.9,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r20_c4,"Table 9, panel 'Gold 1887-1909', row 'Col. (%)', col 'U'",share,0,A,8.3,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T9_r20_c5,"Table 9, panel 'Gold 1887-1909', row 'Col. (%)', col 'Row (n)'",n,0,A,1289,,,unavailable,,,,"no code for the per-cohort Deming-Stephan adjustment; mstdize block (l.255-276) standardises only the after-1868 table, with mis-set margins"
+T10_r1_c1,"Table 10, row 'Before 1868 (P) compared with after 1868 (Q)', col 'd(P, I)'",tstat,0,A,19.2,19.207891,,close,0.007891000000000759,4.109895833333729e-4,,l.216-218 (frequencies hard-coded l.184-201)
+T10_r1_c2,"Table 10, row 'Before 1868 (P) compared with after 1868 (Q)', col 'd(Q, I)'",tstat,0,A,18.78,18.784622,,exact,0.0046219999999976835,2.461128860488649e-4,,l.227-229
+T10_r1_c3,"Table 10, row 'Before 1868 (P) compared with after 1868 (Q)', col 'd(P, Q)'",tstat,1,A,3.7,3.7030392,,exact,0.0030391999999999086,8.214054054053807e-4,,l.237-239; G2 p=0.066
+T10_r1_c4,"Table 10, row 'Before 1868 (P) compared with after 1868 (Q)', col 'di(P, Q)'",tstat,0,A,2.39,2.386441,,exact,-0.00355900000000009,-0.0014891213389121715,,quasi-independence block l.351-353; G2 p=0.72
+T11_r1_c1,"Table 11, row 'Period (Slavery ref.)', col 'Model 1'",ratio,0,A,1,1,,exact,0,0,,do-file model 1 (l.393-395) reference category
+T11_r1_c2,"Table 11, row 'Period (Slavery ref.)', col 'Model 2'",ratio,0,A,1,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r1_c3,"Table 11, row 'Period (Slavery ref.)', col 'Model 3'",ratio,0,A,1,1,,exact,0,0,,do-file model 3 (l.405-407) reference category
+T11_r2_c1,"Table 11, row 'Stagnation', col 'Model 1'",ratio,0,A,1.108,1.1078273999806811,0.07813706060995741,exact,-1.7260001931895808e-4,-1.5577619072108128e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r2_c2,"Table 11, row 'Stagnation', col 'Model 2'",ratio,0,A,0.963,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r2_c3,"Table 11, row 'Stagnation', col 'Model 3'",ratio,0,A,1.009,1.009338332667489,0.07812742990479392,exact,3.3833266748906077e-4,3.353148339832119e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r3_c1,"Table 11, row 'Diamonds', col 'Model 1'",ratio,0,A,1.22,1.2204472622959326,0.09184768779750992,exact,4.4726229593261557e-4,3.666084392890292e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r3_c2,"Table 11, row 'Diamonds', col 'Model 2'",ratio,0,A,1.119,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r3_c3,"Table 11, row 'Diamonds', col 'Model 3'",ratio,0,A,1.009,1.1558580863023535,0.0938755573668355,differs,0.14685808630235364,0.14554815292601947,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r4_c1,"Table 11, row 'Gold', col 'Model 1'",ratio,0,A,1.297,1.2969248989558009,0.09692555263097188,exact,-7.510104419905517e-5,-5.7903657825023265e-5,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r4_c2,"Table 11, row 'Gold', col 'Model 2'",ratio,0,A,1.298,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r4_c3,"Table 11, row 'Gold', col 'Model 3'",ratio,1,A,1.303,1.3030095143547875,0.1028135748273102,exact,9.514354787576451e-6,7.301883950557522e-6,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r5_c1,"Table 11, row 'Migrant status (Migrant father ref.)', col 'Model 1'",ratio,1,A,1.497,1.4974443673997275,0.13146019178071186,exact,4.443673997274189e-4,2.968386103723573e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r5_c2,"Table 11, row 'Migrant status (Migrant father ref.)', col 'Model 2'",ratio,0,A,1.014,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r5_c3,"Table 11, row 'Migrant status (Migrant father ref.)', col 'Model 3'",ratio,0,A,1.015,1.015063934332354,0.09714801341839256,exact,6.393433235407642e-5,6.298949000401618e-5,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r6_c1,"Table 11, row 'Origin country (Netherlands ref.)', col 'Model 1'",ratio,0,A,1,1,,exact,0,0,,do-file model 1 (l.393-395) reference category
+T11_r6_c2,"Table 11, row 'Origin country (Netherlands ref.)', col 'Model 2'",ratio,0,A,1,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r6_c3,"Table 11, row 'Origin country (Netherlands ref.)', col 'Model 3'",ratio,0,A,1,1,,exact,0,0,,do-file model 3 (l.405-407) reference category
+T11_r7_c1,"Table 11, row 'France', col 'Model 1'",ratio,0,A,1.018,1.017835791390628,0.06305920218697324,exact,-1.6420860937205184e-4,-1.613051172613476e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r7_c2,"Table 11, row 'France', col 'Model 2'",ratio,0,A,1.107,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r7_c3,"Table 11, row 'France', col 'Model 3'",ratio,0,A,1.101,1.101198905092454,0.07272350605197718,exact,1.9890509245401589e-4,1.8065857625251217e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r8_c1,"Table 11, row 'Germany', col 'Model 1'",ratio,0,A,1.169,1.1687974503189336,0.10443263658472188,exact,-2.025496810664773e-4,-1.73267477387919e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r8_c2,"Table 11, row 'Germany', col 'Model 2'",ratio,0,A,1.385,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r8_c3,"Table 11, row 'Germany', col 'Model 3'",ratio,0,A,1.392,1.392486502814535,0.12955750121646545,exact,4.865028145351058e-4,3.4949914837292085e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r9_c1,"Table 11, row 'UK', col 'Model 1'",ratio,0,A,1.449,1.449006283836073,0.13189811539623272,exact,6.28383607303995e-6,4.336670857860559e-6,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r9_c2,"Table 11, row 'UK', col 'Model 2'",ratio,0,A,1.098,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r9_c3,"Table 11, row 'UK', col 'Model 3'",ratio,0,A,1.099,1.0988176081484895,0.10797707037288436,exact,-1.823918515104772e-4,-1.659616483261849e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r10_c1,"Table 11, row 'Other west Europe', col 'Model 1'",ratio,0,A,1.344,1.3444421921436245,0.14769625145810297,exact,4.4219214362439807e-4,3.2901201162529616e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r10_c2,"Table 11, row 'Other west Europe', col 'Model 2'",ratio,0,A,1.067,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r10_c3,"Table 11, row 'Other west Europe', col 'Model 3'",ratio,0,A,1.067,1.067060316739736,0.1285444881163691,exact,6.031673973594387e-5,5.652927810304018e-5,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r11_c1,"Table 11, row 'Other east Europe', col 'Model 1'",ratio,0,A,1.494,1.4939372731711813,0.3243396083608288,exact,-6.272682881869329e-5,-4.1985829195912513e-05,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r11_c2,"Table 11, row 'Other east Europe', col 'Model 2'",ratio,0,A,1.344,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r11_c3,"Table 11, row 'Other east Europe', col 'Model 3'",ratio,0,A,1.344,1.343536209057807,0.3165419675843719,exact,-4.637909421931763e-4,-3.450825462746847e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r12_c1,"Table 11, row 'Sibling rank (First born son ref.)', col 'Model 1'",ratio,0,A,1,1,,exact,0,0,,do-file model 1 (l.393-395) reference category
+T11_r12_c2,"Table 11, row 'Sibling rank (First born son ref.)', col 'Model 2'",ratio,0,A,1,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r12_c3,"Table 11, row 'Sibling rank (First born son ref.)', col 'Model 3'",ratio,0,A,1,1,,exact,0,0,,do-file model 3 (l.405-407) reference category
+T11_r13_c1,"Table 11, row 'Province (Cape ref.)', col 'Model 1'",ratio,0,A,1,1,,exact,0,0,,do-file model 1 (l.393-395) reference category
+T11_r13_c2,"Table 11, row 'Province (Cape ref.)', col 'Model 2'",ratio,0,A,1,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r13_c3,"Table 11, row 'Province (Cape ref.)', col 'Model 3'",ratio,0,A,1,1,,exact,0,0,,do-file model 3 (l.405-407) reference category
+T11_r14_c1,"Table 11, row 'Natal', col 'Model 1'",ratio,0,A,1.046,1.045801628550422,0.15848130169134525,exact,-1.9837144957812747e-4,-1.8964765734046603e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r14_c2,"Table 11, row 'Natal', col 'Model 2'",ratio,0,A,1.243,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r14_c3,"Table 11, row 'Natal', col 'Model 3'",ratio,0,A,1.24,1.2395035046997471,0.1983080417665621,exact,-4.964953002528638e-4,-4.003994356877934e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r15_c1,"Table 11, row 'OFS', col 'Model 1'",ratio,0,A,1.229,1.2289222920691745,0.09222017218030897,exact,-7.770793082562122e-5,-6.322858488659171e-5,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r15_c2,"Table 11, row 'OFS', col 'Model 2'",ratio,0,A,1.101,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r15_c3,"Table 11, row 'OFS', col 'Model 3'",ratio,0,A,1.098,1.0980977888444234,0.09022366748349768,exact,9.778884442335212e-5,8.906087834549373e-5,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r16_c1,"Table 11, row 'Transvaal', col 'Model 1'",ratio,0,A,1.013,1.0133875210087615,0.08162856749475995,exact,3.8752100876160434e-4,3.8254788624047815e-4,,do-file model 1 (l.393-395) exp(b); se by delta method
+T11_r16_c2,"Table 11, row 'Transvaal', col 'Model 2'",ratio,0,A,1.084,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r16_c3,"Table 11, row 'Transvaal', col 'Model 3'",ratio,0,A,1.08,1.0797785782740383,0.09146869123274076,exact,-2.214217259617346e-4,-2.0502011663123571e-4,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r17_c1,"Table 11, row 'Father's class (White collar ref.)', col 'Model 1'",ratio,0,A,1,,,ambiguous,,,,father's class is not in Model 1; printed reference value has no estimate behind it
+T11_r17_c2,"Table 11, row 'Father's class (White collar ref.)', col 'Model 2'",ratio,0,A,1,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r17_c3,"Table 11, row 'Father's class (White collar ref.)', col 'Model 3'",ratio,0,A,1,1,,exact,0,0,,do-file model 3 (l.405-407) reference category
+T11_r18_c2,"Table 11, row 'Farmer', col 'Model 2'",ratio,0,A,0.532,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r18_c3,"Table 11, row 'Farmer', col 'Model 3'",ratio,0,A,0.444,0.4444600519257379,0.04151172437576526,exact,4.600519257378921e-4,0.0010361529858961534,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r19_c2,"Table 11, row 'Skilled/semi-skilled', col 'Model 2'",ratio,0,A,3.084,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r19_c3,"Table 11, row 'Skilled/semi-skilled', col 'Model 3'",ratio,0,A,2.202,2.202068619131464,0.35869363612915267,exact,6.861913146405385e-5,3.116218504271292e-5,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r20_c2,"Table 11, row 'Unskilled', col 'Model 2'",ratio,0,A,4.949,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r20_c3,"Table 11, row 'Unskilled', col 'Model 3'",ratio,0,A,4.591,4.591106212787411,0.46626356475826386,exact,1.0621278741052009e-4,2.3135000525053384e-5,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r21_c3,"Table 11, row 'Origin class size', col 'Model 3'",ratio,0,A,1.033,1.0330009398883886,0.01362497249684588,exact,9.398883886735376e-7,9.098629125590878e-7,,do-file model 3 (l.405-407) exp(b); se by delta method
+T11_r22_c1,"Table 11, row 'Pseudo R2', col 'Model 1'",other,0,A,0.009,0.0091,,exact,1.0000000000000113e-4,0.011111111111111238,,do-file model 1 (l.393-395)
+T11_r22_c2,"Table 11, row 'Pseudo R2', col 'Model 2'",other,0,A,0.095,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r22_c3,"Table 11, row 'Pseudo R2', col 'Model 3'",other,0,A,0.096,0.0963,,exact,2.999999999999947e-4,0.003124999999999945,,do-file model 3 (l.405-407)
+T11_r23_c1,"Table 11, row 'Prob > chi-square', col 'Model 1'",pvalue,0,A,0,0,,exact,0,,,do-file model 1 (l.393-395)
+T11_r23_c2,"Table 11, row 'Prob > chi-square', col 'Model 2'",pvalue,0,A,0,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r23_c3,"Table 11, row 'Prob > chi-square', col 'Model 3'",pvalue,0,A,0,0,,exact,0,,,do-file model 3 (l.405-407)
+T11_r24_c1,"Table 11, row 'Observations', col 'Model 1'",n,0,A,9494,9494,,exact,0,0,,do-file model 1 (l.393-395)
+T11_r24_c2,"Table 11, row 'Observations', col 'Model 2'",n,0,A,9494,,,unavailable,,,,"published Model 2 (= Model 1 + father's class) is not in the do-file; do-file model 2 is Model 1 + class size, with i.f_gen_dad"
+T11_r24_c3,"Table 11, row 'Observations', col 'Model 3'",n,0,A,9494,9494,,exact,0,0,,do-file model 3 (l.405-407)
+TXT_p5_a,text p.5,share,0,A,8.5,,,unavailable,,,,1865 census sector shares: no formula chain located
+TXT_p5_b,text p.5,share,0,A,4.4,,,unavailable,,,,1865 census sector shares: no formula chain located
+TXT_p5_c,text p.5,share,0,A,55,,,unavailable,,,,1865 census sector shares: no formula chain located
+TXT_p6_a,text p.6,other,0,A,1.9,,,unavailable,,,,cited from Fourie and Van Zanden (2013); not computed in this paper
+TXT_p8_a,text p.8,n,0,A,9494,9494,,exact,0,0,,l.145
+TXT_p9_a,text p.9,share,0,A,80,79.4412863860151,,close,-0.5587136139849065,-0.0069839201748113314,,= T5 farmer non-European share (Excel recalculation)
+TXT_p9_b,text p.9,share,0,A,87.5,87.5344398012049,,exact,0.03443980120489698,3.935977280559655e-4,,= T5 unskilled non-European share (Excel recalculation)
+TXT_p12_a,text p.12,share,0,A,78,78.13578826237054,,exact,0.13578826237053931,0.001740875158596658,,l.156
+TXT_p12_b,text p.12,share,0,A,13,13.044672089249817,,exact,0.04467208924981669,0.003436314557678207,,"l.156, pp change"
+TXT_p12_c,text p.12,share,0,A,20,20.571548017200183,,close,0.5715480172001826,0.02857740086000913,,"l.156, pp change"
+TXT_p12_d,text p.12,share,0,A,1,1.3377926421404682,,exact,0.3377926421404682,0.3377926421404682,,l.156
+TXT_p12_e,text p.12,share,0,A,47,46.875,,exact,-0.125,-0.0026595744680851063,,l.156
+TXT_p12_f,text p.12,share,0,A,13,13.006535947712417,,exact,0.006535947712416501,5.027652086474232e-4,,"l.156, pp change"
+TXT_p15_a,text p.15,tstat,0,A,13.92,,,failed,,,,"farmers-dropped block l.367-378 stops at 'bysort p_split' (variable is psplit) and contains no Altham code ('re-estimate Altham statistics, then')"
+TXT_p15_b,text p.15,tstat,0,A,10.57,,,failed,,,,"farmers-dropped block l.367-378 stops at 'bysort p_split' (variable is psplit) and contains no Altham code ('re-estimate Altham statistics, then')"
+TXT_p15_c,text p.15,tstat,0,A,2.37,,,failed,,,,"farmers-dropped block l.367-378 stops at 'bysort p_split' (variable is psplit) and contains no Altham code ('re-estimate Altham statistics, then')"
+TXT_p15_fn9a,text p.15 footnote 9,tstat,0,A,33.83,,,unavailable,,,,no five-category (HISCLASS) Altham code
+TXT_p15_fn9b,text p.15 footnote 9,tstat,0,A,33.96,,,unavailable,,,,no five-category (HISCLASS) Altham code
+TXT_p15_fn9c,text p.15 footnote 9,tstat,0,A,13.19,,,unavailable,,,,no five-category (HISCLASS) Altham code
+TXT_p15_fn9d,text p.15 footnote 9,tstat,0,A,12.54,,,unavailable,,,,no five-category (HISCLASS) Altham code

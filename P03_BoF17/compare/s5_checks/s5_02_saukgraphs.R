@@ -1,0 +1,10 @@
+# S5 check 2: the 'SA & UK graphs' sheet that holds the published text correlations (0.05 / 0.86)
+suppressMessages({library(tidyxl); library(dplyr); library(tidyr)})
+source("tools/paths.R")
+g15 <- dpath("P03_BoF17","original","Boshoff Fourie Globalisation","Globalisation data.xlsx")
+c <- xlsx_cells(g15, sheets = "SA & UK graphs")
+c %>% filter(row <= 3) %>% select(address, character, numeric, formula) %>% as.data.frame() %>% print(right=FALSE)
+w <- c %>% filter(col <= 8, row <= 82) %>% mutate(val = coalesce(as.character(round(numeric,4)), character)) %>%
+  select(row, col, val) %>% pivot_wider(names_from = col, values_from = val) %>% arrange(row)
+print(as.data.frame(w), right=FALSE)
+c %>% filter(col <= 8, row %in% c(2,3,40,41,79), !is.na(formula)) %>% select(address, formula) %>% as.data.frame() %>% print(right=FALSE)

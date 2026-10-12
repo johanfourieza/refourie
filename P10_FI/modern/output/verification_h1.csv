@@ -1,0 +1,11 @@
+check,value,target,pass
+V1 descriptive universe N = S2 Table 1 total,23393,23393,TRUE
+"V2 Figure-3 definition (corrections off): max |diff| vs S2 F3 values, all years",0,0,TRUE
+V2 Figure-3 definition: number of S2 F3 years matched,53,53,TRUE
+V3 S25 (white-husband 1925) vs S2 txt_p637_1925_share,3.6697247706422,3.6697247706422,TRUE
+V3 Figure-3 definition 1925 share vs S2 txt_fn15_1925_all,3.09859154929577,3.09859154929577,TRUE
+V4 Figure-3 definition pooled 1930-39 vs S2 note,1.99957903599242,2,TRUE
+V4 Figure-3 definition pooled 1911-13 vs S2 note,7.28971962616823,7.29,TRUE
+V5 corrected vs Figure-3 definition: years that differ,1,,
+V5 corrected vs Figure-3 definition: max |diff| (pp),0.00216057384841428,,
+V5 corrected vs Figure-3 definition: total couples difference,1,,

@@ -1,0 +1,98 @@
+item,variant,quantity,value,note
+0,primary (card §3),S00,46.86257166257166,
+0,primary (card §3),S73,63.66349656134274,
+0,primary (card §3),Delta,16.80092489877108,
+1,"published construction: run A1 taxes, workbook mean-of-means share",S00,45.68481568325963,diagnostic; reproduces Image 9
+1,"published construction: run A1 taxes, workbook mean-of-means share",S73,61.241325038265764,diagnostic; reproduces Image 9
+1,"published construction: run A1 taxes, workbook mean-of-means share",Delta,15.556509355006135,diagnostic; reproduces Image 9
+2,"Stata xtile group 10, exact sums",S00,46.60292341648273,group-10 sizes: 43 / 268
+2,"Stata xtile group 10, exact sums",S73,63.45676499249402,group-10 sizes: 43 / 268
+2,"Stata xtile group 10, exact sums",Delta,16.85384157601129,group-10 sizes: 43 / 268
+3,ties kept together (tslaves >= c),S00,48.550285262149664,group sizes: 49 / 306
+3,ties kept together (tslaves >= c),S73,67.02758299988089,group sizes: 49 / 306
+3,ties kept together (tslaves >= c),Delta,18.477297737731227,group sizes: 49 / 306
+4a,"ties at c broken by tax, descending",S00,47.23424811560404,
+4a,"ties at c broken by tax, descending",S73,64.323275113418,
+4a,"ties at c broken by tax, descending",Delta,17.089026997813967,
+4b,"ties at c broken by tax, ascending",S00,46.604922333735885,
+4b,"ties at c broken by tax, ascending",S73,63.46146779762714,
+4b,"ties at c broken by tax, ascending",Delta,16.85654546389125,
+5,"all tax corrections off (run A1 taxes), primary share rule",S00,47.02187132513176,
+5,"all tax corrections off (run A1 taxes), primary share rule",S73,63.13333556759811,
+5,"all tax corrections off (run A1 taxes), primary share rule",Delta,16.111464242466347,
+6,0.7 wine factor after 1743 restored,S00,46.86257166257166,
+6,0.7 wine factor after 1743 restored,S73,63.65682963915271,
+6,0.7 wine factor after 1743 restored,Delta,16.79425797658105,
+7,grain net of seed (floored at 0),S00,47.0910436071978,
+7,grain net of seed (floored at 0),S73,63.21671743879662,
+7,grain net of seed (floored at 0),Delta,16.125673831598824,
+8a,"vine imputation, coded constant 0.0008813",S00,46.80379571545773,recipients 1700/1773: 21 / 0
+8a,"vine imputation, coded constant 0.0008813",S73,63.66349656134274,recipients 1700/1773: 21 / 0
+8a,"vine imputation, coded constant 0.0008813",Delta,16.85970084588501,recipients 1700/1773: 21 / 0
+8b,"vine imputation, within-year donor mean of wyn/wingst",S00,46.808013183596756,recipients 1700/1773: 21 / 0; r(1700) = 0.000817
+8b,"vine imputation, within-year donor mean of wyn/wingst",S73,63.66349656134274,recipients 1700/1773: 21 / 0; r(1700) = 0.000817
+8b,"vine imputation, within-year donor mean of wyn/wingst",Delta,16.855483377745983,recipients 1700/1773: 21 / 0; r(1700) = 0.000817
+8c,"vine imputation, within-year donor median of wyn/wingst",S00,46.81794997230078,recipients 1700/1773: 21 / 0; r(1700) = 0.000667
+8c,"vine imputation, within-year donor median of wyn/wingst",S73,63.66349656134274,recipients 1700/1773: 21 / 0; r(1700) = 0.000667
+8c,"vine imputation, within-year donor median of wyn/wingst",Delta,16.84554658904196,recipients 1700/1773: 21 / 0; r(1700) = 0.000667
+8d,"vine imputation, donor mean pooled over retained years",S00,46.479200787608704,recipients 1700/1773: 21 / 0; r = 0.006266
+8d,"vine imputation, donor mean pooled over retained years",S73,63.66349656134274,recipients 1700/1773: 21 / 0; r = 0.006266
+8d,"vine imputation, donor mean pooled over retained years",Delta,17.184295773734036,recipients 1700/1773: 21 / 0; r = 0.006266
+9,72 st per leaguer before 1743 (run 0),S00,46.29688524549292,
+9,72 st per leaguer before 1743 (run 0),S73,63.66349656134274,
+9,72 st per leaguer before 1743 (run 0),Delta,17.366611315849816,
+10,Swellendam (ds == 4) poll tax 36 st,S00,46.86257166257166,
+10,Swellendam (ds == 4) poll tax 36 st,S73,63.63372591550243,
+10,Swellendam (ds == 4) poll tax 36 st,Delta,16.77115425293077,
+11a,"hearth allocation, upper bound S^max",S00,47.94882327041345,|U| = 36
+11a,"hearth allocation, upper bound S^max",S73,65.57874690433606,|U| = 430
+11b,"hearth allocation, lower bound S^min",S00,46.79166562417469,
+11b,"hearth allocation, lower bound S^min",S73,63.046275705854505,
+11ab,"bounds on Delta [S73min - S00max, S73max - S00min]",Delta_lo,15.097452435441056,
+11ab,"bounds on Delta [S73min - S00max, S73max - S00min]",Delta_hi,18.787081280161367,
+11c,no record pays the hearth tax,S00,47.87775454765257,
+11c,no record pays the hearth tax,S73,65.33513875999792,
+11c,no record pays the hearth tax,Delta,17.457384212345346,
+11d,records with missing ds also pay the hearth tax,S00,46.86257166257166,
+11d,records with missing ds also pay the hearth tax,S73,63.66349656134274,
+11d,records with missing ds also pay the hearth tax,Delta,16.80092489877108,
+12,pigs (vk) counted as agricultural assets,S00,46.86257166257166,
+12,pigs (vk) counted as agricultural assets,S73,63.66048722241108,
+12,pigs (vk) counted as agricultural assets,Delta,16.797915559839417,
+13,full-row duplicates dropped (within year),S00,46.86257166257166,"excess duplicates removed: 31 (1700: 0, 1773: 8)"
+13,full-row duplicates dropped (within year),S73,63.68673344408238,"excess duplicates removed: 31 (1700: 0, 1773: 8)"
+13,full-row duplicates dropped (within year),Delta,16.824161781510718,"excess duplicates removed: 31 (1700: 0, 1773: 8)"
+14,complete cases,S00,,not computed: the §4 missing-input rule is not triggered (check_missing.csv)
+15,"primary rule, all Image 9 years",S_1700,46.86257166257166,
+15,"primary rule, all Image 9 years",S_1719,51.36179624897586,
+15,"primary rule, all Image 9 years",S_1731,51.13421857893944,
+15,"primary rule, all Image 9 years",S_1738,57.71833399348051,
+15,"primary rule, all Image 9 years",S_1741,60.109864648098146,
+15,"primary rule, all Image 9 years",S_1757,59.88145705329186,
+15,"primary rule, all Image 9 years",S_1773,63.66349656134274,
+15,"primary rule, all Image 9 years",years with S_t > 50,6,
+15,"primary rule, all Image 9 years",year-on-year increases (of 6),4,
+16,leave-one-record-out,max |dS00|,1.2395917369041172,
+16,leave-one-record-out,max |dS73|,0.8887517360878263,
+16,leave-one-record-out,min S00 / max S00,,45.6230 / 47.4106
+16,leave-one-record-out,min S73 / max S73,,62.7747 / 64.1699
+16,leave-one-record-out,deletions moving S00 to >= 50,0,
+16,leave-one-record-out,deletions moving S73 to <= 61,0,
+16,leave-one-record-out,min Delta over single deletions,15.912173162683253,
+17,printed Deficit column,D_1777,254000,equals Exp - Rev: TRUE
+17,printed Deficit column,D_1787,1304000,equals Exp - Rev: TRUE
+17,printed Deficit column,D_1789,1403000,equals Exp - Rev: TRUE
+17,printed Deficit column,D_1792,342000,equals Exp - Rev: TRUE
+17,printed Deficit column,D_1794,230000,equals Exp - Rev: TRUE
+18a,GDP-vintage substitution: recalc_cells_primary.rds total economy!E x 1000,R89,42.240431820532656,"GDP_1789 = 3321462; currency, price basis and coverage of col. E not shown to match the printed GDP"
+18a,P15 / printed GDP,ratio_1777,1.047091100649384,
+18a,P15 / printed GDP,ratio_1787,1.0260279549515705,
+18a,P15 / printed GDP,ratio_1789,0.956642355049808,
+18a,P15 / printed GDP,ratio_1791,0.9202863644591591,
+18a,P15 / printed GDP,ratio_1792,0.9186606999937608,
+18b,GDP-vintage substitution: recalc_cells_copy.rds total economy!E x 1000,R89,42.240431820532656,"GDP_1789 = 3321462; currency, price basis and coverage of col. E not shown to match the printed GDP"
+18b,P15 / printed GDP,ratio_1777,1.047091100649384,
+18b,P15 / printed GDP,ratio_1787,1.0260279549515705,
+18b,P15 / printed GDP,ratio_1789,0.956642355049808,
+18b,P15 / printed GDP,ratio_1791,0.9202863644591591,
+18b,P15 / printed GDP,ratio_1792,0.9186606999937608,

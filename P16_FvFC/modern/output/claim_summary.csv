@@ -1,0 +1,5 @@
+claim,rows,verdict
+text_p26_gini_initial (H1),H1,confirmed
+text_p26_gini_1709 (H2),H2-pt + H2-rise,qualified (significant against a subset of the initial period only)
+text_p26_gini_1757 (H3),H3-pt + H3-rise,confirmed
+text_p23_slave_gap (H4),H4 + H4-w,confirmed

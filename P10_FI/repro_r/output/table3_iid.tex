@@ -1,0 +1,68 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Interracial marriages in Cape Town, 1911--1964 (R recreation; conventional SEs)},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-5}{solid, black, 0.05em},
+hline{46}={1-5}{solid, black, 0.05em},
+hline{1}={1-5}{solid, black, 0.08em},
+hline{52}={1-5}{solid, black, 0.08em},
+column{2-5}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& (1) Logit & (2) OLS & (3) OLS & (4) OLS \\
+White male & \num{6.2113}*** & \num{0.6374}*** & \num{0.6530}*** & \num{0.6405}*** \\
+& (\num{0.1809}) & (\num{0.0045}) & (\num{0.0052}) & (\num{0.0061}) \\
+Black male & \num{8.7047}*** & \num{0.9135}*** & \num{0.8894}*** & \num{0.9955}*** \\
+& (\num{0.3837}) & (\num{0.0061}) & (\num{0.0080}) & (\num{0.0107}) \\
+White female & \num{-5.3358}*** & \num{-0.6252}*** & \num{-0.6441}*** & \num{-0.6252}*** \\
+& (\num{0.1905}) & (\num{0.0045}) & (\num{0.0053}) & (\num{0.0062}) \\
+Black female & \num{-7.2874}*** & \num{-0.8858}*** & \num{-0.9153}*** & \num{-0.9943}*** \\
+& (\num{0.5802}) & (\num{0.0096}) & (\num{0.0087}) & (\num{0.0158}) \\
+Male age & \num{0.0189}* & \num{0.0004}*** & \num{0.0003}*** & \num{0.0001} \\
+& (\num{0.0102}) & (\num{0.0001}) & (\num{0.0001}) & (\num{0.0001}) \\
+Female age & \num{0.0120} & \num{0.0001} & \num{0.0001} & \num{0.0000} \\
+& (\num{0.0127}) & (\num{0.0001}) & (\num{0.0001}) & (\num{0.0001}) \\
+Act & \num{-0.6617}** & \num{0.0044}** & \num{-0.0050}*** & \num{-0.0042}** \\
+& (\num{0.3074}) & (\num{0.0018}) & (\num{0.0017}) & (\num{0.0017}) \\
+Sex ratio &  &  & \num{0.0100}*** & \num{-0.0004} \\
+&  &  & (\num{0.0024}) & (\num{0.0045}) \\
+Segregation & \num{-2.3410}*** & \num{-0.0329}*** & \num{-0.0180}*** & \num{-0.0217}*** \\
+& (\num{0.7384}) & (\num{0.0051}) & (\num{0.0050}) & (\num{0.0056}) \\
+Literacy gap & \num{-0.0815} & \num{-0.0013} & \num{-0.0014} & \num{-0.0029} \\
+& (\num{0.2054}) & (\num{0.0018}) & (\num{0.0016}) & (\num{0.0020}) \\
+Widower &  & \num{-0.0005} & \num{-0.0000} & \num{0.0042} \\
+&  & (\num{0.0025}) & (\num{0.0024}) & (\num{0.0027}) \\
+Male divorcee &  & \num{-0.0601}** & \num{-0.0768}*** & \num{-0.1306}*** \\
+&  & (\num{0.0257}) & (\num{0.0259}) & (\num{0.0257}) \\
+Widow &  & \num{0.0040} & \num{0.0055}** & \num{0.0150}*** \\
+&  & (\num{0.0028}) & (\num{0.0026}) & (\num{0.0032}) \\
+Female divorcee &  & \num{0.1474}*** & \num{0.1966}*** & \num{0.3747}*** \\
+&  & (\num{0.0287}) & (\num{0.0260}) & (\num{0.0282}) \\
+Foreign-born male &  &  & \num{0.0042}** & \num{-0.0014} \\
+&  &  & (\num{0.0018}) & (\num{0.0018}) \\
+Foreign-born female &  &  & \num{-0.0046}** & \num{-0.0040}* \\
+&  &  & (\num{0.0021}) & (\num{0.0023}) \\
+Male manager &  &  &  & \num{-0.0024}* \\
+&  &  &  & (\num{0.0013}) \\
+Male sales &  &  &  & \num{-0.0018} \\
+&  &  &  & (\num{0.0015}) \\
+Female manager &  &  &  & \num{-0.0072}*** \\
+&  &  &  & (\num{0.0016}) \\
+Female sales &  &  &  & \num{-0.0015} \\
+&  &  &  & (\num{0.0012}) \\
+Year & \num{-0.0322}*** & \num{-0.0005}*** & \num{0.0001} & \num{0.0001} \\
+& (\num{0.0080}) & (\num{0.0001}) & (\num{0.0001}) & (\num{0.0001}) \\
+Constant & \num{58.3219}*** & \num{1.0241}*** & \num{-0.1142} & \num{-0.1036} \\
+& (\num{15.2766}) & (\num{0.1268}) & (\num{0.1584}) & (\num{0.2180}) \\
+Observations & \num{33932} & \num{33918} & \num{26276} & \num{15928} \\
+R-squared &  & \num{0.580} & \num{0.640} & \num{0.686} \\
+Adjusted R-sq &  & \num{0.579} & \num{0.639} & \num{0.684} \\
+AIC & \num{2546.166} & \num{-65434.469} & \num{-62782.150} & \num{-45195.509} \\
+Month dummies & Yes & Yes & Yes & Yes \\
+Parish dummies & Yes & Yes & Yes & Yes \\
+\end{talltblr}
+\end{table}

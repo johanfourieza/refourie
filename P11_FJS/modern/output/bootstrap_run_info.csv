@@ -1,0 +1,9 @@
+item,value
+B,9999
+seed,20261011
+RNG,Mersenne-Twister/Inversion/Rejection
+main run (s),39.3
+diagnostics (s),14.3
+intermediate years (s),74.3
+total (s),128
+"undefined draws (main, any quantity)",10

@@ -1,0 +1,18 @@
+scenario,claim_id,published,original_code,scenario_value,note
+S5-1 cluster on ethnic group (tribe_co_1; 151 clusters),T2_br_c4,0.38 (0.11)***,0.3802 (0.1116),0.3802 (0.1137) p=.001,Paper note 'unchanged if clustered at the ethnic level' holds for Table 2; s5_t2_checks.do
+S5-1 cluster on ethnic group (tribe_co_1; 151 clusters),T2_ia_c4,0.28 (0.13)**,0.2810 (0.1270),0.2810 (0.1305) p=.031,Stars unchanged
+S5-2 IPUMS person weights (perwt),T2_br_c4,0.38 (0.11)***,0.3802 (0.1116),0.3804 (0.1058) p<.001,Weights immaterial
+S5-2 IPUMS person weights (perwt),T2_ia_c4,0.28 (0.13)**,0.2810 (0.1270),0.2751 (0.1257) p=.029,Weights immaterial
+S5-3 religion fixed (add Muslim and missing-religion dummies),T2_br_c4,0.38 (0.11)***,0.3802 (0.1116),0.3799 (0.1119),d_muslim is coded religion==6 (=Christian); 34.7% missing religion coded non-Christian
+S5-3 religion fixed (add Muslim and missing-religion dummies),T2_ia_c4,0.28 (0.13)**,0.2810 (0.1270),0.2809 (0.1271),Immaterial
+S5-4 wild cluster score bootstrap (Webb; 999 reps; 29 treated of 624 clusters),T2_br_c4,0.38 (0.11)***,0.3802 (0.1116) p=.0007,bootstrap p=.005,Still significant at 1%; s5_t2_wildboot.do
+S5-4 wild cluster score bootstrap (Webb; 999 reps; 29 treated of 624 clusters),T2_ia_c4,0.28 (0.13)**,0.2810 (0.1270) p=.027,bootstrap p=.094,Loses 5% significance (** -> *) with few treated clusters
+S5-5 leave-one-country-out (11 runs),T2_br_c4,0.38 (0.11)***,0.3802 (0.1116),range 0.239 (drop TZA) to 0.473 (drop GHA); all p<.01,Birth-region gap robust to any single country; s5_t2_loco.do
+S5-5 leave-one-country-out (11 runs),T2_ia_c4,0.28 (0.13)**,0.2810 (0.1270),range -0.096 (0.166) (drop GHA) to 0.341 (drop MWI); 9/11 p<.05,Drop Ghana: sign flips and pre-gap falls from .66 to .38; drop Kenya: p=.051
+S5-6 Table 5 col 4 without undisclosed d_capital (= surviving code),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),7.855 (3.309) p=.018,Print needs d_capital (A'2: 9.099 (4.268)); note does not list it
+S5-7 Table 5 col 4 Firth penalised logit (same 64 obs; 15 events),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),2.268 (1.494) p=.13,Quasi-separation: ~23 parameters for 15 positives; s5_t5_checks.do
+S5-7b Table 5 col 4 Firth on all 124 complete-case regions (17 events),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),2.162 (1.343) p=.11,Keeps regions dropped by perfect prediction of country dummies
+S5-8 Table 5 col 4 linear probability model (same sample),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),0.336 (0.194) p=.09,On all 124 complete cases: 0.133 (0.087) p=.13
+S5-9 Table 5 col 4 average marginal effect (A' logit),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),AME 0.954 (0.410),Implausible: mission presence raises P(leader region) by 95 pp; symptom of separation
+S5-10 Table 5 col 4 leave-one-country-out (9 countries with a positive),T5_mission_c4,9.10 (4.27)**,7.855 (3.309),3/9 complete separation (b>800); 4 of remaining 6 p>.05,Only dropping MWI (8.18 p=.004) or SEN (8.52 p=.037) keeps p<.05
+S5-11 Table 5 col 1 spec on col 4 sample,T5_mission_c4,9.10 (4.27)**,7.855 (3.309),1.749 (0.818) p=.033,Sample falls 155->64 through listwise deletion and perfect-prediction drops

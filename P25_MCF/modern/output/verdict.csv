@@ -1,0 +1,6 @@
+claim,estimate,interval,threshold_or_band,verdict,rule
+T2_r1_c1 (AS, Stellenbosch 1st gen, -0.0073),NA,NA,NA,not-testable,linked claimant-SAF dataset and code lost (S1); no S6
+T2_r1_c2 (AS, Stellenbosch 2nd gen, -0.0183),NA,NA,NA,not-testable,as above
+T2_r1_c4 (AS, all districts 1st gen, -0.0046),NA,NA,NA,not-testable,as above
+T3_r1_c1 (AS, survivors past age 0, -0.0197),NA,NA,NA,not-testable,as above
+T3_r1_c3 (AS, survivors past age 5, -0.0062),NA,NA,NA,not-testable,as above

@@ -1,0 +1,60 @@
+scenario,claim_id,published,original_code,scenario_value,note
+fix_kust,T6_r4,51.38,51.383539568749995,49.961694793388574,"original pipeline; origin Kust/Cust (Coromandel Coast, 4 obs) moved from Cape-born base to Indian"
+fix_kust_westcoast,T6_r4,51.38,51.383539568749995,50.29185355999344,as fix_kust plus Westcoast (2 obs) moved from Cape-born to slave-unknown
+fix_kust_westcoast_cochin,T6_r4,51.38,51.383539568749995,50.322748673926505,"as fix_kust_westcoast plus Coehin (Cochin, 1 obs) moved from Chinese to Indian"
+orig_AME,T6_r4,51.38,51.383539568749995,49.25420408306724,average marginal effect (discrete change) instead of MEM
+orig_LPM_HC1,T6_r4,51.38,51.383539568749995,49.486100515653746,"linear probability model x125, birth-decade FE, HC1; p = 0.0000"
+orig_all,T6_r4,51.38,51.383539568749995,51.38353956910195,R replica of l.1656 logit+mfx on data.dta (check: equals Stata S2); p = 0.0000
+orig_cluster_source,T6_r4,51.38,51.383539568749995,51.38353956910195,same estimate; vcov clustered by court volume (43 clusters); p = 0.0000
+orig_robust,T6_r4,51.38,51.383539568749995,51.38353956910195,same estimate; delta-method p with HC1-type robust vcov; p = 0.0000
+rebuild_all,T6_r4,51.38,51.383539568749995,51.1494801155044,all three rebuild codings (= pair B up to estimator details); p = 0.0000
+swap_bdec,T6_r4,51.38,51.383539568749995,52.09994002972484,birth decade from actual birth year (cyear-age) instead of cyear-(agegr+5) (l.83-84); p = 0.0000
+swap_bdec_origin,T6_r4,51.38,51.383539568749995,51.40381790761326,rebuild birth decade and origin coding; p = 0.0000
+swap_gender,T6_r4,51.38,51.383539568749995,51.12586223529012,female (rebuild) instead of female2 (code); p = 0.0000
+swap_origin,T6_r4,51.38,51.383539568749995,50.36323100310779,S3 rebuild origin coding (workbook origincountry) instead of bco (l.1573-1580); p = 0.0000
+fix_kust,T6_r5,-28.63,-28.63142435775,-29.717781351690284,"original pipeline; origin Kust/Cust (Coromandel Coast, 4 obs) moved from Cape-born base to Indian"
+fix_kust_westcoast,T6_r5,-28.63,-28.63142435775,-29.486078194884833,as fix_kust plus Westcoast (2 obs) moved from Cape-born to slave-unknown
+fix_kust_westcoast_cochin,T6_r5,-28.63,-28.63142435775,-29.437289770889787,"as fix_kust_westcoast plus Coehin (Cochin, 1 obs) moved from Chinese to Indian"
+orig_AME,T6_r5,-28.63,-28.63142435775,-26.220492817659856,average marginal effect (discrete change) instead of MEM
+orig_LPM_HC1,T6_r5,-28.63,-28.63142435775,-25.25647794168036,"linear probability model x125, birth-decade FE, HC1; p = 0.0001"
+orig_all,T6_r5,-28.63,-28.63142435775,-28.63142440178053,R replica of l.1656 logit+mfx on data.dta (check: equals Stata S2); p = 0.0000
+orig_cluster_source,T6_r5,-28.63,-28.63142435775,-28.63142440178053,same estimate; vcov clustered by court volume (43 clusters); p = 0.0000
+orig_robust,T6_r5,-28.63,-28.63142435775,-28.63142440178053,same estimate; delta-method p with HC1-type robust vcov; p = 0.0000
+rebuild_all,T6_r5,-28.63,-28.63142435775,-27.534359426575264,all three rebuild codings (= pair B up to estimator details); p = 0.0000
+swap_bdec,T6_r5,-28.63,-28.63142435775,-28.567972472244556,birth decade from actual birth year (cyear-age) instead of cyear-(agegr+5) (l.83-84); p = 0.0000
+swap_bdec_origin,T6_r5,-28.63,-28.63142435775,-27.52557025171885,rebuild birth decade and origin coding; p = 0.0000
+swap_gender,T6_r5,-28.63,-28.63142435775,-28.609487445056764,female (rebuild) instead of female2 (code); p = 0.0000
+swap_origin,T6_r5,-28.63,-28.63142435775,-27.993313498350776,S3 rebuild origin coding (workbook origincountry) instead of bco (l.1573-1580); p = 0.0000
+fix_kust,T6_r6,-20.25,-20.25619366825,-23.035094086400207,"original pipeline; origin Kust/Cust (Coromandel Coast, 4 obs) moved from Cape-born base to Indian"
+fix_kust_westcoast,T6_r6,-20.25,-20.25619366825,-22.758079085382843,as fix_kust plus Westcoast (2 obs) moved from Cape-born to slave-unknown
+fix_kust_westcoast_cochin,T6_r6,-20.25,-20.25619366825,-22.940390900414062,"as fix_kust_westcoast plus Coehin (Cochin, 1 obs) moved from Chinese to Indian"
+orig_AME,T6_r6,-20.25,-20.25619366825,-19.0189544998957,average marginal effect (discrete change) instead of MEM
+orig_LPM_HC1,T6_r6,-20.25,-20.25619366825,-18.26823734216332,"linear probability model x125, birth-decade FE, HC1; p = 0.0213"
+orig_all,T6_r6,-20.25,-20.25619366825,-20.256193667449573,R replica of l.1656 logit+mfx on data.dta (check: equals Stata S2); p = 0.0103
+orig_cluster_source,T6_r6,-20.25,-20.25619366825,-20.256193667449573,same estimate; vcov clustered by court volume (43 clusters); p = 0.0140
+orig_robust,T6_r6,-20.25,-20.25619366825,-20.256193667449573,same estimate; delta-method p with HC1-type robust vcov; p = 0.0098
+rebuild_all,T6_r6,-20.25,-20.25619366825,-22.62771097262924,all three rebuild codings (= pair B up to estimator details); p = 0.0030
+swap_bdec,T6_r6,-20.25,-20.25619366825,-19.528700512711513,birth decade from actual birth year (cyear-age) instead of cyear-(agegr+5) (l.83-84); p = 0.0163
+swap_bdec_origin,T6_r6,-20.25,-20.25619366825,-22.46271866447572,rebuild birth decade and origin coding; p = 0.0033
+swap_gender,T6_r6,-20.25,-20.25619366825,-20.479267034372025,female (rebuild) instead of female2 (code); p = 0.0091
+swap_origin,T6_r6,-20.25,-20.25619366825,-23.57480762495188,S3 rebuild origin coding (workbook origincountry) instead of bco (l.1573-1580); p = 0.0012
+fix_kust,T6_r8,-21.38,-21.340409757625,-22.3421779700833,"original pipeline; origin Kust/Cust (Coromandel Coast, 4 obs) moved from Cape-born base to Indian"
+fix_kust_westcoast,T6_r8,-21.38,-21.340409757625,-22.11163720085097,as fix_kust plus Westcoast (2 obs) moved from Cape-born to slave-unknown
+fix_kust_westcoast_cochin,T6_r8,-21.38,-21.340409757625,-22.105572618506525,"as fix_kust_westcoast plus Coehin (Cochin, 1 obs) moved from Chinese to Indian"
+orig_AME,T6_r8,-21.38,-21.340409757625,-19.907511984403264,average marginal effect (discrete change) instead of MEM
+orig_LPM_HC1,T6_r8,-21.38,-21.340409757625,-19.01089743869095,"linear probability model x125, birth-decade FE, HC1; p = 0.0053"
+orig_all,T6_r8,-21.38,-21.340409757625,-21.340409756392212,R replica of l.1656 logit+mfx on data.dta (check: equals Stata S2); p = 0.0017
+orig_cluster_source,T6_r8,-21.38,-21.340409757625,-21.340409756392212,same estimate; vcov clustered by court volume (43 clusters); p = 0.0002
+orig_robust,T6_r8,-21.38,-21.340409757625,-21.340409756392212,same estimate; delta-method p with HC1-type robust vcov; p = 0.0016
+rebuild_all,T6_r8,-21.38,-21.340409757625,-22.16458661351025,all three rebuild codings (= pair B up to estimator details); p = 0.0011
+swap_bdec,T6_r8,-21.38,-21.340409757625,-22.04726351480469,birth decade from actual birth year (cyear-age) instead of cyear-(agegr+5) (l.83-84); p = 0.0013
+swap_bdec_origin,T6_r8,-21.38,-21.340409757625,-22.38637056852192,rebuild birth decade and origin coding; p = 0.0009
+swap_gender,T6_r8,-21.38,-21.340409757625,-21.09431843757216,female (rebuild) instead of female2 (code); p = 0.0020
+swap_origin,T6_r8,-21.38,-21.340409757625,-21.861547867968845,S3 rebuild origin coding (workbook origincountry) instead of bco (l.1573-1580); p = 0.0010
+T9_OLS_ctrl,T9_r5,-43.9,,-40.99420620489424,within-Khoesan OLS with female2 and age23 (original cohorts)
+T9_OLS_raw,T9_r5,-43.9,,-43.816137566136966,raw difference in cell ABCC (no controls) on original codings: reproduces all 10 T9 estimates within 0.09; Welch p = 0.0014
+T9_T8_diff,T9_r5,-43.9,,-43.12548442026855,"T8 col 1 ko_mid - ko_early (controlled, full-sample model)"
+T9_logit_MEM_ctrl,T9_r5,-43.9,,-40.45072869672797,"logit MEM x125 with female2, age23"
+T9_rebuildcohort_ctrl_female2,T9_r5,-43.9,,-46.01800203177761,rebuild cohort assignment (actual birth year); n = 191 (published 217)
+T9_rebuildcohort_ctrl_female_r,T9_r5,-43.9,,-46.73625782317223,rebuild cohort assignment (actual birth year); n = 191 (published 217)
+T9_rebuildcohort_raw,T9_r5,-43.9,,-47.025635407537,rebuild cohort assignment (actual birth year); n = 191 (published 217)

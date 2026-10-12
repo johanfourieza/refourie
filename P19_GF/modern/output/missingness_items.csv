@@ -1,0 +1,38 @@
+column,in_H1,in_H2,na_count_all,M_c,na_years_W1,na_type_W1,na_years_W2,na_type_W2
+Total Railways,TRUE,TRUE,33,4270375.870967742,,,,
+Roads & Bridges,TRUE,TRUE,6,202200.1379310345,,,,
+Works & Buildings,TRUE,TRUE,0,232523.1264367816,,,,
+Ports and Harbours,TRUE,TRUE,5,13996.860215053763,,,,
+Telegraph,TRUE,TRUE,46,317929.4893617021,,,1870 1871 1872,edge edge edge
+Pensions,FALSE,TRUE,1,1125743.6559139783,,,,
+EducationNatives,FALSE,TRUE,50,75345,,,1870 1871 1872 1873 1874 1875 1876,edge edge edge edge edge edge edge
+Education Non- Natives,FALSE,TRUE,2,515551.3617021276,,,,
+District Surgeons,FALSE,TRUE,49,67801,,,1870 1871 1872 1873 1874 1875,edge edge edge edge edge edge
+Public Health,FALSE,TRUE,39,337148,1880 1881 1882 1883 1884 1885 1886 1887 1888 1889,interior interior interior interior interior interior interior interior interior interior,1875 1877 1880 1881 1882 1883 1884 1885 1886 1887 1888 1889,interior interior interior interior interior interior interior interior interior interior interior interior
+Public Worship,FALSE,TRUE,0,16013.11111111111,,,,
+Eastern Cape hospital and lepers,FALSE,TRUE,32,41368,,,,
+"Somerset , old and new Hospital",FALSE,TRUE,2,117546.52427184465,,,,
+Colonial Secretary,FALSE,TRUE,7,40641.24731182795,,,,
+The Governor,FALSE,TRUE,0,16654.967741935485,,,,
+Crown Forests,FALSE,TRUE,16,72932.25806451612,,,,
+Joint parliamentary expenses,FALSE,TRUE,26,92725.34736842103,,,,
+Transkeian territories,FALSE,TRUE,53,106936.64516129032,,,1870 1871 1872 1873 1874 1875 1876 1877 1878 1879,edge edge edge edge edge edge edge edge edge edge
+"Rents, rates, insurance, gas , electric light",FALSE,TRUE,22,59022.45161290322,,,,
+Headman & Chiefs Allowances,FALSE,TRUE,22,12172.519999999999,,,,
+Cape Town & frontier Mounted riflemen,FALSE,TRUE,27,550899.9569892474,,,,
+Imperial Military Expr,FALSE,TRUE,67,1229069.5483870967,1880 1881 1882 1883 1899 1900 1901 1902 1903 1905 1906 1907 1908 1909,edge edge edge edge interior interior interior interior interior edge edge edge edge edge,1870 1871 1872 1873 1874 1875 1876 1877 1878 1879 1880 1881 1882 1883 1899 1900 1901 1902 1903 1905 1906 1907 1908 1909,edge edge edge edge edge edge edge edge edge edge edge edge edge edge interior interior interior interior interior edge edge edge edge edge
+Defence and Colonial Military allowance,FALSE,TRUE,46,146596.43956043955,1890 1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909,edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge,1890 1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909,edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge
+Divisional Courts,FALSE,TRUE,28,210914.4516129032,,,,
+Registrar of Deeds,FALSE,TRUE,13,38924.363636363625,,,,
+High Sheriff,FALSE,TRUE,23,6110.417582417582,1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909,edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge,1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909,edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge edge
+Superior Courts,FALSE,TRUE,7,98915.82795698925,,,,
+Police and Gaol,FALSE,TRUE,0,981617.247311828,,,,
+Convicts and Prisons,FALSE,TRUE,1,212692.12903225806,,,,
+Robben Island,FALSE,TRUE,4,82848.47311827957,,,,
+National Debt Servicing,FALSE,TRUE,2,1988360.7659574465,,,,
+Conveyance of mails,FALSE,TRUE,22,269078.46808510635,,,,
+Post Office,FALSE,TRUE,2,265698.96774193546,,,,
+Customs,FALSE,TRUE,0,215015.63218390805,,,,
+Mines,FALSE,TRUE,55,9568.989247311827,1880 1881,edge edge,1870 1871 1872 1873 1874 1875 1876 1877 1878 1879 1880 1881,edge edge edge edge edge edge edge edge edge edge edge edge
+Surveyor General,FALSE,TRUE,7,66683.91272575426,,,,
+Commissioner for public works,FALSE,TRUE,46,40892.04255319149,,,1870 1871 1872,edge edge edge

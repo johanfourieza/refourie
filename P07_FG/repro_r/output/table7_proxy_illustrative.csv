@@ -1,0 +1,5 @@
+measure,without_khoesan,with_khoesan
+Gini,0.685,0.664
+Theil total,1.079,1.148
+Theil between,0.444,0.569
+Theil within,0.635,0.579

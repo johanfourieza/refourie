@@ -1,0 +1,106 @@
+check_id,finding_id,quantity,published,original_code,corrected,delta,note
+C01,S5-04,"Fig 1 total-value Gini, decades 1700-1830 (range)",0.66-0.83 (digitised),,,,"author-instructed state (line 694) = 0.658-0.829; top-to-bottom run (line 962 overwrite, 12-sheep slave households) = 0.818-0.901"
+C01b,S5-04,"Fig 1 total-value Gini, 1780 decade",0.73 (digitised),0.7269,0.8509,0.124,original = author-instructed state; corrected column = what a top-to-bottom run plots
+C02,S5-05,Fig 1 total value 18th c. range (1700-1790): six assets incl. vines,0.6-0.75,,,,code (5 assets) 0.658-0.748; + vines valued at decade wine-yield-per-vine x wine price 0.659-0.756; cattle at mean of breeding/bull/work price 0.652-0.742
+C02b,S5-05,"Fig 1 total value, max abs change over decades 1690-1830 from adding vines",,0,0.0294,0.0294,sensitivity; vines have no price in price_series.xlsx
+C03,S5-14,"Fig 1 total value: mean of annual Ginis vs decade-pooled Gini, max abs diff",,0,0.0203,0.0203,pooled 1700-1790 0.658-0.748; mean-of-annual 1700-1790 0.655-0.733
+F2_settlers_1680,S5-06,"Fig 2 settlers, period 1680",,0.7273,0.7095,-0.0178,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.736; mean-of-annual variant 0.707"
+F2_settlers_1700,S5-06,"Fig 2 settlers, period 1700",,0.7683,0.7477,-0.0206,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.738; mean-of-annual variant 0.734"
+F2_settlers_1720,S5-06,"Fig 2 settlers, period 1720",,0.8373,0.6991,-0.1382,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.677; mean-of-annual variant 0.698"
+F2_settlers_1740,S5-06,"Fig 2 settlers, period 1740",,0.8835,0.729,-0.1545,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.706; mean-of-annual variant 0.719"
+F2_settlers_1760,S5-06,"Fig 2 settlers, period 1760",,0.9033,0.7348,-0.1685,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.725; mean-of-annual variant 0.732"
+F2_settlers_1780,S5-06,"Fig 2 settlers, period 1780",,0.9147,0.7364,-0.1783,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.728; mean-of-annual variant 0.730"
+F2_settlers_1800,S5-06,"Fig 2 settlers, period 1800",,0.8903,0.7592,-0.1311,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.771; mean-of-annual variant 0.757"
+F2_settlers_1820,S5-06,"Fig 2 settlers, period 1820",,0.8775,0.792,-0.0855,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.827; mean-of-annual variant 0.784"
+F2_slaveassets_1680,S5-06,"Fig 2 slaveassets, period 1680",,0.726,0.7506,0.0246,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.777; mean-of-annual variant 0.749"
+F2_slaveassets_1700,S5-06,"Fig 2 slaveassets, period 1700",,0.7644,0.7777,0.0133,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.772; mean-of-annual variant 0.767"
+F2_slaveassets_1720,S5-06,"Fig 2 slaveassets, period 1720",,0.8101,0.7388,-0.0713,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.722; mean-of-annual variant 0.732"
+F2_slaveassets_1740,S5-06,"Fig 2 slaveassets, period 1740",,0.8587,0.7448,-0.1139,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.721; mean-of-annual variant 0.736"
+F2_slaveassets_1760,S5-06,"Fig 2 slaveassets, period 1760",,0.8795,0.7459,-0.1336,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.733; mean-of-annual variant 0.742"
+F2_slaveassets_1780,S5-06,"Fig 2 slaveassets, period 1780",,0.8836,0.7396,-0.144,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.725; mean-of-annual variant 0.738"
+F2_slaveassets_1800,S5-06,"Fig 2 slaveassets, period 1800",,0.8621,0.7272,-0.1349,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.728; mean-of-annual variant 0.723"
+F2_slaveassets_1820,S5-06,"Fig 2 slaveassets, period 1820",,0.8671,0.7677,-0.0994,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.796; mean-of-annual variant 0.750"
+F2_zero_1680,S5-06,"Fig 2 zero, period 1680",,0.8427,0.814,-0.0287,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.814; mean-of-annual variant 0.809"
+F2_zero_1700,S5-06,"Fig 2 zero, period 1700",,0.9014,0.8933,-0.0081,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.893; mean-of-annual variant 0.882"
+F2_zero_1720,S5-06,"Fig 2 zero, period 1720",,0.952,0.9105,-0.0415,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.910; mean-of-annual variant 0.909"
+F2_zero_1740,S5-06,"Fig 2 zero, period 1740",,0.958,0.9051,-0.0529,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.905; mean-of-annual variant 0.902"
+F2_zero_1760,S5-06,"Fig 2 zero, period 1760",,0.9678,0.9141,-0.0537,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.914; mean-of-annual variant 0.913"
+F2_zero_1780,S5-06,"Fig 2 zero, period 1780",,0.9746,0.9252,-0.0494,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.925; mean-of-annual variant 0.923"
+F2_zero_1800,S5-06,"Fig 2 zero, period 1800",,0.9716,0.9381,-0.0335,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.938; mean-of-annual variant 0.938"
+F2_zero_1820,S5-06,"Fig 2 zero, period 1820",,0.9605,0.9306,-0.0299,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.931; mean-of-annual variant 0.904"
+F2_sheep12_1680,S5-06,"Fig 2 sheep12, period 1680",,0.8407,0.7968,-0.0439,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.797; mean-of-annual variant 0.791"
+F2_sheep12_1700,S5-06,"Fig 2 sheep12, period 1700",,0.8975,0.8514,-0.0461,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.851; mean-of-annual variant 0.841"
+F2_sheep12_1720,S5-06,"Fig 2 sheep12, period 1720",,0.9416,0.844,-0.0976,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.844; mean-of-annual variant 0.833"
+F2_sheep12_1740,S5-06,"Fig 2 sheep12, period 1740",,0.9505,0.8676,-0.0829,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.868; mean-of-annual variant 0.861"
+F2_sheep12_1760,S5-06,"Fig 2 sheep12, period 1760",,0.9615,0.8754,-0.0861,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.875; mean-of-annual variant 0.871"
+F2_sheep12_1780,S5-06,"Fig 2 sheep12, period 1780",,0.968,0.8563,-0.1117,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.856; mean-of-annual variant 0.852"
+F2_sheep12_1800,S5-06,"Fig 2 sheep12, period 1800",,0.9672,0.8906,-0.0766,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.891; mean-of-annual variant 0.885"
+F2_sheep12_1820,S5-06,"Fig 2 sheep12, period 1820",,0.9588,0.8862,-0.0726,"corrected = price-weighted 5-asset basket (as Fig 1), slave asset 200 x sheep price, 12 sheep x sheep price; consistent-base variant 0.886; mean-of-annual variant 0.861"
+C04,S5-06,Vines share of the raw Fig 2 'total_value' (settler households),,0.9781,,,aggregate share; median household share 0.00
+C05,S5-07,Text p.5: zero-asset scenario 'reaching 0.92 by the late 18th c.' (1780 period),0.92,0.9746,0.9252,-0.0494,plotted (raw units) 0.975; price-weighted pooled 0.925; price-weighted mean-of-annual 0.923 (rebuild 0.923); raw-unit settlers-only 0.915
+C06,S5-07,Text p.5: 12-sheep scenario 'hovering around 0.89 to 0.91' (periods 1760-1800),0.89-0.91,,,,plotted raw 0.961-0.968; price-weighted pooled 0.856-0.891; price-weighted mean-of-annual 0.852-0.885; raw settlers-only 0.884-0.915; raw slave-assets 0.862-0.884
+C06b,S5-07,"Price-weighted 12-sheep basket of lines 855-990 (decades 1760-1790), all rows",0.89-0.91,,,,"gini_total_value 0.851-0.872; its 'settler_men>0' subset (which includes the added slave rows, settler_men=1) 0.848-0.876"
+C07,interp,"Intro: settler within-group Gini 'as large as the overall Gini' (1780 period, settlers vs zero-asset overall)",as large as,0.0599,0.1888,0.1289,gap overall-minus-settlers; code (raw): 0.975 vs 0.915; price-weighted: 0.925 vs 0.736; consistent base: 0.925 vs 0.728
+C07b,interp,"Price-weighted Fig 2: zero-asset minus settlers-only, all periods 1680-1820 (range)",,,,,gap 0.105-0.211; settlers 0.699-0.792; zero 0.814-0.938; 12-sheep 0.797-0.891
+C08_decadepooled,S5-11,"Top shares: decade-pooled, pre-slave state (code, author order)",12 / 18 / 2->3.7 / 0.5->0.8,13.5934,,,"top1 all 11.7, 1800-30 13.6; top0.1 18c 2.1, 19c 2.6; top0.01 18c 0.49, 19c 0.53"
+C08_meanofannual,S5-11,Top shares: mean of annual shares,12 / 18 / 2->3.7 / 0.5->0.8,13.7556,,,"top1 all 12.1, 1800-30 13.8; top0.1 18c 2.9, 19c 2.8; top0.01 18c 2.46, 19c 1.52"
+C08_settlermenon,S5-11,Top shares: settler_men>0 only,12 / 18 / 2->3.7 / 0.5->0.8,12.4543,,,"top1 all 11.9, 1800-30 12.5; top0.1 18c 2.2, 19c 2.4; top0.01 18c 0.57, 19c 0.49"
+C08_rawunitsumig,S5-11,"Top shares: raw-unit sum (Fig 2 measure), settlers",12 / 18 / 2->3.7 / 0.5->0.8,21.0651,,,"top1 all 18.1, 1800-30 21.1; top0.1 18c 3.4, 19c 7.3; top0.01 18c 0.88, 19c 4.61"
+C08_toptobottoms,S5-11,Top shares: top-to-bottom state (12-sheep slave households),12 / 18 / 2->3.7 / 0.5->0.8,,,,"top1 all NA, 1800-30 NA; top0.1 18c NA, 19c NA; top0.01 18c NA, 19c NA"
+C08_maxdec,S5-11,"Top-1% share, highest decade 1690-1830 (pre-slave state)",about 18 (1800-1830 mean),15.0834,,,decade 1820; R1 response to referees: 'between 9% and 12% ... only after the 1810s does this share rise sharply'
+C09,S5-10,"Observations (text 142,219)",142219,142274,,,rows_with_year=142293; after_outliers=142274; settler_men_pos=120640; fig1_priced_rows=135683; le1840=135935; year_1685_1844=142274
+C10,S5-10,Number of annual censuses (text 159),159,143,,,distinct years 1685-1844; 1844-1685 = 159 is the span; mean rows/year 994.9
+C11_cattle,S5-01,"Khoe + settler combined Gini, cattle (Groenekloof+Swartrivier+Swellendam)",0.92,0.9164,0.8491,-0.0673,"code = Khoe only (n=472, 0 settlers: filter 'district_sw' after relabel); corrected adds 1674 Swellendam settler households; Khoe-only 0.916, Swellendam settlers-only 0.820"
+C11_horses,S5-01,"Khoe + settler combined Gini, horses (Groenekloof+Swartrivier+Swellendam)",>0.77,0.7726,0.7403,-0.0323,"code = Khoe only (n=472, 0 settlers: filter 'district_sw' after relabel); corrected adds 1674 Swellendam settler households; Khoe-only 0.773, Swellendam settlers-only 0.696"
+C11_oxen,S5-01,"Khoe + settler combined Gini, oxen (Groenekloof+Swartrivier+Swellendam)",>0.77,0.9002,0.714,-0.1862,"code = Khoe only (n=472, 0 settlers: filter 'district_sw' after relabel); corrected adds 1674 Swellendam settler households; Khoe-only 0.900, Swellendam settlers-only 0.654"
+C11_wheat,S5-01,"Khoe + settler combined Gini, wheat (Groenekloof+Swartrivier+Swellendam)",>0.77,0.8783,0.8002,-0.0781,"code = Khoe only (n=472, 0 settlers: filter 'district_sw' after relabel); corrected adds 1674 Swellendam settler households; Khoe-only 0.878, Swellendam settlers-only 0.766"
+C11_wheatreaped,S5-01,"Combined Gini, wheat reaped (paper's Khoe asset is wheat reaped; code uses wheat sown)",>0.77,,0.8212,,
+C11_means,S5-01,Mean breeding cattle per household: Swellendam settlers vs Khoe (GK+SR),settlers 'significantly wealthier',,,,"settlers 7.9, Khoe 0.8"
+C12,S5-02,Fig 4 legend mapping (printed figure: 'Cattle' line = horse_nr),Cattle 0.90-0.98; Horses 0.67-0.84 (digitised),,,,"code horses_gini 0.899-0.983, cattle_gini 0.667-0.835; installed ggplot2 4.0.2 maps cattle_gini -> Cattle; horses_gini -> Horses; plough_gini -> Sheep; sheep_gini -> Ploughs; wagon_gini -> Wagons; independent rebuild (repro_r P5) also finds published 'cattle' = horse_nr"
+C13_h1770,S5-15,"Probate horse_nr Gini (printed as 'Cattle'), decade 1770",,0.9526,0.9526,0,"8 year-like values (e.g. horse_nr 1821-1831, wagon_nr 1776/1832) set to NA"
+C13_w1770,S5-15,"Probate wagon_nr Gini, decade 1770",,0.9654,0.8523,-0.1131,
+C13_h1820,S5-15,"Probate horse_nr Gini (printed as 'Cattle'), decade 1820",,0.9826,0.9203,-0.0623,"8 year-like values (e.g. horse_nr 1821-1831, wagon_nr 1776/1832) set to NA"
+C13_w1820,S5-15,"Probate wagon_nr Gini, decade 1820",,0.9232,0.9232,0,
+C13_h1830,S5-15,"Probate horse_nr Gini (printed as 'Cattle'), decade 1830",,0.9713,0.9245,-0.0468,"8 year-like values (e.g. horse_nr 1821-1831, wagon_nr 1776/1832) set to NA"
+C13_w1830,S5-15,"Probate wagon_nr Gini, decade 1830",,0.9758,0.6965,-0.2793,
+C13_min,S5-15,Probate Ginis: min over 5 assets x decades (text: >0.6; >0.7 from 1770),>0.6 / >0.7,0.6667,0.6667,0,"min from 1770: code 0.702, corrected 0.697"
+C14_valown,S5-03,"Fig 5 valuation Gini, owners only (range over 9 districts)",0.29-0.47,,,,code (over enslaved individuals) 0.291-0.473; owner-level (sum of valuations per owner) 0.421-0.649
+C14_compown,S5-03,"Fig 5 compensation Gini, owners only (range)",0.45-0.55,,,,"code 0.440-0.549; owner-level 0.442-0.578 (compensation is recorded once per owner: max entries per owner = 5, share of owners with >1 entry = 0.051)"
+C14_valall,S5-03,"Fig 5 valuation Gini incl. 13,033 non-owners (range)",0.49-0.75,,,,"code (zero owner rows appended to slave-level rows) 0.491-0.747; owner-level, same 30% rule 0.842-0.952; owner-level, 1825 district ownership shares 0.759-0.947"
+C14_compall,S5-03,Fig 5 compensation Gini incl. non-owners (range),0.83-0.92,,,,"code 0.828-0.924; owner-level, 30% rule 0.845-0.933; 1825 district shares 0.757-0.938 (share owning slaves in 1825: Albany 0.15, Beaufort 0.16, Cape 0.37, Clanwilliam 0.21, Cradock 0.21, George 0.34, Graaff-Reinet 0.26, Stellenbosch 0.53, Swellendam 0.33, Uitenhage 0.23, Worcester 0.46, Somerset 0.26)"
+F5_owners_val_albany,S5-03,"Fig 5 owners-only valuation, Albany",,0.3442,0.461,0.1168,
+F5_all_val_albany,S5-03,"Fig 5 incl. non-owners valuation, Albany",,0.6357,0.8456,0.2099,1825-share variant 0.922
+F5_all_comp_albany,S5-03,"Fig 5 incl. non-owners compensation, Albany",,0.8493,0.8493,0,1825-share variant 0.924
+F5_owners_val_beaufort,S5-03,"Fig 5 owners-only valuation, Beaufort",,0.4014,0.421,0.0196,
+F5_all_val_beaufort,S5-03,"Fig 5 incl. non-owners valuation, Beaufort",,0.747,0.8931,0.1461,1825-share variant 0.947
+F5_all_comp_beaufort,S5-03,"Fig 5 incl. non-owners compensation, Beaufort",,0.8769,0.8782,0.0013,1825-share variant 0.938
+F5_owners_val_cape,S5-03,"Fig 5 owners-only valuation, Cape",,0.3376,0.6489,0.3113,
+F5_all_val_cape,S5-03,"Fig 5 incl. non-owners valuation, Cape",,0.6465,0.952,0.3055,1825-share variant 0.938
+F5_all_comp_cape,S5-03,"Fig 5 incl. non-owners compensation, Cape",,0.9235,0.9327,0.0092,1825-share variant 0.914
+F5_owners_val_george,S5-03,"Fig 5 owners-only valuation, George",,0.3884,0.4976,0.1092,
+F5_all_val_george,S5-03,"Fig 5 incl. non-owners valuation, George",,0.5521,0.8499,0.2978,1825-share variant 0.830
+F5_all_comp_george,S5-03,"Fig 5 incl. non-owners compensation, George",,0.8437,0.8546,0.0109,1825-share variant 0.835
+F5_owners_val_graaffreinet,S5-03,"Fig 5 owners-only valuation, Graaff Reinet",,0.3362,0.479,0.1428,
+F5_all_val_graaffreinet,S5-03,"Fig 5 incl. non-owners valuation, Graaff Reinet",,0.5676,0.8447,0.2771,1825-share variant 0.866
+F5_all_comp_graaffreinet,S5-03,"Fig 5 incl. non-owners compensation, Graaff Reinet",,0.8396,0.8494,0.0098,1825-share variant 0.871
+F5_owners_val_somerset,S5-03,"Fig 5 owners-only valuation, Somerset",,0.2905,0.4714,0.1809,
+F5_all_val_somerset,S5-03,"Fig 5 incl. non-owners valuation, Somerset",,0.5333,0.8421,0.3088,1825-share variant 0.864
+F5_all_comp_somerset,S5-03,"Fig 5 incl. non-owners compensation, Somerset",,0.828,0.8451,0.0171,1825-share variant 0.867
+F5_owners_val_stellenbosch,S5-03,"Fig 5 owners-only valuation, Stellenbosch",,0.3618,0.5461,0.1843,
+F5_all_val_stellenbosch,S5-03,"Fig 5 incl. non-owners valuation, Stellenbosch",,0.4912,0.8641,0.3729,1825-share variant 0.759
+F5_all_comp_stellenbosch,S5-03,"Fig 5 incl. non-owners compensation, Stellenbosch",,0.8539,0.8637,0.0098,1825-share variant 0.757
+F5_owners_val_uitenhage,S5-03,"Fig 5 owners-only valuation, Uitenhage",,0.2911,0.4931,0.202,
+F5_all_val_uitenhage,S5-03,"Fig 5 incl. non-owners valuation, Uitenhage",,0.5398,0.8621,0.3223,1825-share variant 0.895
+F5_all_comp_uitenhage,S5-03,"Fig 5 incl. non-owners compensation, Uitenhage",,0.8558,0.8635,0.0077,1825-share variant 0.896
+F5_owners_val_worcester,S5-03,"Fig 5 owners-only valuation, Worcester",,0.4729,0.6333,0.1604,
+F5_all_val_worcester,S5-03,"Fig 5 incl. non-owners valuation, Worcester",,0.681,0.8968,0.2158,1825-share variant 0.839
+F5_all_comp_worcester,S5-03,"Fig 5 incl. non-owners compensation, Worcester",,0.8586,0.8634,0.0048,1825-share variant 0.788
+C14_n,S5-03,"Non-owners added (text 13,033)",13033,13033,,,"= sum over districts of ceiling(owners x 10/3) - owners: produced by the uniform 30% assumption, not an observed count"
+C15,S5-08,Fig 6 bubble size: runif totals vs actual totals (Spearman),size = totals (implied by Fig 3 note),,-0.1128,,"line 2818 total = runif(1, 100, 10000), no seed; any re-run draws new sizes"
+C16_cattle,S5-16,Fig 6 Bethelsdorp Cattle: code sheet 'Bethelsdorp1825' (611 rows) vs 1814 sheet (425 rows) described in text,,0.7185,0.695,-0.0235,corrected = same code definitions on the 1814 sheet
+C16_horses,S5-16,Fig 6 Bethelsdorp Horses: code sheet 'Bethelsdorp1825' (611 rows) vs 1814 sheet (425 rows) described in text,,0.8506,0.9757,0.1251,corrected = same code definitions on the 1814 sheet
+C16_oxen,S5-16,Fig 6 Bethelsdorp Oxen: code sheet 'Bethelsdorp1825' (611 rows) vs 1814 sheet (425 rows) described in text,,0.8258,0.985,0.1592,corrected = same code definitions on the 1814 sheet
+C16_sheep,S5-16,Fig 6 Bethelsdorp Sheep: code sheet 'Bethelsdorp1825' (611 rows) vs 1814 sheet (425 rows) described in text,,0.9933,0.992,-0.0013,corrected = same code definitions on the 1814 sheet
+C16_min,S5-16,Khoe settlements: min Gini excluding Bethelsdorp cattle (text: all others >0.75),>0.75,,,,code (1825 sheet) min 0.753; with 1814 Bethelsdorp min 0.753; Bethelsdorp cattle 1825 0.718 / 1814 0.695
+C17,pairB,Fig 3 sheep: breeding-only (code) vs wethers+breeding+Spanish (rebuild) per district,,,,,Albany 0.78/0.78; Beaufort 0.72/0.72; Cape 0.94/0.92; Clanwilliam 0.75/0.76; Cradock 0.61/0.61; George 0.86/0.86; Graaff-Reinet 0.67/0.67; Stellenbosch 0.95/0.92; Swellendam 0.85/0.84; Uitenhage 0.81/0.81; Worcester 0.82/0.81
+C17b,pairB,Fig 3 Uitenhage max breeding cattle after code's settler filter,,422,,,"the 9,814,068-cattle row in the raw sheet is removed by the code's 'settler_men==1|settler_women==1' row filter, not by trimming"

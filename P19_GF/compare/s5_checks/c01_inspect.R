@@ -1,0 +1,15 @@
+# S5 check 1: inspect workbook columns, residual and railway overlap
+suppressPackageStartupMessages({library(readxl); library(dplyr)})
+source("./tools/paths.R")
+pth <- dpath("P19_GF", "original", "colonial govt fiscal", "Abel Gwaindepi CC fiscal records.xlsx")
+print(excel_sheets(pth))
+e <- suppressMessages(read_excel(pth, sheet = "Expenditure", .name_repair = "minimal"))
+print(names(e))
+names(e) <- make.unique(trimws(gsub("[[:space:]]+", " ", names(e))))
+e <- e |> select(-starts_with("YEAR."), year = YEAR) |> mutate(across(everything(), as.numeric))
+nz <- sapply(e, function(v) sum(!is.na(v) & v != 0))
+print(nz)
+yrs <- c(1835,1845,1853,1860,1865,1870,1874,1875,1876,1877,1880,1885,1891,1895,1900,1904,1905,1909)
+op <- options(width = 250)
+print(as.data.frame(e |> filter(year %in% yrs) |> select(year, `Total Expenditure`, `Total Railways`, `National Debt Servicing`,
+  `Roads & Bridges`, `Works & Buildings`, `Ports and Harbours`, `Post Office`, `Telegraph`, `Customs`, `Mines`)))

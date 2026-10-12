@@ -1,0 +1,3 @@
+quantity,estimate,hac_se,hac_t,hac_p,hac_lo,hac_hi,block_lo,block_hi,df,T,note
+theta,-2.02190766352955,0.336609195101993,-6.00669171534932,2.44902574931365e-07,-2.69870581093753,-1.34510951612156,-3.14374392573952,-0.829006168228862,48,53,"K = 2; NW Bartlett lag 3 prewhite = FALSE adjust = TRUE, t(T-5); circular MBB block 5, B = 9,999, 95% percentile"
+dslope,-0.230847678156052,0.0542860805723382,-4.25242853641716,9.71422451487301e-05,-0.339997158609985,-0.12169819770212,-0.352710858127236,-0.108747473347005,48,53,"K = 2; NW Bartlett lag 3 prewhite = FALSE adjust = TRUE, t(T-5); circular MBB block 5, B = 9,999, 95% percentile"

@@ -1,0 +1,13 @@
+term,estimate,std.error,statistic,p.value,model
+"relevel(factor(cohort), ""1885_1894"")1865_1874",1.162,0.403,2.882,0.004,ols_cohort_attest
+"relevel(factor(cohort), ""1885_1894"")1875_1884",0.509,0.26,1.959,0.05,ols_cohort_attest
+"relevel(factor(cohort), ""1885_1894"")1895_1904",-0.228,0.326,-0.7,0.484,ols_cohort_attest
+"relevel(factor(cohort), ""1885_1894"")1905_1914",0.73,0.339,2.153,0.031,ols_cohort_attest
+"relevel(factor(cohort), ""1885_1894"")1915_1920",1.04,0.348,2.989,0.003,ols_cohort_attest
+"relevel(factor(cohort), ""1885_1894"")1865_1874",1.702,0.617,2.759,0.006,ols_plus_age_quadratic
+"relevel(factor(cohort), ""1885_1894"")1875_1884",0.898,0.362,2.482,0.013,ols_plus_age_quadratic
+"relevel(factor(cohort), ""1885_1894"")1895_1904",-0.358,0.368,-0.973,0.331,ols_plus_age_quadratic
+"relevel(factor(cohort), ""1885_1894"")1905_1914",0.441,0.569,0.775,0.439,ols_plus_age_quadratic
+"relevel(factor(cohort), ""1885_1894"")1915_1920",0.329,0.703,0.468,0.64,ols_plus_age_quadratic
+age,-0.196,0.106,-1.859,0.063,ols_plus_age_quadratic
+I(age^2),0.003,0.002,1.57,0.117,ols_plus_age_quadratic

@@ -1,0 +1,1072 @@
+claim_id,source,value,se,n,status_override,note
+T1_cape_town_primary_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_primary_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_production_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_production_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_services_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_services_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_uncertain_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_uncertain_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_cape_town_total_survey,original,416,,,,Jobs in 1732.xlsx row 32 (SUM of line items; formula chain)
+T1_cape_town_total_vdr,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_primary_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_primary_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_production_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_production_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_services_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_services_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_uncertain_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_uncertain_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_stellenbosch_total_survey,original,141,,,,Jobs in 1732.xlsx row 32 (SUM of line items; formula chain)
+T1_stellenbosch_total_vdr,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_primary_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_primary_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_production_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_production_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_services_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_services_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_uncertain_no,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_uncertain_prop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T1_drakenstein_total_survey,original,288,,,,Jobs in 1732.xlsx row 32 (SUM of line items; formula chain)
+T1_drakenstein_total_vdr,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T3_slaves_sum,original,12682,,2577,,Stata 01_descriptives.do
+T3_slaves_mean,original,4.921226232,,2577,,Stata 01_descriptives.do
+T3_slaves_sd,original,8.64798582,,2577,,Stata 01_descriptives.do
+T3_slaves_max,original,148,,2577,,Stata 01_descriptives.do
+T3_slaves_med,original,2,,2577,,Stata 01_descriptives.do
+T3_slaves_p75,original,6,,2577,,Stata 01_descriptives.do
+T3_slaves_p90,original,14,,2577,,Stata 01_descriptives.do
+T3_slaves_nonzero,original,1694,,2577,,Stata 01_descriptives.do
+T3_slaves_zeros,original,34.26464882,,2577,,Stata 01_descriptives.do
+T3_cattle_sum,original,140436,,2577,,Stata 01_descriptives.do
+T3_cattle_mean,original,54.49592549,,2577,,Stata 01_descriptives.do
+T3_cattle_sd,original,108.2555211,,2577,,Stata 01_descriptives.do
+T3_cattle_max,original,2000,,2577,,Stata 01_descriptives.do
+T3_cattle_med,original,15,,2577,,Stata 01_descriptives.do
+T3_cattle_p75,original,68,,2577,,Stata 01_descriptives.do
+T3_cattle_p90,original,153,,2577,,Stata 01_descriptives.do
+T3_cattle_nonzero,original,1486,,2577,,Stata 01_descriptives.do
+T3_cattle_zeros,original,42.33604967,,2577,,Stata 01_descriptives.do
+T3_horses_sum,original,16128,,2577,,Stata 01_descriptives.do
+T3_horses_mean,original,6.258440047,,2577,,Stata 01_descriptives.do
+T3_horses_sd,original,13.04548717,,2577,,Stata 01_descriptives.do
+T3_horses_max,original,296,,2577,,Stata 01_descriptives.do
+T3_horses_med,original,2,,2577,,Stata 01_descriptives.do
+T3_horses_p75,original,8,,2577,,Stata 01_descriptives.do
+T3_horses_p90,original,18,,2577,,Stata 01_descriptives.do
+T3_horses_nonzero,original,1472,,2577,,Stata 01_descriptives.do
+T3_horses_zeros,original,42.87931704,,2577,,Stata 01_descriptives.do
+T3_sheep_sum,original,901357,,2577,,Stata 01_descriptives.do
+T3_sheep_mean,original,349.7698875,,2577,,Stata 01_descriptives.do
+T3_sheep_sd,original,689.1980421,,2577,,Stata 01_descriptives.do
+T3_sheep_max,original,10200,,2577,,Stata 01_descriptives.do
+T3_sheep_med,original,0,,2577,,Stata 01_descriptives.do
+T3_sheep_p75,original,428,,2577,,Stata 01_descriptives.do
+T3_sheep_p90,original,1010,,2577,,Stata 01_descriptives.do
+T3_sheep_nonzero,original,1271,,2577,,Stata 01_descriptives.do
+T3_sheep_zeros,original,50.67908421,,2577,,Stata 01_descriptives.do
+T3_ploughs_sum,original,1587,,2577,,Stata 01_descriptives.do
+T3_ploughs_mean,original,0.6158323632,,2577,,Stata 01_descriptives.do
+T3_ploughs_sd,original,1.19890511,,2577,,Stata 01_descriptives.do
+T3_ploughs_max,original,19,,2577,,Stata 01_descriptives.do
+T3_ploughs_med,original,0,,2577,,Stata 01_descriptives.do
+T3_ploughs_p75,original,1,,2577,,Stata 01_descriptives.do
+T3_ploughs_p90,original,2,,2577,,Stata 01_descriptives.do
+T3_ploughs_nonzero,original,921,,2577,,Stata 01_descriptives.do
+T3_ploughs_zeros,original,64.26076834,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_sum,original,214,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_mean,original,0.08304229724,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_sd,original,0.3041055439,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_max,original,3,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_med,original,0,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_p90,original,0,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_nonzero,original,195,,2577,,Stata 01_descriptives.do
+T3_corn_sieves_zeros,original,92.4330617,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_sum,original,62,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_mean,original,0.02405898331,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_sd,original,0.174576176,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_max,original,3,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_med,original,0,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_p90,original,0,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_nonzero,original,54,,2577,,Stata 01_descriptives.do
+T3_fishing_boats_zeros,original,97.90454016,,2577,,Stata 01_descriptives.do
+T3_buckets_sum,original,7102,,2577,,Stata 01_descriptives.do
+T3_buckets_mean,original,2.755917734,,2577,,Stata 01_descriptives.do
+T3_buckets_sd,original,3.780747253,,2577,,Stata 01_descriptives.do
+T3_buckets_max,original,61,,2577,,Stata 01_descriptives.do
+T3_buckets_med,original,2,,2577,,Stata 01_descriptives.do
+T3_buckets_p75,original,4,,2577,,Stata 01_descriptives.do
+T3_buckets_p90,original,6,,2577,,Stata 01_descriptives.do
+T3_buckets_nonzero,original,1662,,2577,,Stata 01_descriptives.do
+T3_buckets_zeros,original,35.50640279,,2577,,Stata 01_descriptives.do
+T3_spades_sum,original,5169,,2577,,Stata 01_descriptives.do
+T3_spades_mean,original,2.005820722,,2577,,Stata 01_descriptives.do
+T3_spades_sd,original,13.11941855,,2577,,Stata 01_descriptives.do
+T3_spades_max,original,450,,2577,,Stata 01_descriptives.do
+T3_spades_med,original,0,,2577,,Stata 01_descriptives.do
+T3_spades_p75,original,2,,2577,,Stata 01_descriptives.do
+T3_spades_p90,original,5,,2577,,Stata 01_descriptives.do
+T3_spades_nonzero,original,906,,2577,,Stata 01_descriptives.do
+T3_spades_zeros,original,64.84284051,,2577,,Stata 01_descriptives.do
+T3_guns_sum,original,2972,,2577,,Stata 01_descriptives.do
+T3_guns_mean,original,1.153279007,,2577,,Stata 01_descriptives.do
+T3_guns_sd,original,2.113478521,,2577,,Stata 01_descriptives.do
+T3_guns_max,original,47,,2577,,Stata 01_descriptives.do
+T3_guns_med,original,0,,2577,,Stata 01_descriptives.do
+T3_guns_p75,original,2,,2577,,Stata 01_descriptives.do
+T3_guns_p90,original,3,,2577,,Stata 01_descriptives.do
+T3_guns_nonzero,original,1169,,2577,,Stata 01_descriptives.do
+T3_guns_zeros,original,54.63717501,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_sum,original,407,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_mean,original,0.157935584,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_sd,original,0.4265637187,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_max,original,5,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_med,original,0,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_p90,original,1,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_nonzero,original,357,,2577,,Stata 01_descriptives.do
+T3_brandy_stills_zeros,original,86.14668219,,2577,,Stata 01_descriptives.do
+T3_wagons_sum,original,3109,,2577,,Stata 01_descriptives.do
+T3_wagons_mean,original,1.206441599,,2577,,Stata 01_descriptives.do
+T3_wagons_sd,original,1.959228548,,2577,,Stata 01_descriptives.do
+T3_wagons_max,original,40,,2577,,Stata 01_descriptives.do
+T3_wagons_med,original,1,,2577,,Stata 01_descriptives.do
+T3_wagons_p75,original,2,,2577,,Stata 01_descriptives.do
+T3_wagons_p90,original,3,,2577,,Stata 01_descriptives.do
+T3_wagons_nonzero,original,1400,,2577,,Stata 01_descriptives.do
+T3_wagons_zeros,original,45.67326348,,2577,,Stata 01_descriptives.do
+T3_anvils_sum,original,130,,2577,,Stata 01_descriptives.do
+T3_anvils_mean,original,0.05044625534,,2577,,Stata 01_descriptives.do
+T3_anvils_sd,original,0.25948018,,2577,,Stata 01_descriptives.do
+T3_anvils_max,original,3,,2577,,Stata 01_descriptives.do
+T3_anvils_med,original,0,,2577,,Stata 01_descriptives.do
+T3_anvils_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_anvils_p90,original,0,,2577,,Stata 01_descriptives.do
+T3_anvils_nonzero,original,107,,2577,,Stata 01_descriptives.do
+T3_anvils_zeros,original,95.84788514,,2577,,Stata 01_descriptives.do
+T3_bench_vices_sum,original,263,,2577,,Stata 01_descriptives.do
+T3_bench_vices_mean,original,0.102056655,,2577,,Stata 01_descriptives.do
+T3_bench_vices_sd,original,0.378046168,,2577,,Stata 01_descriptives.do
+T3_bench_vices_max,original,7,,2577,,Stata 01_descriptives.do
+T3_bench_vices_med,original,0,,2577,,Stata 01_descriptives.do
+T3_bench_vices_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_bench_vices_p90,original,0,,2577,,Stata 01_descriptives.do
+T3_bench_vices_nonzero,original,223,,2577,,Stata 01_descriptives.do
+T3_bench_vices_zeros,original,91.34652697,,2577,,Stata 01_descriptives.do
+T3_balances_sum,original,1023,,2577,,Stata 01_descriptives.do
+T3_balances_mean,original,0.3969732247,,2577,,Stata 01_descriptives.do
+T3_balances_sd,original,0.9120689212,,2577,,Stata 01_descriptives.do
+T3_balances_max,original,9,,2577,,Stata 01_descriptives.do
+T3_balances_med,original,0,,2577,,Stata 01_descriptives.do
+T3_balances_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_balances_p90,original,1,,2577,,Stata 01_descriptives.do
+T3_balances_nonzero,original,618,,2577,,Stata 01_descriptives.do
+T3_balances_zeros,original,76.01862631,,2577,,Stata 01_descriptives.do
+T3_firetongs_sum,original,1958,,2577,,Stata 01_descriptives.do
+T3_firetongs_mean,original,0.759798215,,2577,,Stata 01_descriptives.do
+T3_firetongs_sd,original,1.724224001,,2577,,Stata 01_descriptives.do
+T3_firetongs_max,original,33,,2577,,Stata 01_descriptives.do
+T3_firetongs_med,original,0,,2577,,Stata 01_descriptives.do
+T3_firetongs_p75,original,1,,2577,,Stata 01_descriptives.do
+T3_firetongs_p90,original,2,,2577,,Stata 01_descriptives.do
+T3_firetongs_nonzero,original,1020,,2577,,Stata 01_descriptives.do
+T3_firetongs_zeros,original,60.41909197,,2577,,Stata 01_descriptives.do
+T3_ovens_sum,original,2264,,2577,,Stata 01_descriptives.do
+T3_ovens_mean,original,0.8785409391,,2577,,Stata 01_descriptives.do
+T3_ovens_sd,original,2.200982921,,2577,,Stata 01_descriptives.do
+T3_ovens_max,original,24,,2577,,Stata 01_descriptives.do
+T3_ovens_med,original,0,,2577,,Stata 01_descriptives.do
+T3_ovens_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_ovens_p90,original,3,,2577,,Stata 01_descriptives.do
+T3_ovens_nonzero,original,594,,2577,,Stata 01_descriptives.do
+T3_ovens_zeros,original,76.94994179,,2577,,Stata 01_descriptives.do
+T3_bedsteads_sum,original,3284,,2577,,Stata 01_descriptives.do
+T3_bedsteads_mean,original,1.274350019,,2577,,Stata 01_descriptives.do
+T3_bedsteads_sd,original,1.86428455,,2577,,Stata 01_descriptives.do
+T3_bedsteads_max,original,26,,2577,,Stata 01_descriptives.do
+T3_bedsteads_med,original,1,,2577,,Stata 01_descriptives.do
+T3_bedsteads_p75,original,2,,2577,,Stata 01_descriptives.do
+T3_bedsteads_p90,original,4,,2577,,Stata 01_descriptives.do
+T3_bedsteads_nonzero,original,1307,,2577,,Stata 01_descriptives.do
+T3_bedsteads_zeros,original,49.28211098,,2577,,Stata 01_descriptives.do
+T3_chairs_sum,original,25719,,2577,,Stata 01_descriptives.do
+T3_chairs_mean,original,9.980209546,,2577,,Stata 01_descriptives.do
+T3_chairs_sd,original,15.44615963,,2577,,Stata 01_descriptives.do
+T3_chairs_max,original,125,,2577,,Stata 01_descriptives.do
+T3_chairs_med,original,4,,2577,,Stata 01_descriptives.do
+T3_chairs_p75,original,12,,2577,,Stata 01_descriptives.do
+T3_chairs_p90,original,28,,2577,,Stata 01_descriptives.do
+T3_chairs_nonzero,original,1734,,2577,,Stata 01_descriptives.do
+T3_chairs_zeros,original,32.71245634,,2577,,Stata 01_descriptives.do
+T3_trousers_sum,original,2929,,2577,,Stata 01_descriptives.do
+T3_trousers_mean,original,1.136592938,,2577,,Stata 01_descriptives.do
+T3_trousers_sd,original,5.391501799,,2577,,Stata 01_descriptives.do
+T3_trousers_max,original,143,,2577,,Stata 01_descriptives.do
+T3_trousers_med,original,0,,2577,,Stata 01_descriptives.do
+T3_trousers_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_trousers_p90,original,3,,2577,,Stata 01_descriptives.do
+T3_trousers_nonzero,original,433,,2577,,Stata 01_descriptives.do
+T3_trousers_zeros,original,83.19751649,,2577,,Stata 01_descriptives.do
+T3_irons_sum,original,2225,,2577,,Stata 01_descriptives.do
+T3_irons_mean,original,0.8634070625,,2577,,Stata 01_descriptives.do
+T3_irons_sd,original,1.752097156,,2577,,Stata 01_descriptives.do
+T3_irons_max,original,35,,2577,,Stata 01_descriptives.do
+T3_irons_med,original,0,,2577,,Stata 01_descriptives.do
+T3_irons_p75,original,1,,2577,,Stata 01_descriptives.do
+T3_irons_p90,original,2,,2577,,Stata 01_descriptives.do
+T3_irons_nonzero,original,1048,,2577,,Stata 01_descriptives.do
+T3_irons_zeros,original,59.33255724,,2577,,Stata 01_descriptives.do
+T3_books_sum,original,10518,,2577,,Stata 01_descriptives.do
+T3_books_mean,original,4.081490105,,2577,,Stata 01_descriptives.do
+T3_books_sd,original,77.6464527,,2577,,Stata 01_descriptives.do
+T3_books_max,original,3856,,2577,,Stata 01_descriptives.do
+T3_books_med,original,0,,2577,,Stata 01_descriptives.do
+T3_books_p75,original,1,,2577,,Stata 01_descriptives.do
+T3_books_p90,original,5,,2577,,Stata 01_descriptives.do
+T3_books_nonzero,original,688,,2577,,Stata 01_descriptives.do
+T3_books_zeros,original,73.30228948,,2577,,Stata 01_descriptives.do
+T3_timepieces_sum,original,776,,2577,,Stata 01_descriptives.do
+T3_timepieces_mean,original,0.3011253395,,2577,,Stata 01_descriptives.do
+T3_timepieces_sd,original,0.8921514962,,2577,,Stata 01_descriptives.do
+T3_timepieces_max,original,30,,2577,,Stata 01_descriptives.do
+T3_timepieces_med,original,0,,2577,,Stata 01_descriptives.do
+T3_timepieces_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_timepieces_p90,original,1,,2577,,Stata 01_descriptives.do
+T3_timepieces_nonzero,original,529,,2577,,Stata 01_descriptives.do
+T3_timepieces_zeros,original,79.47225456,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_sum,original,2580,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_mean,original,1.001164144,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_sd,original,18.14932237,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_max,original,783,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_med,original,0,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_p90,original,1,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_nonzero,original,440,,2577,,Stata 01_descriptives.do
+T3_snuffboxes_zeros,original,82.92588281,,2577,,Stata 01_descriptives.do
+T3_paintings_sum,original,11664,,2577,,Stata 01_descriptives.do
+T3_paintings_mean,original,4.526193248,,2577,,Stata 01_descriptives.do
+T3_paintings_sd,original,11.04543978,,2577,,Stata 01_descriptives.do
+T3_paintings_max,original,134,,2577,,Stata 01_descriptives.do
+T3_paintings_med,original,0,,2577,,Stata 01_descriptives.do
+T3_paintings_p75,original,4,,2577,,Stata 01_descriptives.do
+T3_paintings_p90,original,15,,2577,,Stata 01_descriptives.do
+T3_paintings_nonzero,original,789,,2577,,Stata 01_descriptives.do
+T3_paintings_zeros,original,69.38300349,,2577,,Stata 01_descriptives.do
+T3_mirrors_sum,original,4368,,2577,,Stata 01_descriptives.do
+T3_mirrors_mean,original,1.694994179,,2577,,Stata 01_descriptives.do
+T3_mirrors_sd,original,5.896897062,,2577,,Stata 01_descriptives.do
+T3_mirrors_max,original,193,,2577,,Stata 01_descriptives.do
+T3_mirrors_med,original,0,,2577,,Stata 01_descriptives.do
+T3_mirrors_p75,original,2,,2577,,Stata 01_descriptives.do
+T3_mirrors_p90,original,4,,2577,,Stata 01_descriptives.do
+T3_mirrors_nonzero,original,1196,,2577,,Stata 01_descriptives.do
+T3_mirrors_zeros,original,53.58944509,,2577,,Stata 01_descriptives.do
+T3_bird_cages_sum,original,1003,,2577,,Stata 01_descriptives.do
+T3_bird_cages_mean,original,0.3892122623,,2577,,Stata 01_descriptives.do
+T3_bird_cages_sd,original,1.229903688,,2577,,Stata 01_descriptives.do
+T3_bird_cages_max,original,17,,2577,,Stata 01_descriptives.do
+T3_bird_cages_med,original,0,,2577,,Stata 01_descriptives.do
+T3_bird_cages_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_bird_cages_p90,original,2,,2577,,Stata 01_descriptives.do
+T3_bird_cages_nonzero,original,355,,2577,,Stata 01_descriptives.do
+T3_bird_cages_zeros,original,86.22429181,,2577,,Stata 01_descriptives.do
+T3_gold_rings_sum,original,983,,2577,,Stata 01_descriptives.do
+T3_gold_rings_mean,original,0.3814513,,2577,,Stata 01_descriptives.do
+T3_gold_rings_sd,original,1.938498628,,2577,,Stata 01_descriptives.do
+T3_gold_rings_max,original,44,,2577,,Stata 01_descriptives.do
+T3_gold_rings_med,original,0,,2577,,Stata 01_descriptives.do
+T3_gold_rings_p75,original,0,,2577,,Stata 01_descriptives.do
+T3_gold_rings_p90,original,1,,2577,,Stata 01_descriptives.do
+T3_gold_rings_nonzero,original,288,,2577,,Stata 01_descriptives.do
+T3_gold_rings_zeros,original,88.8242142,,2577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_n,original,15577,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_sum,original,51440,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_mean,original,3.30230468,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_sd,original,6.72355406,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_min,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_max,original,66,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_p25,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_p50,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_p75,original,4,,15577,,Stata 01_descriptives.do
+T4_incl_opg_slaves_p90,original,10,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_n,original,15577,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_sum,original,318715,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_mean,original,20.46061501,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_sd,original,49.40636691,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_min,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_max,original,1501,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_p25,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_p50,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_p75,original,23,,15577,,Stata 01_descriptives.do
+T4_incl_opg_cattle_p90,original,60,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_n,original,15577,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_sum,original,50752,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_mean,original,3.258136997,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_sd,original,7.71999315,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_min,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_max,original,99,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_p25,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_p50,original,1,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_p75,original,2,,15577,,Stata 01_descriptives.do
+T4_incl_opg_horses_p90,original,10,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_n,original,15577,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_sum,original,1770512,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_mean,original,113.6619375,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_sd,original,294.111204,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_min,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_max,original,10500,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_p25,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_p50,original,0,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_p75,original,100,,15577,,Stata 01_descriptives.do
+T4_incl_opg_sheep_p90,original,400,,15577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_n,original,2577,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_sum,original,12682,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_mean,original,4.921226232,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_sd,original,8.64798582,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_min,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_max,original,148,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_p25,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_p50,original,2,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_p75,original,6,,2577,,Stata 01_descriptives.do
+T4_incl_inv_slaves_p90,original,14,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_n,original,2577,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_sum,original,140436,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_mean,original,54.49592549,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_sd,original,108.2555211,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_min,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_max,original,2000,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_p25,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_p50,original,15,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_p75,original,68,,2577,,Stata 01_descriptives.do
+T4_incl_inv_cattle_p90,original,153,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_n,original,2577,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_sum,original,16128,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_mean,original,6.258440047,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_sd,original,13.04548717,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_min,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_max,original,296,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_p25,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_p50,original,2,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_p75,original,8,,2577,,Stata 01_descriptives.do
+T4_incl_inv_horses_p90,original,18,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_n,original,2577,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_sum,original,901357,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_mean,original,349.7698875,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_sd,original,689.1980421,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_min,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_max,original,10200,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_p25,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_p50,original,0,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_p75,original,428,,2577,,Stata 01_descriptives.do
+T4_incl_inv_sheep_p90,original,1010,,2577,,Stata 01_descriptives.do
+T4_excl_opg_slaves_n,original,6931,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_sum,original,51440,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_mean,original,7.421728466,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_sd,original,8.427847468,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_min,original,1,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_max,original,66,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_p25,original,2,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_p50,original,4,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_p75,original,9,,6931,,Stata 01_descriptives.do
+T4_excl_opg_slaves_p90,original,17,,6931,,Stata 01_descriptives.do
+T4_excl_opg_cattle_n,original,5899,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_sum,original,318715,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_mean,original,54.02864892,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_sd,original,68.06212898,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_min,original,1,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_max,original,1501,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_p25,original,20,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_p50,original,32,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_p75,original,60,,5899,,Stata 01_descriptives.do
+T4_excl_opg_cattle_p90,original,110,,5899,,Stata 01_descriptives.do
+T4_excl_opg_horses_n,original,7934,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_sum,original,50752,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_mean,original,6.39677338,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_sd,original,9.84572127,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_min,original,1,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_max,original,99,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_p25,original,1,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_p50,original,2,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_p75,original,8,,7934,,Stata 01_descriptives.do
+T4_excl_opg_horses_p90,original,17,,7934,,Stata 01_descriptives.do
+T4_excl_opg_sheep_n,original,4682,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_sum,original,1770512,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_mean,original,378.1529261,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_sd,original,433.3514663,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_min,original,1,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_max,original,10500,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_p25,original,150,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_p50,original,300,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_p75,original,500,,4682,,Stata 01_descriptives.do
+T4_excl_opg_sheep_p90,original,800,,4682,,Stata 01_descriptives.do
+T4_excl_inv_slaves_n,original,1694,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_sum,original,12682,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_mean,original,7.486422668,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_sd,original,9.725141352,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_min,original,1,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_max,original,148,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_p25,original,2,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_p50,original,4,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_p75,original,9,,1694,,Stata 01_descriptives.do
+T4_excl_inv_slaves_p90,original,18,,1694,,Stata 01_descriptives.do
+T4_excl_inv_cattle_n,original,1486,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_sum,original,140436,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_mean,original,94.50605653,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_sd,original,128.6289929,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_min,original,2,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_max,original,2000,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_p25,original,27,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_p50,original,57,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_p75,original,116,,1486,,Stata 01_descriptives.do
+T4_excl_inv_cattle_p90,original,205,,1486,,Stata 01_descriptives.do
+T4_excl_inv_horses_n,original,1472,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_sum,original,16128,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_mean,original,10.95652174,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_sd,original,15.70083193,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_min,original,1,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_max,original,296,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_p25,original,3,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_p50,original,6,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_p75,original,13,,1472,,Stata 01_descriptives.do
+T4_excl_inv_horses_p90,original,25,,1472,,Stata 01_descriptives.do
+T4_excl_inv_sheep_n,original,1271,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_sum,original,901357,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_mean,original,709.1715185,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_sd,original,841.6496815,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_min,original,1,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_max,original,10200,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_p25,original,200,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_p50,original,435,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_p75,original,889,,1271,,Stata 01_descriptives.do
+T4_excl_inv_sheep_p90,original,1692,,1271,,Stata 01_descriptives.do
+T5_1700_n,original,71,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_sum,original,53910.30229166667,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_mean,original,759.3000322769954,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_sd,original,1198.048392562095,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_min,original,0,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_max,original,5406.125,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_p10,original,1.5833333333333333,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_p25,original,66.52083333333333,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_med,original,284.1875,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_p75,original,738.015,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1700_p90,original,2451.5125,,71,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_n,original,77,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_sum,original,113866.90875,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_mean,original,1478.7910227272728,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_sd,original,2104.998972464906,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_min,original,0,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_max,original,13793.903333333334,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_p10,original,8.3125,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_p25,original,136.47395833333334,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_med,original,577.4541666666667,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_p75,original,2195.2341666666666,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1710_p90,original,3883.246666666667,,77,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_n,original,198,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_sum,original,219690.91875,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_mean,original,1109.5500946969696,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_sd,original,1567.192861254298,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_min,original,0,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_max,original,10793.427083333334,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_p10,original,6,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_p25,original,145,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_med,original,506.1875,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_p75,original,1632.604375,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1720_p90,original,3043.43875,,198,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_n,original,135,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_sum,original,165180.31958333333,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_mean,original,1223.557922839506,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_sd,original,1548.9989890810261,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_min,original,0,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_max,original,11225.966875,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_p10,original,33.333333333333336,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_p25,original,173.54166666666666,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_med,original,614.3541666666666,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_p75,original,2052.5,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1730_p90,original,3050.500625,,135,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_n,original,157,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_sum,original,285246.22458333336,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_mean,original,1816.8549336518047,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_sd,original,2164.293084204381,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_min,original,0,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_max,original,10096.586041666667,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_p10,original,65.5,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_p25,original,289.0625,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_med,original,1088.9375,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_p75,original,2474.25,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1740_p90,original,4910.8175,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_n,original,122,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_sum,original,254252.83020833333,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_mean,original,2084.039591871585,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_sd,original,2257.9937592896813,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_min,original,0,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_max,original,12907.735833333334,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_p10,original,137.08333333333334,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_p25,original,435.6225,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_med,original,1397.4979166666667,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_p75,original,2724.7139583333333,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1750_p90,original,4961.904166666666,,122,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_n,original,157,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_sum,original,238677.40583333332,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_mean,original,1520.238253715499,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_sd,original,1928.4659063899944,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_min,original,0,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_max,original,11492.207916666666,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_p10,original,116.53645833333333,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_p25,original,381.828125,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_med,original,878,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_p75,original,1842.2835416666667,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1760_p90,original,3639.684583333333,,157,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_n,original,245,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_sum,original,381450.66520833335,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_mean,original,1556.9414906462584,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_sd,original,1985.2690748357036,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_min,original,0,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_max,original,13640.088958333334,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_p10,original,24.1875,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_p25,original,167.52083333333334,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_med,original,793.8854166666666,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_p75,original,2277.9375,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1770_p90,original,3856.278125,,245,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_n,original,290,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_sum,original,571833.1897916667,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_mean,original,1971.8385854885057,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_sd,original,2844.6368425171017,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_min,original,0,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_max,original,27521.111666666668,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_p10,original,39.546875,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_p25,original,396.5625,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_med,original,1073.3817708333333,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_p75,original,2583.9072916666664,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1780_p90,original,4776.7759375000005,,290,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_n,original,362,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_sum,original,716288.898125,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_mean,original,1978.6986136049725,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_sd,original,2733.3256382150503,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_min,original,0,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_max,original,24680.164583333335,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_p10,original,43.916666666666664,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_p25,original,292.6870833333333,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_med,original,1239.5193749999999,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_p75,original,2711,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1790_p90,original,4383.005416666667,,362,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_n,original,414,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_sum,original,676256.1195833334,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_mean,original,1633.4688878824477,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_sd,original,1978.7105155425604,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_min,original,0,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_max,original,16929.851041666665,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_p10,original,29.5,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_p25,original,234.91666666666666,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_med,original,1000.0297916666666,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_p75,original,2383.4947916666665,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_1800_p90,original,4018.1666666666665,,414,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_n,original,2577,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_sum,original,4068304.627291667,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_mean,original,1578.6979539354547,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_sd,original,2166.4197661581566,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_min,original,0,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_max,original,27521.111666666668,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_p10,original,24.677083333333332,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_p25,original,226.29166666666666,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_med,original,818.0383333333333,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_p75,original,2185.1302083333335,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T5_total_p90,original,3959.58625,,2577,,R reimplementation of ChapterValue chain; prices = Prices2 row 8/48 (hardcoded stuiver medians)
+T6_cape_colony_c1_1711_50,original,14.193548387096774,,155,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T6_cape_colony_c2_1711_50,original,18.777292576419214,,229,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T6_cape_colony_c3_1711_50,original,30.939226519337016,,181,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T6_cape_colony_c4_1711_50,original,55.319148936170215,,47,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T6_leeuwarderadeel_c1_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_leeuwarderadeel_c2_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_leeuwarderadeel_c3_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cape_colony_1740_82,original,27.18232044198895,,905,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1740-1782 (class definition assumed)"
+T6_amsterdambwh_1740_82,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cape_colony_1790_1800,original,25.71428571428571,,455,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1790-1800 (class definition assumed)"
+T6_oostbrabant_1830,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_oostgroningen_1830,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_zaanstreek_1830,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cape_colony_1690_1719,original,23.56687898089172,,314,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1690-1719 (class definition assumed)"
+T6_cape_colony_1720_49,original,22.380952380952383,,420,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1720-1749 (class definition assumed)"
+T6_cornwall_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cornwall_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cornwall_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cornwall_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cornwall_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_kent_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_kent_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_kent_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_kent_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_kent_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cape_colony_1695,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T6_cape_colony_1705,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T6_cape_colony_1715,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T6_cape_colony_1725,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T6_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_england_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_london_area_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northeast_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northeast_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northeast_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northeast_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northeast_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_east_kent_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cambridgeshire_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_england_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_hampshire_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_hampshire_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_hampshire_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_hampshire_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_northwest_midlands_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cumbria_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_cape_colony_c1_1688_99,original,3.571428571428571,,28,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T6_cape_colony_c1_1700_9,original,16.666666666666664,,30,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T6_cape_colony_c1_1710_22,original,18.571428571428573,,70,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T6_cape_colony_c1_1723_32,original,17.24137931034483,,29,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T6_cape_colony_c1_1733_44,original,13.157894736842104,,38,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T6_cape_colony_c1_1745_54,original,8,,25,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T6_cape_colony_c1_1755_67,original,8.433734939759036,,83,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T6_cape_colony_c1_1768_77,original,17.28395061728395,,81,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T6_cape_colony_c2_1688_99,original,5.88235294117647,,17,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T6_cape_colony_c2_1700_9,original,16.666666666666664,,30,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T6_cape_colony_c2_1710_22,original,24.731182795698924,,93,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T6_cape_colony_c2_1723_32,original,18.333333333333332,,60,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T6_cape_colony_c2_1733_44,original,12.962962962962962,,54,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T6_cape_colony_c2_1745_54,original,9.523809523809524,,42,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T6_cape_colony_c2_1755_67,original,27.350427350427353,,117,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T6_cape_colony_c2_1768_77,original,33.68421052631579,,95,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T6_cape_colony_c3_1688_99,original,11.11111111111111,,9,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T6_cape_colony_c3_1700_9,original,21.428571428571427,,14,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T6_cape_colony_c3_1710_22,original,32.8125,,64,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T6_cape_colony_c3_1723_32,original,29.268292682926827,,41,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T6_cape_colony_c3_1733_44,original,36.53846153846153,,52,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T6_cape_colony_c3_1745_54,original,27.906976744186046,,43,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T6_cape_colony_c3_1755_67,original,41.269841269841265,,63,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T6_cape_colony_c3_1768_77,original,36.11111111111111,,72,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T6_cape_colony_c4_1688_99,original,0,,3,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T6_cape_colony_c4_1700_9,original,60,,5,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T6_cape_colony_c4_1710_22,original,66.66666666666666,,12,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T6_cape_colony_c4_1723_32,original,77.77777777777779,,9,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T6_cape_colony_c4_1733_44,original,47.368421052631575,,19,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T6_cape_colony_c4_1745_54,original,41.17647058823529,,17,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T6_cape_colony_c4_1755_67,original,70.58823529411765,,17,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T6_cape_colony_c4_1768_77,original,56.00000000000001,,25,,"frequency_equipment.dta: % of inventories with boeken>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T6_chesapeake_c1-R_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-R_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-R_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-R_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-R_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-R_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c1-S_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c2-S_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c3-S_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c4-S_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T6_chesapeake_c5-S_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cape_colony_c1_1711_50,original,1.935483870967742,,155,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T7_cape_colony_c2_1711_50,original,5.676855895196507,,229,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T7_cape_colony_c3_1711_50,original,16.574585635359114,,181,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T7_cape_colony_c4_1711_50,original,48.93617021276596,,47,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T7_leeuwarderadeel_c1_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_leeuwarderadeel_c2_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_leeuwarderadeel_c3_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cape_colony_1740_82,original,22.87292817679558,,905,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1740-1782 (class definition assumed)"
+T7_amsterdam_1740_82,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cape_colony_1690_1719,original,6.050955414012739,,314,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1690-1719 (class definition assumed)"
+T7_cape_colony_1720_49,original,13.571428571428571,,420,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1720-1749 (class definition assumed)"
+T7_cornwall_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cornwall_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cornwall_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cornwall_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cornwall_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_kent_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_kent_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_kent_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_kent_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_kent_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cape_colony_1690_9,original,6.25,,48,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1690-1699 (class definition assumed)"
+T7_cape_colony_1700_9,original,5.063291139240507,,79,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T7_cape_colony_1710_19,original,6.417112299465241,,187,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1710-1719 (class definition assumed)"
+T7_cape_colony_1720_9,original,7.801418439716312,,141,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1720-1729 (class definition assumed)"
+T7_england_1670_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_england_1680_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_england_1690_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_england_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_england_1710_19,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_england_1720_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1670_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1680_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1690_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1710_19,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_london_1720_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_cape_colony_c1_1688_99,original,3.571428571428571,,28,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T7_cape_colony_c1_1700_9,original,6.666666666666667,,30,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T7_cape_colony_c1_1710_22,original,0,,70,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T7_cape_colony_c1_1723_32,original,0,,29,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T7_cape_colony_c1_1733_44,original,2.631578947368421,,38,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T7_cape_colony_c1_1745_54,original,12,,25,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T7_cape_colony_c1_1755_67,original,7.228915662650602,,83,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T7_cape_colony_c1_1768_77,original,9.876543209876543,,81,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T7_cape_colony_c2_1688_99,original,11.76470588235294,,17,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T7_cape_colony_c2_1700_9,original,0,,30,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T7_cape_colony_c2_1710_22,original,5.376344086021505,,93,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T7_cape_colony_c2_1723_32,original,1.6666666666666667,,60,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T7_cape_colony_c2_1733_44,original,7.4074074074074066,,54,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T7_cape_colony_c2_1745_54,original,7.142857142857142,,42,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T7_cape_colony_c2_1755_67,original,14.529914529914532,,117,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T7_cape_colony_c2_1768_77,original,22.105263157894736,,95,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T7_cape_colony_c3_1688_99,original,0,,9,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T7_cape_colony_c3_1700_9,original,0,,14,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T7_cape_colony_c3_1710_22,original,9.375,,64,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T7_cape_colony_c3_1723_32,original,14.634146341463413,,41,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T7_cape_colony_c3_1733_44,original,25,,52,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T7_cape_colony_c3_1745_54,original,27.906976744186046,,43,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T7_cape_colony_c3_1755_67,original,39.682539682539684,,63,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T7_cape_colony_c3_1768_77,original,30.555555555555557,,72,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T7_cape_colony_c4_1688_99,original,0,,3,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T7_cape_colony_c4_1700_9,original,40,,5,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T7_cape_colony_c4_1710_22,original,50,,12,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T7_cape_colony_c4_1723_32,original,55.55555555555556,,9,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T7_cape_colony_c4_1733_44,original,52.63157894736842,,19,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T7_cape_colony_c4_1745_54,original,47.05882352941176,,17,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T7_cape_colony_c4_1755_67,original,82.35294117647058,,17,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T7_cape_colony_c4_1768_77,original,64,,25,,"frequency_equipment.dta: % of inventories with horlogie>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T7_chesapeake_c1_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c1_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c2_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c3_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c4_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T7_chesapeake_c5_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cape_colony_c1_1711_50,original,14.838709677419354,,155,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T8_cape_colony_c2_1711_50,original,35.80786026200873,,229,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T8_cape_colony_c3_1711_50,original,50.82872928176796,,181,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T8_cape_colony_c4_1711_50,original,74.46808510638297,,47,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1711-1750 (class definition assumed)"
+T8_leeuwarderadeel_c1_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_leeuwarderadeel_c2_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_leeuwarderadeel_c3_1711_50,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cape_colony_1740_82,original,33.591160220994475,,905,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1740-1782 (class definition assumed)"
+T8_amsterdambwh_1740_82,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cape_colony_1690_1719,original,28.980891719745223,,314,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1690-1719 (class definition assumed)"
+T8_cape_colony_1720_49,original,39.76190476190476,,420,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1720-1749 (class definition assumed)"
+T8_cornwall_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cornwall_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cornwall_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cornwall_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cornwall_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_kent_1600_29,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_kent_1630_59,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_kent_1660_89,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_kent_1690_1719,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_kent_1720_49,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cape_colony_1695,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T8_cape_colony_1705,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T8_cape_colony_1715,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T8_cape_colony_1725,original,,,,ambiguous,ambiguous: single-year Cape column of Tables 6-8 has no matching period definition in the surviving files
+T8_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_england_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_london_area_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northeast_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northeast_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northeast_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northeast_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northeast_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_east_kent_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cambridgeshire_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_england_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_hampshire_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_hampshire_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_hampshire_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_hampshire_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_northwest_midlands_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1675,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1685,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1695,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1705,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cumbria_1725,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_cape_colony_c1_1688_99,original,7.142857142857142,,28,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T8_cape_colony_c1_1700_9,original,6.666666666666667,,30,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T8_cape_colony_c1_1710_22,original,11.428571428571429,,70,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T8_cape_colony_c1_1723_32,original,17.24137931034483,,29,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T8_cape_colony_c1_1733_44,original,18.421052631578945,,38,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T8_cape_colony_c1_1745_54,original,12,,25,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T8_cape_colony_c1_1755_67,original,18.072289156626507,,83,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T8_cape_colony_c1_1768_77,original,13.580246913580247,,81,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T8_cape_colony_c2_1688_99,original,23.52941176470588,,17,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T8_cape_colony_c2_1700_9,original,26.666666666666668,,30,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T8_cape_colony_c2_1710_22,original,40.86021505376344,,93,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T8_cape_colony_c2_1723_32,original,35,,60,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T8_cape_colony_c2_1733_44,original,35.18518518518518,,54,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T8_cape_colony_c2_1745_54,original,16.666666666666664,,42,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T8_cape_colony_c2_1755_67,original,37.60683760683761,,117,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T8_cape_colony_c2_1768_77,original,26.31578947368421,,95,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T8_cape_colony_c3_1688_99,original,22.22222222222222,,9,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1688-1699 (class definition assumed)"
+T8_cape_colony_c3_1700_9,original,28.57142857142857,,14,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T8_cape_colony_c3_1710_22,original,42.1875,,64,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T8_cape_colony_c3_1723_32,original,68.29268292682927,,41,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T8_cape_colony_c3_1733_44,original,51.92307692307693,,52,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T8_cape_colony_c3_1745_54,original,48.837209302325576,,43,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T8_cape_colony_c3_1755_67,original,55.55555555555556,,63,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T8_cape_colony_c3_1768_77,original,45.83333333333333,,72,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T8_cape_colony_c4_1700_9,original,60,,5,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1700-1709 (class definition assumed)"
+T8_cape_colony_c4_1710_22,original,83.33333333333334,,12,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1710-1722 (class definition assumed)"
+T8_cape_colony_c4_1723_32,original,100,,9,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1723-1732 (class definition assumed)"
+T8_cape_colony_c4_1733_44,original,63.1578947368421,,19,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1733-1744 (class definition assumed)"
+T8_cape_colony_c4_1745_54,original,70.58823529411765,,17,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1745-1754 (class definition assumed)"
+T8_cape_colony_c4_1755_67,original,58.82352941176471,,17,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1755-1767 (class definition assumed)"
+T8_cape_colony_c4_1768_77,original,80,,25,,"frequency_equipment.dta: % of inventories with schilderij>0; class = `group` var, dates 1768-1777 (class definition assumed)"
+T8_chesapeake_c1_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c1_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c2_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c3_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c4_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1688_99,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1700_9,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1710_22,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1723_32,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1733_44,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1745_54,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1755_67,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+T8_chesapeake_c5_1768_77,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_property,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_slaves,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_cattle,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_sheep,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_horses,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_productive,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_basic,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_luxury,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F4_other,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_trend_1700,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_trend_1795,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_ma_1715,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_ma_1740,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_ma_1765,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+F5_ma_1790,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_n_inv,original,2577,,2577,,Stata: N non-missing
+text_n_inv_pre1801,original,2228,,2577,,date < 1801 in numbersandwealth.dta
+text_n_stell,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_n_auction_hh,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_inv_share_pop,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_slave_share_wealth,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_farms_share,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_townhouse_share,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_other25_share,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_other_nonlisted_share,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_28items_coverage,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_prop_plus3_share,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_fishing_boats_pct,original,2.0954598370197903,,2577,,share of inventories with >=1 boat
+text_bedsteads_mean,original,1.274350019,,2577,,Stata
+text_chairs_mean,original,9.980209546,,2577,,Stata
+text_opg_slaves_mean,original,3.30230468,,15577,,"Stata, jaar 1700-73"
+text_opg_zero_slaves,original,55.50491109,,15577,,Stata
+text_inv_zero_slaves,original,34.26464882,,2577,,Stata
+text_nz_slave_mean_opg,original,7.421728466,,6931,,Stata
+text_nz_slave_mean_inv,original,7.486422668,,1694,,Stata
+text_stuivers_per_rds,original,48,,,,constant in Prices2 formulas (B9 = B4/48)
+text_stuivers_per_schelling,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_fig5_early_level,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_mirror_cape_top,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_mirror_cape_avg,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_mirror_leeuw_top,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_mirror_leeuw_avg,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_numeracy_cape,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_adriana_paintings,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_painting_equip,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_printing_press,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_brunt_growth,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_pop_growth,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)
+text_pc_growth,original,,,,unavailable,No surviving calculation chain for this claim (S1/S2)

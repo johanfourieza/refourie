@@ -1,0 +1,170 @@
+section,row,variant,estimate,se,p,ci99_lo,ci99_hi,n,note
+5.1,I4,"HC1, t(N-k)",-0.05681467341759662,0.0154079954154012,2.282333152408456e-4,-0.09651333751246756,-0.01711600932272569,7389,NA
+5.1,I4,"HC3, t(N-k)",-0.05681467341759662,0.01568911382459314,2.9512142238636126e-4,-0.09723763843523651,-0.01639170839995672,7389,NA
+5.1,I4,"CR2 by EYear x EMonth, BM df",-0.05681467341759662,0.02016151590581273,0.01656262554330386,-0.11929104427176576,0.00566169743657251,7389,BM df 11.1
+5.1,I4,"WCR Rademacher, clusters EYear x EMonth",-0.05681467341759662,NA,0.0033003300330033,-0.1168422091753297,-0.00772268635850875,7389,NA
+5.1,I5,"HC1, t(N-k)",0.07773978632738206,0.01596864899174639,1.1492232181303635e-6,0.03659659960637715,0.11888297304838696,7389,NA
+5.1,I5,"HC3, t(N-k)",0.07773978632738206,0.01627034261478665,1.804737490798249e-6,0.035819286693325,0.11966028596143911,7389,NA
+5.1,I5,"CR2 by EYear x EMonth, BM df",0.07773978632738206,0.03538643563966761,0.04978337944054181,-0.03162409723146812,0.18710366988623223,7389,BM df 11.3
+5.1,I5,"WCR Rademacher, clusters EYear x EMonth",0.07773978632738206,NA,0.14611461146114613,-0.02544185767809784,0.1587894474181223,7389,NA
+5.1,I3a,"HC1, t(N-2)",2.1178675914330465,0.3963132260476306,9.471680247985965e-8,1.0966687915633928,3.1390663913027,5363,NA
+5.1,I3a,"HC3, t(N-2)",2.1178675914330465,0.397686311549897,1.0479784632015325e-7,1.0931306980180002,3.1426044848480927,5363,NA
+5.1,I3a,"CR2 by EYear x EMonth, BM df",2.1178675914330465,0.4910344169197733,3.629508833870372e-4,0.7155254746950119,3.5202097081710813,5363,BM df 19.3
+5.2,I3a,"CR1 by place, t(G-1)",2.1178675914330465,0.3856234596681987,6.467659070567471e-6,1.0549405230789335,3.1807946597871597,5363,NA
+5.2,I3a,"CR1 two-way place x (EYear x EMonth), t(min G-1)",2.1178675914330465,0.43524193118302307,3.681636463089095e-5,0.91817286763379,3.317562315232303,5363,NA
+5.1,I3b,"HC1, t(N-2)",1.9559133335838133,0.29823548451201337,5.839800746370478e-11,1.1874954264358022,2.724331240731824,6849,NA
+5.1,I3b,"HC3, t(N-2)",1.9559133335838133,0.2987495416651373,6.295408014989623e-11,1.1861709337370063,2.72565573343062,6849,NA
+5.1,I3b,"CR2 by EYear x EMonth, BM df",1.9559133335838133,0.2986286821900336,1.1639896337598784e-4,0.9798678488309582,2.9319588183366685,6849,BM df 8.8
+5.2,I3b,"CR1 by place, t(G-1)",1.9559133335838133,0.45721270596056846,1.5189699834250656e-4,0.7062245237957707,3.2056021433718556,6849,NA
+5.2,I3b,"CR1 two-way place x (EYear x EMonth), t(min G-1)",1.9559133335838133,0.3365930261471734,1.6836401002760451e-6,1.0359114772375602,2.8759151899300663,6849,NA
+5.1,I6-C,"HC1, t(N-2)",-0.5640924198741838,0.03784440336702656,1.2202601120495325e-49,-0.6615943030004461,-0.4665905367479215,8797,NA
+5.1,I6-C,"HC3, t(N-2)",-0.5640924198741838,0.03796696623872614,2.4612284205919897e-49,-0.6619100725655301,-0.46627476718283745,8797,NA
+5.1,I6-C,"CR2 by EYear x EMonth, BM df",-0.5640924198741838,0.17078895036174288,0.03629646228482113,-1.4313606990976155,0.30317585934924796,8797,BM df 3.5
+5.2,I6-C,"CR1 by place, t(G-1)",-0.5640924198741838,0.14800020437311942,5.366991873510666e-4,-0.9672162037496262,-0.16096863599874134,8797,NA
+5.2,I6-C,"CR1 two-way place x (EYear x EMonth), t(min G-1)",-0.5640924198741838,0.17270557868289294,0.00244311387791373,-1.0345088403780651,-0.09367599937030224,8797,NA
+5.2,I4,"CR1 by place, t(G-1)",-0.05681467341759662,0.01632937695572569,0.0013982300079308,-0.101367653521373,-0.01226169331382023,7389,NA
+5.2,I4,"CR1 two-way place x (EYear x EMonth), t(min G-1)",-0.05681467341759662,0.01671381633348963,0.00173999835367473,-0.10241655575414434,-0.0112127910810489,7389,NA
+5.2,I4,"WCR Webb, clusters place",-0.05681467341759662,NA,0.15391539153915393,-0.10039405889881846,0.02145615015555986,7389,NA
+5.2,I4,"WCR Webb, two-way place x (EYear x EMonth), bootcluster = place",-0.05681467341759662,NA,0.17001700170017,-0.10494003988810024,0.02477783681287176,7389,NA
+5.2,I5,"CR1 by place, t(G-1)",0.07773978632738206,0.02755041583405161,0.00792086911100786,0.00257138695529968,0.15290818569946443,7389,NA
+5.2,I5,"CR1 two-way place x (EYear x EMonth), t(min G-1)",0.07773978632738206,0.03207175163497555,0.02082276904091895,-0.00976460017557637,0.16524417283034049,7389,NA
+5.2,I5,"WCR Webb, clusters place",0.07773978632738206,NA,0.0295029502950295,-0.2660691716771193,0.4251664859148626,7389,NA
+5.2,I5,"WCR Webb, two-way place x (EYear x EMonth), bootcluster = place",0.07773978632738206,NA,0.04040404040404041,-0.28102294103185355,0.13616342338185666,7389,NA
+5.2,all,number of place clusters (wage sample; missing place = one 'unknown' cluster),35,NA,NA,NA,NA,7389,share of wage sample in 'unknown': 0.436
+5.3a,I4,"S3 rule boer_surname(), spec 4, HC3",-0.02436852342895324,0.01476407466040351,0.09887760378183712,-0.06240812720694366,0.01367108034903717,7389,NA
+5.3a,I4,"S3 rule boer_surname(), spec 4, WCR Webb",-0.02436852342895324,NA,0.0078007800780078,-0.05152086538707949,-6.346512185059969e-4,7389,NA
+5.3a,I5,"S3 rule boer_surname(), spec 4, HC3",0.10204908373712708,0.01573492060815871,9.415090507653284e-11,0.06150809764893193,0.14259006982532224,7389,NA
+5.3a,I5,"S3 rule boer_surname(), spec 4, WCR Webb",0.10204908373712708,NA,0.08820882088208822,-0.02502667597317216,0.1856065812526218,7389,NA
+5.3a,I4,SA-born wage-sample recruits on which authors' flag and S3 rule disagree (count),33,NA,NA,NA,NA,276,NA
+5.4,all,SA-born spec 4 sample: N; HISCO levels after merge; year levels after merge,276,NA,NA,NA,NA,276,HISCO levels 9; year levels 1901/1902/1903/1904/1905/1906
+5.3b,score,"EM pi_r, region 5 (Boer republics)",0.9326303925604952,NA,NA,NA,NA,NA,NA
+5.3b,score,"EM pi_r, region 9 (Cape/Natal)",0.3631290027253447,NA,NA,NA,NA,NA,NA
+5.3b,score,SA-born first terms with empty normalised surname (dropped from score rows),0,NA,NA,NA,NA,NA,NA
+5.3b,score,SA-born first terms with names unseen in both stocks (p = pi_r),289,NA,NA,NA,NA,NA,NA
+5.3b,I4,"probabilistic surname score (UNVALIDATED, different estimand), spec 4 pooled; percentile 99% CI, joint SAC-cluster + SAF-family bootstrap",-0.05331809422223341,0.02017842332063409,NA,-0.10577641295225852,-0.00291271667841507,7389,"B=4999, failed draws 23"
+5.4,I4,"SA-born only, probabilistic score (UNVALIDATED, different estimand); percentile 99% CI",-0.01647717387106425,0.0206837372628009,NA,-0.07202503224829918,0.03636965674294979,276,"B=4999, failed draws 23; SA-born refit not identified in 0 further draws"
+5.3,diag,SA-born first terms with a language entry (n); share recording Dutch,0.8173076923076923,NA,NA,NA,NA,104,NA
+5.3,diag,agreement with recorded Dutch: authors' flag,0.4174757281553398,NA,NA,NA,NA,103,NA
+5.3,diag,agreement with recorded Dutch: S3 rule,0.4326923076923077,NA,NA,NA,NA,104,NA
+5.3,diag,agreement with recorded Dutch: score > 0.5,0.4230769230769231,NA,NA,NA,NA,104,NA
+5.3,diag,mean score | recorded Dutch = 1 minus mean score | = 0,0.21591523128579437,NA,NA,NA,NA,104,NA
+5.4,I4,"SA-born only, authors' flag, HC3",-0.02067352013438243,0.0169824967357415,0.2245947736934603,-0.06474598792110248,0.02339894765233761,276,NA
+5.4,I4,"SA-born only, authors' flag, WCR Webb (clusters EYear x EMonth)",-0.02067352013438243,NA,0.31523152315231523,-0.08129086932492793,0.02558123502624267,276,NA
+5.4,I4,"SA-born only, authors' flag: main effect (non-1902) in year-heterogeneity model, HC3",0.01510847772153331,0.01954568863727497,0.4402485689847305,-0.03561740200718616,0.06583435745025279,276,NA
+5.4,I4,"SA-born only, authors' flag: D x 1{EYear = 1902}, HC3",-0.08388936355134945,0.02791005348871374,0.00291397421186201,-0.15632283175828,-0.0114558953444189,276,NA
+5.4,I4,"SA-born only, S3 rule, HC3",0.01091466476201532,0.01437632573105029,0.44842483524568344,-0.02639434595250633,0.04822367547653698,276,NA
+5.4,I4,"SA-born only, S3 rule, WCR Webb (clusters EYear x EMonth)",0.01091466476201532,NA,0.45424542454245426,-0.03814423701666612,0.04254523445184789,276,NA
+5.4,I4,"SA-born only, S3 rule: main effect (non-1902) in year-heterogeneity model, HC3",0.03470775782779144,0.01911435704090112,0.07057619312901489,-0.01489871009165923,0.08431422574724212,276,NA
+5.4,I4,"SA-born only, S3 rule: D x 1{EYear = 1902}, HC3",-0.05358117618621944,0.02654840483194021,0.0446128400519598,-0.12248083050313724,0.01531847813069835,276,NA
+5.4,all,SA-born spec 4 clusters (EYear x EMonth),53,NA,NA,NA,NA,276,NA
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), authors' flag (R_A) - raw gap R (English minus Dutch), joint 99% sup-t band",0.1079924727956172,0.0414807912218792,NA,-0.01244252505542284,0.2284274706466572,276,share of draws with R* <= 0: 0.058; failed draws 0
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), authors' flag (R_A) - U - 0.5R, pooled reference, joint 99% sup-t band",-0.03332271626342657,0.02271017441902039,NA,-0.09925925524412052,0.03261382271726738,276,explained Q = 0.0873; unexplained U = 0.0207; U/R (descriptive) = 0.191
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), authors' flag (R_A) - U - 0.5R, Eref reference, joint 99% sup-t band",-0.00387359519353405,0.02248351474633385,NA,-0.06851955819046145,0.06077236780339333,276,explained Q = 0.0579; unexplained U = 0.0501; U/R (descriptive) = 0.464
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), authors' flag (R_A) - U - 0.5R, Dref reference, joint 99% sup-t band",-0.05999670140656033,0.0350798583869352,NA,-0.16895855005469718,0.04896514724157652,276,explained Q = 0.1140; unexplained U = -0.0060; U/R (descriptive) = -0.056
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), S3 rule (R_B) - raw gap R (English minus Dutch), joint 99% sup-t band",0.07580222410304382,0.03102751940185046,NA,-0.02042268570477332,0.17202713391086097,276,share of draws with R* <= 0: 0.083; failed draws 0
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), S3 rule (R_B) - U - 0.5R, pooled reference, joint 99% sup-t band",-0.04881577681353734,0.02106970870885799,NA,-0.11415876456349988,0.01652721093642518,276,explained Q = 0.0867; unexplained U = -0.0109; U/R (descriptive) = -0.144
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), S3 rule (R_B) - U - 0.5R, Eref reference, joint 99% sup-t band",-0.04211318483384543,0.0234699625641248,NA,-0.11630252799049463,0.03207615832280378,276,explained Q = 0.0800; unexplained U = -0.0042; U/R (descriptive) = -0.056
+5.5,I4-D,"OB (decomposition of associations; discrimination not identified), S3 rule (R_B) - U - 0.5R, Dref reference, joint 99% sup-t band",-0.07194144484857937,0.02686486610005956,NA,-0.1584895510900465,0.01460666139288777,276,explained Q = 0.1098; unexplained U = -0.0340; U/R (descriptive) = -0.449
+5.5,I4-D,"authors' grouping by sa, threefold: raw difference (sa=0 minus sa=1)",0.04869375034388201,NA,NA,NA,NA,7395,"N sa=0 7118, sa=1 277 (published 7,137/289; diff 0.0508)"
+5.5,I4-D,"authors' grouping by sa, threefold: endowments",0.02918489223689914,NA,NA,NA,NA,7395,published 0.0302
+5.5,I4-D,"authors' grouping by sa, threefold: coefficients",0.04719619366496781,NA,NA,NA,NA,7395,published 0.0492
+5.5,I4-D,"authors' grouping by sa, threefold: interaction",-0.02768733555798504,NA,NA,NA,NA,7395,published -0.0286
+5.6,I4,"spec 4 + years in South Africa (changed population, A4d), HC3",-0.04552717509257855,NA,NA,NA,NA,1061,max leverage 1.0000 (HC3 undefined if 1)
+5.6,I4,"spec 4 + years in South Africa (changed population, A4d), HC1",-0.04552717509257855,0.01975011710175505,0.02135587375328434,-0.09649463626636332,0.00544028608120621,1061,NA
+5.6,I4,"spec 4 + years in South Africa (changed population, A4d), WCR Webb",-0.04552717509257855,NA,0.05120512051205121,-0.19962375763992635,0.01028536101837346,1061,NA
+5.6,I5,"spec 4 + years in South Africa (changed population, A4d), HC3",-0.05457040296166939,NA,NA,NA,NA,1061,max leverage 1.0000 (HC3 undefined if 1)
+5.6,I5,"spec 4 + years in South Africa (changed population, A4d), HC1",-0.05457040296166939,0.03107484988819257,0.07936957947469953,-0.13476264673408245,0.02562184081074366,1061,NA
+5.6,I5,"spec 4 + years in South Africa (changed population, A4d), WCR Webb",-0.05457040296166939,NA,0.2454245424542454,-0.23711565401110768,0.02265253676939505,1061,NA
+5.6,all,Afrikaans = 1 observations in the prior-residence sample,19,NA,NA,NA,NA,1061,NA
+5.7,I4,"spec 3 (no year effects), HC3",-0.07172517895228998,0.01888024946970967,1.464784746548357e-4,-0.12037008548815332,-0.02308027241642665,7389,NA
+5.7,I4,"spec 3 (no year effects), WCR Webb",-0.07172517895228998,NA,0.0123012301230123,-0.14635456044854944,0.00218738574517159,7389,NA
+5.7,I4,"spec 4 with class dummies instead of HISCO, HC3",-0.05698521087932742,0.01577607203538385,3.0571519143337406e-4,-0.0976322134994732,-0.01633820825918164,7389,NA
+5.7,I4,"spec 4 with class dummies instead of HISCO, WCR Webb",-0.05698521087932742,NA,0.0052005200520052,-0.11610108330587936,-0.00562152011895158,7389,NA
+5.7,I5,"spec 3 (no year effects), HC3",0.04695181490467449,0.02040256444972201,0.02140414605626748,-0.00561533164394137,0.09951896145329037,7389,NA
+5.7,I5,"spec 3 (no year effects), WCR Webb",0.04695181490467449,NA,0.43534353435343537,-0.09480180865134093,0.1451014576794746,7389,NA
+5.7,I5,"spec 4 with class dummies instead of HISCO, HC3",0.07767757475107016,0.01632019954536293,1.976798576365565e-6,0.03562862922180184,0.11972652028033848,7389,NA
+5.7,I5,"spec 4 with class dummies instead of HISCO, WCR Webb",0.07767757475107016,NA,0.13661366136613662,-0.02821176039367999,0.15983324427524,7389,NA
+5.8,I6-C,"Boer-republic minus England-born mean wage, HC2/Welch",-0.5690030362705905,0.03794295177509198,2.387574947464746e-38,-0.6673613236145798,-0.47064474892660113,5393,NA
+5.8,I6-C,"Boer-republic minus European-born (England, Scotland, Wales, Ireland, Europe) mean wage, HC2/Welch",-0.5655171816275741,0.03789664473437489,4.955914808139224e-38,-0.6637584963861495,-0.4672758668689988,7657,NA
+5.8,I6-C,"Boer-republic minus all others, enlistment-year FE, HC2, t(N-k)",-0.5732456142005645,0.03053624286444578,4.036986573297741e-77,-0.6519188624136405,-0.49457236598748855,8791,NA
+5.9,I3a,"(a) adult 20-50, age from dates (365.25) else stated: Cape/Natal minus England, single-year age FE, HC2 (different estimand)",2.421745625007677,0.4301950793080643,1.904189427825007e-8,1.313224736188742,3.5302665138266125,5155,NA
+5.9,I3b,"(a) adult 20-50, age from dates (365.25) else stated: SA-territory minus GB (all cohorts), single-year age FE, HC2 (different estimand)",2.329494867293082,0.3200337864813581,3.755400298437725e-13,1.5049042104437378,3.1540855241424275,6623,NA
+5.9,all,(a) recruits dropped for missing age (dates and stated both missing),15,NA,NA,NA,NA,NA,NA
+5.9,I3a,"(b) stated age 20-50: Cape/Natal minus England, single-year age FE, HC2 (different estimand)",2.6882023019630115,0.5111286376474307,1.5102225283572408e-7,1.37108431985846,4.005320284067563,4691,NA
+5.9,I3b,"(b) stated age 20-50: SA-territory minus GB (all cohorts), single-year age FE, HC2 (different estimand)",2.6051191788777257,0.4099620755311529,2.2457729692723543e-10,1.5487876509200555,3.661450706835396,5961,NA
+5.9,I3a,"(c) age >= 23: Cape/Natal minus England, single-year age FE, HC2 (different estimand)",2.6494015118355483,0.5734606611774614,4.007906560994311e-6,1.1712713449900094,4.127531678681088,2854,NA
+5.9,I3b,"(c) age >= 23: SA-territory minus GB (all cohorts), single-year age FE, HC2 (different estimand)",2.830330753530862,0.4252635055694137,3.2444204097189596e-11,1.734353321325568,3.926308185736157,3676,NA
+5.9,p591,"(d) SA-born Dutch- minus English-surnamed mean height, authors' flag, Welch",0.25318414268207334,0.5612311595583833,0.652085368883615,-1.1976689073967242,1.7040371927608708,536,"n Dutch 297, English 239"
+5.9,p591,"(d) SA-born Dutch- minus English-surnamed mean height, S3 rule, Welch",0.21921879368184705,0.5623944549695304,0.6968434428141234,-1.2346158141083372,1.6730534014720313,537,"n Dutch 292, English 245"
+5.9,p591,"(d) SA-born height on probabilistic score (UNVALIDATED), HC2",-0.1766778826567901,0.7854821577938987,0.8221202283087387,-2.2071885802922053,1.8538328149786252,537,NA
+5.9,all,(f) truncated-normal ML: not run (threshold undocumented),NA,NA,NA,NA,NA,NA,'SAC comparisons' truncreg uses ll(160) with no named source; the paper documents no minimum-height standard
+5.11,I4,"published spec 4, conventional OLS SE",-0.05681467341759662,0.00456422664060657,3.246342204694751e-35,-0.06857439266551303,-0.04505495416968021,7389,NA
+5.11,I5,"published spec 4, conventional OLS SE",0.07773978632738206,0.0045302324325181,9.480417956811591e-65,0.06606765307697486,0.08941191957778925,7389,NA
+5.9,I3,"(e) recruit-height q25, England (descriptive, not truncation-corrected)",168.91,NA,NA,NA,NA,5097,NA
+5.9,I3,"(e) recruit-height q50, England (descriptive, not truncation-corrected)",172.72,NA,NA,NA,NA,5097,NA
+5.9,I3,"(e) recruit-height q75, England (descriptive, not truncation-corrected)",176.53,NA,NA,NA,NA,5097,NA
+5.9,I3,"(e) recruit-height mean, England (descriptive, not truncation-corrected)",172.9105722581911,NA,NA,NA,NA,5097,NA
+5.9,I3,"(e) recruit-height q25, Americas (descriptive, not truncation-corrected)",171.45000000000002,NA,NA,NA,NA,585,NA
+5.9,I3,"(e) recruit-height q50, Americas (descriptive, not truncation-corrected)",175.26,NA,NA,NA,NA,585,NA
+5.9,I3,"(e) recruit-height q75, Americas (descriptive, not truncation-corrected)",177.8,NA,NA,NA,NA,585,NA
+5.9,I3,"(e) recruit-height mean, Americas (descriptive, not truncation-corrected)",174.99275726495728,NA,NA,NA,NA,585,NA
+5.9,I3,"(e) recruit-height q25, Asia (descriptive, not truncation-corrected)",172.72,NA,NA,NA,NA,43,NA
+5.9,I3,"(e) recruit-height q50, Asia (descriptive, not truncation-corrected)",176.53,NA,NA,NA,NA,43,NA
+5.9,I3,"(e) recruit-height q75, Asia (descriptive, not truncation-corrected)",179.07,NA,NA,NA,NA,43,NA
+5.9,I3,"(e) recruit-height mean, Asia (descriptive, not truncation-corrected)",176.26418604651164,NA,NA,NA,NA,43,NA
+5.9,I3,"(e) recruit-height q25, Australasia (descriptive, not truncation-corrected)",170.815,NA,NA,NA,NA,244,NA
+5.9,I3,"(e) recruit-height q50, Australasia (descriptive, not truncation-corrected)",173.99,NA,NA,NA,NA,244,NA
+5.9,I3,"(e) recruit-height q75, Australasia (descriptive, not truncation-corrected)",177.8,NA,NA,NA,NA,244,NA
+5.9,I3,"(e) recruit-height mean, Australasia (descriptive, not truncation-corrected)",174.41550204918033,NA,NA,NA,NA,244,NA
+5.9,I3,"(e) recruit-height q25, Boer republics (descriptive, not truncation-corrected)",168.5925,NA,NA,NA,NA,271,NA
+5.9,I3,"(e) recruit-height q50, Boer republics (descriptive, not truncation-corrected)",175.26,NA,NA,NA,NA,271,NA
+5.9,I3,"(e) recruit-height q75, Boer republics (descriptive, not truncation-corrected)",179.70499999999998,NA,NA,NA,NA,271,NA
+5.9,I3,"(e) recruit-height mean, Boer republics (descriptive, not truncation-corrected)",174.65780442804427,NA,NA,NA,NA,271,NA
+5.9,I3,"(e) recruit-height q25, Europe (descriptive, not truncation-corrected)",171.45000000000002,NA,NA,NA,NA,33,NA
+5.9,I3,"(e) recruit-height q50, Europe (descriptive, not truncation-corrected)",175.26,NA,NA,NA,NA,33,NA
+5.9,I3,"(e) recruit-height q75, Europe (descriptive, not truncation-corrected)",179.07,NA,NA,NA,NA,33,NA
+5.9,I3,"(e) recruit-height mean, Europe (descriptive, not truncation-corrected)",174.73083333333335,NA,NA,NA,NA,33,NA
+5.9,I3,"(e) recruit-height q25, Ireland (descriptive, not truncation-corrected)",170.18,NA,NA,NA,NA,949,NA
+5.9,I3,"(e) recruit-height q50, Ireland (descriptive, not truncation-corrected)",174.625,NA,NA,NA,NA,949,NA
+5.9,I3,"(e) recruit-height q75, Ireland (descriptive, not truncation-corrected)",177.8,NA,NA,NA,NA,949,NA
+5.9,I3,"(e) recruit-height mean, Ireland (descriptive, not truncation-corrected)",174.65377239199157,NA,NA,NA,NA,949,NA
+5.9,I3,"(e) recruit-height q25, Scotland (descriptive, not truncation-corrected)",169.54500000000002,NA,NA,NA,NA,1158,NA
+5.9,I3,"(e) recruit-height q50, Scotland (descriptive, not truncation-corrected)",172.72,NA,NA,NA,NA,1158,NA
+5.9,I3,"(e) recruit-height q75, Scotland (descriptive, not truncation-corrected)",176.53,NA,NA,NA,NA,1158,NA
+5.9,I3,"(e) recruit-height mean, Scotland (descriptive, not truncation-corrected)",173.12737607944732,NA,NA,NA,NA,1158,NA
+5.9,I3,"(e) recruit-height q25, Cape/Natal (descriptive, not truncation-corrected)",170.33875,NA,NA,NA,NA,266,NA
+5.9,I3,"(e) recruit-height q50, Cape/Natal (descriptive, not truncation-corrected)",174.625,NA,NA,NA,NA,266,NA
+5.9,I3,"(e) recruit-height q75, Cape/Natal (descriptive, not truncation-corrected)",179.07,NA,NA,NA,NA,266,NA
+5.9,I3,"(e) recruit-height mean, Cape/Natal (descriptive, not truncation-corrected)",175.02843984962408,NA,NA,NA,NA,266,NA
+5.9,I3,"(e) recruit-height q25, Wales (descriptive, not truncation-corrected)",168.11625,NA,NA,NA,NA,124,NA
+5.9,I3,"(e) recruit-height q50, Wales (descriptive, not truncation-corrected)",172.085,NA,NA,NA,NA,124,NA
+5.9,I3,"(e) recruit-height q75, Wales (descriptive, not truncation-corrected)",175.26,NA,NA,NA,NA,124,NA
+5.9,I3,"(e) recruit-height mean, Wales (descriptive, not truncation-corrected)",171.6989814516129,NA,NA,NA,NA,124,NA
+5.10,I1,"UK share, S3 Unique-run persons (first terms)",0.834014532243415,NA,NA,NA,NA,8808,
+5.10,I1,"England share, S3 Unique-run persons (first terms)",0.5794732061762035,NA,NA,NA,NA,8808,
+5.10,I1,"UK share, all service terms",0.8329578733949088,NA,NA,NA,NA,8878,
+5.10,I1,"England share, all service terms",0.5796350529398513,NA,NA,NA,NA,8878,
+5.10,I1,"UK share, Repeatlast != 1 (8,887-row definition)",0.8326711317970258,NA,NA,NA,NA,8809,
+5.10,I1,persons: rows with Repeatlast == 0,8873,NA,NA,NA,NA,NA,
+5.10,I1,persons: rows with Repeatlast != 1,8887,NA,NA,NA,NA,NA,Repeatlast = 2 or 3 rows are third/fourth terms
+5.10,I1,first terms with unknown country (share),0.007212893046320297,NA,NA,NA,NA,8873,
+5.10,I3/I6,"missing height share, England",9.800078400627205e-4,NA,NA,NA,NA,5102,
+5.10,I3/I6,"missing height share, Americas",0.0017064846416382253,NA,NA,NA,NA,586,
+5.10,I3/I6,"missing height share, Asia",0,NA,NA,NA,NA,43,
+5.10,I3/I6,"missing height share, Australasia",0,NA,NA,NA,NA,244,
+5.10,I3/I6,"missing height share, Boer republics",0.09060402684563758,NA,NA,NA,NA,298,
+5.10,I3/I6,"missing height share, Europe",0,NA,NA,NA,NA,33,
+5.10,I3/I6,"missing height share, Ireland",0,NA,NA,NA,NA,949,
+5.10,I3/I6,"missing height share, Scotland",0.0017241379310344827,NA,NA,NA,NA,1160,
+5.10,I3/I6,"missing height share, Cape/Natal",0.014814814814814815,NA,NA,NA,NA,270,
+5.10,I3/I6,"missing height share, Wales",0,NA,NA,NA,NA,124,
+5.10,I3/I6,"missing wage share, England",0.0013720109760878088,NA,NA,NA,NA,5102,
+5.10,I3/I6,"missing wage share, Americas",0.0034129692832764505,NA,NA,NA,NA,586,
+5.10,I3/I6,"missing wage share, Asia",0,NA,NA,NA,NA,43,
+5.10,I3/I6,"missing wage share, Australasia",0,NA,NA,NA,NA,244,
+5.10,I3/I6,"missing wage share, Boer republics",0,NA,NA,NA,NA,298,
+5.10,I3/I6,"missing wage share, Europe",0,NA,NA,NA,NA,33,
+5.10,I3/I6,"missing wage share, Ireland",0.001053740779768177,NA,NA,NA,NA,949,
+5.10,I3/I6,"missing wage share, Scotland",8.620689655172414e-4,NA,NA,NA,NA,1160,
+5.10,I3/I6,"missing wage share, Cape/Natal",0.003703703703703704,NA,NA,NA,NA,270,
+5.10,I3/I6,"missing wage share, Wales",0,NA,NA,NA,NA,124,

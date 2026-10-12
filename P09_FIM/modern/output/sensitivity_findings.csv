@@ -1,0 +1,141 @@
+sens,label,target,row,finding,rule
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,R-65,supported,3
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,R-15,supported,3
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,R-dec,not established (ordering holds in points),3
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,R-rec,supported,1
+S2a,Drop force FE,same target,R-65,supported,3
+S2a,Drop force FE,same target,R-15,supported,3
+S2a,Drop force FE,same target,R-dec,not established (ordering holds in points),3
+S2a,Drop force FE,same target,R-rec,supported,1
+S2b,Drop growth dummies,same target,R-65,not established,5
+S2b,Drop growth dummies,same target,R-15,not established,5
+S2b,Drop growth dummies,same target,R-dec,not established (ordering holds in points),3
+S2b,Drop growth dummies,same target,R-rec,supported,1
+S2c,Add Attestation (relaxes R2),same target,R-65,not established,5
+S2c,Add Attestation (relaxes R2),same target,R-15,not established,5
+S2c,Add Attestation (relaxes R2),same target,R-dec,not established (ordering holds in points),3
+S2c,Add Attestation (relaxes R2),same target,R-rec,supported,1
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,R-65,not established,5
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,R-15,not established,5
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,R-dec,not established (ordering holds in points),3
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,R-rec,supported,1
+S3,c = 159.71 (quarter-inch rounding),same target,R-65,not established,5
+S3,c = 159.71 (quarter-inch rounding),same target,R-15,not established,5
+S3,c = 159.71 (quarter-inch rounding),same target,R-dec,not established (ordering holds in points),3
+S3,c = 159.71 (quarter-inch rounding),same target,R-rec,supported,1
+S4,Strict c = 160.02 (63-in heights dropped),same target,R-65,not established,5
+S4,Strict c = 160.02 (63-in heights dropped),same target,R-15,"not established, direction lost",6
+S4,Strict c = 160.02 (63-in heights dropped),same target,R-dec,not established (ordering holds in points),3
+S4,Strict c = 160.02 (63-in heights dropped),same target,R-rec,supported,1
+S5,Higher cut c = 164.465,changed target,R-65,not established,5
+S5,Higher cut c = 164.465,changed target,R-15,"not established, direction lost",6
+S5,Higher cut c = 164.465,changed target,R-dec,not established (ordering holds in points),3
+S5,Higher cut c = 164.465,changed target,R-rec,not established (points hold),3
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,R-65,not established,5
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,R-15,not established,5
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,R-dec,not established (ordering holds in points),3
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,R-rec,supported,1
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,R-65,not established,5
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,R-15,not established,5
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,R-dec,not established (ordering holds in points),3
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,R-rec,supported,1
+S7,Growth dummies ages 21-24,same target,R-65,not established,5
+S7,Growth dummies ages 21-24,same target,R-15,"not established, direction lost",6
+S7,Growth dummies ages 21-24,same target,R-dec,not established (ordering holds in points),3
+S7,Growth dummies ages 21-24,same target,R-rec,not established (points hold),3
+S8,Ages 23-39 only,changed target,R-65,not established,5
+S8,Ages 23-39 only,changed target,R-15,supported,3
+S8,Ages 23-39 only,changed target,R-dec,reversed (d3),1
+S8,Ages 23-39 only,changed target,R-rec,not established (points hold),3
+S9,age + age^2 instead of growth dummies,same target,R-65,not established,5
+S9,age + age^2 instead of growth dummies,same target,R-15,"not established, direction lost",6
+S9,age + age^2 instead of growth dummies,same target,R-dec,not established (ordering holds in points),3
+S9,age + age^2 instead of growth dummies,same target,R-rec,not established (points hold),3
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,R-65,not established,5
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,R-15,"not established, direction lost",6
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,R-dec,not established (ordering holds in points),3
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,R-rec,supported,1
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,R-65,supported,3
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,R-15,"not established, direction lost",6
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,R-dec,not established (ordering holds in points),3
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,R-rec,not established (points hold),3
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,R-65,not established,5
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,R-15,not established,5
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,R-dec,not established (ordering holds in points),3
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,R-rec,supported,1
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,R-65,not established,5
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,R-15,not established,5
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,R-dec,not established (ordering holds in points),3
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,R-rec,supported,1
+S14,Model-based (-H^-1) SE for the primary,same target,R-65,not established,5
+S14,Model-based (-H^-1) SE for the primary,same target,R-15,not established,5
+S14,Model-based (-H^-1) SE for the primary,same target,R-dec,not established (ordering holds in points),3
+S14,Model-based (-H^-1) SE for the primary,same target,R-rec,supported,1
+S15a,CR1 by force x enlistment year,same target,R-65,not established,5
+S15a,CR1 by force x enlistment year,same target,R-15,credible null,2
+S15a,CR1 by force x enlistment year,same target,R-dec,not established (ordering holds in points),3
+S15a,CR1 by force x enlistment year,same target,R-rec,supported,1
+S15c,CR1 with candidate repeat pairs merged,same target,R-65,not established,5
+S15c,CR1 with candidate repeat pairs merged,same target,R-15,not established,5
+S15c,CR1 with candidate repeat pairs merged,same target,R-dec,not established (ordering holds in points),3
+S15c,CR1 with candidate repeat pairs merged,same target,R-rec,supported,1
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,R-65,not established,5
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,R-15,"not established, direction lost",6
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,R-dec,"not established, ordering broken in points",4
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,R-rec,not established (points hold),3
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,R-65,not established,5
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,R-15,not established,5
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,R-dec,not established (ordering holds in points),3
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,R-rec,not established (points hold),3
+S16,Birth year - 1 for colonial and WWI records,same target,R-65,not established,5
+S16,Birth year - 1 for colonial and WWI records,same target,R-15,not established,5
+S16,Birth year - 1 for colonial and WWI records,same target,R-dec,not established (ordering holds in points),3
+S16,Birth year - 1 for colonial and WWI records,same target,R-rec,supported,1
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,R-65,not established,5
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,R-15,not established,5
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,R-dec,not established (ordering holds in points),3
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,R-rec,supported,1
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,R-65,not established,5
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,R-15,not established,5
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,R-dec,not established (ordering holds in points),3
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,R-rec,supported,1
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,R-65,not established,5
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,R-15,not computable,0
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,R-dec,not established (ordering holds in points),3
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,R-rec,not computable,0
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,R-65,"not established, direction lost",6
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,R-15,not computable,0
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,R-dec,"not established, ordering broken in points",4
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,R-rec,not computable,0
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,R-65,not established,5
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,R-15,not computable,0
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,R-dec,not established (ordering holds in points),3
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,R-rec,not computable,0
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,R-65,not established,5
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,R-15,not computable,0
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,R-dec,"not established, ordering broken in points",4
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,R-rec,not computable,0
+S21_WWI,Leave out WWI,changed target,R-65,"not established, direction lost",6
+S21_WWI,Leave out WWI,changed target,R-15,not established,5
+S21_WWI,Leave out WWI,changed target,R-dec,"not established, ordering broken in points",4
+S21_WWI,Leave out WWI,changed target,R-rec,supported,1
+S21_SAC,Leave out SAC,changed target,R-65,not established,5
+S21_SAC,Leave out SAC,changed target,R-15,not established,5
+S21_SAC,Leave out SAC,changed target,R-dec,not established (ordering holds in points),3
+S21_SAC,Leave out SAC,changed target,R-rec,supported,1
+S21_CMP,Leave out CMP,changed target,R-65,supported,3
+S21_CMP,Leave out CMP,changed target,R-15,not established,5
+S21_CMP,Leave out CMP,changed target,R-dec,not established (ordering holds in points),3
+S21_CMP,Leave out CMP,changed target,R-rec,supported,1
+S21_AOF,Leave out AOF,changed target,R-65,not established,5
+S21_AOF,Leave out AOF,changed target,R-15,not established,5
+S21_AOF,Leave out AOF,changed target,R-dec,not established (ordering holds in points),3
+S21_AOF,Leave out AOF,changed target,R-rec,supported,1
+S21_WWII,Leave out WWII,changed target,R-65,not established,5
+S21_WWII,Leave out WWII,changed target,R-15,not computable,0
+S21_WWII,Leave out WWII,changed target,R-dec,not established (ordering holds in points),3
+S21_WWII,Leave out WWII,changed target,R-rec,not computable,0
+S22,Drop horse-riding forces SAC and CMP,changed target,R-65,not established,5
+S22,Drop horse-riding forces SAC and CMP,changed target,R-15,not established,5
+S22,Drop horse-riding forces SAC and CMP,changed target,R-dec,not established (ordering holds in points),3
+S22,Drop horse-riding forces SAC and CMP,changed target,R-rec,supported,1

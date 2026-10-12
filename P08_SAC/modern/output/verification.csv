@@ -1,0 +1,9 @@
+check,target,value,dp,pass
+spec4 b(Afrikaans),-0.0568,-0.05681467341759662,4,TRUE
+spec4 N,7389,7389,0,TRUE
+spec4 b(England),0.0777,0.07773978632738206,4,TRUE
+spec4 conventional t(Afrikaans),-12.45,-12.447820384757698,2,TRUE
+spec4 HC1 t(Afrikaans) [S5 C7],-3.69,-3.687350098819927,2,TRUE
+T1 England height,172.91,172.9105722581911,2,TRUE
+T1 Cape/Natal height,175.03,175.02843984962408,2,TRUE
+T1 Boer-republic wage,4.46,4.4630872483221475,2,TRUE

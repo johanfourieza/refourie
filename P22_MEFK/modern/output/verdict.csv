@@ -1,0 +1,10 @@
+claim,claim_id,estimate,interval,test_p,threshold_or_band,verdict,rule,note
+M-inv,TX_mid_inv,18.3784,"[18.38, 63.39]",,"[24.3, 29.7]","not-testable (compatible, not identified)",4,estimate = lower bound (unknowns allocated to none); interval = identified set; reconstruction-conditional
+M-inv-pl,TX_mid_inv,-43.1702,min_j D_L=-43.17; min_j D_U=46.85 (Farmers),,D_j > 0 for all j,"not-testable (compatible, not identified)",3,estimate = min_j D_j^L (pp); interval = sharp pairwise bounds; verdict carried to claim_id; reconstruction-conditional
+M-cap,TX_cap_mid,15.9956,"[16.00, 68.79]",,"[28.0, 34.0]","not-testable (compatible, not identified)",4,estimate = lower bound (unknowns allocated to none); interval = identified set; reconstruction-conditional
+M-cap-pl,TX_cap_mid,-56.5343,min_j D_L=-56.53; min_j D_U=49.06 (Businessmen),,D_j > 0 for all j,"not-testable (compatible, not identified)",3,estimate = min_j D_j^L (pp); interval = sharp pairwise bounds; verdict carried to claim_id; reconstruction-conditional
+F-cap,TX_cap_foreign,9.0868,"[9.09, 22.63]",,"[9.9, 12.1]","not-testable (compatible, not identified)",4,estimate = lower bound (unknowns allocated to none); interval = identified set; reconstruction-conditional
+F-cap8,TX_foreign_cap_8,9.0868,"[9.09, 22.63]",,"[7.2, 8.8]",qualified (above the stated value),3,estimate = lower bound (unknowns allocated to none); interval = identified set; reconstruction-conditional
+L-inv,TX_local,76.6837,"[76.68, 96.68]",,"[92.0, 98.0]","not-testable (compatible, not identified)",4,estimate = lower bound (unknowns allocated to none); interval = identified set; reconstruction-conditional
+A-sh,TX_africans_share,0.219138,direct (no unknowns),,"[0.09, 0.11]",qualified (above the stated value),3,direct field; reconstruction-conditional
+A-n,TX_afr_n,15,direct (no unknowns),,"[13.5, 16.5]",confirmed,1,direct field; reconstruction-conditional

@@ -1,0 +1,13 @@
+# P12_FJ S6 deviations and implementation notes (card v3, frozen d240e89)
+
+No item below changes a primary estimate, an interval or a verdict rule. Each records how an ambiguous card instruction was implemented.
+
+- **D1 (sens 5, boottest CI).** After `logit`, boottest 4.5.3 (ssc, installed into `modern/ado/` as the card requires) reports the score-bootstrap p-value but no inverted CI. The card asks for a CI "where boottest provides it", so only p is reported, judged against 0.05/m. Results informed: no.
+- **D2 (§4D separation check).** A "target-relevant observation" is an observation with a non-zero value of the target regressor. No fitted probability lies outside [1e-10, 1 − 1e-10] in any primary fit. Results informed: no.
+- **D3 (§4D collinearity log).** In spec 3, `Pandemic_x_Asia` is dropped for collinearity in the leave-one-out fits without Cradock and without Queenstown (`output/loo_collinearity_log.csv`). It is not a target, so under §4D it is logged and no row fails. Results informed: no.
+- **D4 (rule O, literal order).** Rule O's two keyword rules are placed before the rebuild's `case_when`, and all later rules are kept verbatim. A string such as "farmer's wife" is excluded from the farmer rule and then reaches the rebuild's `farm` → Farming rule before its `wife` → Sales_and_service rule. The card's parenthetical says "wife" strings keep Sales_and_service, which holds only for wife strings without "farm". This was implemented as written (the number of such strings was not counted). Rule O moves 1,031 records to Professionals. The complete-case N rises from 26,823 to 26,831 because 8 occupation strings that were previously uncoded (e.g. "landowner", "grazier") are now coded. Results informed: no.
+- **D5 (sens 8).** "Drops that would change the verdict category" is computed with a nested CV3 jackknife (G = 10, t(9)) inside each leave-one-district-out sample, using the §8 table. Results informed: no.
+- **D6 (sens 15).** District × pandemic FE are entered as `factor(town):factor(Pandemic)` with no Pandemic main term. H2-P and P quantities are not computed under 15, because the counterfactual P would switch the absorbed cell. Results informed: no.
+- **D7 (sens 16, 20).** The "most populated covariate cell" is town × all spec-2 covariates. Sens 20 uses the spec-1 sample (doc and race observed). The pre-trend is an OLS slope of doc on quarter for deaths before 1 Oct 1918, and the post level covers deaths after 31 Jan 1919. Results informed: no.
+- **Runtime.** Total about 3 minutes (R about 1.5 min, Stata 25 s). No replications were reduced.
+- **Packages.** No new R packages. Stata boottest 4.5.3 was installed project-locally (`modern/ado/`) from SSC.

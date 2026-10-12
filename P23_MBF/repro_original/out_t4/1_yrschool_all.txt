@@ -1,0 +1,14 @@
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	(16)	(17)	(18)	(19)	(20)
+VARIABLES	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool	yrschool
+																				
+d_birth_all	1.07***		0.47***		0.92***		0.54***		1.18***		0.79***		1.38***		1.02***		1.38***		1.03***	
+	(0.16)		(0.14)		(0.19)		(0.17)		(0.23)		(0.21)		(0.25)		(0.24)		(0.27)		(0.26)	
+e.yrschool		0.81***		0.83***		0.92***		0.81***		0.96***		0.83***		0.98***		0.88***		0.99***		0.88***
+		(0.12)		(0.12)		(0.07)		(0.07)		(0.05)		(0.06)		(0.05)		(0.06)		(0.05)		(0.06)
+																				
+Observations	342	342	342	342	592	592	592	592	635	635	635	635	644	644	644	644	611	611	611	611
+Region FE	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes	yes
+Controls	0	0	8	8	0	0	8	8	0	0	8	8	0	0	8	8	0	0	8	8
+Pseudo R2	0.591	0.591	0.736	0.736	0.406	0.406	0.605	0.605	0.420	0.420	0.634	0.634	0.495	0.495	0.677	0.677	0.565	0.565	0.715	0.715
+Standard errors in parentheses																				
+*** p<0.01, ** p<0.05, * p<0.1																				

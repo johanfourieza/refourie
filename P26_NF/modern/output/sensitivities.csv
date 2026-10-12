@@ -1,0 +1,125 @@
+sens,spec,population,n_div,quantity,value
+S1,published division sets (as printed),14 (1886) vs 16 (1887),16,B,2825
+S1,published division sets (as printed),14 (1886) vs 16 (1887),16,W,7934
+S1,published division sets (as printed),14 (1886) vs 16 (1887),16,Delta,5109
+S1,published division sets (as printed),14 (1886) vs 16 (1887),16,R,27175
+S2,"D minus Uitenhage, Victoria East (method switchers)",changed (A4d),12,B,3258
+S2,"D minus Uitenhage, Victoria East (method switchers)",changed (A4d),12,W,8742
+S2,"D minus Uitenhage, Victoria East (method switchers)",changed (A4d),12,Delta,5484
+S2,"D minus Uitenhage, Victoria East (method switchers)",changed (A4d),12,R,26742
+S3,drop Aliwal North,"changed (A4d), influence only",13,B,3427
+S3,drop Aliwal North,"changed (A4d), influence only",13,W,10152
+S3,drop Aliwal North,"changed (A4d), influence only",13,Delta,6725
+S3,drop Aliwal North,"changed (A4d), influence only",13,R,26573
+S3,drop Cradock,"changed (A4d), influence only",13,B,3640
+S3,drop Cradock,"changed (A4d), influence only",13,W,9721
+S3,drop Cradock,"changed (A4d), influence only",13,Delta,6081
+S3,drop Cradock,"changed (A4d), influence only",13,R,26360
+S3,drop East London,"changed (A4d), influence only",13,B,3899
+S3,drop East London,"changed (A4d), influence only",13,W,9737
+S3,drop East London,"changed (A4d), influence only",13,Delta,5838
+S3,drop East London,"changed (A4d), influence only",13,R,26101
+S3,drop Fort Beaufort,"changed (A4d), influence only",13,B,3505
+S3,drop Fort Beaufort,"changed (A4d), influence only",13,W,9899
+S3,drop Fort Beaufort,"changed (A4d), influence only",13,Delta,6394
+S3,drop Fort Beaufort,"changed (A4d), influence only",13,R,26495
+S3,drop Graaff Reinet,"changed (A4d), influence only",13,B,3753
+S3,drop Graaff Reinet,"changed (A4d), influence only",13,W,9176
+S3,drop Graaff Reinet,"changed (A4d), influence only",13,Delta,5423
+S3,drop Graaff Reinet,"changed (A4d), influence only",13,R,26247
+S3,drop Grahamstown,"changed (A4d), influence only",13,B,3758
+S3,drop Grahamstown,"changed (A4d), influence only",13,W,9277
+S3,drop Grahamstown,"changed (A4d), influence only",13,Delta,5519
+S3,drop Grahamstown,"changed (A4d), influence only",13,R,26242
+S3,drop Kimberley,"changed (A4d), influence only",13,B,3673
+S3,drop Kimberley,"changed (A4d), influence only",13,W,7885
+S3,drop Kimberley,"changed (A4d), influence only",13,Delta,4212
+S3,drop Kimberley,"changed (A4d), influence only",13,R,26327
+S3,drop King William's Town,"changed (A4d), influence only",13,B,3518
+S3,drop King William's Town,"changed (A4d), influence only",13,W,9420
+S3,drop King William's Town,"changed (A4d), influence only",13,Delta,5902
+S3,drop King William's Town,"changed (A4d), influence only",13,R,26482
+S3,drop Port Elizabeth,"changed (A4d), influence only",13,B,3607
+S3,drop Port Elizabeth,"changed (A4d), influence only",13,W,8436
+S3,drop Port Elizabeth,"changed (A4d), influence only",13,Delta,4829
+S3,drop Port Elizabeth,"changed (A4d), influence only",13,R,26393
+S3,drop Queenstown,"changed (A4d), influence only",13,B,3083
+S3,drop Queenstown,"changed (A4d), influence only",13,W,9746
+S3,drop Queenstown,"changed (A4d), influence only",13,Delta,6663
+S3,drop Queenstown,"changed (A4d), influence only",13,R,26917
+S3,drop Somerset East,"changed (A4d), influence only",13,B,3707
+S3,drop Somerset East,"changed (A4d), influence only",13,W,10126
+S3,drop Somerset East,"changed (A4d), influence only",13,Delta,6419
+S3,drop Somerset East,"changed (A4d), influence only",13,R,26293
+S3,drop Uitenhage,"changed (A4d), influence only",13,B,3561
+S3,drop Uitenhage,"changed (A4d), influence only",13,W,8756
+S3,drop Uitenhage,"changed (A4d), influence only",13,Delta,5195
+S3,drop Uitenhage,"changed (A4d), influence only",13,R,26439
+S3,drop Victoria East,"changed (A4d), influence only",13,B,3495
+S3,drop Victoria East,"changed (A4d), influence only",13,W,10175
+S3,drop Victoria East,"changed (A4d), influence only",13,Delta,6680
+S3,drop Victoria East,"changed (A4d), influence only",13,R,26505
+S3,drop Wodehouse,"changed (A4d), influence only",13,B,2748
+S3,drop Wodehouse,"changed (A4d), influence only",13,W,9951
+S3,drop Wodehouse,"changed (A4d), influence only",13,Delta,7203
+S3,drop Wodehouse,"changed (A4d), influence only",13,R,27252
+S4a,"16 divisions, 1886 = 1887 for Griqualand East, Thembuland",changed (A4d),16,B,3798
+S4a,"16 divisions, 1886 = 1887 for Griqualand East, Thembuland",changed (A4d),16,W,10189
+S4a,"16 divisions, 1886 = 1887 for Griqualand East, Thembuland",changed (A4d),16,Delta,6391
+S4a,"16 divisions, 1886 = 1887 for Griqualand East, Thembuland",changed (A4d),16,R,26202
+S4b,"16 divisions, 1886 = 1887 x D-ratio (T1, T2 separately)",changed (A4d),16,B,4897.510264802142
+S4b,"16 divisions, 1886 = 1887 x D-ratio (T1, T2 separately)",changed (A4d),16,W,11114.563768933287
+S4b,"16 divisions, 1886 = 1887 x D-ratio (T1, T2 separately)",changed (A4d),16,Delta,6217.053504131145
+S4b,"16 divisions, 1886 = 1887 x D-ratio (T1, T2 separately)",changed (A4d),16,R,25102.489735197858
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5,980
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,W5,6260
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5_pub,2361
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1886,20995
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1886,21783
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1887,13755
+S5,rule KF on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1887,13915
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5,1049
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,W5,6191
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5_pub,2361
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1886,20995
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1886,21783
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1887,13755
+S5,rule any on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1887,13915
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5,370
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,W5,6870
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,B5_pub,2361
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1886,20995
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1886,21783
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,roll_1887,13755
+S5,rule majority on Kimberle/KingWill/PortEliz/Queensto/Wodehous,five recovered divisions (joint classification + roll contrast),5,pub_total_1887,13915
+S6,Kimberle 1886 J18,coverage,1,share_in_1909,0.7156679680869122
+S6,KingWill 1886 J18,coverage,1,share_in_1909,0.5854114713216958
+S6,PortEliz 1886 J18,coverage,1,share_in_1909,0.7015525114155251
+S6,Queensto 1886 V19,coverage,1,share_in_1909,0.6013477088948787
+S6,Uitenhag 1886 V19,coverage,1,share_in_1909,0.7556044835868695
+S6,Victoria 1886 V19,coverage,1,share_in_1909,0.4749455337690632
+S6,Wodehous 1886 V19,coverage,1,share_in_1909,0.5651051272593139
+S6,Griquala 1887 J22,coverage,1,share_in_1909,0.507454128440367
+S6,Queensto 1887 J22,coverage,1,share_in_1909,0.6819645732689211
+S6,Somerset 1887 J22,coverage,1,share_in_1909,0.8702115494568324
+S6,Thembula 1887 J22,coverage,1,share_in_1909,0.7844594594594595
+S6,Wodehous 1887 J22,coverage,1,share_in_1909,0.8015482054890922
+S6,Kimberle 1887 V21,coverage,1,share_in_1909,0.7332981251650383
+S6,KingWill 1887 V21,coverage,1,share_in_1909,0.6156879929886064
+S6,PortEliz 1887 V21,coverage,1,share_in_1909,0.7664638984395663
+S7,proportional falls on D,different-estimand,14,black_rate,0.5305210224891744
+S7,proportional falls on D,different-estimand,14,white_col_rate,0.2910061976979979
+S7,proportional falls on D,different-estimand,14,excess_black_fall,1714.686630680033
+S8,Statistical Register 1886-87,"context (net, not gross)",NA,colony_net_fall_all_races,18343
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,m_B_eq_3000,0.7898894154818326
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,m_W_eq_7934,1.5937335439705107
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,B_min,1899
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,B_max,5697
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,W_min,8290
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,W_max,12088
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Bpt,0.18181818181818182
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Brng,0
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Blt,0.2727272727272727
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Bten,0.09090909090909091
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Wpt,0.18181818181818182
+S9,"B(m), W(m) on D, m in 0.5..1.5",scenario (equal weights assumed),14,share_Wcmp,1

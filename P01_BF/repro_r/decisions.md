@@ -1,0 +1,44 @@
+# P01_BF — S3 independent R recreation: decisions
+
+Written 11 October 2026, before any estimate in `repro_r/` was run or compared. The recreation agent has seen the published numbers (in the paper and in `claims.csv`), so the recreation is **not outcome-blind**. No `.do`, `.log`, `.smcl`, `repro_original/`, `compare/` or `audit.md` file was opened.
+
+## Independence level: **full** (with shared author codings, listed below)
+
+- **Data used.** `original/Baten Fourie/BatenFourie19Sept.xlsx`, sheet `Data` (2,908 rows, the transcribed Court of Justice register with origin from the Robben Island match). Gender comes from `BatenFourie.xlsx` (May 2011), sheet `Data`, whose rows align one-to-one with the September file (same `number`, `age` and full name on every row). The `NewSlaveRecords_*.xlsx` files are a separate Robben Island list without a court-record key; they are not used. `data.dta` is not used.
+- The other sheets of the September workbook (`Descriptives`, `Sheet1`, `Sheet2`) hold Stata output and were **not read** beyond their headers.
+- **Built here from raw columns:** the age sample (23–72), the exact-age indicator, birth year (court year − age), birth decade, cohorts, the eight origin groups, the four crime categories (my own reading of the Dutch/Afrikaans crime descriptions, see `output/crime_map.csv`), severe punishment, ABCC, all regressions.
+- **Shared author codings used as given:** `eths` (eu / ko / bl / cn, a recode of the Dutch `eth` field; e.g. *lyfeienis* is coded bl and *nie-blank* ko), `origincountry` (country-level recode of the origin town from the Robben Island match) and the three `female*` name-based gender dummies. The author-derived columns `exactage`, `agegr`, `bdec`, `bcohort`, `origind` and `crimedegree` are **not** used.
+
+## Sample
+
+1. Keep rows with reported age 23–72 (n. 36). This gives 1,803 rows; one has no court year and hence no birth decade, so the regression sample is 1,802.
+2. Birth year = court year − reported age; birth decade = floor(birth year / 10) × 10. Birth years after 1799 (age 23–27 in the 1820s) are put in the 1790s decade, because Table 2 ends with 1790 and the late cohort is labelled "1790s".
+3. Cohorts: early 1650s–1740s, middle 1750s–80s, late 1790s (and later).
+
+## Variables
+
+4. **Exact age** = 1 if the reported age does not end in 0 or 5. **ABCC** = 125 × share exact; this equals eq. (2) applied to eq. (1) over ages 23–72 (no truncation at 100 is needed in any cell).
+5. **Knows age** (Table 2): `knows` = "nie" (not guessing) → 1, "gissing" → 0, blank → missing; shares are over non-missing. *Ambiguity:* the note ("not reported … as guessing") could also count blanks as knowing. Alternative reported in `output/`.
+6. **Groups (Table 6).** eu → European; ko → Khoesan; cn → Chinese. bl (slaves, free blacks, bondsmen, convicts) split by origin country: Cape Colony → Cape-born; Mozambique, Madagascar, Mauritius → Mozambican; India, Ceylon → Indian; Indonesia, Timor, Malaysia, Thailand → South-east Asian; China, Macao → Chinese; everything else (no match, "Unknown", Europe, Angola, Kenya, Natal, Iran) → slave of unknown origin. *Ambiguity:* the paper does not say where the few mainland-African non-Mozambican slaves go; I put them in "unknown".
+7. **Gender.** `female` (first of three versions) is primary. All three are noisy (e.g. Moses and Hendrik coded female); the paper says it attaches little weight to gender. Sensitivity with `female2`, `female3`.
+8. **Crime categories** (Table 4: minor / theft / violence / murder), my own mapping from the crime text in `output/crime_map.csv`: murder = murder, attempted murder, accessory to murder, manslaughter, poisoning; violence = assault, wounding, violent theft/robbery, rape, abuse, arson, resistance against owner, mutiny, treason, abduction; theft = theft, stock theft, burglary, fraud, forgery, accessory to theft; minor = desertion (*drossing*), flight, conspiracy (*complottering*), drunkenness, perjury, false accusation, unspecified complicity, sexual offences without violence (*sodomie*, *bloedskande*, *verleiding*), "other criminalities", and other small offences; missing = blank and *onskuldig* (innocent). *Main ambiguities:* conspiracy (95 cases) and desertion (114) could arguably be theft-level; I code them minor because they are "below the level of theft" and involve neither property nor violence. Severe = violence or murder.
+9. **Severe punishment** (Figure 3 only): death sentences and capital-type punishments in `pun` (hanged, broken on the wheel, strangled, shot, drowned, burnt, impaled, quartered, decapitated, condemned).
+10. **World region** (Table 4 col. 1): European vs non-European, following the paper's own use of "world region" in Figures 2–3. Alternative with the eight Table 6 groups reported in `output/`.
+11. **Time fixed effects** (Tables 4 and 6): birth-decade dummies (the paper organises everything by birth decade). Alternative: none for T6 is not considered (paper says they are included).
+
+## Estimators
+
+12. **Table 6:** logit of exact age on female, age 23–32, seven group dummies (base Cape-born) and birth-decade dummies. Marginal effects ×125. **Primary:** marginal effects at the means, discrete change 0→1 for dummies (Stata `mfx` default of the period). Alternatives: average marginal effects (discrete change) and derivative-at-means. p-values: delta method, conventional (non-robust) logit vcov; HC1-robust and clustered-by-court-volume (`source`) versions reported in `output/`. Pseudo R² = McFadden.
+13. **Table 4:** OLS (linear probability) of exact age × 125 on minor, violence and murder dummies (theft base); col. 1 adds birth-decade and world-region FE. Reported R² is ordinary R², which signals OLS. Conventional SEs/p-values primary.
+14. **Table 8:** OLS of exact age × 125 on group × cohort cell dummies, female and age 23–32; **reference = Chinese** (all cohorts), as the notes say. Cells not shown in Tables 7–8 (Cape-born early, Mozambican early, SE Asian late, Indian late) are merged into "other slaves" of the same cohort, because Table 7's rows sum to 1,786 = 392 + 368 + 1,026 with no residual other than the Chinese. Col. 2 adds the share of severe crimes in the individual's birth decade (computed on the 1,798 with a crime category). Col. 3 keeps non-severe crimes (minor or theft; missing crime excluded). **SEs:** the published parentheses are on the unscaled (coef/125) scale (spec (e)3), so `results_r.csv` reports SEs on that scale. HC1 and clustered SEs in `output/`.
+14a. **Orphan parenthesis in Table 8** (`T8_orphse_c*`): read as the SE of the female dummy, the only regressor the notes include but the table does not label. Reported as such, flagged as an interpretation.
+15. **Figure 4:** bar = T8 col. 1 constant + cell coefficient (constant alone for China), as the claims spec documents.
+16. **Table 9:** for each group and pair of adjacent cohorts, OLS of exact age × 125 on a later-cohort dummy plus female and age 23–32, on that group's two cohorts only (n then equals the Table 7 cell sums, as in the paper). Conventional p-values.
+17. **Table 3:** ABCC by European / non-European (all non-eu, incl. Khoesan and Chinese) for theft and murder.
+18. **Table 5:** counts by European (eu) and Slave (bl) × cohort × crime type. Per-capita columns need Shell's and Fourie–van Zanden's population series, which are not on the allow-list → `unavailable`. Ratio theft/murder per cohort = theft count / murder count (the denominators cancel); "Sum/avg." ratio = arithmetic mean of the three cohort ratios.
+19. **Table 1 (our sample):** shares over all matched individuals in the full workbook whose origin lies outside the Cape and Europe (Figure 1 percentages are multiples of 1/937 and 1/480, i.e. the whole workbook). Africa = Mozambique, Angola, Kenya, Natal, St Helena; Madagascar + Mauritius; India + Ceylon; SE Asia = Indonesia, Timor, Malaysia, Thailand. Denominator includes the residual (China, Macao, Iran, Unknown). Shell's column is external → not attempted.
+20. **Text numbers:** 392 / 368 / 1,026 = eu, ko and bl-minus-Chinese counts in the sample; age-bin counts; correlation of not-guessing with European = individual-level Pearson (decade-level alternative in `output/`); 937 = matched individuals in the full workbook; the Robben Island comparison (p.644, "4 per cent") = OLS among bl in the sample of exact × 125 on a not-matched dummy with cohort FE. Back-of-envelope numbers (p.641 "3", "0.5"), external comparisons (p.636, p.650 "20", "60", "19", "20", p.652) and Table 10 external columns are not attempted. Table 10 "Our ABCC" values are mapped to Figure 4 bars (India early; China; Mozambique middle; Cape-born late for the Xhosa row; Khoesan late; Europe late).
+
+## Post-hoc changes
+
+(None yet. Any change made after seeing results will be logged here with the reason.)

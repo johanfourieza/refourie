@@ -1,0 +1,4 @@
+claim_id,source,value,se,n,status_override,note
+T5_total_n,original_Aprime,2228,,2228,,"A-prime alignment: Table 5 Total restricted to decades 1700-1800 (excludes 1806 decade)"
+T5_total_sum,original_Aprime,3676654,,2228,,
+T5_total_mean,original_Aprime,1650.204,,2228,,

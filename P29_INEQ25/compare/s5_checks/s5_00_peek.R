@@ -1,0 +1,11 @@
+# S5 exploratory: structure of inputs (no outputs written)
+suppressPackageStartupMessages({library(readxl); library(dplyr)})
+source("tools/paths.R"); O <- function(...) dpath("P29_INEQ25","original","2024F_Inequality",...)
+pr <- read_excel(O("price_series.xlsx")); print(names(pr)); print(as.data.frame(pr[, intersect(names(pr), c("period","horses","sheep","cattle_breeding","cattle_bull","cattle_work","wheat_vol","wine","vines"))]))
+pb <- read_excel(O("MOOC_probates.xlsx"), sheet="Sheet1"); pb <- filter(pb, year>=1700, year<=1839)
+cat("probates", nrow(pb), "\n"); print(summary(pb[, c("horse_nr","cattle_nr","sheep_nr","plough_nr","wagon_nr")]))
+print(excel_sheets(O("MOOC_probates.xls"))); px <- read_excel(O("MOOC_probates.xls")); print(grep("horse|cattle|beest|perd|os", names(px), value=TRUE, ignore.case=TRUE))
+sed <- read_excel(O("Slave Emancipation Dataset.xlsx"), sheet="Sheet1"); print(names(sed)); print(head(as.data.frame(sed[, c("District_name","Owner_name","Owner_surname","Valuation","Compensation")]), 15))
+cat("NA valuation", sum(is.na(sed$Valuation)), " NA comp", sum(is.na(sed$Compensation)), "\n")
+print(excel_sheets(O("EBTstation.xlsx")))
+for (s in c("Bethelsdorp","Bethelsdorp1825")) { b <- read_excel(O("EBTstation.xlsx"), sheet=s); cat(s, nrow(b), "\n"); print(names(b)); print(colSums(is.na(b[, intersect(names(b), c("horseM","horseF","cattleM","cattleF","sheep_goats","wheat_reaped","men"))]))) }

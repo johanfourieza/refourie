@@ -1,0 +1,4 @@
+jaar,rows,burghers,n0,A0,farming,sum_w_farming,distinct_name,distinct_loc,dup_rows,missing_counts,T2_cur,T4_farming_pop
+1700,438,1255,0,169,269,881.6,428,10,0,0,1255,845
+1723,816,2357,13,369,434,1480.46,772,11,0,0,2395,1496
+1757,1788,5312,55,648,1085,3945.189,1696,11,7,0,5367,3303

@@ -1,0 +1,32 @@
+check,item,published,implied,flag
+stars_vs_t,T4_Occupation_Semi_skilled_c1,-2.973 (t -1.96),*,MISMATCH
+stars_vs_t,coefficients checked,183,,
+T2_total_vs_forces,c1,175.36,175.364,ok
+T2_total_vs_forces,c2,174.5,174.498,ok
+T2_total_vs_forces,c3,174.06,174.056,ok
+T2_total_vs_forces,c4,173.67,173.675,ok
+T2_total_vs_forces,c5,174.55,174.55,ok
+T2_total_vs_forces,c6,174.91,174.91,ok
+T1_obs_sum,sum cohorts,6972,6972.0,ok
+T3_force_N_sum,c3..c7 vs c1,6896.0,6896.0,ok
+T3_force_N_sum,c6+c7 vs c8,6158.0,6158.0,ok
+T5_sum_to_1,Region r1,1.0,1,ok
+T5_sum_to_1,Region r2,1.0,1,ok
+T5_sum_to_1,Region r3,1.0,1,ok
+T5_sum_to_1,Region r4,1.0,1,ok
+T5_sum_to_1,Region r5,1.0,1,ok
+T5_sum_to_1,Class r1,1.0,1,ok
+T5_sum_to_1,Class r2,1.0,1,ok
+T5_sum_to_1,Class r3,1.0,1,ok
+T5_sum_to_1,Class r4,1.0,1,ok
+T5_sum_to_1,Class r5,1.0,1,ok
+T5_sum_to_1,Townsize r1,1.0,1,ok
+T5_sum_to_1,Townsize r2,1.0,1,ok
+T5_sum_to_1,Townsize r3,1.0,1,ok
+T5_sum_to_1,Townsize r4,1.0,1,ok
+T5_sum_to_1,Townsize r5,1.0,1,ok
+T5_change_vs_T2,r1,-0.86,-0.86,ok
+T5_change_vs_T2,r2,-0.452,-0.44,MISMATCH
+T5_change_vs_T2,r3,-0.368,-0.39,MISMATCH
+T5_change_vs_T2,r4,0.776,0.88,MISMATCH
+T5_change_vs_T2,r5,0.403,0.36,MISMATCH

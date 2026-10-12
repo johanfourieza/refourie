@@ -1,0 +1,8 @@
+check,value,pass
+"off construction vs S2 run-A1 household totaltax (max |diff|, st), double arithmetic",0.0015625000087311491,TRUE
+"off construction vs S2 run-A1 household totaltax (max |diff|, st), Stata float storage",0,TRUE
+R xtile10 equals Stata slavesdecile (all retained records),1,TRUE
+"Image 9 pastes Deciles!Q12:W21 to every printed digit, double arithmetic (cells matching / 70)",69,NA
+"Image 9 pastes Deciles!Q12:W21 to every printed digit, Stata float storage (cells matching / 70)",70,TRUE
+"workbook share 1773 from float means vs Deciles!W24 x100 (|diff| < 5e-5, 7 sig. digits of the pastes)",61.241325038265764,TRUE
+no missing tax input in 1700 or 1773,1,TRUE

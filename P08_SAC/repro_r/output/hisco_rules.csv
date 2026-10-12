@@ -1,0 +1,90 @@
+rule_order,regex,hisco_minor
+1,^(nil|none|nothing|no occupation|no profession|no trade.*|independent|gentleman|layman|none - gentleman)$,00
+2,gentleman rider,18
+3,electrical fitter,85
+4,brass (finisher|trimmer)|metal polisher|lather,83
+5,pattern maker,81
+6,carpet (planner|finisher),75
+7,ref guard,58
+8,outfitter|tobacconist|pawn ?broker,41
+9,nurseryman,62
+10,ticket,36
+11,bus proprietor|coach business,41
+12,instrument maker|sight spring,84
+13,farm[- ]?pupil,62
+14,student|undergrad|scholar|pupil,10
+15,golf club maker|fishing rod|fish hook|piano|organ builder|toy maker|basket|brush maker|umbrella|pipe maker|tattooist,94
+16,(loco|railway|railroad).*engineer|^loco,98
+17,stationary engine|engine (man|attendant)|^engineman|pumpman,96
+18,marine engineer|master mariner|mate|^pilot|officer r\.?n|^officer rnr,04
+19,(motor|cycle|jobbing) engineer,84
+20,engineers turner,83
+21,telegraph linesman|telephone (engineer|jointer)|linesman|lineman|wireman,85
+22,electric(al)? engineer|elec\. engineer,03
+23,assayer|analyst,01
+24,medical|doctor|physician|surgeon|dentist|dental|veterinary|^vet|chemist|druggist|dispenser|pharmac|nurse|nursing|hospital|asylum|sick|compounder|optician,06
+25,architect|engineer|surveyor|draughtsman|draftsman|^c\.e$|explosive,03
+26,accountant,11
+27,shorthand|stenographer|typist|typewriter|shorthand typer,32
+28,telegraph|telephon|signaller,38
+29,clerk|clerical|secretar|correspond,30
+30,solicitor|barrister|lawyer|conveyancer|crown law|^law$,12
+31,teacher|schoolmaster|school master|tutor|instructor,13
+32,journalist|reporter|author|editor|publisher,15
+33,artist|photographer|^art$|fine art|sculptor|china painter,16
+34,musician|^actor|organist|bandsman|piper|trumpeter|theatrical|composer|vocalist,17
+35,jockey|golf|athlete|swimmer|gymnast|cricketer|steeplechase,18
+36,interpreter|naturalist|librar,19
+37,farm (labourer|servant|hand|worker|overseer|steward|bailiff)|ranch overseer|land steward,62
+38,manager|banker|contractor|manufacturer,21
+39,foreman|overseer|overlooker|inspector|supervisor|ganger,22
+40,govt servant|government|civil service|collector,31
+41,bookkeeper|book-keeper|cashier,33
+42,conductor|ticket|^guard|railway guard,36
+43,postman|mail|post-boy,37
+44,storeman|store man|time ?keeper|checker|weigh master|booker|stock keeper,39
+45,labourer|laborer,99
+46,porter|packer|stevedore|docker|warehouseman|crane|winch|furniture remover|bottler|corker|labeller|trussman|pile driver,97
+47,merchant (service|navy|seaman)|sailor|seaman|mariner|seafaring|boat-?swain|waterman|lighterman|driver|coachman|^coach$|carter|carman|cabman|^cab( |driver|man|$)|teamster|transport|chauffeur|motor-?man|tramcar|van ?man|vanman|drayman|lorryman|carrier|shunter|brakesman|signal[- ]?man|fireman|stoker|locomotive|railroading|trucker|deliverer,98
+48,retailer|buyer,41
+49,(auctioneer|estate agent|land agen|lands agent|insurance|stock ?broker|broker|commission agent|stock exchange|mining agent|land agency),44
+50,traveller|canvasser|agent,43
+51,salesman|saleman|shop assistant|shopman|hawker|milkman|breadsman|window dresser,45
+52,hotel (proprietor|keeper)|hotelkeeper|publican|licensed victualler|caterer|innkeeper|job ?master|posting master|horse hirer|liveryman,51
+53,cook|chef|waiter|barman|bartender|tapster|steward|cell[ae]r ?man|collerman,53
+54,farm servant|railway servant|rail servant,XX
+55,valet|footman|butler|servant|^boots|hotel boots|batman|manservant|hall porter,54
+56,cleaner|caretaker|usher|lamplighter,55
+57,laund,56
+58,hair ?dresser|barber,57
+59,soldier|army|military|militia|police|constable|constabulary|r\.i\.c|nwmp|n\.w\.m|z\.?a\.?r\.?p|trooper|warder|gaoler|prison|fire brigade|staats|artiller|rifles|c\.m\.r|cavalry|scout|dispatch rider|messenger|watchman|sheriff|ammunition|lieutenant|captain|petty officer|gunner|inquiry agent|bailiff,58
+60,billiard|attendant|guide|bookmaker,59
+61,farmer|farming|rancher|ranching|^ranch$|grazier|planter|agricultur|landowner|yeoman|stock raising|fruit growing|market garden|^boer$|horse breeder,61
+62,ploughman|groom|stable|horse ?(breaker|trainer|keeper)|colt breaker|rough rider|stock ?man|stock ?(rider|driver|riding)|drover|shepherd|cowboy|cattle ?man|musterer|boundary rider|range rider|station hand|shearer|dairyman|garden|nurseryman|horticultur|groundsman|ostler|gardiner|bushman|^whip$|huntsman|m\.f\.h|ranchman|^trainer,62
+63,^lumber|woodman|forest|forrester|woodranger|wood burner,63
+64,fisherman|game ?keeper|deer stalker|trapper|mole catcher|hunter|sealer,64
+65,(^| )miners?( |$)|^mining$|collier|coalminer|prospector|quarry|digger|well sinker|pit sinker|blaster|driller|stonebreaker,71
+66,smelter|furnace|steel ?work|iron (worker|founder|& steel)|moulder|founder|caster|metal roller|rollerman|amalgamator|cyanide|refiner|heater|mould maker|coremaker|electroplater,72
+67,sawyer|paper maker,73
+68,soap|oil blender|gas worker|colour mixer,74
+69,weaver|spinner|spinning|dyer|bleacher|tenter|warp|lap piecer|carder|wool (sorter|classer|stapler)|cloth (finisher|lapper)|linen finisher|beamer|creeler|power loom|worsted|lace maker|callico|calico|linoleum|woollen carder,75
+70,tanner|currier|fellmonger,76
+71,butcher|baker|miller|millier|confectioner|brewer|maltster|malster|malts ?man|distiller|cheese ?maker|butter maker|poultry dresser|mineral water|soda water|biscuit|bean curer,77
+72,tobacco|cigar(?! box),78
+73,stone ?cutter|marble|monumental,82
+74,paper (cutter|ruler|finisher)|^ruler$,91
+75,shoe(?!ing)|boot|saddle|sadler|harness|clicker|shoe laster|portmanteau|leather|whip maker,80
+76,tailor|taylor|cutter|upholster|hatter|shirt|mattress|furrier|sail ?maker|tent|costumier|dressmaker,79
+77,cabinet|cooper|wheelwright|coach ?builder|coach-body|carriage (builder|finisher)|wagon|wood ?(turner|carver|mechanic|moulder)|chair maker|french polisher|trench polisher|packing case|cartwright|carver|cigar box,81
+78,plumber|gas ?fitter|steam fitter|pipe (fitter|layer)|hot-water|tin ?smith|tinplater|tin worker|tinker|boiler|plater|rivet|rivitter|rigger|splicer|wire rope|coppersmith|metal (worker|spinner|pipe)|ironwork|ironplate|sink & bath|wire worker,87
+79,jewel|silversmith|goldsmith|silver polisher|diamond worker,88
+80,fitter|mechanic|millwright|watch|clock|cycle|bicycle|safe making,84
+81,blacksmith|smith$|shoeing|farrier|ferrier|tool (maker|forger|sharpener)|filer|turner|machinist|machine (hand|operator|man)|armourer|gun|arms smith|hammerman|striker|stiker|chain maker|small arms,83
+82,electric,85
+83,glass|potter|brick ?maker|brick burner|tile ?maker|terracotta,89
+84,rubber,90
+85,printer|compositor|lithographer|bookbind|binder|stereotyper|engraver|etcher|^press$|pressman,92
+86,painter|decorator|sign ?writer|paper ?hanger,93
+87,carpenter|joiner|bricklayer|mason|plasterer|slater|slate layer|slating|builder|plate ?layer|glazier|thatcher|tiler|scaffolder|shipwright|ship ?builder|road making|trackman,95
+88,grocer|ironmonger|draper|drapery|fruiterer|merchant|trader|dealer|shop ?keeper|store ?keeper|tobacconist|stationer|fishmonger|cheesemonger|poulterer|outfitter|clothier|hosier|florist|book ?seller|pawn ?broker|chandler|seedsman|silk mercer|hardware|wholesaler|provision|wine|spirit trade|tea trade|grain trade|woollen trade|lace trade|music trade|mercantile|tradesman|^commercial$|lace|colourman|glove|furnish,41
+89,railway|railwayman|keeper|careman|fareman|fallsman|fetler|bleeder|pipemounter|plateman|art in trans|handyman|helper|mill ?hand|millhand|apprentice|improver|worker$|^shipping$|^insurance$,99

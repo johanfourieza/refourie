@@ -1,0 +1,7 @@
+asset,T_a,s_lo_pct,s_hi_pct,s_finite_pop
+barley,140,0.735714285714286,1,1
+cattle,142,1,1,1
+horses,142,1,1,1
+sheep,140,1,1,1
+wheat,140,1,1,1
+wine,133,1,1,1

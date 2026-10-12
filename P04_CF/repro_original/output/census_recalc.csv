@@ -1,0 +1,51 @@
+claim_id,wb,sheet,addr,note,value,cached,cached_match
+T3_r1_c3,cc,Summaries,D11,1865: Summaries!B3/B7*100 <- '1865 v. 1875'!K cells,29.747344539548315,29.747344539548315,TRUE
+T3_r2_c3,cc,Summaries,D12,,55.33463957925131,55.33463957925131,TRUE
+T3_r3_c3,cc,Summaries,D13,,7.466226668041662,7.466226668041662,TRUE
+T3_r4_c3,cc,Summaries,D14,,7.451789213158709,7.451789213158709,TRUE
+T3_r5_c3,cc,Summaries,D15,,99.99999999999999,99.99999999999999,TRUE
+T3_r1_c5,cc,Summaries,F11,1875: Summaries!C3/C7*100 <- '1865 v. 1875'!M cells,33.814350163772325,33.814350163772325,TRUE
+T3_r2_c5,cc,Summaries,F12,,52.6373524504048,52.6373524504048,TRUE
+T3_r3_c5,cc,Summaries,F13,,8.806625054075766,8.806625054075766,TRUE
+T3_r4_c5,cc,Summaries,F14,,4.741672331747111,4.741672331747111,TRUE
+T3_r5_c5,cc,Summaries,F15,,100,100,TRUE
+T3_r1_c6,cc,1891,AC7,1891: '1891'!AB/AB11*100 <- census cells (Summaries G col is pasted values),27.926000281769515,27.926000281769515,TRUE
+T3_r2_c6,cc,1891,AC8,,52.39944350521274,52.39944350521274,TRUE
+T3_r3_c6,cc,1891,AC9,,17.676634263172726,17.676634263172726,TRUE
+T3_r4_c6,cc,1891,AC10,,1.9979219498450267,1.9979219498450267,TRUE
+T3_r5_c6,cc,1891,AC11,,100,100,TRUE
+T4_r1_c2,oc,Occupations Sub-Orders,R4,1911: Census_1911_occupations R=Q/Q8*100 <- census cells,29.30695637022299,29.30695637022299,TRUE
+T4_r2_c2,oc,Occupations Sub-Orders,R5,,47.82722332756574,47.82722332756574,TRUE
+T4_r3_c2,oc,Occupations Sub-Orders,R6,,19.034082850786728,19.034082850786728,TRUE
+T4_r4_c2,oc,Occupations Sub-Orders,R7,,3.8317374514245426,3.8317374514245426,TRUE
+T4_r5_c2,oc,Occupations Sub-Orders,R8,,100.00000000000001,100.00000000000001,TRUE
+T5_r1_c1,oc,Occupations Sub-Orders,Q4,European N,144648,144648,TRUE
+T5_r2_c1,oc,Occupations Sub-Orders,Q5,,236057,236057,TRUE
+T5_r3_c1,oc,Occupations Sub-Orders,Q6,,93945,93945,TRUE
+T5_r4_c1,oc,Occupations Sub-Orders,Q7,,18912,18912,TRUE
+T5_r5_c1,oc,Occupations Sub-Orders,Q8,,493562,493562,TRUE
+T5_r1_c3,oc,Occupations Sub-Orders,Q13,Non-European N,59975,59975,TRUE
+T5_r2_c3,oc,Occupations Sub-Orders,Q14,,912152,912152,TRUE
+T5_r3_c3,oc,Occupations Sub-Orders,Q15,,84346,84346,TRUE
+T5_r4_c3,oc,Occupations Sub-Orders,Q16,,132802,132802,TRUE
+T5_r5_c3,oc,Occupations Sub-Orders,Q17,,1189275,1189275,TRUE
+T5_r1_c2,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,70.6900006353147,NA,NA
+T5_r1_c4,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,29.3099993646853,NA,NA
+T5_r1_c5,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,204623,NA,NA
+T5_r1_c6,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,100,NA,NA
+T5_r2_c2,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,20.55871361398491,NA,NA
+T5_r2_c4,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,79.4412863860151,NA,NA
+T5_r2_c5,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,1148209,NA,NA
+T5_r2_c6,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,100,NA,NA
+T5_r3_c2,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,52.69194743425075,NA,NA
+T5_r3_c4,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,47.30805256574925,NA,NA
+T5_r3_c5,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,178291,NA,NA
+T5_r3_c6,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,100,NA,NA
+T5_r4_c2,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,12.465560198795101,NA,NA
+T5_r4_c4,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,87.5344398012049,NA,NA
+T5_r4_c5,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,151714,NA,NA
+T5_r4_c6,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,100,NA,NA
+T5_r5_c2,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,29.32916259863552,NA,NA
+T5_r5_c4,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,70.67083740136448,NA,NA
+T5_r5_c5,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,1682837,NA,NA
+T5_r5_c6,derived,NA,NA,no formula in workbook (pasted value); computed from recalculated Ns,100,NA,NA

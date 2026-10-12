@@ -1,0 +1,48 @@
+	(1)
+VARIABLES	numerate
+	
+female2	-2.527
+	(0.542)
+age23	2.841
+	(0.336)
+eur_early	38.01
+	(0.00837)
+eur_mid	39.21
+	(0.00643)
+eur_post	38.84
+	(0.0137)
+id_early	-29.84
+	(0.0492)
+id_mid	-47.88
+	(0.00229)
+in_early	-25.12
+	(0.120)
+in_mid	-37.85
+	(0.0273)
+ko_early	11.54
+	(0.504)
+ko_mid	-31.58
+	(0.0274)
+ko_post	-6.879
+	(0.637)
+mz_mid	-43.36
+	(0.00493)
+mz_post	-8.949
+	(0.604)
+otb_early	-11.68
+	(0.406)
+otb_mid	-26.14
+	(0.0703)
+otb_post	-16.95
+	(0.265)
+za_mid	-17.03
+	(0.259)
+za_post	-9.036
+	(0.564)
+Constant	53.96
+	(9.24e-05)
+	
+Observations	1,802
+R-squared	0.194
+pval in parentheses	
+Put your notes here.	

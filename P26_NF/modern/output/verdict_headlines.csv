@@ -1,0 +1,7 @@
+headline,verdict,sub_rows
+TX_black_fall_1887,qualified,B-pt=qualified; B-rng=qualified; B-lt=qualified; B-ten=qualified; B-cmp=confirmed
+TX_white_col_fall,qualified,W-pt=qualified; W-cmp=confirmed
+T1_Total_1886,not-testable,level row (§4 E)
+T1_Total_1887,not-testable,level row (§4 E)
+T2_Total_1886,not-testable,level row (§4 E)
+T2_Total_1887,not-testable,level row (§4 E)

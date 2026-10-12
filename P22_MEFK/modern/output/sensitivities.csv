@@ -1,0 +1,55 @@
+sensitivity,quantity,estimate,lower,upper,note
+"1a unknowns in denominator, allocated to none",rows: Middle class,18.3784,14.9302,23.3964,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Businessmen,11.9211,9.11414,15.3377,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Farmers,16.5376,3.35309,28.9133,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Rentiers,4.23667,1.05681,10.1021,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Working class,2.98028,1.58739,4.70261,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Company investors,0.934989,0.590292,1.33439,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Middle class,15.9956,9.52616,23.3977,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Businessmen,19.7319,11.3103,29.3182,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Farmers,2.37901,0.49938,4.63254,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Rentiers,4.54306,1.30008,9.08429,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Working class,1.21683,0.183146,3.13989,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Company investors,3.33556,1.22477,6.62479,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",value: Foreign,9.0868,3.266,18.4956,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"1a unknowns in denominator, allocated to none",rows: Local,76.6837,68.4529,85.8232,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Middle class,33.4219,25.7544,47.2862,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Businessmen,21.6791,16.9094,29.6764,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Farmers,30.0744,7.4428,44.3162,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Rentiers,7.70457,1.97479,18.5346,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Working class,5.41977,3.19841,9.32319,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Company investors,1.70032,1.07949,2.58938,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Middle class,33.8876,21.3833,47.0513,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Businessmen,41.8031,27.9471,54.9075,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Farmers,5.04006,1.22099,9.64706,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Rentiers,9.62474,2.90386,18.5903,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Working class,2.57793,0.409216,6.70507,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Company investors,7.06658,2.39325,15.06,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,value: Foreign,10.5107,3.80288,21.137,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+1b unknowns excluded from denominator,rows: Local,95.8546,92.3847,98.009,"lower/upper = sensitivity 2: company-cluster bootstrap 95% percentile interval, B=999"
+"3 women->Rentiers, financiers->Businessmen",rows: Middle class share (identified set),15.0329,15.0329,60.0438,
+"3 women->Rentiers, financiers->Businessmen",rows: min_j D_j (identified set),,-46.5157,43.5062,binding competitor for upper bound: Farmers
+"3 women->Rentiers, financiers->Businessmen",value: Middle class share (identified set),10.4038,10.4038,63.2019,
+"3 women->Rentiers, financiers->Businessmen",value: min_j D_j (identified set),,-64.0635,41.5325,binding competitor for upper bound: Businessmen
+4 majority reading,value: Middle class share - 50 (identified set),,-34.0044,18.7937,
+5 investor level,investors: Middle class share (identified set),18.5507,18.5507,62.6892,6210 name keys
+5 investor level,investors: min_j D_j (identified set),,-42.7697,45.5072,
+5 investor level,value: Middle class share (identified set),17.1903,17.1903,66.1367,6210 name keys
+5 investor level,value: min_j D_j (identified set),,-52.9699,44.9229,
+5 investor level,value: Foreign (identified set),8.72247,8.72247,21.6025,
+5 investor level,investors: Local (identified set),76.8277,76.8277,96.4895,
+6 foreign = outside Cape Colony,value: Foreign (identified set),14.4649,14.4649,28.0119,
+6 foreign = outside Cape Colony,rows: Local (identified set),74.2001,74.2001,94.2001,
+7 leave-one-company-out,value: Middle class (1a),15.9956,14.3708,17.2946,range over 285 companies
+7 leave-one-company-out,value: Foreign (1a),9.0868,4.88276,9.65386,most influential: LCC83
+8 founding cohort,"value: Foreign, cohort 1892",0,0,38.4025,"3 companies, 12 rows"
+8 founding cohort,"value: Foreign, cohort 1893",3.02571,3.02571,30.0779,"12 companies, 415 rows"
+8 founding cohort,"value: Foreign, cohort 1894",1.72473,1.72473,34.5703,"21 companies, 354 rows"
+8 founding cohort,"value: Foreign, cohort 1895",47.5447,47.5447,55.7578,"55 companies, 605 rows"
+8 founding cohort,"value: Foreign, cohort 1896",0.00392157,0.00392157,5.78824,"11 companies, 211 rows"
+8 founding cohort,"value: Foreign, cohort 1897",7.4329,7.4329,66.2587,"23 companies, 353 rows"
+8 founding cohort,"value: Foreign, cohort 1898",1.47946,1.47946,2.62215,"24 companies, 608 rows"
+8 founding cohort,"value: Foreign, cohort 1899",3.35234,3.35234,13.3574,"28 companies, 545 rows"
+8 founding cohort,"value: Foreign, cohort 1900",4.62356,4.62356,9.34508,"36 companies, 1287 rows"
+8 founding cohort,"value: Foreign, cohort 1901",7.362,7.362,9.31503,"29 companies, 444 rows"
+8 founding cohort,"value: Foreign, cohort 1902",4.41358,4.41358,10.8507,"42 companies, 1995 rows"

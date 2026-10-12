@@ -1,0 +1,249 @@
+claim_id,source,value,se,n,status_override,note,run
+t1_cnt_cc,original,19728,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_cc,original,59.520289636445916,,33145,,cell / grand total x 100,main
+t1_cnt_cw,original,78,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_cw,original,0.23532961230954896,,33145,,cell / grand total x 100,main
+t1_cnt_cb,original,8,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_cb,original,0.02413637049328707,,33145,,cell / grand total x 100,main
+t1_cnt_ct,original,19814,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_ct,original,59.77975561924875,,33145,,cell / grand total x 100,main
+t1_cnt_wc,original,358,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_wc,original,1.0801025795745964,,33145,,cell / grand total x 100,main
+t1_cnt_ww,original,11596,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_ww,original,34.98566903001961,,33145,,cell / grand total x 100,main
+t1_cnt_wb,original,3,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_wb,original,0.009051138934982652,,33145,,cell / grand total x 100,main
+t1_cnt_wt,original,11957,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_wt,original,36.07482274852919,,33145,,cell / grand total x 100,main
+t1_cnt_bc,original,240,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_bc,original,0.7240911147986122,,33145,,cell / grand total x 100,main
+t1_cnt_bw,original,0,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_bw,original,0,,33145,,cell / grand total x 100,main
+t1_cnt_bb,original,1134,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_bb,original,3.4213305174234425,,33145,,cell / grand total x 100,main
+t1_cnt_bt,original,1374,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_shr_bt,original,4.145421632222055,,33145,,cell / grand total x 100,main
+t1_cnt_tc,original,20326,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_cnt_tw,original,11674,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_cnt_tb,original,1145,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+t1_cnt_tt,original,33145,,33145,,"with(angreg, table(mrace, frace)) [script l.8212-8214 tabulations]",main
+T2_co_interracial,original,0.02326963065650064,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_maleage,original,26.199227455058683,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_femaleage,original,23.681622130781815,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_maleliteracy,original,0.873529120933452,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_femaleliteracy,original,0.871749233659646,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_sexratio,original,0.8741140140991186,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_segregation,original,0.8019835220750879,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_co_literacydifference,original,0.001779887273805992,,20226,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_interracial,original,0.030272620839605285,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_maleage,original,28.573268651722984,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_femaleage,original,24.851858051556746,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_maleliteracy,original,0.9954059472101571,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_femaleliteracy,original,0.9925659873037087,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_sexratio,original,0.941971352668403,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_segregation,original,0.770029304404571,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_wh_literacydifference,original,0.0028399599064483794,,11972,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_interracial,original,0.17527272727272727,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_maleage,original,32.85080058224163,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_femaleage,original,25.78732702112163,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_maleliteracy,original,0.8316400580551524,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_femaleliteracy,original,0.8120464441219158,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_sexratio,original,2.6717606144621397,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_segregation,original,0.9127420643737981,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_bl_literacydifference,original,0.019593613933236574,,1378,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_maleage,original,28.156345565749234,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_femaleage,original,24.579410639112133,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_maleliteracy,original,0.8079117535184481,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_femaleliteracy,original,0.8204640547736782,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_segregation,original,0.7816139256569292,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T2_na_literacydifference,original,-0.012552301255230125,,2629,,"descriptives (group_by(mrace) means, na.rm) incl. NA-race group",main
+T3_whitemale_c1,original,6.264207926980523,0.17312865164248678,33048,,model5 mraceWhite; SE = default MLE (glm),main
+T3_blackmale_c1,original,8.613114310656428,0.34899086925063033,33048,,model5 mraceBlack; SE = default MLE (glm),main
+T3_whitefemale_c1,original,-5.939178798466363,0.17619983181824278,33048,,model5 fraceWhite; SE = default MLE (glm),main
+T3_blackfemale_c1,original,-7.4567044371508935,0.4467399738175676,33048,,model5 fraceBlack; SE = default MLE (glm),main
+T3_maleage_c1,original,0.01887572389788035,0.01033653883285771,33048,,model5 mage; SE = default MLE (glm),main
+T3_femaleage_c1,original,0.007595279028465178,0.01296638364560099,33048,,model5 fage; SE = default MLE (glm),main
+T3_act_c1,original,-1.474573274947317,0.24049936068685776,33048,,model5 act; SE = default MLE (glm),main
+T3_segregation_c1,original,-2.245824225330753,0.39152875466047155,33048,,model5 inequality; SE = default MLE (glm),main
+T3_literacygap_c1,original,0.22538359199286395,0.1834833010672814,33048,,model5 dlit; SE = default MLE (glm),main
+T3_constant_c1,original,-4.164879612685496,0.3547001623362073,33048,,model5 (Intercept); SE = default MLE (glm),main
+T3_obs_c1,original,33048,,33048,,nobs(),main
+T3_whitemale_c2,original,0.6274361077664055,0.005619557773165897,23308,,model6 mraceWhite; SE = default iid OLS (lm),main
+T3_blackmale_c2,original,0.8738413339207544,0.007494966069093228,23308,,model6 mraceBlack; SE = default iid OLS (lm),main
+T3_whitefemale_c2,original,-0.620358698246483,0.005672911700694605,23308,,model6 fraceWhite; SE = default iid OLS (lm),main
+T3_blackfemale_c2,original,-0.8819036008804608,0.00977288245677129,23308,,model6 fraceBlack; SE = default iid OLS (lm),main
+T3_maleage_c2,original,3.1652391923546794e-4,1.302806155052651e-4,23308,,model6 mage; SE = default iid OLS (lm),main
+T3_femaleage_c2,original,1.1072923258954813e-4,1.4953043140361177e-4,23308,,model6 fage; SE = default iid OLS (lm),main
+T3_act_c2,original,2.6875783315965645e-4,0.0020532345206878797,23308,,model6 act; SE = default iid OLS (lm),main
+T3_segregation_c2,original,-0.02782527203653458,0.005538026789106629,23308,,model6 inequality; SE = default iid OLS (lm),main
+T3_literacygap_c2,original,0.0055022490734795435,0.0018408018153330224,23308,,model6 dlit; SE = default iid OLS (lm),main
+T3_widower_c2,original,-0.0012310350100755874,0.0029289113280316897,23308,,model6 mcon1; SE = default iid OLS (lm),main
+T3_maledivorcee_c2,original,-0.08542229154673071,0.029769670288558873,23308,,model6 mcon2; SE = default iid OLS (lm),main
+T3_widow_c2,original,0.006927561919567619,0.0032856507018897167,23308,,model6 fcon1; SE = default iid OLS (lm),main
+T3_femaledivorcee_c2,original,0.15848596052849206,0.028520102746213846,23308,,model6 fcon2; SE = default iid OLS (lm),main
+T3_year_c2,original,-3.6957718899175253e-4,8.015199139034984e-5,23308,,model6 year; SE = default iid OLS (lm),main
+T3_constant_c2,original,0.7375873797166516,0.15471008151492494,23308,,model6 (Intercept); SE = default iid OLS (lm),main
+T3_obs_c2,original,23308,,23308,,nobs(),main
+T3_r2_c2,original,0.5583755820722448,,23308,,,main
+T3_adjr2_c2,original,0.5572357590810776,,23308,,,main
+T3_whitemale_c3,original,0.6380867606736342,0.006301056415190679,18829,,model7 mraceWhite; SE = default iid OLS (lm),main
+T3_blackmale_c3,original,0.8557372772042571,0.009470655515847198,18829,,model7 mraceBlack; SE = default iid OLS (lm),main
+T3_whitefemale_c3,original,-0.6306599925869264,0.0063768281492314035,18829,,model7 fraceWhite; SE = default iid OLS (lm),main
+T3_blackfemale_c3,original,-0.921024572994269,0.00927173321936614,18829,,model7 fraceBlack; SE = default iid OLS (lm),main
+T3_maleage_c3,original,3.4258522868788006e-4,1.2512061146093407e-4,18829,,model7 mage; SE = default iid OLS (lm),main
+T3_femaleage_c3,original,1.3584192510633322e-4,1.428712890240649e-4,18829,,model7 fage; SE = default iid OLS (lm),main
+T3_act_c3,original,-0.0062235526206254905,0.001988800427027104,18829,,model7 act; SE = default iid OLS (lm),main
+T3_sexratio_c3,original,0.009331086390953968,0.0026132748727203618,18829,,model7 sex; SE = default iid OLS (lm),main
+T3_segregation_c3,original,-0.02248748403814021,0.005499498257765697,18829,,model7 inequality; SE = default iid OLS (lm),main
+T3_literacygap_c3,original,0.0029827661917455855,0.0017783780131914915,18829,,model7 dlit; SE = default iid OLS (lm),main
+T3_widower_c3,original,-0.001460338352698132,0.0028528874174951215,18829,,model7 mcon1; SE = default iid OLS (lm),main
+T3_maledivorcee_c3,original,-0.09856765199953792,0.03072435207400723,18829,,model7 mcon2; SE = default iid OLS (lm),main
+T3_widow_c3,original,0.009760498112920946,0.00322132151095588,18829,,model7 fcon1; SE = default iid OLS (lm),main
+T3_femaledivorcee_c3,original,0.20223701065445587,0.027143667441492655,18829,,model7 fcon2; SE = default iid OLS (lm),main
+T3_foreignbornmale_c3,original,0.002766397654570289,0.002060662986015896,18829,,model7 mcountrydum; SE = default iid OLS (lm),main
+T3_foreignbornfemale_c3,original,-0.00514607520602259,0.0024889316688435485,18829,,model7 fcountrydum; SE = default iid OLS (lm),main
+T3_year_c3,original,8.828825480787827e-5,9.997515329206043e-5,18829,,model7 year; SE = default iid OLS (lm),main
+T3_constant_c3,original,-0.16421304422155247,0.1941284838729794,18829,,model7 (Intercept); SE = default iid OLS (lm),main
+T3_obs_c3,original,18829,,18829,,nobs(),main
+T3_r2_c3,original,0.6052915547452384,,18829,,,main
+T3_adjr2_c3,original,0.6039874982811121,,18829,,,main
+T3_whitemale_c4,original,0.6758919156541373,0.00673528092336809,12023,,model8 mraceWhite; SE = default iid OLS (lm),main
+T3_blackmale_c4,original,0.9934957405799802,0.011931710634206921,12023,,model8 mraceBlack; SE = default iid OLS (lm),main
+T3_whitefemale_c4,original,-0.6654496651658806,0.006817190222647119,12023,,model8 fraceWhite; SE = default iid OLS (lm),main
+T3_blackfemale_c4,original,-0.9938801172340805,0.014329491266921363,12023,,model8 fraceBlack; SE = default iid OLS (lm),main
+T3_maleage_c4,original,1.0699031669419785e-4,1.2679612737190256e-4,12023,,model8 mage; SE = default iid OLS (lm),main
+T3_femaleage_c4,original,1.489167448647539e-4,1.4298721528478633e-4,12023,,model8 fage; SE = default iid OLS (lm),main
+T3_act_c4,original,-0.006454248930027719,0.0019616276641570883,12023,,model8 act; SE = default iid OLS (lm),main
+T3_sexratio_c4,original,6.511764915843066e-4,0.005317573209353871,12023,,model8 sex; SE = default iid OLS (lm),main
+T3_segregation_c4,original,-0.013547413448326951,0.005718331989565183,12023,,model8 inequality; SE = default iid OLS (lm),main
+T3_literacygap_c4,original,-8.152976794200835e-4,0.0019727068238562704,12023,,model8 dlit; SE = default iid OLS (lm),main
+T3_widower_c4,original,-0.0021478519333494096,0.0030483508846700087,12023,,model8 mcon1; SE = default iid OLS (lm),main
+T3_maledivorcee_c4,original,-0.19241342162137184,0.027000307693261002,12023,,model8 mcon2; SE = default iid OLS (lm),main
+T3_widow_c4,original,0.01756409930757847,0.0034515862288017674,12023,,model8 fcon1; SE = default iid OLS (lm),main
+T3_femaledivorcee_c4,original,0.3658703931965124,0.02704943003622669,12023,,model8 fcon2; SE = default iid OLS (lm),main
+T3_foreignbornmale_c4,original,-0.002421075437428742,0.0019859611735159157,12023,,model8 mcountrydum; SE = default iid OLS (lm),main
+T3_foreignbornfemale_c4,original,-0.00428966452132289,0.0024045388753038883,12023,,model8 fcountrydum; SE = default iid OLS (lm),main
+T3_malemanager_c4,original,-5.923941087359615e-4,0.0014076571051652965,12023,,model8 I(mhisco == 1)TRUE; SE = default iid OLS (lm),main
+T3_malesales_c4,original,7.049845342787101e-4,0.0016183876958139843,12023,,model8 I(mhisco == 2)TRUE; SE = default iid OLS (lm),main
+T3_femalemanager_c4,original,-0.003447289122192423,0.001497125276288959,12023,,model8 I(fhisco == 1)TRUE; SE = default iid OLS (lm),main
+T3_femalesales_c4,original,-0.0021769419474881486,0.001460786162803067,12023,,model8 I(fhisco == 2)TRUE; SE = default iid OLS (lm),main
+T3_year_c4,original,1.6247832761904878e-4,1.300148106116406e-4,12023,,model8 year; SE = default iid OLS (lm),main
+T3_constant_c4,original,-0.304879777232949,0.25337572039162765,12023,,model8 (Intercept); SE = default iid OLS (lm),main
+T3_obs_c4,original,12023,,12023,,nobs(),main
+T3_r2_c4,original,0.6802970261352991,,12023,,,main
+T3_adjr2_c4,original,0.6785590740318279,,12023,,,main
+T3_aic_c1,original,2524.2764953905453,,33048,,AIC(model5),main
+T4_co_same_male,original,0.8714010543390105,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_co_same_female,original,0.8694748580697486,,,,"literacy: group_by(mrace, interdum) mean flit",main
+T4_co_inter_male,original,0.9617021276595744,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_co_inter_female,original,0.9680851063829787,,,,"literacy: group_by(mrace, interdum) mean flit",main
+T4_wh_same_male,original,0.9970679544670576,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_wh_same_female,original,0.9964642980338048,,,,"literacy: group_by(mrace, interdum) mean flit",main
+T4_wh_inter_male,original,0.9419889502762431,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_wh_inter_female,original,0.8701657458563536,,,,"literacy: group_by(mrace, interdum) mean flit",main
+T4_bl_same_male,original,0.8421516754850088,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_bl_same_female,original,0.8421516754850088,,,,"literacy: group_by(mrace, interdum) mean flit",main
+T4_bl_inter_male,original,0.7842323651452282,,,,"literacy: group_by(mrace, interdum) mean mlit",main
+T4_bl_inter_female,original,0.6680497925311203,,,,"literacy: group_by(mrace, interdum) mean flit",main
+F3_1911,original,9.60960960960961,,,,years$share (interdum by year x 100),main
+F3_1912,original,9.00900900900901,,,,years$share (interdum by year x 100),main
+F3_1913,original,7.180851063829788,,,,years$share (interdum by year x 100),main
+F3_1914,original,7.926829268292683,,,,years$share (interdum by year x 100),main
+F3_1915,original,4,,,,years$share (interdum by year x 100),main
+F3_1916,original,8.630952380952381,,,,years$share (interdum by year x 100),main
+F3_1917,original,4.913294797687861,,,,years$share (interdum by year x 100),main
+F3_1918,original,6.211180124223603,,,,years$share (interdum by year x 100),main
+F3_1919,original,3.7209302325581395,,,,years$share (interdum by year x 100),main
+F3_1920,original,2.0316027088036117,,,,years$share (interdum by year x 100),main
+F3_1921,original,4.556962025316456,,,,years$share (interdum by year x 100),main
+F3_1922,original,3.7406483790523692,,,,years$share (interdum by year x 100),main
+F3_1923,original,3.970223325062035,,,,years$share (interdum by year x 100),main
+F3_1924,original,3.242320819112628,,,,years$share (interdum by year x 100),main
+F3_1925,original,4.132231404958678,,,,years$share (interdum by year x 100),main
+F3_1926,original,3.494176372712146,,,,years$share (interdum by year x 100),main
+F3_1927,original,1.5463917525773196,,,,years$share (interdum by year x 100),main
+F3_1928,original,3.1078610603290677,,,,years$share (interdum by year x 100),main
+F3_1929,original,2.831858407079646,,,,years$share (interdum by year x 100),main
+F3_1930,original,2.2687609075043627,,,,years$share (interdum by year x 100),main
+F3_1931,original,2.0967741935483875,,,,years$share (interdum by year x 100),main
+F3_1932,original,3.089430894308943,,,,years$share (interdum by year x 100),main
+F3_1933,original,1.8121911037891267,,,,years$share (interdum by year x 100),main
+F3_1934,original,2.1212121212121215,,,,years$share (interdum by year x 100),main
+F3_1935,original,2.39880059970015,,,,years$share (interdum by year x 100),main
+F3_1936,original,2.035623409669211,,,,years$share (interdum by year x 100),main
+F3_1937,original,1.6109045848822798,,,,years$share (interdum by year x 100),main
+F3_1938,original,2.1709633649932156,,,,years$share (interdum by year x 100),main
+F3_1939,original,2.078239608801956,,,,years$share (interdum by year x 100),main
+F3_1940,original,1.9501625135427951,,,,years$share (interdum by year x 100),main
+F3_1941,original,1.540436456996149,,,,years$share (interdum by year x 100),main
+F3_1942,original,2.3192360163710775,,,,years$share (interdum by year x 100),main
+F3_1943,original,1.726263871763255,,,,years$share (interdum by year x 100),main
+F3_1944,original,1.3157894736842104,,,,years$share (interdum by year x 100),main
+F3_1945,original,0.9925558312655087,,,,years$share (interdum by year x 100),main
+F3_1946,original,2.2004889975550124,,,,years$share (interdum by year x 100),main
+F3_1947,original,2.0460358056265986,,,,years$share (interdum by year x 100),main
+F3_1948,original,2.3284313725490198,,,,years$share (interdum by year x 100),main
+F3_1949,original,1.1990407673860912,,,,years$share (interdum by year x 100),main
+F3_1950,original,0,,,,years$share (interdum by year x 100),main
+F3_1951,original,0.2398081534772182,,,,years$share (interdum by year x 100),main
+F3_1952,original,0.7142857142857143,,,,years$share (interdum by year x 100),main
+F3_1953,original,0.5242463958060288,,,,years$share (interdum by year x 100),main
+F3_1954,original,0.6510416666666667,,,,years$share (interdum by year x 100),main
+F3_1955,original,0.4975124378109453,,,,years$share (interdum by year x 100),main
+F3_1956,original,6.82110682110682,,,,years$share (interdum by year x 100),main
+F3_1957,original,9.67741935483871,,,,years$share (interdum by year x 100),main
+F3_1958,original,8.16326530612245,,,,years$share (interdum by year x 100),main
+F3_1959,original,10.366624525916562,,,,years$share (interdum by year x 100),main
+F3_1960,original,9.210526315789473,,,,years$share (interdum by year x 100),main
+F3_1961,original,8.571428571428571,,,,years$share (interdum by year x 100),main
+F3_1962,original,0.19801980198019803,,,,years$share (interdum by year x 100),main
+F3_1963,original,0,,,,years$share (interdum by year x 100),main
+txt_p629_n23000,original,33145,,,,"T1 grand total ('more than 23,000')",main
+txt_p634_n_used,original,33145,,,,T1 grand total,main
+txt_p629_share_preWWI,original,,,,ambiguous,"period undefined; code: 1911=9.61, max 1911-13=9.61, pooled 1911-13=8.54",main
+txt_p629_share_1930s,original,,,,ambiguous,"bound ('less than'); code: pooled 1930-39=2.15, max annual=3.09",main
+txt_p630_share_post1949,original,,,,ambiguous,"bound ('less than'); code: pooled 1950-63=4.13, max annual 1950-63=10.37",main
+txt_p634_n_transcribed,original,,,,unavailable,not computed by the original script,main
+txt_p638_racecats,original,,,,unavailable,not computed by the original script,main
+txt_p638_occ_male,original,,,,unavailable,not computed by the original script,main
+txt_p638_occ_female,original,,,,unavailable,not computed by the original script,main
+txt_p640_occ_male,original,,,,unavailable,not computed by the original script,main
+txt_p641_occ_female,original,,,,unavailable,not computed by the original script,main
+txt_p639_reclass,original,,,,unavailable,not computed by the original script,main
+txt_p635_angl_white,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p635_angl_col,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p635_afr_white,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p635_afr_col,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p635_jewish,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p637_vs_inter1925,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p637_vs_ww1925,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p637_vs_sh1925,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p637_vs_1935,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p638_vs_1945,original,,,,unavailable,external source (1936 census / von Scholtz 1984); not in code,main
+txt_p636_colhusb_n,original,19814,,,,,main
+txt_p636_colhusb_sh,original,59.77975561924875,,,,,main
+txt_p636_whhusb_n,original,11957,,,,,main
+txt_p636_whhusb_sh,original,36.07482274852919,,,,,main
+txt_p636_blhusb_n,original,1374,,,,,main
+txt_p636_blhusb_sh,original,4.145421632222055,,,,,main
+txt_p637_wc,original,358,,,,,main
+txt_p637_bc,original,240,,,,code gives the T1 cell; text prints 158,main
+txt_p637_cw,original,78,,,,,main
+txt_p637_cb,original,8,,,,,main
+txt_p637_wb,original,3,,,,,main
+txt_p637_bw,original,0,,,,,main
+txt_p637_1925_whinter,original,11,,,,"with(white, table(inter, year))",main
+txt_p637_1925_ww,original,176,,,,ww marriages 1925 in angreg,main
+txt_p637_1925_inter,original,25,,,,years$m 1925,main
+txt_p637_1925_share,original,5.882352941176471,,,,"white-husband interracial / all white-husband marriages, 1925",main
+txt_p637_1925_ratio,original,6.5359477124183005,,,,"1925 share / 0.9 (von Scholtz share, as in text)",main
+txt_fn15_1925_all,original,4.132231404958678,,,,years$share 1925,main
+txt_p638_1935,original,1.8867924528301887,,,,white-husband measure as for 1925,main
+txt_p638_1945,original,1.3745704467353952,,,,white-husband measure as for 1925,main
+txt_p639_black_inter,original,17.527272727272727,,,,"descriptives interdum, Black husbands x 100",main
+txt_p639_col_inter,original,2.326963065650064,,,,"descriptives interdum, Coloured husbands x 100 (text: 'less than 1%')",main
+txt_p645_bl_same_lit,original,84.21516754850089,,,,literacy mlit x 100,main
+txt_p645_bl_inter_lit,original,78.42323651452283,,,,literacy mlit x 100,main
+txt_p645_colw_colm_lit,original,86.94748580697485,,,,literacy flit x 100,main
+txt_p645_colw_whm_lit,original,87.01657458563537,,,,literacy flit x 100,main
+txt_p646_n_occ,original,12023,,,,nobs(model8),main

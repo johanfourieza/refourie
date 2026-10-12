@@ -1,0 +1,5 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule
+T4_r3_F (H1),"F = 61.766 (n_w = 85, regression n = 80; reproduced)","p_s +/- 3.29 MC SE [0.00000, 0.00043]; p_lo-p_hi [0.00010, 0.00010]; surrogate F 99th pct 20.82","0.00010 (stage 1, B_def = 9999, f = 0)",p_s < 0.01 confirmed; 0.01-0.05 qualified; >= 0.05 weakened,confirmed [reproduced],"§8 H1 rule 1; calibration (report-only) size at 1%: A 0.472, B 0.473"
+T4_r5_F (H2),24.77 (published),,,none,not-testable,§8 H2 (no Brunt series survives)
+T5_r3_coef (H3),2.18 (published),,,none,not-testable,§8 H3 incl. 'equally large'/'above exports' (no Brunt series)
+T5_r5_coef (H4),2.88 (published),,,none,not-testable,§8 H4 (published exports series not recoverable)

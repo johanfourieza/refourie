@@ -1,0 +1,7 @@
+"claim","estimate","ci_lo","ci_hi","p_holm","threshold","verdict","rule"
+"I1",-1.276,-10.824,8.773,0.7288,0.21,"weakened (direction lost)","6: p_holm >= 0.05, opposite sign"
+"I2-OR",0.414,0.127,0.7,0.000417,0.132,"confirmed","3: same sign, p_holm < 0.05, |e| >= threshold"
+"I2-RR",0.296,0.136,0.456,4.206e-06,0.131,"confirmed","3: same sign, p_holm < 0.05, |e| >= threshold"
+"I3-OR",0.817,0.529,1.104,3.657e-13,0.202,"confirmed","3: same sign, p_holm < 0.05, |e| >= threshold"
+"I3-RR",0.504,0.343,0.665,8.81e-16,0.202,"confirmed","3: same sign, p_holm < 0.05, |e| >= threshold"
+"I4",-1.405,-4.127,1.523,0.0012,5,"confirmed","1: TOST rejects at Holm level (Bonferroni CI within +/-5 pp: TRUE)"

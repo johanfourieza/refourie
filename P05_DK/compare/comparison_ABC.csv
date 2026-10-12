@@ -1,0 +1,559 @@
+claim_id,location,quantity_type,headline,pair,ref,rep,rep_se,status,delta,rel_delta,inferential_agree
+T1_r1_c1,T1 row Black Pop. Share (1911) col 1,coef,1,A,39.432,39.4315408322013,10.9332353140074,exact,-4.5916779870225355e-4,-1.164454754266214e-5,TRUE
+T1_r1_c2,T1 row Black Pop. Share (1911) col 2,coef,0,A,1.49,1.48993973122653,0.598550887012416,exact,-6.026877347009574e-5,-4.044884125509781e-5,TRUE
+T1_r1_c3,T1 row Black Pop. Share (1911) col 3,coef,0,A,32.854,32.8543343916842,9.78212776434794,exact,3.343916841984651e-4,1.0178111773253337e-5,TRUE
+T1_r1_c4,T1 row Black Pop. Share (1911) col 4,coef,0,A,1.374,1.37392993508666,0.483475548682821,exact,-7.006491334005105e-5,-5.099338671037194e-5,TRUE
+T1_r2_c1,T1 row Coloured Pop. Share (1911) col 1,coef,0,A,15.482,15.4817958217208,16.4599011095697,exact,-2.0417827919949616e-4,-1.3188107427948337e-5,TRUE
+T1_r2_c2,T1 row Coloured Pop. Share (1911) col 2,coef,0,A,0.343,0.343245294711933,1.04191147984607,exact,2.4529471193296404e-4,7.151449327491662e-4,TRUE
+T1_r2_c3,T1 row Coloured Pop. Share (1911) col 3,coef,0,A,13.905,13.9047480526515,16.0913055736594,exact,-2.5194734849876e-4,-1.8119190830547284e-5,TRUE
+T1_r2_c4,T1 row Coloured Pop. Share (1911) col 4,coef,0,A,0.315,0.315300305946085,0.795302717227033,exact,3.0030594608498884e-4,9.533522097936154e-4,TRUE
+T1_r3_c1,T1 row Log (1 + Pop. Density (1911)) col 1,coef,0,A,1.187,1.18703911648855,1.53375626023861,exact,3.911648855003946e-5,3.295407628478472e-5,TRUE
+T1_r3_c2,T1 row Log (1 + Pop. Density (1911)) col 2,coef,0,A,0.047,0.047423137712617,0.0886756570087852,exact,4.231377126169972e-4,0.00900293005568079,TRUE
+T1_r3_c3,T1 row Log (1 + Pop. Density (1911)) col 3,coef,0,A,1.179,1.17855796163455,1.41487888078091,exact,-4.4203836544998154e-4,-3.7492651861745674e-4,TRUE
+T1_r3_c4,T1 row Log (1 + Pop. Density (1911)) col 4,coef,0,A,0.047,0.0473362116839358,0.0699295040592718,exact,3.362116839357998e-4,0.007153440083740421,TRUE
+T1_r4_c1,T1 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,A,-1.776,-1.77630497834299,1.04160243698157,exact,-3.0497834299003657e-4,-1.7172203997186744e-4,TRUE
+T1_r4_c2,T1 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,A,-0.094,-0.0935809578262965,0.052404775537551,exact,4.190421737035044e-4,0.0044578954649308975,TRUE
+T1_r4_c3,T1 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,A,-1.844,-1.84358232135689,0.957001509221816,exact,4.176786431100421e-4,2.265068563503482e-4,TRUE
+T1_r4_c4,T1 row Log (1 + Distance to Rail in Km (1907)) col 4,coef,0,A,-0.095,-0.094849184310668,0.0472992012481802,exact,1.5081568933200673e-4,0.0015875335719158603,TRUE
+T1_r5_c1,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,A,-0.139,-0.139482429693112,0.100837995997699,exact,-4.824296931119909e-4,-0.003470717216633028,TRUE
+T1_r5_c2,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,A,-0.012,-0.01150479504117,0.00838188851554213,exact,4.952049588300006e-4,0.04126707990250005,TRUE
+T1_r5_c3,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,A,-0.184,-0.183941755463293,0.0804969439833121,exact,5.824453670699725e-5,3.165463951467242e-4,TRUE
+T1_r5_c4,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 4,coef,0,A,-0.012,-0.0122903670860833,0.00397851112735045,exact,-2.903670860832999e-4,-0.024197257173608325,TRUE
+T1_r6_c1,T1 row Region = Natal col 1,coef,0,A,-26.074,-26.0742697988478,5.6801646025084,exact,-2.697988477997626e-4,-1.0347428388423816e-5,TRUE
+T1_r6_c2,T1 row Region = Natal col 2,coef,0,A,-0.777,-0.776620040917593,0.216814213350409,exact,3.7995908240706644e-4,4.890078280657225e-4,TRUE
+T1_r6_c3,T1 row Region = Natal col 3,coef,0,A,-20.126,-20.1264565149444,4.24474177477089,exact,-4.5651494439979956e-4,-2.2682845294633782e-5,TRUE
+T1_r6_c4,T1 row Region = Natal col 4,coef,0,A,-0.672,-0.671748648335103,0.209793708282346,exact,2.513516648970926e-4,3.740352156206735e-4,TRUE
+T1_r7_c1,T1 row Region = Orange Free State col 1,coef,0,A,-17.115,-17.1153756475894,3.630605406338,exact,-3.756475894007849e-4,-2.1948442267063098e-5,TRUE
+T1_r7_c2,T1 row Region = Orange Free State col 2,coef,0,A,-0.586,-0.586383414687538,0.154601340546936,exact,-3.8341468753799735e-4,-6.542912756621115e-4,TRUE
+T1_r7_c3,T1 row Region = Orange Free State col 3,coef,0,A,-14.185,-14.1846508694375,3.73172225652387,exact,3.4913056250118757e-4,2.4612658618342445e-5,TRUE
+T1_r7_c4,T1 row Region = Orange Free State col 4,coef,0,A,-0.535,-0.534692243647924,0.184438039347673,exact,3.0775635207602736e-4,5.752455178991165e-4,TRUE
+T1_r8_c1,T1 row Region = Transkei col 1,coef,0,A,-0.996,-0.996400604846469,7.59406806978086,exact,-4.006048464689771e-4,-4.022137012740734e-4,TRUE
+T1_r8_c2,T1 row Region = Transkei col 2,coef,0,A,0.087,0.0867007361157071,0.265138579962905,exact,-2.9926388429289685e-4,-0.0034398147619873203,TRUE
+T1_r8_c3,T1 row Region = Transkei col 3,coef,0,A,4.271,4.27143937226932,4.88150429319666,exact,4.3937226932033724e-4,1.0287339483032948e-4,TRUE
+T1_r8_c4,T1 row Region = Transkei col 4,coef,0,A,0.18,0.179521296236298,0.241265297633139,exact,-4.7870376370198753e-4,-0.002659465353899931,TRUE
+T1_r9_c1,T1 row Region = Transvaal col 1,coef,0,A,-19.556,-19.5563302790504,4.52755572106835,exact,-3.302790503987296e-4,-1.688888578434903e-5,TRUE
+T1_r9_c2,T1 row Region = Transvaal col 2,coef,0,A,-0.659,-0.659024392987554,0.176833486312144,exact,-2.4392987553967238e-5,-3.7015155620587614e-5,TRUE
+T1_r9_c3,T1 row Region = Transvaal col 3,coef,0,A,-15.693,-15.6930761086077,3.83227892766758,exact,-7.61086077005757e-5,-4.849844370138005e-6,TRUE
+T1_r9_c4,T1 row Region = Transvaal col 4,coef,0,A,-0.591,-0.590925478937441,0.189407989948003,exact,7.452106255900759e-5,1.2609316845855768e-4,TRUE
+T1_r10_c1,T1 row Region = Zululand col 1,coef,0,A,-32.91,-32.9096887101566,6.6979184921138,exact,3.1128984339545696e-4,9.458822345653509e-6,TRUE
+T1_r10_c2,T1 row Region = Zululand col 2,coef,0,A,-1.337,-1.33748788404574,0.361252996994208,exact,-4.878840457400724e-4,-3.649095330890594e-4,TRUE
+T1_r10_c3,T1 row Region = Zululand col 3,coef,0,A,-26.179,-26.1787568042923,5.68272226704845,exact,2.4319570770003907e-4,9.289724882540933e-6,TRUE
+T1_r10_c4,T1 row Region = Zululand col 4,coef,0,A,-1.219,-1.21872035108812,0.280864995046042,exact,2.796489118801482e-4,2.2940845929462524e-4,TRUE
+T1_r11_c1,T1 row Constant col 1,coef,0,A,18.758,18.7576114316866,7.80444035077714,exact,-3.8856831340083886e-4,-2.071480506455053e-5,TRUE
+T1_r11_c2,T1 row Constant col 2,coef,0,A,3.03,3.03011433315638,0.466856350559051,exact,1.1433315638020858e-4,3.773371497696653e-5,TRUE
+T1_r11_c3,T1 row Constant col 3,coef,0,A,21.406,21.4058180060911,8.25275937151538,exact,-1.8199390889961364e-4,-8.502004526750147e-6,TRUE
+T1_r11_c4,T1 row Constant col 4,coef,0,A,3.077,3.07700151598419,0.40788747207256,exact,1.5159841901812854e-6,4.926825447452992e-7,TRUE
+T1_mean_c1,T1 row Dependent Variable Means col 1,mean,0,A,25.946,25.9456038647343,,exact,-3.961352657029238e-4,-1.526768155796361e-5,
+T1_n_c1,T1 row Observations col 1,n,0,A,205,205,,exact,0,0,
+T1_rsq_c1,T1 row R2 col 1,other,0,A,0.352,0.352266293482093,,exact,2.662934820930052e-4,7.565155741278556e-4,
+T1_F_c1,T1 row F Statistic col 1,other,0,A,10.551,10.5505796977753,,exact,-4.2030222470046397e-4,-3.9835297573733674e-5,
+T1_mean_c2,T1 row Dependent Variable Means col 2,mean,0,A,2.984,2.9843676272184,,exact,3.676272184001128e-4,1.2319946997322816e-4,
+T1_n_c2,T1 row Observations col 2,n,0,A,205,205,,exact,0,0,
+T1_rsq_c2,T1 row R2 col 2,other,0,A,0.299,0.298589581339189,,exact,-4.10418660810985e-4,-0.0013726376615752008,
+T1_F_c2,T1 row F Statistic col 2,other,0,A,8.259,8.25855693595205,,exact,-4.430640479498038e-4,-5.364620994670103e-5,
+T1_mean_c3,T1 row Dependent Variable Means col 3,mean,0,A,24.831,24.8305882352941,,exact,-4.117647058983209e-4,-1.65826872014144e-5,
+T1_n_c3,T1 row Observations col 3,n,0,A,202,202,,exact,0,0,
+T1_rsq_c3,T1 row R2 col 3,other,0,A,0.355,0.354750517869186,,exact,-2.4948213081399384e-4,-7.027665656732221e-4,
+T1_F_c3,T1 row F Statistic col 3,other,0,A,10.501,10.5009536294797,,exact,-4.637052029998756e-5,-4.4158194743345935e-6,
+T1_mean_c4,T1 row Dependent Variable Means col 4,mean,0,A,2.96,2.96040993042903,,exact,4.0993042903014754e-4,1.3849000980748228e-4,
+T1_n_c4,T1 row Observations col 4,n,0,A,202,202,,exact,0,0,
+T1_rsq_c4,T1 row R2 col 4,other,0,A,0.283,0.282931367217734,,exact,-6.863278226598712e-5,-2.4251866525083792e-4,
+T1_F_c4,T1 row F Statistic col 4,other,0,A,7.536,7.53622298731843,,exact,2.22987318430512e-4,2.958961231827389e-5,
+T2_r1_c1,T2 row Conception in August 1918 col 1,coef,0,A,55.489,,,unavailable,,,
+T2_r2_c2,T2 row Conception in September 1918 col 2,coef,0,A,-253.102,,,unavailable,,,
+T2_r3_c3,T2 row Conception in October 1918 col 3,coef,1,A,-460.648,,,unavailable,,,
+T2_r4_c4,T2 row Conception in November 1918 col 4,coef,0,A,-140.057,,,unavailable,,,
+T2_rsq_c1,T2 row R2 col 1,other,0,A,0.87,,,unavailable,,,
+T2_n_c1,T2 row N col 1,n,0,A,108,,,unavailable,,,
+T2_mean_c1,T2 row Average number of individual col 1,mean,0,A,1787,,,unavailable,,,
+T2_rsq_c2,T2 row R2 col 2,other,0,A,0.88,,,unavailable,,,
+T2_n_c2,T2 row N col 2,n,0,A,108,,,unavailable,,,
+T2_mean_c2,T2 row Average number of individual col 2,mean,0,A,1787,,,unavailable,,,
+T2_rsq_c3,T2 row R2 col 3,other,0,A,0.89,,,unavailable,,,
+T2_n_c3,T2 row N col 3,n,0,A,108,,,unavailable,,,
+T2_mean_c3,T2 row Average number of individual col 3,mean,0,A,1787,,,unavailable,,,
+T2_rsq_c4,T2 row R2 col 4,other,0,A,0.87,,,unavailable,,,
+T2_n_c4,T2 row N col 4,n,0,A,108,,,unavailable,,,
+T2_mean_c4,T2 row Average number of individual col 4,mean,0,A,1787,,,unavailable,,,
+T3_r1_c1,"T3 row Log (Deaths/1,000) col 1",coef,1,A,-0.007,-0.00728048840341724,0.00201121123103972,exact,-2.8048840341723946e-4,-0.040069771916748494,TRUE
+T3_r1_c2,"T3 row Log (Deaths/1,000) col 2",coef,0,A,0.001,0.00109498985453673,7.0697841792804e-4,exact,9.498985453672997e-5,0.09498985453672996,TRUE
+T3_r1_c3,"T3 row Log (Deaths/1,000) col 3",coef,0,A,-0.011,-0.0106711463615326,0.00324461327877902,exact,3.288536384673992e-4,0.029895785315218113,TRUE
+T3_r2_c1,T3 row Black Pop. Share (1911) col 1,coef,0,A,0.001,0.00141850425711492,0.0139756255542123,exact,4.1850425711491995e-4,0.41850425711491995,TRUE
+T3_r2_c2,T3 row Black Pop. Share (1911) col 2,coef,0,A,-0.013,-0.0125966650501932,0.00491269414737901,exact,4.0333494980679917e-4,0.031025765369753783,TRUE
+T3_r2_c3,T3 row Black Pop. Share (1911) col 3,coef,0,A,0,3.0117644176552e-4,0.022546363878944,exact,3.0117644176552e-4,,FALSE
+T3_r3_c1,T3 row Coloured Pop. Share (1911) col 1,coef,0,A,0.001,0.00111494082570725,0.0225592948066832,exact,1.1494082570724998e-4,0.11494082570724998,TRUE
+T3_r3_c2,T3 row Coloured Pop. Share (1911) col 2,coef,0,A,-0.011,-0.0108506237574303,0.00793001466273449,exact,1.493762425697001e-4,0.013579658415427284,TRUE
+T3_r3_c3,T3 row Coloured Pop. Share (1911) col 3,coef,0,A,0.004,0.00389087501770451,0.0363940825110722,exact,-1.0912498229549011e-4,-0.02728124557387253,TRUE
+T3_r4_c1,T3 row Log (1 + Pop. Density (1911)) col 1,coef,0,A,0.015,0.0146564964762486,0.00198337459132343,exact,-3.435035237514001e-4,-0.022900234916760007,TRUE
+T3_r4_c2,T3 row Log (1 + Pop. Density (1911)) col 2,coef,0,A,0.005,0.00522112691801782,6.971933176843e-4,exact,2.2112691801782006e-4,0.04422538360356401,TRUE
+T3_r4_c3,T3 row Log (1 + Pop. Density (1911)) col 3,coef,0,A,0.024,0.0235511009612119,0.00319970544937446,exact,-4.4889903878810034e-4,-0.01870412661617085,TRUE
+T3_r5_c1,T3 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,A,-0.002,-0.0016844015970474,0.001350966798151,exact,3.1559840295259994e-4,0.15779920147629997,FALSE
+T3_r5_c2,T3 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,A,-0.001,-7.8225711556181e-4,4.7489013331352e-4,exact,2.1774288443819005e-4,0.21774288443819004,FALSE
+T3_r5_c3,T3 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,A,-0.003,-0.00324399918625838,0.00217946516249527,exact,-2.4399918625837977e-4,-0.08133306208612659,TRUE
+T3_r6_c1,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,A,-0,-3.2388389645411e-4,1.1439541813207e-4,exact,-3.2388389645411e-4,,FALSE
+T3_r6_c2,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,A,-0,-7.95440713492527e-5,4.02121321127587e-5,exact,-7.95440713492527e-5,,FALSE
+T3_r6_c3,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,A,-0,-4.302280158683e-4,1.8454993039738e-4,exact,-4.302280158683e-4,,FALSE
+T3_r7_c1,T3 row Constant col 1,coef,0,A,0.044,0.0436093984674951,0.0130631068284182,exact,-3.9060153250489865e-4,-0.008877307556929516,TRUE
+T3_r7_c2,T3 row Constant col 2,coef,0,A,0.008,0.00802908327410742,0.00459192672368176,exact,2.9083274107419982e-5,0.0036354092634274977,TRUE
+T3_r7_c3,T3 row Constant col 3,coef,0,A,0.069,0.0692917547565197,0.0210742309029784,exact,2.917547565196993e-4,0.004228329804633323,TRUE
+T3_mean_c1,T3 row Dependent Variable Means col 1,mean,0,A,0.039,0.0385813248400882,,exact,-4.186751599117994e-4,-0.010735260510558958,
+T3_n_c1,T3 row Observations col 1,n,0,A,205,205,,exact,0,0,
+T3_rsq_c1,T3 row R2 col 1,other,0,A,0.457,0.457299697184126,,exact,2.996971841259799e-4,6.55792525439781e-4,
+T3_F_c1,T3 row F Statistic (df = 11; 193) col 1,other,0,A,14.784,14.7844602425373,,exact,4.602425372990382e-4,3.113112400561676e-5,
+T3_mean_c2,T3 row Dependent Variable Means col 2,mean,0,A,0.008,0.00823339951828947,,exact,2.333995182894691e-4,0.029174939786183636,
+T3_n_c2,T3 row Observations col 2,n,0,A,205,205,,exact,0,0,
+T3_rsq_c2,T3 row R2 col 2,other,0,A,0.362,0.362380881309044,,exact,3.808813090440122e-4,0.0010521583122762768,
+T3_F_c2,T3 row F Statistic (df = 11; 193) col 2,other,0,A,9.972,9.97168543848399,,exact,-3.14561516010059e-4,-3.154447613418161e-5,
+T3_mean_c3,T3 row Dependent Variable Means col 3,mean,0,A,0.065,0.0654115445161064,,exact,4.1154451610639353e-4,0.006331454093944516,
+T3_n_c3,T3 row Observations col 3,n,0,A,205,205,,exact,0,0,
+T3_rsq_c3,T3 row R2 col 3,other,0,A,0.439,0.439407137766554,,exact,4.071377665539888e-4,9.274208805330041e-4,
+T3_F_c3,T3 row F Statistic (df = 11; 193) col 3,other,0,A,13.753,13.7525796028078,,exact,-4.2039719220099414e-4,-3.056767194073978e-5,
+T4_r1_c1,"T4 row Log (Deaths/1,000) col 1 (1918)",coef,0,A,-0.063,,,unavailable,,,
+T4_r1_c2,"T4 row Log (Deaths/1,000) col 2 (1922)",coef,0,A,-0.126,,,unavailable,,,
+T4_r1_c3,"T4 row Log (Deaths/1,000) col 3 (1937)",coef,0,A,-0.06,,,unavailable,,,
+T4_r1_c4,"T4 row Log (Deaths/1,000) col 4 (1946)",coef,0,A,-0.091,,,unavailable,,,
+T4_r2_c1,T4 row Black Share (1911) col 1 (1918),coef,0,A,0.313,,,unavailable,,,
+T4_r2_c2,T4 row Black Share (1911) col 2 (1922),coef,0,A,0.456,,,unavailable,,,
+T4_r2_c3,T4 row Black Share (1911) col 3 (1937),coef,0,A,0.145,,,unavailable,,,
+T4_r2_c4,T4 row Black Share (1911) col 4 (1946),coef,0,A,0.146,,,unavailable,,,
+T4_r3_c1,T4 row Coloured Share (1911) col 1 (1918),coef,0,A,0.899,,,unavailable,,,
+T4_r3_c2,T4 row Coloured Share (1911) col 2 (1922),coef,0,A,1.26,,,unavailable,,,
+T4_r3_c3,T4 row Coloured Share (1911) col 3 (1937),coef,0,A,0.226,,,unavailable,,,
+T4_r3_c4,T4 row Coloured Share (1911) col 4 (1946),coef,0,A,0.176,,,unavailable,,,
+T4_r4_c1,T4 row Log (1 + Population Density (1911)) col 1 (1918),coef,0,A,0.025,,,unavailable,,,
+T4_r4_c2,T4 row Log (1 + Population Density (1911)) col 2 (1922),coef,0,A,-0.016,,,unavailable,,,
+T4_r4_c3,T4 row Log (1 + Population Density (1911)) col 3 (1937),coef,0,A,-0.05,,,unavailable,,,
+T4_r4_c4,T4 row Log (1 + Population Density (1911)) col 4 (1946),coef,0,A,-0.056,,,unavailable,,,
+T4_r5_c1,T4 row Log (1 + Distance to Rail in Km (1907)) col 1 (1918),coef,0,A,0.009,,,unavailable,,,
+T4_r5_c2,T4 row Log (1 + Distance to Rail in Km (1907)) col 2 (1922),coef,0,A,-0.013,,,unavailable,,,
+T4_r5_c3,T4 row Log (1 + Distance to Rail in Km (1907)) col 3 (1937),coef,0,A,-0.035,,,unavailable,,,
+T4_r5_c4,T4 row Log (1 + Distance to Rail in Km (1907)) col 4 (1946),coef,0,A,0.018,,,unavailable,,,
+T4_r6_c1,T4 row Growing season rainfall col 1 (1918),coef,0,A,-4e-4,,,unavailable,,,
+T4_r6_c2,T4 row Growing season rainfall col 2 (1922),coef,0,A,1e-4,,,unavailable,,,
+T4_r6_c3,T4 row Growing season rainfall col 3 (1937),coef,0,A,2e-4,,,unavailable,,,
+T4_r6_c4,T4 row Growing season rainfall col 4 (1946),coef,0,A,-3e-4,,,unavailable,,,
+T4_r7_c1,T4 row Constant col 1 (1918),coef,0,A,0.587,,,unavailable,,,
+T4_r7_c2,T4 row Constant col 2 (1922),coef,0,A,0.512,,,unavailable,,,
+T4_r7_c3,T4 row Constant col 3 (1937),coef,0,A,0.831,,,unavailable,,,
+T4_r7_c4,T4 row Constant col 4 (1946),coef,0,A,0.734,,,unavailable,,,
+T4_mean_c1,T4 row Dependent Variable Means col 1 (1918),mean,0,A,0.64,,,unavailable,,,
+T4_n_c1,T4 row Observations col 1 (1918),n,0,A,201,,,unavailable,,,
+T4_rsq_c1,T4 row R2 col 1 (1918),other,0,A,0.317,,,unavailable,,,
+T4_F_c1,T4 row F Statistic col 1 (1918),other,0,A,7.963,,,unavailable,,,
+T4_mean_c2,T4 row Dependent Variable Means col 2 (1922),mean,0,A,0.6,,,unavailable,,,
+T4_n_c2,T4 row Observations col 2 (1922),n,0,A,199,,,unavailable,,,
+T4_rsq_c2,T4 row R2 col 2 (1922),other,0,A,0.398,,,unavailable,,,
+T4_F_c2,T4 row F Statistic col 2 (1922),other,0,A,11.219,,,unavailable,,,
+T4_mean_c3,T4 row Dependent Variable Means col 3 (1937),mean,0,A,0.73,,,unavailable,,,
+T4_n_c3,T4 row Observations col 3 (1937),n,0,A,196,,,unavailable,,,
+T4_rsq_c3,T4 row R2 col 3 (1937),other,0,A,0.162,,,unavailable,,,
+T4_F_c3,T4 row F Statistic col 3 (1937),other,0,A,3.235,,,unavailable,,,
+T4_mean_c4,T4 row Dependent Variable Means col 4 (1946),mean,0,A,0.51,,,unavailable,,,
+T4_n_c4,T4 row Observations col 4 (1946),n,0,A,197,,,unavailable,,,
+T4_rsq_c4,T4 row R2 col 4 (1946),other,0,A,0.195,,,unavailable,,,
+T4_F_c4,T4 row F Statistic col 4 (1946),other,0,A,4.074,,,unavailable,,,
+F6a_1880s,Fig 6 panel (a) Overall,coef,0,A,0.0073,,,unavailable,,,
+F6a_1890s,Fig 6 panel (a) Overall,coef,0,A,0.0025,,,unavailable,,,
+F6a_1900s,Fig 6 panel (a) Overall,coef,0,A,0.0031,,,unavailable,,,
+F6a_1910s,Fig 6 panel (a) Overall,coef,0,A,0.0033,,,unavailable,,,
+F6a_1920s,Fig 6 panel (a) Overall,coef,0,A,0.0044,,,unavailable,,,
+F6a_1930s,Fig 6 panel (a) Overall,coef,0,A,0.0027,,,unavailable,,,
+F6a_1940s,Fig 6 panel (a) Overall,coef,0,A,0.0031,,,unavailable,,,
+F6a_1950s,Fig 6 panel (a) Overall,coef,0,A,0.0029,,,unavailable,,,
+F6a_1960s,Fig 6 panel (a) Overall,coef,0,A,5e-4,,,unavailable,,,
+txt_p173_deathshare,text p.173,share,0,A,6,,,unavailable,,,
+txt_p173_deaths,text p.173,count,0,A,300000,,,unavailable,,,
+txt_p174_ndistricts,text p.174,n,0,A,208,207,,ambiguous,-1,-0.004807692307692308,
+txt_p174_commission,text p.174,count,0,A,139471,,,unavailable,,,
+txt_p181_black40,text p.181,coef,0,A,40,39.4315408322013,,close,-0.5684591677987001,-0.014211479194967503,
+txt_p187_oct460,text p.187,coef,0,A,-460,,,unavailable,,,
+txt_p187_oct25pct,text p.187,share,0,A,-25,,,unavailable,,,
+txt_p187_nwomen,text p.187,n,0,A,3.27,,,unavailable,,,
+txt_p188_beta1880,text p.188,coef,0,A,0.007,,,unavailable,,,
+txt_p189_iqr_p25,text p.189,other,0,A,12,12.455,,exact,0.45500000000000007,0.037916666666666675,
+txt_p189_iqr_p75,text p.189,other,0,A,35,34.73,,exact,-0.2700000000000031,-0.007714285714285804,
+txt_p189_iqr_effect,text p.189,other,0,A,0.16,,,unavailable,,,
+txt_p189_gdp1918,text p.189,other,0,A,3.9,,,unavailable,,,
+txt_p189_gdp1919,text p.189,other,0,A,10.1,,,unavailable,,,
+txt_p189_gdp1920,text p.189,other,0,A,-11,,,unavailable,,,
+txt_p190_u_total,text p.190,other,0,A,-0.49,-0.504645000992804,,differs,-0.01464500099280397,-0.029887757128171367,
+txt_p190_u_men,text p.190,other,0,A,-0.76,-0.739667501383882,,differs,0.020332498616117967,0.026753287652786797,
+txt_p191_maize1922,text p.191,other,0,A,-0.087,,,unavailable,,,
+txt_p191_maize1922pct,text p.191,share,0,A,-14.4,,,unavailable,,,
+txt_p191_maize1918,text p.191,other,0,A,-0.044,,,unavailable,,,
+txt_p191_maize1937,text p.191,other,0,A,-0.042,,,unavailable,,,
+txt_p191_maize1946,text p.191,other,0,A,-0.063,,,unavailable,,,
+txt_p191_agshare,text p.191,share,0,A,16,,,unavailable,,,
+txt_p191_maizeshare,text p.191,share,0,A,72,,,unavailable,,,
+T1_r1_c1,T1 row Black Pop. Share (1911) col 1,coef,1,B,39.432,41.77415162358659,11.807226520490332,differs,2.342151623586588,0.059397231273751974,TRUE
+T1_r1_c2,T1 row Black Pop. Share (1911) col 2,coef,0,B,1.49,1.6458982980517791,0.7105893325157336,differs,0.15589829805177913,0.10462973023609337,TRUE
+T1_r1_c3,T1 row Black Pop. Share (1911) col 3,coef,0,B,32.854,36.321308752379856,11.36867380230795,differs,3.467308752379857,0.1055368829481907,TRUE
+T1_r1_c4,T1 row Black Pop. Share (1911) col 4,coef,0,B,1.374,1.548731375447788,0.7106875137096244,differs,0.17473137544778794,0.1271698511264832,TRUE
+T1_r2_c1,T1 row Coloured Pop. Share (1911) col 1,coef,0,B,15.482,19.421144899296163,18.871891506445937,differs,3.9391448992961635,0.25443385217001446,TRUE
+T1_r2_c2,T1 row Coloured Pop. Share (1911) col 2,coef,0,B,0.343,0.592260068165044,1.2311890093255824,differs,0.24926006816504392,0.726705738090507,TRUE
+T1_r2_c3,T1 row Coloured Pop. Share (1911) col 3,coef,0,B,13.905,19.189984979785645,19.133898132021542,differs,5.284984979785646,0.3800780280320494,TRUE
+T1_r2_c4,T1 row Coloured Pop. Share (1911) col 4,coef,0,B,0.315,0.5886416076223397,1.2441144069821577,differs,0.27364160762233974,0.868703516261396,TRUE
+T1_r3_c1,T1 row Log (1 + Pop. Density (1911)) col 1,coef,0,B,1.187,1.8175104383527725,1.7362667178555913,differs,0.6305104383527724,0.5311798132710803,TRUE
+T1_r3_c2,T1 row Log (1 + Pop. Density (1911)) col 2,coef,0,B,0.047,0.07783250191816278,0.1090054056406307,differs,0.03083250191816278,0.6560106791098463,TRUE
+T1_r3_c3,T1 row Log (1 + Pop. Density (1911)) col 3,coef,0,B,1.179,1.4510492308752594,1.7401051431367962,differs,0.27204923087525934,0.23074574289674243,TRUE
+T1_r3_c4,T1 row Log (1 + Pop. Density (1911)) col 4,coef,0,B,0.047,0.07144677705707347,0.10967346929944212,differs,0.024446777057073474,0.5201441927036909,TRUE
+T1_r4_c1,T1 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,B,-1.776,-1.6166996480199332,0.966010304801435,differs,0.15930035198006687,0.08969614413292053,TRUE
+T1_r4_c2,T1 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,B,-0.094,-0.08271916232042226,0.05265884581433959,differs,0.011280837679577743,0.12000891148486961,TRUE
+T1_r4_c3,T1 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,B,-1.844,-1.8551967451393907,0.9276864158275148,close,-0.011196745139390618,-0.006071987602706408,FALSE
+T1_r4_c4,T1 row Log (1 + Distance to Rail in Km (1907)) col 4,coef,0,B,-0.095,-0.08700747869750212,0.05275068095050656,differs,0.007992521302497876,0.08413180318418817,FALSE
+T1_r5_c1,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,B,-0.139,-1.635673850572676,1.0277640708269018,differs,-1.496673850572676,-10.767437773904144,FALSE
+T1_r5_c2,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,B,-0.012,-0.12793378681612105,0.08838777557139517,differs,-0.11593378681612106,-9.661148901343422,FALSE
+T1_r5_c3,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,B,-0.184,-2.0191528293640393,0.9262227152491233,differs,-1.8351528293640393,-9.9736566813263,FALSE
+T1_r5_c4,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 4,coef,0,B,-0.012,-0.13493247405661538,0.08859710931580486,differs,-0.12293247405661538,-10.244372838051282,FALSE
+T1_r6_c1,T1 row Region = Natal col 1,coef,0,B,-26.074,-26.491268499277872,5.581205037668096,close,-0.4172684992778706,-0.016003240748556823,TRUE
+T1_r6_c2,T1 row Region = Natal col 2,coef,0,B,-0.777,-0.8235707536648182,0.20747098975520864,differs,-0.04657075366481822,-0.05993661990324095,TRUE
+T1_r6_c3,T1 row Region = Natal col 3,coef,0,B,-20.126,-20.64857030174459,4.18978182090711,differs,-0.5225703017445902,-0.025964935990489425,TRUE
+T1_r6_c4,T1 row Region = Natal col 4,coef,0,B,-0.672,-0.7188953613227904,0.20574589952125968,differs,-0.046895361322790374,-0.06978476387319996,TRUE
+T1_r7_c1,T1 row Region = Orange Free State col 1,coef,0,B,-17.115,-16.49422904092661,3.691219814767736,differs,0.6207709590733899,0.036270578970107506,TRUE
+T1_r7_c2,T1 row Region = Orange Free State col 2,coef,0,B,-0.586,-0.5574605834362101,0.16733188271288243,differs,0.028539416563789888,0.04870207604742302,TRUE
+T1_r7_c3,T1 row Region = Orange Free State col 3,coef,0,B,-14.185,-13.576088061700672,3.1687578745233083,differs,0.6089119382993289,0.042926467275243484,TRUE
+T1_r7_c4,T1 row Region = Orange Free State col 4,coef,0,B,-0.535,-0.5051499290284875,0.16725828770068593,differs,0.029850070971512488,0.05579452518039717,TRUE
+T1_r8_c1,T1 row Region = Transkei col 1,coef,0,B,-0.996,-1.4888957016194788,7.601862695688542,differs,-0.4928957016194788,-0.4948752024291956,TRUE
+T1_r8_c2,T1 row Region = Transkei col 2,coef,0,B,0.087,0.04933254094992943,0.2524998708543251,differs,-0.037667459050070566,-0.4329592994260985,TRUE
+T1_r8_c3,T1 row Region = Transkei col 3,coef,0,B,4.271,3.9740748687194505,6.16398298072424,differs,-0.2969251312805494,-0.0695212201546592,TRUE
+T1_r8_c4,T1 row Region = Transkei col 4,coef,0,B,0.18,0.14813000562969372,0.25402298965726583,differs,-0.03186999437030627,-0.1770555242794793,TRUE
+T1_r9_c1,T1 row Region = Transvaal col 1,coef,0,B,-19.556,-19.002242705804537,4.598018428968093,differs,0.5537572941954636,0.028316490805658803,TRUE
+T1_r9_c2,T1 row Region = Transvaal col 2,coef,0,B,-0.659,-0.6371024042776317,0.1870582088634975,differs,0.02189759572236838,0.03322852158174261,TRUE
+T1_r9_c3,T1 row Region = Transvaal col 3,coef,0,B,-15.693,-15.012448334186574,3.871315059234212,differs,0.6805516658134252,0.04336657527645608,TRUE
+T1_r9_c4,T1 row Region = Transvaal col 4,coef,0,B,-0.591,-0.5656967688975962,0.18473308171598693,differs,0.025303231102403734,0.042814265824710214,TRUE
+T1_r10_c1,T1 row Region = Zululand col 1,coef,0,B,-32.91,-32.466078525932616,6.626247231105958,close,0.4439214740673805,0.01348895393702159,TRUE
+T1_r10_c2,T1 row Region = Zululand col 2,coef,0,B,-1.337,-1.3303403705893122,0.3604700681756075,close,0.006659629410687762,0.004981024241352103,TRUE
+T1_r10_c3,T1 row Region = Zululand col 3,coef,0,B,-26.179,-25.90554734666689,5.1524948811060725,close,0.2734526533331092,0.010445496517556408,TRUE
+T1_r10_c4,T1 row Region = Zululand col 4,coef,0,B,-1.219,-1.2127199059553888,0.3604046269530653,close,0.006280094044611273,0.00515184088975494,TRUE
+T1_r11_c1,T1 row Constant col 1,coef,0,B,18.758,15.809477853634762,8.300158856521103,differs,-2.948522146365237,-0.15718744782840585,FALSE
+T1_r11_c2,T1 row Constant col 2,coef,0,B,3.03,2.8557717363553796,0.4841165718200812,differs,-0.17422826364462018,-0.05750107711043571,TRUE
+T1_r11_c3,T1 row Constant col 3,coef,0,B,21.406,18.57439092724422,8.113908221947664,differs,-2.8316090727557786,-0.13228109281303274,TRUE
+T1_r11_c4,T1 row Constant col 4,coef,0,B,3.077,2.9051349189025166,0.48639905500285424,differs,-0.17186508109748333,-0.05585475498780739,TRUE
+T1_mean_c1,T1 row Dependent Variable Means col 1,mean,0,B,25.946,25.924660194174756,,close,-0.02133980582524586,-8.224699693689147e-4,
+T1_n_c1,T1 row Observations col 1,n,0,B,205,206,,close,1,0.004878048780487805,
+T1_rsq_c1,T1 row R2 col 1,other,0,B,0.352,0.3564956394599034,,close,0.004495639459903444,0.012771703011089331,
+T1_F_c1,T1 row F Statistic col 1,other,0,B,10.551,10.802824962419134,,differs,0.25182496241913377,0.02386740237125711,
+T1_mean_c2,T1 row Dependent Variable Means col 2,mean,0,B,2.984,2.9802042487518374,,close,-0.00379575124816256,-0.0012720346005906703,
+T1_n_c2,T1 row Observations col 2,n,0,B,205,206,,close,1,0.004878048780487805,
+T1_rsq_c2,T1 row R2 col 2,other,0,B,0.299,0.30613196913696655,,differs,0.007131969136966565,0.02385273958851694,
+T1_F_c2,T1 row F Statistic col 2,other,0,B,8.259,8.60332676048771,,differs,0.34432676048770894,0.04169109583335863,
+T1_mean_c3,T1 row Dependent Variable Means col 3,mean,0,B,24.831,24.80384236453202,,close,-0.027157635467979446,-0.0010936988227610426,
+T1_n_c3,T1 row Observations col 3,n,0,B,202,203,,close,1,0.0049504950495049506,
+T1_rsq_c3,T1 row R2 col 3,other,0,B,0.355,0.3631051282891297,,differs,0.008105128289129737,0.022831347293323204,
+T1_F_c3,T1 row F Statistic col 3,other,0,B,10.501,10.946262519626911,,differs,0.44526251962691177,0.04240191597247041,
+T1_mean_c4,T1 row Dependent Variable Means col 4,mean,0,B,2.96,2.9560670059910934,,exact,-0.003932994008906565,-0.001328714192198164,
+T1_n_c4,T1 row Observations col 4,n,0,B,202,203,,close,1,0.0049504950495049506,
+T1_rsq_c4,T1 row R2 col 4,other,0,B,0.283,0.2918576568577056,,differs,0.00885765685770562,0.03129914083994919,
+T1_F_c4,T1 row F Statistic col 4,other,0,B,7.536,7.913192970218903,,differs,0.3771929702189034,0.05005214572968464,
+T2_r1_c1,T2 row Conception in August 1918 col 1,coef,0,B,55.489,,,unavailable,,,
+T2_r2_c2,T2 row Conception in September 1918 col 2,coef,0,B,-253.102,,,unavailable,,,
+T2_r3_c3,T2 row Conception in October 1918 col 3,coef,1,B,-460.648,,,unavailable,,,
+T2_r4_c4,T2 row Conception in November 1918 col 4,coef,0,B,-140.057,,,unavailable,,,
+T2_rsq_c1,T2 row R2 col 1,other,0,B,0.87,,,unavailable,,,
+T2_n_c1,T2 row N col 1,n,0,B,108,,,unavailable,,,
+T2_mean_c1,T2 row Average number of individual col 1,mean,0,B,1787,,,unavailable,,,
+T2_rsq_c2,T2 row R2 col 2,other,0,B,0.88,,,unavailable,,,
+T2_n_c2,T2 row N col 2,n,0,B,108,,,unavailable,,,
+T2_mean_c2,T2 row Average number of individual col 2,mean,0,B,1787,,,unavailable,,,
+T2_rsq_c3,T2 row R2 col 3,other,0,B,0.89,,,unavailable,,,
+T2_n_c3,T2 row N col 3,n,0,B,108,,,unavailable,,,
+T2_mean_c3,T2 row Average number of individual col 3,mean,0,B,1787,,,unavailable,,,
+T2_rsq_c4,T2 row R2 col 4,other,0,B,0.87,,,unavailable,,,
+T2_n_c4,T2 row N col 4,n,0,B,108,,,unavailable,,,
+T2_mean_c4,T2 row Average number of individual col 4,mean,0,B,1787,,,unavailable,,,
+T3_r1_c1,"T3 row Log (Deaths/1,000) col 1",coef,1,B,-0.007,-0.0069966584372022,0.00287869209292425,exact,3.3415627978001378e-6,4.7736611397144823e-4,TRUE
+T3_r1_c2,"T3 row Log (Deaths/1,000) col 2",coef,0,B,0.001,0.00131451515385306,6.839207069468056e-4,exact,3.145151538530601e-4,0.31451515385306006,TRUE
+T3_r1_c3,"T3 row Log (Deaths/1,000) col 3",coef,0,B,-0.011,-0.01030790376908934,0.00423731488551972,close,6.920962309106601e-4,0.06291783917369638,TRUE
+T3_r2_c1,T3 row Black Pop. Share (1911) col 1,coef,0,B,0.001,0.00227652255600943,0.01387764100985339,differs,0.0012765225560094299,1.2765225560094298,TRUE
+T3_r2_c2,T3 row Black Pop. Share (1911) col 2,coef,0,B,-0.013,-0.01282793389493423,0.00444338484308189,exact,1.7206610506576882e-4,0.01323585423582837,TRUE
+T3_r2_c3,T3 row Black Pop. Share (1911) col 3,coef,0,B,0,4.201062570251559e-4,0.02285144599946677,exact,4.201062570251559e-4,,FALSE
+T3_r3_c1,T3 row Coloured Pop. Share (1911) col 1,coef,0,B,0.001,0.00484000205916299,0.01927842710987565,differs,0.00384000205916299,3.8400020591629898,TRUE
+T3_r3_c2,T3 row Coloured Pop. Share (1911) col 2,coef,0,B,-0.011,-0.01045874723593843,0.0063158125026707,close,5.4125276406157e-4,0.04920479673287,TRUE
+T3_r3_c3,T3 row Coloured Pop. Share (1911) col 3,coef,0,B,0.004,0.00829752088575688,0.03306319411273996,differs,0.00429752088575688,1.07438022143922,TRUE
+T3_r4_c1,T3 row Log (1 + Pop. Density (1911)) col 1,coef,0,B,0.015,0.01829965693361708,0.00285148983635024,differs,0.003299656933617081,0.2199771289078054,TRUE
+T3_r4_c2,T3 row Log (1 + Pop. Density (1911)) col 2,coef,0,B,0.005,0.00651543616408843,9.494555519699874e-4,differs,0.0015154361640884297,0.30308723281768596,TRUE
+T3_r4_c3,T3 row Log (1 + Pop. Density (1911)) col 3,coef,0,B,0.024,0.02945257168110481,0.00492096359727549,differs,0.005452571681104808,0.2271904867127003,TRUE
+T3_r5_c1,T3 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,B,-0.002,-7.196004202738611e-4,0.00142532135914289,differs,0.0012803995797261388,0.6401997898630694,FALSE
+T3_r5_c2,T3 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,B,-0.001,-2.5436062998172144e-4,4.230497903788373e-4,close,7.456393700182786e-4,0.7456393700182786,FALSE
+T3_r5_c3,T3 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,B,-0.003,-0.00176627213862568,0.00241064392334497,differs,0.00123372786137432,0.41124262045810667,TRUE
+T3_r6_c1,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,B,-0,-0.00382830230470991,0.00107303997511295,differs,-0.00382830230470991,,FALSE
+T3_r6_c2,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,B,-0,-9.882479836152e-4,3.979773849863369e-4,close,-9.882479836152e-4,,FALSE
+T3_r6_c3,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,B,-0,-0.00510886889984622,0.00175162805841771,differs,-0.00510886889984622,,FALSE
+T3_r7_c1,T3 row Constant col 1,coef,0,B,0.044,0.03733435063036688,0.01221762138034779,differs,-0.0066656493696331184,-0.15149203112802542,TRUE
+T3_r7_c2,T3 row Constant col 2,coef,0,B,0.008,0.00524227996067505,0.00391028778920239,differs,-0.0027577200393249504,-0.3447150049156188,TRUE
+T3_r7_c3,T3 row Constant col 3,coef,0,B,0.069,0.06046843251322922,0.02026908952378658,differs,-0.008531567486770787,-0.12364590560537372,TRUE
+T3_mean_c1,T3 row Dependent Variable Means col 1,mean,0,B,0.039,0.0403511318347744,,differs,0.0013511318347744009,0.03464440601985643,
+T3_n_c1,T3 row Observations col 1,n,0,B,205,206,,close,1,0.004878048780487805,
+T3_rsq_c1,T3 row R2 col 1,other,0,B,0.457,0.4427657355159469,,differs,-0.014234264484053127,-0.031147187054820846,
+T3_F_c1,T3 row F Statistic (df = 11; 193) col 1,other,0,B,14.784,14.013455408223043,,differs,-0.7705445917769573,-0.05212016989833315,
+T3_mean_c2,T3 row Dependent Variable Means col 2,mean,0,B,0.008,0.00863457169861989,,close,6.345716986198898e-4,0.07932146232748623,
+T3_n_c2,T3 row Observations col 2,n,0,B,205,206,,close,1,0.004878048780487805,
+T3_rsq_c2,T3 row R2 col 2,other,0,B,0.362,0.36109069692301504,,close,-9.093030769849464e-4,-0.0025118869529970897,
+T3_F_c2,T3 row F Statistic (df = 11; 193) col 2,other,0,B,9.972,9.967497430343284,,close,-0.0045025696567151385,-4.5152122510179894e-4,
+T3_mean_c3,T3 row Dependent Variable Means col 3,mean,0,B,0.065,0.06854204114370896,,differs,0.003542041143708957,0.05449294067244549,
+T3_n_c3,T3 row Observations col 3,n,0,B,205,206,,close,1,0.004878048780487805,
+T3_rsq_c3,T3 row R2 col 3,other,0,B,0.439,0.4251287113812584,,differs,-0.013871288618741595,-0.0315974683798214,
+T3_F_c3,T3 row F Statistic (df = 11; 193) col 3,other,0,B,13.753,13.042440446440692,,differs,-0.7105595535593086,-0.05166578590557032,
+T4_r1_c1,"T4 row Log (Deaths/1,000) col 1 (1918)",coef,0,B,-0.063,,,unavailable,,,
+T4_r1_c2,"T4 row Log (Deaths/1,000) col 2 (1922)",coef,0,B,-0.126,,,unavailable,,,
+T4_r1_c3,"T4 row Log (Deaths/1,000) col 3 (1937)",coef,0,B,-0.06,,,unavailable,,,
+T4_r1_c4,"T4 row Log (Deaths/1,000) col 4 (1946)",coef,0,B,-0.091,,,unavailable,,,
+T4_r2_c1,T4 row Black Share (1911) col 1 (1918),coef,0,B,0.313,,,unavailable,,,
+T4_r2_c2,T4 row Black Share (1911) col 2 (1922),coef,0,B,0.456,,,unavailable,,,
+T4_r2_c3,T4 row Black Share (1911) col 3 (1937),coef,0,B,0.145,,,unavailable,,,
+T4_r2_c4,T4 row Black Share (1911) col 4 (1946),coef,0,B,0.146,,,unavailable,,,
+T4_r3_c1,T4 row Coloured Share (1911) col 1 (1918),coef,0,B,0.899,,,unavailable,,,
+T4_r3_c2,T4 row Coloured Share (1911) col 2 (1922),coef,0,B,1.26,,,unavailable,,,
+T4_r3_c3,T4 row Coloured Share (1911) col 3 (1937),coef,0,B,0.226,,,unavailable,,,
+T4_r3_c4,T4 row Coloured Share (1911) col 4 (1946),coef,0,B,0.176,,,unavailable,,,
+T4_r4_c1,T4 row Log (1 + Population Density (1911)) col 1 (1918),coef,0,B,0.025,,,unavailable,,,
+T4_r4_c2,T4 row Log (1 + Population Density (1911)) col 2 (1922),coef,0,B,-0.016,,,unavailable,,,
+T4_r4_c3,T4 row Log (1 + Population Density (1911)) col 3 (1937),coef,0,B,-0.05,,,unavailable,,,
+T4_r4_c4,T4 row Log (1 + Population Density (1911)) col 4 (1946),coef,0,B,-0.056,,,unavailable,,,
+T4_r5_c1,T4 row Log (1 + Distance to Rail in Km (1907)) col 1 (1918),coef,0,B,0.009,,,unavailable,,,
+T4_r5_c2,T4 row Log (1 + Distance to Rail in Km (1907)) col 2 (1922),coef,0,B,-0.013,,,unavailable,,,
+T4_r5_c3,T4 row Log (1 + Distance to Rail in Km (1907)) col 3 (1937),coef,0,B,-0.035,,,unavailable,,,
+T4_r5_c4,T4 row Log (1 + Distance to Rail in Km (1907)) col 4 (1946),coef,0,B,0.018,,,unavailable,,,
+T4_r6_c1,T4 row Growing season rainfall col 1 (1918),coef,0,B,-4e-4,,,unavailable,,,
+T4_r6_c2,T4 row Growing season rainfall col 2 (1922),coef,0,B,1e-4,,,unavailable,,,
+T4_r6_c3,T4 row Growing season rainfall col 3 (1937),coef,0,B,2e-4,,,unavailable,,,
+T4_r6_c4,T4 row Growing season rainfall col 4 (1946),coef,0,B,-3e-4,,,unavailable,,,
+T4_r7_c1,T4 row Constant col 1 (1918),coef,0,B,0.587,,,unavailable,,,
+T4_r7_c2,T4 row Constant col 2 (1922),coef,0,B,0.512,,,unavailable,,,
+T4_r7_c3,T4 row Constant col 3 (1937),coef,0,B,0.831,,,unavailable,,,
+T4_r7_c4,T4 row Constant col 4 (1946),coef,0,B,0.734,,,unavailable,,,
+T4_mean_c1,T4 row Dependent Variable Means col 1 (1918),mean,0,B,0.64,,,unavailable,,,
+T4_n_c1,T4 row Observations col 1 (1918),n,0,B,201,,,unavailable,,,
+T4_rsq_c1,T4 row R2 col 1 (1918),other,0,B,0.317,,,unavailable,,,
+T4_F_c1,T4 row F Statistic col 1 (1918),other,0,B,7.963,,,unavailable,,,
+T4_mean_c2,T4 row Dependent Variable Means col 2 (1922),mean,0,B,0.6,,,unavailable,,,
+T4_n_c2,T4 row Observations col 2 (1922),n,0,B,199,,,unavailable,,,
+T4_rsq_c2,T4 row R2 col 2 (1922),other,0,B,0.398,,,unavailable,,,
+T4_F_c2,T4 row F Statistic col 2 (1922),other,0,B,11.219,,,unavailable,,,
+T4_mean_c3,T4 row Dependent Variable Means col 3 (1937),mean,0,B,0.73,,,unavailable,,,
+T4_n_c3,T4 row Observations col 3 (1937),n,0,B,196,,,unavailable,,,
+T4_rsq_c3,T4 row R2 col 3 (1937),other,0,B,0.162,,,unavailable,,,
+T4_F_c3,T4 row F Statistic col 3 (1937),other,0,B,3.235,,,unavailable,,,
+T4_mean_c4,T4 row Dependent Variable Means col 4 (1946),mean,0,B,0.51,,,unavailable,,,
+T4_n_c4,T4 row Observations col 4 (1946),n,0,B,197,,,unavailable,,,
+T4_rsq_c4,T4 row R2 col 4 (1946),other,0,B,0.195,,,unavailable,,,
+T4_F_c4,T4 row F Statistic col 4 (1946),other,0,B,4.074,,,unavailable,,,
+F6a_1880s,Fig 6 panel (a) Overall,coef,0,B,0.0073,,,unavailable,,,
+F6a_1890s,Fig 6 panel (a) Overall,coef,0,B,0.0025,,,unavailable,,,
+F6a_1900s,Fig 6 panel (a) Overall,coef,0,B,0.0031,,,unavailable,,,
+F6a_1910s,Fig 6 panel (a) Overall,coef,0,B,0.0033,,,unavailable,,,
+F6a_1920s,Fig 6 panel (a) Overall,coef,0,B,0.0044,,,unavailable,,,
+F6a_1930s,Fig 6 panel (a) Overall,coef,0,B,0.0027,,,unavailable,,,
+F6a_1940s,Fig 6 panel (a) Overall,coef,0,B,0.0031,,,unavailable,,,
+F6a_1950s,Fig 6 panel (a) Overall,coef,0,B,0.0029,,,unavailable,,,
+F6a_1960s,Fig 6 panel (a) Overall,coef,0,B,5e-4,,,unavailable,,,
+txt_p173_deathshare,text p.173,share,0,B,6,,,not-attempted,,,
+txt_p173_deaths,text p.173,count,0,B,300000,,,not-attempted,,,
+txt_p174_ndistricts,text p.174,n,0,B,208,208,,exact,0,0,
+txt_p174_commission,text p.174,count,0,B,139471,162182,,differs,22711,0.16283671874439848,
+txt_p181_black40,text p.181,coef,0,B,40,41.77415162358659,11.807226520490332,differs,1.7741516235865902,0.04435379058966475,
+txt_p187_oct460,text p.187,coef,0,B,-460,,,unavailable,,,
+txt_p187_oct25pct,text p.187,share,0,B,-25,,,unavailable,,,
+txt_p187_nwomen,text p.187,n,0,B,3.27,,,unavailable,,,
+txt_p188_beta1880,text p.188,coef,0,B,0.007,,,unavailable,,,
+txt_p189_iqr_p25,text p.189,other,0,B,12,12.4225,,exact,0.42249999999999943,0.035208333333333286,
+txt_p189_iqr_p75,text p.189,other,0,B,35,34.755,,exact,-0.24499999999999744,-0.006999999999999927,
+txt_p189_iqr_effect,text p.189,other,0,B,0.16,,,unavailable,,,
+txt_p189_gdp1918,text p.189,other,0,B,3.9,,,not-attempted,,,
+txt_p189_gdp1919,text p.189,other,0,B,10.1,,,not-attempted,,,
+txt_p189_gdp1920,text p.189,other,0,B,-11,,,not-attempted,,,
+txt_p190_u_total,text p.190,other,0,B,-0.49,-0.48497140690876617,,close,0.005028593091233824,0.010262434880069029,
+txt_p190_u_men,text p.190,other,0,B,-0.76,-0.7144894435027509,,differs,0.04551055649724911,0.05988231118059093,
+txt_p191_maize1922,text p.191,other,0,B,-0.087,,,unavailable,,,
+txt_p191_maize1922pct,text p.191,share,0,B,-14.4,,,unavailable,,,
+txt_p191_maize1918,text p.191,other,0,B,-0.044,,,unavailable,,,
+txt_p191_maize1937,text p.191,other,0,B,-0.042,,,unavailable,,,
+txt_p191_maize1946,text p.191,other,0,B,-0.063,,,unavailable,,,
+txt_p191_agshare,text p.191,share,0,B,16,,,not-attempted,,,
+txt_p191_maizeshare,text p.191,share,0,B,72,,,not-attempted,,,
+T1_r1_c1,T1 row Black Pop. Share (1911) col 1,coef,1,C,39.4315408322013,41.77415162358659,11.807226520490332,differs,2.3426107913852903,0.05940956761882926,
+T1_r1_c2,T1 row Black Pop. Share (1911) col 2,coef,0,C,1.48993973122653,1.6458982980517791,0.7105893325157336,differs,0.15595856682524922,0.10467441303606484,
+T1_r1_c3,T1 row Black Pop. Share (1911) col 3,coef,0,C,32.8543343916842,36.321308752379856,11.36867380230795,differs,3.4669743606956587,0.10552563078475237,
+T1_r1_c4,T1 row Black Pop. Share (1911) col 4,coef,0,C,1.37392993508666,1.548731375447788,0.7106875137096244,differs,0.174801440361128,0.12722733226574792,
+T1_r2_c1,T1 row Coloured Pop. Share (1911) col 1,coef,0,C,15.4817958217208,19.421144899296163,18.871891506445937,differs,3.939349077575363,0.2544503959965999,
+T1_r2_c2,T1 row Coloured Pop. Share (1911) col 2,coef,0,C,0.343245294711933,0.592260068165044,1.2311890093255824,differs,0.24901477345311096,0.7254717756935181,
+T1_r2_c3,T1 row Coloured Pop. Share (1911) col 3,coef,0,C,13.9047480526515,19.189984979785645,19.133898132021542,differs,5.285236927134145,0.38010303438229515,
+T1_r2_c4,T1 row Coloured Pop. Share (1911) col 4,coef,0,C,0.315300305946085,0.5886416076223397,1.2441144069821577,differs,0.27334130167625476,0.8669236804451276,
+T1_r3_c1,T1 row Log (1 + Pop. Density (1911)) col 1,coef,0,C,1.18703911648855,1.8175104383527725,1.7362667178555913,differs,0.6304713218642224,0.5311293563174704,
+T1_r3_c2,T1 row Log (1 + Pop. Density (1911)) col 2,coef,0,C,0.047423137712617,0.07783250191816278,0.1090054056406307,differs,0.030409364205545783,0.6412347573841645,
+T1_r3_c3,T1 row Log (1 + Pop. Density (1911)) col 3,coef,0,C,1.17855796163455,1.4510492308752594,1.7401051431367962,differs,0.2724912692407093,0.2312073551841178,
+T1_r3_c4,T1 row Log (1 + Pop. Density (1911)) col 4,coef,0,C,0.0473362116839358,0.07144677705707347,0.10967346929944212,differs,0.024110565373137674,0.5093471681706191,
+T1_r4_c1,T1 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,C,-1.77630497834299,-1.6166996480199332,0.966010304801435,differs,0.1596053303230569,0.08985243652919517,
+T1_r4_c2,T1 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,C,-0.0935809578262965,-0.08271916232042226,0.05265884581433959,differs,0.010861795505874239,0.11606843697876798,
+T1_r4_c3,T1 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,C,-1.84358232135689,-1.8551967451393907,0.9276864158275148,close,-0.01161442378250066,-0.00629992143445613,
+T1_r4_c4,T1 row Log (1 + Distance to Rail in Km (1907)) col 4,coef,0,C,-0.094849184310668,-0.08700747869750212,0.05275068095050656,differs,0.00784170561316587,0.0826755197754915,
+T1_r5_c1,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,C,-0.139482429693112,-1.635673850572676,1.0277640708269018,differs,-1.496191420879564,-10.726737583876844,
+T1_r5_c2,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,C,-0.01150479504117,-0.12793378681612105,0.08838777557139517,differs,-0.11642899177495106,-10.120040501226574,
+T1_r5_c3,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,C,-0.183941755463293,-2.0191528293640393,0.9262227152491233,differs,-1.8352110739007463,-9.97713145271671,
+T1_r5_c4,T1 row Avg. Sept/Oct Rain in Cm (1910-1950) col 4,coef,0,C,-0.0122903670860833,-0.13493247405661538,0.08859710931580486,differs,-0.12264210697053207,-9.97871797575541,
+T1_r6_c1,T1 row Region = Natal col 1,coef,0,C,-26.0742697988478,-26.491268499277872,5.581205037668096,close,-0.4169987004300708,-0.015992727836562373,
+T1_r6_c2,T1 row Region = Natal col 2,coef,0,C,-0.776620040917593,-0.8235707536648182,0.20747098975520864,differs,-0.04695071274722529,-0.06045519079285158,
+T1_r6_c3,T1 row Region = Natal col 3,coef,0,C,-20.1264565149444,-20.64857030174459,4.18978182090711,differs,-0.5221137868001904,-0.02594166471442739,
+T1_r6_c4,T1 row Region = Natal col 4,coef,0,C,-0.671748648335103,-0.7188953613227904,0.20574589952125968,differs,-0.04714671298768747,-0.07018505076941851,
+T1_r7_c1,T1 row Region = Orange Free State col 1,coef,0,C,-17.1153756475894,-16.49422904092661,3.691219814767736,differs,0.6211466066627906,0.036291730865414894,
+T1_r7_c2,T1 row Region = Orange Free State col 2,coef,0,C,-0.586383414687538,-0.5574605834362101,0.16733188271288243,differs,0.028922831251327885,0.049324094998047976,
+T1_r7_c3,T1 row Region = Orange Free State col 3,coef,0,C,-14.1846508694375,-13.576088061700672,3.1687578745233083,differs,0.6085628077368277,0.04290291057131677,
+T1_r7_c4,T1 row Region = Orange Free State col 4,coef,0,C,-0.534692243647924,-0.5051499290284875,0.16725828770068593,differs,0.02954231461943646,0.055251062588611316,
+T1_r8_c1,T1 row Region = Transkei col 1,coef,0,C,-0.996400604846469,-1.4888957016194788,7.601862695688542,differs,-0.49249509677300984,-0.49427418487857727,
+T1_r8_c2,T1 row Region = Transkei col 2,coef,0,C,0.0867007361157071,0.04933254094992943,0.2524998708543251,differs,-0.03736819516577767,-0.43100205188463075,
+T1_r8_c3,T1 row Region = Transkei col 3,coef,0,C,4.27143937226932,3.9740748687194505,6.16398298072424,differs,-0.29736450354986976,-0.0696169318193756,
+T1_r8_c4,T1 row Region = Transkei col 4,coef,0,C,0.179521296236298,0.14813000562969372,0.25402298965726583,differs,-0.03139129060660428,-0.1748610959520087,
+T1_r9_c1,T1 row Region = Transvaal col 1,coef,0,C,-19.5563302790504,-19.002242705804537,4.598018428968093,differs,0.5540875732458623,0.02833290118031118,
+T1_r9_c2,T1 row Region = Transvaal col 2,coef,0,C,-0.659024392987554,-0.6371024042776317,0.1870582088634975,differs,0.021921988709922346,0.03326430545392021,
+T1_r9_c3,T1 row Region = Transvaal col 3,coef,0,C,-15.6930761086077,-15.012448334186574,3.871315059234212,differs,0.6806277744211258,0.0433712147771844,
+T1_r9_c4,T1 row Region = Transvaal col 4,coef,0,C,-0.590925478937441,-0.5656967688975962,0.18473308171598693,differs,0.025228710039844726,0.04269355602200323,
+T1_r10_c1,T1 row Region = Zululand col 1,coef,0,C,-32.9096887101566,-32.466078525932616,6.626247231105958,close,0.443610184223985,0.013479622616031547,
+T1_r10_c2,T1 row Region = Zululand col 2,coef,0,C,-1.33748788404574,-1.3303403705893122,0.3604700681756075,close,0.007147513456427834,0.005343983703842958,
+T1_r10_c3,T1 row Region = Zululand col 3,coef,0,C,-26.1787568042923,-25.90554734666689,5.1524948811060725,close,0.27320945762540916,0.01043630374306443,
+T1_r10_c4,T1 row Region = Zululand col 4,coef,0,C,-1.21872035108812,-1.2127199059553888,0.3604046269530653,close,0.006000445132731125,0.004923561937218574,
+T1_r11_c1,T1 row Constant col 1,coef,0,C,18.7576114316866,15.809477853634762,8.300158856521103,differs,-2.948133578051836,-0.15716998876902066,
+T1_r11_c2,T1 row Constant col 2,coef,0,C,3.03011433315638,2.8557717363553796,0.4841165718200812,differs,-0.1743425968010004,-0.05753663975424746,
+T1_r11_c3,T1 row Constant col 3,coef,0,C,21.4058180060911,18.57439092724422,8.113908221947664,differs,-2.831427078846879,-0.13227371540023308,
+T1_r11_c4,T1 row Constant col 4,coef,0,C,3.07700151598419,2.9051349189025166,0.48639905500285424,differs,-0.1718665970816735,-0.05585522015146013,
+T1_mean_c1,T1 row Dependent Variable Means col 1,mean,0,C,25.9456038647343,25.924660194174756,,close,-0.020943670559542937,-8.072146121065976e-4,
+T1_n_c1,T1 row Observations col 1,n,0,C,205,206,,close,1,0.004878048780487805,
+T1_rsq_c1,T1 row R2 col 1,other,0,C,0.352266293482093,0.3564956394599034,,close,0.004229345977810439,0.012006104631822893,
+T1_F_c1,T1 row F Statistic col 1,other,0,C,10.5505796977753,10.802824962419134,,differs,0.25224526464383423,0.02390819005869628,
+T1_mean_c2,T1 row Dependent Variable Means col 2,mean,0,C,2.9843676272184,2.9802042487518374,,close,-0.004163378466562673,-0.001395062199640323,
+T1_n_c2,T1 row Observations col 2,n,0,C,205,206,,close,1,0.004878048780487805,
+T1_rsq_c2,T1 row R2 col 2,other,0,C,0.298589581339189,0.30613196913696655,,differs,0.00754238779777755,0.02526005014625617,
+T1_F_c2,T1 row F Statistic col 2,other,0,C,8.25855693595205,8.60332676048771,,differs,0.34476982453565874,0.04174698161064545,
+T1_mean_c3,T1 row Dependent Variable Means col 3,mean,0,C,24.8305882352941,24.80384236453202,,close,-0.026745870762081125,-0.00107713399733578,
+T1_n_c3,T1 row Observations col 3,n,0,C,202,203,,close,1,0.0049504950495049506,
+T1_rsq_c3,T1 row R2 col 3,other,0,C,0.354750517869186,0.3631051282891297,,differs,0.008354610419943731,0.023550664478591367,
+T1_F_c3,T1 row F Statistic col 3,other,0,C,10.5009536294797,10.946262519626911,,differs,0.44530889014721176,0.04240651905147741,
+T1_mean_c4,T1 row Dependent Variable Means col 4,mean,0,C,2.96040993042903,2.9560670059910934,,exact,-0.004342924437936713,-0.001467001037017642,
+T1_n_c4,T1 row Observations col 4,n,0,C,202,203,,close,1,0.0049504950495049506,
+T1_rsq_c4,T1 row R2 col 4,other,0,C,0.282931367217734,0.2918576568577056,,differs,0.008926289639971607,0.0315493108019453,
+T1_F_c4,T1 row F Statistic col 4,other,0,C,7.53622298731843,7.913192970218903,,differs,0.3769699829004729,0.05002107601311939,
+T2_r1_c1,T2 row Conception in August 1918 col 1,coef,0,C,,,,unavailable,,,
+T2_r2_c2,T2 row Conception in September 1918 col 2,coef,0,C,,,,unavailable,,,
+T2_r3_c3,T2 row Conception in October 1918 col 3,coef,1,C,,,,unavailable,,,
+T2_r4_c4,T2 row Conception in November 1918 col 4,coef,0,C,,,,unavailable,,,
+T2_rsq_c1,T2 row R2 col 1,other,0,C,,,,unavailable,,,
+T2_n_c1,T2 row N col 1,n,0,C,,,,unavailable,,,
+T2_mean_c1,T2 row Average number of individual col 1,mean,0,C,,,,unavailable,,,
+T2_rsq_c2,T2 row R2 col 2,other,0,C,,,,unavailable,,,
+T2_n_c2,T2 row N col 2,n,0,C,,,,unavailable,,,
+T2_mean_c2,T2 row Average number of individual col 2,mean,0,C,,,,unavailable,,,
+T2_rsq_c3,T2 row R2 col 3,other,0,C,,,,unavailable,,,
+T2_n_c3,T2 row N col 3,n,0,C,,,,unavailable,,,
+T2_mean_c3,T2 row Average number of individual col 3,mean,0,C,,,,unavailable,,,
+T2_rsq_c4,T2 row R2 col 4,other,0,C,,,,unavailable,,,
+T2_n_c4,T2 row N col 4,n,0,C,,,,unavailable,,,
+T2_mean_c4,T2 row Average number of individual col 4,mean,0,C,,,,unavailable,,,
+T3_r1_c1,"T3 row Log (Deaths/1,000) col 1",coef,1,C,-0.00728048840341724,-0.0069966584372022,0.00287869209292425,exact,2.838299662150396e-4,0.038985017280134454,
+T3_r1_c2,"T3 row Log (Deaths/1,000) col 2",coef,0,C,0.00109498985453673,0.00131451515385306,6.839207069468056e-4,exact,2.195252993163301e-4,0.20048158291768578,
+T3_r1_c3,"T3 row Log (Deaths/1,000) col 3",coef,0,C,-0.0106711463615326,-0.01030790376908934,0.00423731488551972,exact,3.6324259244326085e-4,0.03403969734242232,
+T3_r2_c1,T3 row Black Pop. Share (1911) col 1,coef,0,C,0.00141850425711492,0.00227652255600943,0.01387764100985339,close,8.580182988945099e-4,0.6048753781251414,
+T3_r2_c2,T3 row Black Pop. Share (1911) col 2,coef,0,C,-0.0125966650501932,-0.01282793389493423,0.00444338484308189,exact,-2.3126884474103035e-4,-0.018359529591324912,
+T3_r2_c3,T3 row Black Pop. Share (1911) col 3,coef,0,C,3.0117644176552e-4,4.201062570251559e-4,0.02285144599946677,exact,1.1892981525963588e-4,0.3948841900198433,
+T3_r3_c1,T3 row Coloured Pop. Share (1911) col 1,coef,0,C,0.00111494082570725,0.00484000205916299,0.01927842710987565,differs,0.00372506123345574,3.341039405470501,
+T3_r3_c2,T3 row Coloured Pop. Share (1911) col 2,coef,0,C,-0.0108506237574303,-0.01045874723593843,0.0063158125026707,exact,3.9187652149186986e-4,0.036115575496157105,
+T3_r3_c3,T3 row Coloured Pop. Share (1911) col 3,coef,0,C,0.00389087501770451,0.00829752088575688,0.03306319411273996,differs,0.00440664586805237,1.1325590896651696,
+T3_r4_c1,T3 row Log (1 + Pop. Density (1911)) col 1,coef,0,C,0.0146564964762486,0.01829965693361708,0.00285148983635024,differs,0.003643160457368481,0.24856966760592197,
+T3_r4_c2,T3 row Log (1 + Pop. Density (1911)) col 2,coef,0,C,0.00522112691801782,0.00651543616408843,9.494555519699874e-4,differs,0.0012943092460706096,0.2478984453727834,
+T3_r4_c3,T3 row Log (1 + Pop. Density (1911)) col 3,coef,0,C,0.0235511009612119,0.02945257168110481,0.00492096359727549,differs,0.005901470719892908,0.25058152184105914,
+T3_r5_c1,T3 row Log (1 + Distance to Rail in Km (1907)) col 1,coef,0,C,-0.0016844015970474,-7.196004202738611e-4,0.00142532135914289,close,9.64801176773539e-4,0.5727857171738296,
+T3_r5_c2,T3 row Log (1 + Distance to Rail in Km (1907)) col 2,coef,0,C,-7.8225711556181e-4,-2.5436062998172144e-4,4.230497903788373e-4,close,5.278964855800885e-4,0.6748375630958091,
+T3_r5_c3,T3 row Log (1 + Distance to Rail in Km (1907)) col 3,coef,0,C,-0.00324399918625838,-0.00176627213862568,0.00241064392334497,differs,0.0014777270476326997,0.45552633116936947,
+T3_r6_c1,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 1,coef,0,C,-3.2388389645411e-4,-0.00382830230470991,0.00107303997511295,differs,-0.0035044184082558003,-10.819983477481502,
+T3_r6_c2,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 2,coef,0,C,-7.95440713492527e-5,-9.882479836152e-4,3.979773849863369e-4,close,-9.087039122659473e-4,-11.423904973082376,
+T3_r6_c3,T3 row Avg. Sept/Oct Rain in Cm (1910-1950) col 3,coef,0,C,-4.302280158683e-4,-0.00510886889984622,0.00175162805841771,differs,-0.00467864088397792,-10.874793624342052,
+T3_r7_c1,T3 row Constant col 1,coef,0,C,0.0436093984674951,0.03733435063036688,0.01221762138034779,differs,-0.00627504783712822,-0.1438920979798751,
+T3_r7_c2,T3 row Constant col 2,coef,0,C,0.00802908327410742,0.00524227996067505,0.00391028778920239,differs,-0.0027868033134323704,-0.34708860504902095,
+T3_r7_c3,T3 row Constant col 3,coef,0,C,0.0692917547565197,0.06046843251322922,0.02026908952378658,differs,-0.008823322243290486,-0.12733581757734738,
+T3_mean_c1,T3 row Dependent Variable Means col 1,mean,0,C,0.0385813248400882,0.0403511318347744,,differs,0.0017698069946862002,0.045872115642002775,
+T3_n_c1,T3 row Observations col 1,n,0,C,205,206,,close,1,0.004878048780487805,
+T3_rsq_c1,T3 row R2 col 1,other,0,C,0.457299697184126,0.4427657355159469,,differs,-0.014533961668179107,-0.031782137092312986,
+T3_F_c1,T3 row F Statistic (df = 11; 193) col 1,other,0,C,14.7844602425373,14.013455408223043,,differs,-0.7710048343142564,-0.05214967754426028,
+T3_mean_c2,T3 row Dependent Variable Means col 2,mean,0,C,0.00823339951828947,0.00863457169861989,,exact,4.011721803304207e-4,0.048724974348598876,
+T3_n_c2,T3 row Observations col 2,n,0,C,205,206,,close,1,0.004878048780487805,
+T3_rsq_c2,T3 row R2 col 2,other,0,C,0.362380881309044,0.36109069692301504,,close,-0.0012901843860289586,-0.0035602992668056057,
+T3_F_c2,T3 row F Statistic (df = 11; 193) col 2,other,0,C,9.97168543848399,9.967497430343284,,close,-0.0041880081407050795,-4.1998999733206476e-4,
+T3_mean_c3,T3 row Dependent Variable Means col 3,mean,0,C,0.0654115445161064,0.06854204114370896,,differs,0.0031304966276025636,0.04785847285461569,
+T3_n_c3,T3 row Observations col 3,n,0,C,205,206,,close,1,0.004878048780487805,
+T3_rsq_c3,T3 row R2 col 3,other,0,C,0.439407137766554,0.4251287113812584,,differs,-0.014278426385295584,-0.0324947529479627,
+T3_F_c3,T3 row F Statistic (df = 11; 193) col 3,other,0,C,13.7525796028078,13.042440446440692,,differs,-0.7101391563671076,-0.051636796650289654,
+T4_r1_c1,"T4 row Log (Deaths/1,000) col 1 (1918)",coef,0,C,,,,unavailable,,,
+T4_r1_c2,"T4 row Log (Deaths/1,000) col 2 (1922)",coef,0,C,,,,unavailable,,,
+T4_r1_c3,"T4 row Log (Deaths/1,000) col 3 (1937)",coef,0,C,,,,unavailable,,,
+T4_r1_c4,"T4 row Log (Deaths/1,000) col 4 (1946)",coef,0,C,,,,unavailable,,,
+T4_r2_c1,T4 row Black Share (1911) col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r2_c2,T4 row Black Share (1911) col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r2_c3,T4 row Black Share (1911) col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r2_c4,T4 row Black Share (1911) col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_r3_c1,T4 row Coloured Share (1911) col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r3_c2,T4 row Coloured Share (1911) col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r3_c3,T4 row Coloured Share (1911) col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r3_c4,T4 row Coloured Share (1911) col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_r4_c1,T4 row Log (1 + Population Density (1911)) col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r4_c2,T4 row Log (1 + Population Density (1911)) col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r4_c3,T4 row Log (1 + Population Density (1911)) col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r4_c4,T4 row Log (1 + Population Density (1911)) col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_r5_c1,T4 row Log (1 + Distance to Rail in Km (1907)) col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r5_c2,T4 row Log (1 + Distance to Rail in Km (1907)) col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r5_c3,T4 row Log (1 + Distance to Rail in Km (1907)) col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r5_c4,T4 row Log (1 + Distance to Rail in Km (1907)) col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_r6_c1,T4 row Growing season rainfall col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r6_c2,T4 row Growing season rainfall col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r6_c3,T4 row Growing season rainfall col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r6_c4,T4 row Growing season rainfall col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_r7_c1,T4 row Constant col 1 (1918),coef,0,C,,,,unavailable,,,
+T4_r7_c2,T4 row Constant col 2 (1922),coef,0,C,,,,unavailable,,,
+T4_r7_c3,T4 row Constant col 3 (1937),coef,0,C,,,,unavailable,,,
+T4_r7_c4,T4 row Constant col 4 (1946),coef,0,C,,,,unavailable,,,
+T4_mean_c1,T4 row Dependent Variable Means col 1 (1918),mean,0,C,,,,unavailable,,,
+T4_n_c1,T4 row Observations col 1 (1918),n,0,C,,,,unavailable,,,
+T4_rsq_c1,T4 row R2 col 1 (1918),other,0,C,,,,unavailable,,,
+T4_F_c1,T4 row F Statistic col 1 (1918),other,0,C,,,,unavailable,,,
+T4_mean_c2,T4 row Dependent Variable Means col 2 (1922),mean,0,C,,,,unavailable,,,
+T4_n_c2,T4 row Observations col 2 (1922),n,0,C,,,,unavailable,,,
+T4_rsq_c2,T4 row R2 col 2 (1922),other,0,C,,,,unavailable,,,
+T4_F_c2,T4 row F Statistic col 2 (1922),other,0,C,,,,unavailable,,,
+T4_mean_c3,T4 row Dependent Variable Means col 3 (1937),mean,0,C,,,,unavailable,,,
+T4_n_c3,T4 row Observations col 3 (1937),n,0,C,,,,unavailable,,,
+T4_rsq_c3,T4 row R2 col 3 (1937),other,0,C,,,,unavailable,,,
+T4_F_c3,T4 row F Statistic col 3 (1937),other,0,C,,,,unavailable,,,
+T4_mean_c4,T4 row Dependent Variable Means col 4 (1946),mean,0,C,,,,unavailable,,,
+T4_n_c4,T4 row Observations col 4 (1946),n,0,C,,,,unavailable,,,
+T4_rsq_c4,T4 row R2 col 4 (1946),other,0,C,,,,unavailable,,,
+T4_F_c4,T4 row F Statistic col 4 (1946),other,0,C,,,,unavailable,,,
+F6a_1880s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1890s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1900s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1910s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1920s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1930s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1940s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1950s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+F6a_1960s,Fig 6 panel (a) Overall,coef,0,C,,,,unavailable,,,
+txt_p173_deathshare,text p.173,share,0,C,,,,not-attempted,,,
+txt_p173_deaths,text p.173,count,0,C,,,,not-attempted,,,
+txt_p174_ndistricts,text p.174,n,0,C,207,208,,close,1,0.004830917874396135,
+txt_p174_commission,text p.174,count,0,C,,162182,,,,,
+txt_p181_black40,text p.181,coef,0,C,39.4315408322013,41.77415162358659,11.807226520490332,differs,2.3426107913852903,0.05940956761882926,
+txt_p187_oct460,text p.187,coef,0,C,,,,unavailable,,,
+txt_p187_oct25pct,text p.187,share,0,C,,,,unavailable,,,
+txt_p187_nwomen,text p.187,n,0,C,,,,unavailable,,,
+txt_p188_beta1880,text p.188,coef,0,C,,,,unavailable,,,
+txt_p189_iqr_p25,text p.189,other,0,C,12.455,12.4225,,exact,-0.03250000000000064,-0.002609393817743929,
+txt_p189_iqr_p75,text p.189,other,0,C,34.73,34.755,,exact,0.025000000000005684,7.198387561187932e-4,
+txt_p189_iqr_effect,text p.189,other,0,C,,,,unavailable,,,
+txt_p189_gdp1918,text p.189,other,0,C,,,,not-attempted,,,
+txt_p189_gdp1919,text p.189,other,0,C,,,,not-attempted,,,
+txt_p189_gdp1920,text p.189,other,0,C,,,,not-attempted,,,
+txt_p190_u_total,text p.190,other,0,C,-0.504645000992804,-0.48497140690876617,,differs,0.019673594084037793,0.038985017280134183,
+txt_p190_u_men,text p.190,other,0,C,-0.739667501383882,-0.7144894435027509,,differs,0.025178057881131144,0.03403969734241969,
+txt_p191_maize1922,text p.191,other,0,C,,,,unavailable,,,
+txt_p191_maize1922pct,text p.191,share,0,C,,,,unavailable,,,
+txt_p191_maize1918,text p.191,other,0,C,,,,unavailable,,,
+txt_p191_maize1937,text p.191,other,0,C,,,,unavailable,,,
+txt_p191_maize1946,text p.191,other,0,C,,,,unavailable,,,
+txt_p191_agshare,text p.191,share,0,C,,,,not-attempted,,,
+txt_p191_maizeshare,text p.191,share,0,C,,,,not-attempted,,,

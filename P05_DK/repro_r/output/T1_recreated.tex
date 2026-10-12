@@ -1,0 +1,42 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Recreated Table 1. Correlates of 1918 influenza mortality (HC2 SEs)},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-5}{solid, black, 0.05em},
+hline{24}={1-5}{solid, black, 0.05em},
+hline{1}={1-5}{solid, black, 0.08em},
+hline{26}={1-5}{solid, black, 0.08em},
+column{2-5}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& Deaths/1,000 & Log (Deaths/1,000) & Deaths/1,000 (excl. outliers) & Log (Deaths/1,000) (excl. outliers) \\
+Black Pop. Share (1911) & \num{41.774}*** & \num{1.646}** & \num{36.321}*** & \num{1.549}** \\
+& (\num{11.807}) & (\num{0.711}) & (\num{11.369}) & (\num{0.711}) \\
+Coloured Pop. Share (1911) & \num{19.421} & \num{0.592} & \num{19.190} & \num{0.589} \\
+& (\num{18.872}) & (\num{1.231}) & (\num{19.134}) & (\num{1.244}) \\
+Log (1 + Pop. Density (1911)) & \num{1.818} & \num{0.078} & \num{1.451} & \num{0.071} \\
+& (\num{1.736}) & (\num{0.109}) & (\num{1.740}) & (\num{0.110}) \\
+Log (1 + Distance to Rail in Km (1907)) & \num{-1.617}* & \num{-0.083} & \num{-1.855}** & \num{-0.087} \\
+& (\num{0.966}) & (\num{0.053}) & (\num{0.928}) & (\num{0.053}) \\
+Avg. Sept/Oct Rain in Cm (1910-1950) & \num{-1.636} & \num{-0.128} & \num{-2.019}** & \num{-0.135} \\
+& (\num{1.028}) & (\num{0.088}) & (\num{0.926}) & (\num{0.089}) \\
+Region = Natal & \num{-26.491}*** & \num{-0.824}*** & \num{-20.649}*** & \num{-0.719}*** \\
+& (\num{5.581}) & (\num{0.207}) & (\num{4.190}) & (\num{0.206}) \\
+Region = Orange Free State & \num{-16.494}*** & \num{-0.557}*** & \num{-13.576}*** & \num{-0.505}*** \\
+& (\num{3.691}) & (\num{0.167}) & (\num{3.169}) & (\num{0.167}) \\
+Region = Transkei & \num{-1.489} & \num{0.049} & \num{3.974} & \num{0.148} \\
+& (\num{7.602}) & (\num{0.252}) & (\num{6.164}) & (\num{0.254}) \\
+Region = Transvaal & \num{-19.002}*** & \num{-0.637}*** & \num{-15.012}*** & \num{-0.566}*** \\
+& (\num{4.598}) & (\num{0.187}) & (\num{3.871}) & (\num{0.185}) \\
+Region = Zululand & \num{-32.466}*** & \num{-1.330}*** & \num{-25.906}*** & \num{-1.213}*** \\
+& (\num{6.626}) & (\num{0.360}) & (\num{5.152}) & (\num{0.360}) \\
+Constant & \num{15.809}* & \num{2.856}*** & \num{18.574}** & \num{2.905}*** \\
+& (\num{8.300}) & (\num{0.484}) & (\num{8.114}) & (\num{0.486}) \\
+Num.Obs. & \num{206} & \num{206} & \num{203} & \num{203} \\
+R2 & \num{0.356} & \num{0.306} & \num{0.363} & \num{0.292} \\
+\end{talltblr}
+\end{table}

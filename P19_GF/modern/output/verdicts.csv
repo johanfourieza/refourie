@@ -1,0 +1,7 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule,note
+H1,min annual share 71.43 (1881); A/C/I = 30/0/0 of 30 years,"[71.43, 71.43] = [min s_lo, min s_hi] over window",,s_t > 70 every year 1880-1909,confirmed,2,Fig A2 five-component denominator; concerns those components only; no inference (census)
+H1-c,,,,n/a (causal clause),not-testable,,no identifying variation (card §1)
+H2,min annual share 45.37 (1871); A/C/I = 0/21/19 of 40 years,"[12.34, 58.64] = [min s_lo, min s_hi] over window",,s_t > 70 every year 1870-1909,overturned,1,reconstructed GE (six Table 1 classes from workbook); no inference (census)
+H3,,,,"[1.935, 2.365]",not-testable,,population and De Zwart deflator not recovered
+H4,,,,"[6.129, 7.491]",not-testable,,population and De Zwart deflator not recovered
+H5,,,,"[4.014, 4.906]",not-testable,,population and De Zwart deflator not recovered

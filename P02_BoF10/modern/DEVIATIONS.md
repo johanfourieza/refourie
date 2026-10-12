@@ -1,0 +1,12 @@
+# P02_BoF10 S6: deviations from and interpretations of the frozen card (v3, commit d240e89)
+
+None of these was informed by results. Each was fixed when the code was written, before the step it concerns was run. Results that only explain differences from S5 numbers are noted at the end.
+
+- **D1 (interpretation: span of the raw ships series).** §5 says to filter "the full available raw series". For ships I used 1701–1793, the paper's sample (93 years, which §4a calls "the raw sample length"), not the 1652–1793 span of `ships for eviews FROM 1652.xls`. S5 showed the 1701 span reproduces SHIPSMF22, and the card's disclosed R re-filter (F = 284.48) uses it; this run returns 284.477 for sensitivity 5. Affects sensitivities 5, 10 and 11 (R-refiltered ships) and the calibration parameters.
+- **D2 (interpretation: sensitivity 2).** AIC and BIC are computed as n·log(RSS/n) + penalty·K, which ranks models the same way as `stats::AIC`/`BIC`. Lag orders p = 2..7 (1–6 lagged differences) share the sample that starts after 6 lagged differences, and F at the selected order is computed on that same common sample.
+- **D3 (implementation).** The checked fit uses `qr`/`lm.fit` and the explicit Wald form, not `lm`. It is the same OLS and gives F = 61.76582 in both the copied S5 `uecm()` and `uecm_chk()`. I added `05_figures.R` (figures only) and `uecm_fn_s5.R` (a verbatim copy of `compare/s5_checks/uecm_fn.R`, used for the verification check). `output/verdict.csv` (task name) and `output/verdicts.csv` (card name) are identical.
+- **D4 (interpretation: calibration DGP B).** "Independent AR(q) processes (the sieve fits of sensitivity 5)" is implemented with the same innovations as sensitivity 5: centred residuals resampled iid, the first q observed differences as initial values, cumulated from the observed first log level.
+
+**Card rules applied as written (not deviations).** Sensitivity 9 was **not run: gap**: the uncorrected VDR wheat series is missing 1781, which lies inside the primary window. S5's 20.58 came from filtering across the gap. In sensitivity 11 the exports regression is restricted to the primary window 1709–1793 (n = 80). S5's F = 0.84 used the exports' own joint window 1706–1793 (n = 83), so this run's F = 5.51 differs from S5 for that reason.
+
+No packages were installed. Runtime was about 2 minutes in total (primary 1.5 s, sensitivities 7 s, calibration 67 s), so no replication count was changed.

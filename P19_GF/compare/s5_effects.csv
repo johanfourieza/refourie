@@ -1,0 +1,12 @@
+scenario,claim_id,published,original_code,scenario_value,note
+rebuild_baseline_table1_pw,TX_abs_rail70,70,,65.01,"S3 rebuild: mean rail/public works 1880-1909, public works = all Table 1 items (incl. Post Office, Customs, Mines, Mails, Surveyor General); 23% of years >70; no original code survives"
+figA2_denominator,TX_abs_rail70,70,,81.83,"Public works = railways+roads&bridges+works&buildings+ports&harbours+telegraph (Fig A2 legend); >70 in 30/30 years 1880-1909; min 71.43 (1881), max 88.84 (1904); claim holds"
+figA2_denominator,FA2_rail_min,75,,71.43,"min 1880-1909 (1881); 1877 = 54.9, so 'from the 1880s' is correct"
+figA2_denominator,FA2_rail_max,89,,88.84,"1904"
+rebuild_baseline_total_denom,TX_p351_pwdebt70,70,,66.71,"mean (public works+debt service)/Total Expenditure 1870-1909; >70 in 12.5% of years (3% of 1880-1909)"
+classified_sum_denom,TX_p351_pwdebt70,70,,68.06,"denominator = sum of classified Table 1 items; >70 in 42.5% of years"
+excl_defence_denom,TX_p351_pwdebt70,70,,72.77,"denominator = classified items minus defence (Table 2 construction); >70 in 80% of years 1870-1909, 93% 1880-1909; claim holds only under this denominator"
+figA2_pw_total_denom,TX_p351_pwdebt70,70,,57.93,"public works restricted to Fig A2 components, Total Expenditure denominator"
+workbook_share_implied,T2_r4_c5,4.46,,3.88,"workbook public works share of the four Table 2 categories in 1904 = 57.0% vs 65.5% implied by Table 2; 0.570*6.81; population and De Zwart deflator not recovered"
+not_computable,T2_r5_c1,2.15,,,"needs population and De Zwart (2011) index; neither recovered. Table 2 composition in 1853 (public works 60.5%) disagrees with workbook (45.4%)"
+not_computable,T2_r5_c5,6.81,,,"needs population and deflator; Table 2 categories sum to the printed total but exclude defence (13.4% of 1904 Total Expenditure in workbook)"

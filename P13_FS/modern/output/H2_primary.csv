@@ -1,0 +1,2 @@
+row,estimand,b,se_hc3,t_hc3,p,ci_lo,ci_hi,df,N,k,t_conv,t_hc1,max_leverage,n_y_le0,small_decade_cells,n_dropped_from_570,plaus_flag_gt_0.1305,verdict,rule
+H2-mag,"OLS reconstruction, y = log(D_noinh), stored 570 sample with positive economic debt",0.0800813410023803,NA,NA,NA,NA,NA,531,559,28,8.213065154927254,7.0829216679986144,1,0,1690;1700,11,FALSE,not-testable,0

@@ -1,0 +1,9 @@
+diagnostic,value
+companies,285
+rows per company: min,1
+median,7
+max,883
+largest company share of Value (%),7.510861740151812
+top-5 companies share of Value (%),27.5444968235725
+investors (name keys) in >1 company,322
+share of name keys in >1 company (%),5.185185185185185

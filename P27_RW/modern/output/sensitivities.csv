@@ -1,0 +1,218 @@
+"item","label","quantity","estimate","lo","hi","undef_share"
+1,"pooled four-class shares 1700-73","w1700",422.801518952054,NA,NA,NA
+1,"pooled four-class shares 1700-73","w1790",1475.95602248754,NA,NA,NA
+1,"pooled four-class shares 1700-73","wtot",1219.62375493667,NA,NA,NA
+1,"pooled four-class shares 1700-73","D90w",1053.15450353549,NA,NA,NA
+2,"two classes, time-balanced","w1700",413.53335166103,NA,NA,NA
+2,"two classes, time-balanced","w1790",1443.19459944218,NA,NA,NA
+2,"two classes, time-balanced","wtot",1189.28019173931,NA,NA,NA
+2,"two classes, time-balanced","D90w",1029.66124778115,NA,NA,NA
+3,"S5 scheme: two classes, all 2,577 inventories, pooled opgaaf","w1700",496.799786710426,NA,NA,NA
+3,"S5 scheme: two classes, all 2,577 inventories, pooled opgaaf","w1790",1594.94973261162,NA,NA,NA
+3,"S5 scheme: two classes, all 2,577 inventories, pooled opgaaf","wtot",1325.06148029085,NA,NA,NA
+3,"S5 scheme: two classes, all 2,577 inventories, pooled opgaaf","D90w",1098.14994590119,NA,NA,NA
+4,"time-varying selection: weights 1700-36 (rows to 1740), 1737-73 (rows 1750+)","w1700",435.795727103858,NA,NA,NA
+4,"time-varying selection: weights 1700-36 (rows to 1740), 1737-73 (rows 1750+)","w1790",1419.53676913128,NA,NA,NA
+4,"time-varying selection: weights 1700-36 (rows to 1740), 1737-73 (rows 1750+)","wtot",1196.44321966707,NA,NA,NA
+4,"time-varying selection: weights 1700-36 (rows to 1740), 1737-73 (rows 1750+)","D90w",983.741042027425,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","w1700",708.919898224321,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","w1790",1947.53484319525,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","wtot",1636.21169401305,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","D90w",1238.61494497093,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","mu_opg",7.84478591160221,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","R",0.954318288937452,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","pi_opg",0.677110123918635,NA,NA,NA
+5,"opgaaf restricted to households with a wife (col 26 > 0)","Delta",-0.0197566120831669,NA,NA,NA
+6,"group-variable class boundaries (5 slaves in class 3)","w1700",421.53172092374,NA,NA,NA
+6,"group-variable class boundaries (5 slaves in class 3)","w1790",1468.76026642067,NA,NA,NA
+6,"group-variable class boundaries (5 slaves in class 3)","wtot",1213.70826069599,NA,NA,NA
+6,"group-variable class boundaries (5 slaves in class 3)","D90w",1047.22854549693,NA,NA,NA
+7,"two time blocks","w1700",419.806814355112,NA,NA,NA
+7,"two time blocks","w1790",1471.58836658933,NA,NA,NA
+7,"two time blocks","wtot",1214.56279598138,NA,NA,NA
+7,"two time blocks","D90w",1051.78155223421,NA,NA,NA
+7,"eight time blocks","w1700",428.991043421071,NA,NA,NA
+7,"eight time blocks","w1790",1486.50615525835,NA,NA,NA
+7,"eight time blocks","wtot",1228.65184441397,NA,NA,NA
+7,"eight time blocks","D90w",1057.51511183728,NA,NA,NA
+8,"10 exact duplicates dropped","m1700",770.136998281309,NA,NA,NA
+8,"10 exact duplicates dropped","m1790",1978.69889545902,NA,NA,NA
+8,"10 exact duplicates dropped","mtot",1653.05426047535,NA,NA,NA
+8,"10 exact duplicates dropped","D90",1208.56189717771,NA,NA,NA
+8,"10 exact duplicates dropped","w1700",425.537363350192,NA,NA,NA
+8,"10 exact duplicates dropped","w1790",1462.00339202901,NA,NA,NA
+8,"10 exact duplicates dropped","wtot",1207.10474397404,NA,NA,NA
+8,"10 exact duplicates dropped","D90w",1036.46602867882,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","m1700",816.82393757141,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","m1790",2006.41176514332,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","mtot",1681.14064652692,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","D90",1189.58782757191,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","w1700",445.911476966373,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","w1790",1465.62729234084,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","wtot",1218.90813736429,NA,NA,NA
+9,"changed sample: 49 all-zero inventories dropped","D90w",1019.71581537447,NA,NA,NA
+10,"changed population (A4d): 1801-06 included, all 2,577","mtot",1578.69832977941,NA,NA,NA
+10,"changed population (A4d): 1801-06 included, all 2,577","wtot",1131.17432626253,NA,NA,NA
+11,"changed estimand: wealth net of slave value","m1700",465.515913798775,NA,NA,NA
+11,"changed estimand: wealth net of slave value","m1790",1297.52693413305,NA,NA,NA
+11,"changed estimand: wealth net of slave value","mtot",1065.45257807647,NA,NA,NA
+11,"changed estimand: wealth net of slave value","D90",832.011020334275,NA,NA,NA
+11,"changed estimand: wealth net of slave value","w1700",288.408366702141,NA,NA,NA
+11,"changed estimand: wealth net of slave value","w1790",1083.6745471188,NA,NA,NA
+11,"changed estimand: wealth net of slave value","wtot",866.033288001222,NA,NA,NA
+11,"changed estimand: wealth net of slave value","D90w",795.266180416656,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","m1700",759.301125066381,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","m1790",1771.8411480881,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","mtot",1517.67650634623,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","D90",1012.54002302172,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","w1700",425.934803951989,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","w1790",1361.38972370164,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","wtot",1133.96297346826,NA,NA,NA
+12,"changed estimand: top 1% of pooled pre-1801 wealth trimmed","D90w",935.454919749653,NA,NA,NA
+13,"shape of change (descriptive)","slope",7.20291295914125,3.88122153934257,10.7261259496652,0
+13,"shape of change (descriptive)","slopew",6.4592645593296,3.91809341411387,9.29021325917604,0.141114111411141
+14,"shape of change (descriptive)","late",-345.229622658615,-797.601598355064,75.8433860002008,0
+14,"shape of change (descriptive)","latew",-290.192652997796,-637.582675019123,45.9592322073176,0.141114111411141
+15,"shape of change (descriptive)","endp",874.168147734021,439.111117714767,1273.19568199988,0
+15,"shape of change (descriptive)","endpw",756.620278947944,467.618944618068,1028.98126172256,0.141114111411141
+16,"row 1700 quantiles","p25",72.7699966430664,NA,NA,NA
+16,"row 1700 quantiles","p50",284.190002441406,NA,NA,NA
+16,"row 1700 quantiles","p75",681.200012207031,NA,NA,NA
+16,"row 1700 quantiles","p25w",36.6300010681152,NA,NA,NA
+16,"row 1700 quantiles","p50w",131.690002441406,NA,NA,NA
+16,"row 1700 quantiles","p75w",382.640014648438,NA,NA,NA
+16,"row 1710 quantiles","p25",136.470001220703,NA,NA,NA
+16,"row 1710 quantiles","p50",577.450012207031,NA,NA,NA
+16,"row 1710 quantiles","p75",2195.22998046875,NA,NA,NA
+16,"row 1710 quantiles","p25w",13,NA,NA,NA
+16,"row 1710 quantiles","p50w",220.880004882812,NA,NA,NA
+16,"row 1710 quantiles","p75w",1111.81005859375,NA,NA,NA
+16,"row 1720 quantiles","p25",145.865001678467,NA,NA,NA
+16,"row 1720 quantiles","p50",506.190002441406,NA,NA,NA
+16,"row 1720 quantiles","p75",1631.34497070312,NA,NA,NA
+16,"row 1720 quantiles","p25w",11.6400003433228,NA,NA,NA
+16,"row 1720 quantiles","p50w",204.130004882812,NA,NA,NA
+16,"row 1720 quantiles","p75w",722.97998046875,NA,NA,NA
+16,"row 1730 quantiles","p25",174.464996337891,NA,NA,NA
+16,"row 1730 quantiles","p50",614.349975585938,NA,NA,NA
+16,"row 1730 quantiles","p75",1999.88000488281,NA,NA,NA
+16,"row 1730 quantiles","p25w",45,NA,NA,NA
+16,"row 1730 quantiles","p50w",262.679992675781,NA,NA,NA
+16,"row 1730 quantiles","p75w",1196.77001953125,NA,NA,NA
+16,"row 1740 quantiles","p25",289.059997558594,NA,NA,NA
+16,"row 1740 quantiles","p50",1088.93994140625,NA,NA,NA
+16,"row 1740 quantiles","p75",2474.25,NA,NA,NA
+16,"row 1740 quantiles","p25w",67.1900024414062,NA,NA,NA
+16,"row 1740 quantiles","p50w",508.549987792969,NA,NA,NA
+16,"row 1740 quantiles","p75w",1797.83996582031,NA,NA,NA
+16,"row 1750 quantiles","p25",440.697494506836,NA,NA,NA
+16,"row 1750 quantiles","p50",1397.5,NA,NA,NA
+16,"row 1750 quantiles","p75",2722.5,NA,NA,NA
+16,"row 1750 quantiles","p25w",221.190002441406,NA,NA,NA
+16,"row 1750 quantiles","p50w",797.52001953125,NA,NA,NA
+16,"row 1750 quantiles","p75w",2274.5,NA,NA,NA
+16,"row 1760 quantiles","p25",381.829986572266,NA,NA,NA
+16,"row 1760 quantiles","p50",878,NA,NA,NA
+16,"row 1760 quantiles","p75",1842.28002929688,NA,NA,NA
+16,"row 1760 quantiles","p25w",170.050003051758,NA,NA,NA
+16,"row 1760 quantiles","p50w",705.580017089844,NA,NA,NA
+16,"row 1760 quantiles","p75w",1475.97998046875,NA,NA,NA
+16,"row 1770 quantiles","p25",167.520004272461,NA,NA,NA
+16,"row 1770 quantiles","p50",793.890014648438,NA,NA,NA
+16,"row 1770 quantiles","p75",2277.93994140625,NA,NA,NA
+16,"row 1770 quantiles","p25w",28.5599994659424,NA,NA,NA
+16,"row 1770 quantiles","p50w",426.600006103516,NA,NA,NA
+16,"row 1770 quantiles","p75w",1765.88000488281,NA,NA,NA
+16,"row 1780 quantiles","p25",396.924995422363,NA,NA,NA
+16,"row 1780 quantiles","p50",1073.38000488281,NA,NA,NA
+16,"row 1780 quantiles","p75",2580.46490478516,NA,NA,NA
+16,"row 1780 quantiles","p25w",126.629997253418,NA,NA,NA
+16,"row 1780 quantiles","p50w",713.940002441406,NA,NA,NA
+16,"row 1780 quantiles","p75w",1838.40002441406,NA,NA,NA
+16,"row 1790 quantiles","p25",293.76000213623,NA,NA,NA
+16,"row 1790 quantiles","p50",1239.52001953125,NA,NA,NA
+16,"row 1790 quantiles","p75",2707.01751708984,NA,NA,NA
+16,"row 1790 quantiles","p25w",76.1500015258789,NA,NA,NA
+16,"row 1790 quantiles","p50w",758.880004882812,NA,NA,NA
+16,"row 1790 quantiles","p75w",2037.28002929688,NA,NA,NA
+16,"row 1800 quantiles","p25",236.959999084473,NA,NA,NA
+16,"row 1800 quantiles","p50",1000.0299987793,NA,NA,NA
+16,"row 1800 quantiles","p75",2380.19000244141,NA,NA,NA
+16,"row 1800 quantiles","p25w",42.1399993896484,NA,NA,NA
+16,"row 1800 quantiles","p50w",548.440002441406,NA,NA,NA
+16,"row 1800 quantiles","p75w",1570.57995605469,NA,NA,NA
+16,"row 1806 quantiles","p25",118.949996948242,NA,NA,NA
+16,"row 1806 quantiles","p50",539.859985351562,NA,NA,NA
+16,"row 1806 quantiles","p75",1538.07995605469,NA,NA,NA
+16,"row 1806 quantiles","p25w",34.4000015258789,NA,NA,NA
+16,"row 1806 quantiles","p50w",305.390014648438,NA,NA,NA
+16,"row 1806 quantiles","p75w",874.219970703125,NA,NA,NA
+17,"changed population (A4d): inventories dated 1700-73","mu_inv",6.84222737819026,NA,NA,NA
+17,"changed population (A4d): inventories dated 1700-73","R",0.921943789325017,NA,NA,NA
+17,"changed population (A4d): inventories dated 1700-73","pi_inv",0.732370433305013,NA,NA,NA
+17,"changed population (A4d): inventories dated 1700-73","Delta",0.287640850960751,NA,NA,NA
+18,"mean slaves incl. zeros, inventories / opgaaf","mean_inv",4.92122623205277,NA,NA,NA
+18,"mean slaves incl. zeros, inventories / opgaaf","mean_opg",3.30057098864438,NA,NA,NA
+18,"mean slaves incl. zeros, inventories / opgaaf","ratio",1.49102268940261,NA,NA,NA
+19,"cattle","cattle_mu_inv",94.5060565275908,NA,NA,NA
+19,"cattle","cattle_mu_opg",54.0286489235464,NA,NA,NA
+19,"cattle","cattle_R",1.74918415341687,NA,NA,NA
+19,"cattle","cattle_pi_inv",0.576639503298409,NA,NA,NA
+19,"cattle","cattle_pi_opg",0.378456405979342,NA,NA,NA
+19,"cattle","cattle_Delta",0.198183097319067,NA,NA,NA
+19,"horses","horses_mu_inv",10.9565217391304,NA,NA,NA
+19,"horses","horses_mu_opg",6.3967733803882,NA,NA,NA
+19,"horses","horses_R",1.71282005592412,NA,NA,NA
+19,"horses","horses_pi_inv",0.571206829646876,NA,NA,NA
+19,"horses","horses_pi_opg",0.509013921857959,NA,NA,NA
+19,"horses","horses_Delta",0.0621929077889176,NA,NA,NA
+19,"sheep","sheep_mu_inv",709.171518489378,NA,NA,NA
+19,"sheep","sheep_mu_opg",378.152926099957,NA,NA,NA
+19,"sheep","sheep_R",1.87535642207862,NA,NA,NA
+19,"sheep","sheep_pi_inv",0.493209157935584,NA,NA,NA
+19,"sheep","sheep_pi_opg",0.300378520562007,NA,NA,NA
+19,"sheep","sheep_Delta",0.192830637373577,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","w1700",417.848772721903,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","w1790",1464.78460764012,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","wtot",1207.93359287034,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","D90w",1046.93583491821,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","mu_opg",7.42172846631078,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","R",1.00871686457188,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","pi_opg",0.444950889131412,NA,NA,NA
+20,"opgaafrolle.dta (n = 15,577) in place of the workbook","Delta",0.212402622704056,NA,NA,NA
+21,"opgaaf block length 1","D90",1219.39777039264,723.298698827198,1736.43453181605,0
+21,"opgaaf block length 1","D90w",1046.81293194574,713.255682766423,1405.26456909746,0.138213821382138
+21,"opgaaf block length 1","R",1.00874474082039,0.902398698617802,1.14032875562506,0
+21,"opgaaf block length 1","Delta",0.212623929491206,0.165381499034337,0.257731531894291,0
+21,"opgaaf block length 3","D90",1219.39777039264,720.082985075196,1713.31354151998,0
+21,"opgaaf block length 3","D90w",1046.81293194574,706.288346009337,1393.87101334183,0.119311931193119
+21,"opgaaf block length 3","R",1.00874474082039,0.898999716405186,1.13907107601125,0
+21,"opgaaf block length 3","Delta",0.212623929491206,0.163546608239923,0.257324495143089,0
+21,"opgaaf block length 10","D90",1219.39777039264,701.988721419287,1713.45153332885,0
+21,"opgaaf block length 10","D90w",1046.81293194574,699.159824134401,1408.59990003915,0.208820882088209
+21,"opgaaf block length 10","R",1.00874474082039,0.880067164010676,1.14601802414353,0
+21,"opgaaf block length 10","Delta",0.212623929491206,0.154207922148088,0.26248016748202,0
+21,"opgaaf household-key cluster bootstrap","D90",1219.39777039264,715.265210159247,1715.54912536229,0
+21,"opgaaf household-key cluster bootstrap","D90w",1046.81293194574,714.228300430589,1394.91184234995,0
+21,"opgaaf household-key cluster bootstrap","R",1.00874474082039,0.917103818698103,1.11127108497811,0
+21,"opgaaf household-key cluster bootstrap","Delta",0.212623929491206,0.185495456783575,0.239313459458068,0
+22,"inventories in year clusters within rows","D90",1219.39777039264,554.879837685243,1985.40727643599,0
+22,"inventories in year clusters within rows","D90w",1046.81293194574,542.236024027243,1681.11001044077,0.134913491349135
+22,"inventories in year clusters within rows","R",1.00874474082039,0.887670670009395,1.1540664292919,0
+22,"inventories in year clusters within rows","Delta",0.212623929491206,0.157877440211949,0.262650774880041,0
+23,"(a) opgaaf fixed, inventories resampled","D90",1219.39777039264,716.337104842064,1726.10003500789,0
+23,"(a) opgaaf fixed, inventories resampled","D90w",1046.81293194574,714.76114051546,1396.74437298187,0
+23,"(a) opgaaf fixed, inventories resampled","R",1.00874474082039,0.932424073815257,1.09241569480278,0
+23,"(a) opgaaf fixed, inventories resampled","Delta",0.212623929491206,0.189341042413209,0.234941546875762,0
+23,"(b) inventories fixed, opgaaf resampled","D90",1219.39777039264,1219.39777039264,1219.39777039264,0
+23,"(b) inventories fixed, opgaaf resampled","D90w",1046.81293194574,995.192712571587,1102.73749783687,0.145414541454145
+23,"(b) inventories fixed, opgaaf resampled","R",1.00874474082039,0.917427789356382,1.10926049755659,0
+23,"(b) inventories fixed, opgaaf resampled","Delta",0.212623929491206,0.164678220470855,0.252985062425409,0
+24,"B = 4,999 (seed 20261012)","D90",1219.39777039264,695.052279955784,1723.785959771,0
+24,"B = 4,999 (seed 20261012)","D90w",1046.81293194574,705.849474344292,1407.28280243846,0.14002800560112
+24,"B = 4,999 (seed 20261012)","R",1.00874474082039,0.895366575062621,1.13905222678863,0
+24,"B = 4,999 (seed 20261012)","Delta",0.212623929491206,0.161100872767405,0.258593000886937,0
+24,"second seed 20261013 (B = 9,999)","D90",1219.39777039264,721.446420831101,1728.66828647144,0
+24,"second seed 20261013 (B = 9,999)","D90w",1046.81293194574,711.496641884896,1395.32831981867,0.132713271327133
+24,"second seed 20261013 (B = 9,999)","R",1.00874474082039,0.892043471798284,1.14280001811364,0
+24,"second seed 20261013 (B = 9,999)","Delta",0.212623929491206,0.162054391742352,0.259844921714645,0

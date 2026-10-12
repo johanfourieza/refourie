@@ -1,0 +1,13 @@
+# P27_RW S6 deviations and implementation notes (card v3, commit d240e89)
+
+No deviation changes a primary analysis, a margin or a verdict rule. Results did not inform any item below unless stated.
+
+- **D1 (layout).** Shared functions sit in `00_common.R`, sourced by `02`–`04`. The card's four scripts (`01_data.R`, `02_primary.R`, `03_sensitivities.R`, `04_verdicts.R`) exist as named. Not results-informed.
+- **D2 (bootstrap execution).** The bootstraps run sequentially under `set.seed(20261012)` (and 20261013), not via `parLapply`. A full B = 9,999 run takes about 40 seconds, so parallel streams would only have changed the random-number stream that the card fixes. Not results-informed.
+- **D3 (sensitivity 4, interpretation).** The card does not say whether the half-period weights are time-balanced. Each half uses the two card blocks it contains (T1, T2 for 1700–36; T3, T4 for 1737–73) and is time-balanced over them, consistent with the primary. Fixed before the item was run. Not results-informed.
+- **D4 (sensitivity 6, interpretation).** The opgaaf has no `group` variable. The `group` boundaries were read from the inventories (class 2 = 1–4, class 3 = 5–15, class 4 = 16+; checked by cross-tabulation in `01_data.R`) and applied to both sources. Not results-informed.
+- **D5 (sensitivity 12, interpretation).** "Trimmed" is implemented as dropping inventories above the pooled pre-1801 99th percentile (type 7), not winsorising. Not results-informed.
+- **D6 (sensitivity 16, interpretation).** The weighted quantile is the smallest y whose cumulative normalised weight reaches p. Not results-informed.
+- **D7 (sensitivity 10, coding fix).** The first run of `03` left the 1806 row out of the pooled total, so the item returned the pre-1801 total. The fix moves only the label used for pooling. It was caught because the output equalled the primary value. It is results-informed only in the sense that the bug showed in the output; the specification is unchanged.
+
+**Disclosure (not a deviation).** The opgaaf workbook has households in only **15 calendar years** within 1700–1773 (1700, 1702, 1705, 1709, 1712, 1716, 1719, 1723, 1731, 1738, 1741, 1752, 1757, 1762, 1773). The card's circular moving-block bootstrap draws from all 74 calendar years, so most drawn years are empty. Drawn opgaaf samples range from 6,031 to 28,982 households, and about 14% of draws leave at least one of the four time blocks without opgaaf households. Those draws are undefined for every weighted quantity (card §4). The card was implemented as written. The undefined-draw rule then makes H5w not-testable (§8, rule 0).

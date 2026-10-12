@@ -1,0 +1,10 @@
+item,pair,B,V,shown,n_supported_pos,n_supported_nonpos,n_point_nonpos,pattern,min_L
+"6a (item 1, zero dummies)",FS,199,199,TRUE,0,0,8,"some nonpositive point, not excluded",-10.868974240019396
+"6a (item 1, zero dummies)",FK,199,199,TRUE,7,0,1,"some nonpositive point, not excluded",-1.6901107337690127
+"6a (item 1, zero dummies)",SK,199,199,TRUE,0,0,3,"some nonpositive point, not excluded",-13.108962928730119
+"6b (item 2, window regression)",FS,199,199,TRUE,3,0,0,"positive points, not all supported",-2.0411333118007957
+"6b (item 2, window regression)",FK,199,199,TRUE,6,0,0,"positive points, not all supported",-0.500185604304276
+"6b (item 2, window regression)",SK,199,199,TRUE,9,0,2,"some nonpositive point, not excluded",-3.1146817898340484
+15 (iid within year),FS,999,999,TRUE,0,0,0,"positive points, not all supported",-3.4072276226910456
+15 (iid within year),FK,999,999,TRUE,2,0,0,"positive points, not all supported",-1.6424756050143285
+15 (iid within year),SK,999,999,TRUE,8,0,5,"some nonpositive point, not excluded",-6.182240399329043

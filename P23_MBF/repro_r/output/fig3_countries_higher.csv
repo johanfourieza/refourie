@@ -1,0 +1,12 @@
+cntry_name,pre_higher,post_higher,both
+Benin,TRUE,TRUE,TRUE
+Ghana,TRUE,TRUE,TRUE
+Guinea,FALSE,FALSE,FALSE
+Kenya,TRUE,TRUE,TRUE
+Malawi,TRUE,TRUE,TRUE
+Mali,TRUE,TRUE,TRUE
+Senegal,FALSE,TRUE,FALSE
+Sierra Leone,TRUE,TRUE,TRUE
+Tanzania,TRUE,TRUE,TRUE
+Uganda,TRUE,TRUE,TRUE
+Zambia,FALSE,FALSE,FALSE

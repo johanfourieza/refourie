@@ -1,0 +1,7 @@
+check,value
+T2 totals reproduce table2_r.csv (2 dp) and results_r.csv (4 dp),1
+rebuilt sample identical to S3 analysis_sample.rds,1
+N S3 sample,9216
+S2-8 unflagged repeats in Data (SA-born),67
+of which in the S3 sample,26
+S19 records added back (missing occupation or town only),79

@@ -1,0 +1,26 @@
+statistic,central,A_min,A_max,A_nonfinite,verification,paired_note
+K_1685,182.6508679598729,50.7683948210728,182.6508679598729,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+K_1773,7162.6313247708795,2903.8540764455443,7162.6313247708795,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+S_1685,222,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+S_1773,7062,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+g_K,4.257521456088353,3.6487020808582127,4.799641616000638,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+g_S,4.009908170373189,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+r_KS,1.0617503631491192,0.9099216056408195,1.1969455189678202,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+I1c = K_1773/6843,1.0467092393352155,0.4243539495024908,1.0467092393352155,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+g_pub,4.6824100455491235,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_without,14.54454438072085,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_with,8.021607266167376,8.021607266167376,10.040447171340638,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_N_without,370,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_N_with,370,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+P_T3,-44.847998973414306,-44.847998973414306,-30.967606076065906,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T5_without,9.020762495148313,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T5_with,4.9419865473498215,4.9419865473498215,6.290655394727838,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T5_N_without,1095,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T5_N_with,1095,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+P_T5,-45.215423308087345,-45.215423308087345,-30.264704362727915,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_Stel_without,18.35405179615706,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_Stel_with,6.4829454352984195,6.4829454352984195,11.573723210980308,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_Drak_without,15.101564010423234,NA,NA,NA,PASS,N_without = N_with in T3 and T5; paired = unpaired
+T3_Drak_with,5.575424735315671,5.575424735315671,8.262420897637009,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+P_T5_Stel,-58.246380416136496,-58.246380416136496,-32.447334837861774,0,PASS,N_without = N_with in T3 and T5; paired = unpaired
+P_T5_Drak,-61.001927062641776,-61.001927062641776,-43.24997261195868,0,PASS,N_without = N_with in T3 and T5; paired = unpaired

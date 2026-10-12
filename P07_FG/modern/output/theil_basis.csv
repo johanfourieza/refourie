@@ -1,0 +1,4 @@
+basis,gini1700,gini1723,gini1757,T0,b0,w0,match_H3J3
+deflation by price index,0.792,0.761,0.742,1.24,0.338,0.662,FALSE
+1700 prices,0.792,0.757,0.713,1.057,0.382,0.618,FALSE
+1757 prices,0.837,0.816,0.744,1.273,0.331,0.669,TRUE

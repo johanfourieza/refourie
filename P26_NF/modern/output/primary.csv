@@ -1,0 +1,13 @@
+quantity,value,note,label,plausibility_flag
+sum_T1_1886_D,7159,comparable set D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+sum_T1_1887_D,3361,comparable set D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+sum_T2_1886_D,35013,comparable set D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+sum_T2_1887_D,24824,comparable set D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+B,3798,net fall in black registrations on D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",FALSE
+W,10189,net fall in white/coloured registrations on D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",FALSE
+Delta,6391,W - B,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+R,26202,"30,000 - B","conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+B_over_30000,0.1266,ratio,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+B_published_sets,2825,S1 benchmark (14-div 1886 minus 16-div 1887),"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+W_published_sets,7934,S1 benchmark,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA
+n_D,14,divisions in D,"conditional arithmetic on published cells; no inference (card §0, §4 C)",NA

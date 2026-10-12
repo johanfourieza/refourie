@@ -1,0 +1,33 @@
+scenario,claim_id,published,original_code,scenario_value,note
+A1_published,txt_p19_top10_1773,61,61.2413,61.24,line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; workbook share (mean10/sum of means)
+A1_published,txt_p19_top10_1700,50,45.0353,45.68,line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; workbook share (mean10/sum of means)
+A1_published__share_exact,txt_p19_top10_1773,61,61.2413,62.94,line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; S2-4 exact share of total tax in xtile decile 10
+A1_published__share_exact,txt_p19_top10_1700,50,45.0353,46.77,line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; S2-4 exact share of total tax in xtile decile 10
+A1_published__share_rand,txt_p19_top10_1773,61,61.2413,63.1,"line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; S2-4 ten equal groups, random tie-breaking (200 draws)"
+A1_published__share_rand,txt_p19_top10_1700,50,45.0353,46.77,"line :47 at 48 st (paper's 1 Rd); reproduces Image 9 pastes to all digits; S2-4 ten equal groups, random tie-breaking (200 draws)"
+run0_wine72,txt_p19_top10_1773,61,61.2413,61.24,surviving code as is (72 st before 1743); workbook share (mean10/sum of means)
+run0_wine72,txt_p19_top10_1700,50,45.0353,45.04,surviving code as is (72 st before 1743); workbook share (mean10/sum of means)
+run0_wine72__share_exact,txt_p19_top10_1773,61,61.2413,62.94,surviving code as is (72 st before 1743); S2-4 exact share of total tax in xtile decile 10
+run0_wine72__share_exact,txt_p19_top10_1700,50,45.0353,46.1,surviving code as is (72 st before 1743); S2-4 exact share of total tax in xtile decile 10
+run0_wine72__share_rand,txt_p19_top10_1773,61,61.2413,63.11,"surviving code as is (72 st before 1743); S2-4 ten equal groups, random tie-breaking (200 draws)"
+run0_wine72__share_rand,txt_p19_top10_1700,50,45.0353,46.1,"surviving code as is (72 st before 1743); S2-4 ten equal groups, random tie-breaking (200 draws)"
+no_0.7_factor,txt_p19_top10_1773,61,61.2413,61.36,S2-2: drop undisclosed 0.7 factor after 1743 (A1 base); workbook share (mean10/sum of means)
+no_0.7_factor,txt_p19_top10_1700,50,45.0353,45.68,S2-2: drop undisclosed 0.7 factor after 1743 (A1 base); workbook share (mean10/sum of means)
+wine_const_mean,txt_p19_top10_1773,61,61.2413,61.24,S2-3: imputation constant = printed mean 0.0008878 (A1 base); workbook share (mean10/sum of means)
+wine_const_mean,txt_p19_top10_1700,50,45.0353,45.68,S2-3: imputation constant = printed mean 0.0008878 (A1 base); workbook share (mean10/sum of means)
+wine_const_prod,txt_p19_top10_1773,61,61.2413,61.24,S2-3: imputation constant = mean yield among producers (A1 base); workbook share (mean10/sum of means)
+wine_const_prod,txt_p19_top10_1700,50,45.0353,45.25,S2-3: imputation constant = mean yield among producers (A1 base); workbook share (mean10/sum of means)
+no_vine_impute,txt_p19_top10_1773,61,61.2413,61.24,S2-3: no wine imputed for vines without wine (A1 base); workbook share (mean10/sum of means)
+no_vine_impute,txt_p19_top10_1700,50,45.0353,45.76,S2-3: no wine imputed for vines without wine (A1 base); workbook share (mean10/sum of means)
+grain_gross,txt_p19_top10_1773,61,61.2413,61.78,S2-8: 10% of gross yield as the paper states (A1 base); workbook share (mean10/sum of means)
+grain_gross,txt_p19_top10_1700,50,45.0353,45.48,S2-8: 10% of gross yield as the paper states (A1 base); workbook share (mean10/sum of means)
+poll_swell36,txt_p19_top10_1773,61,61.2413,61.21,Swellendam poll tax 36 st (p.13) (A1 base); workbook share (mean10/sum of means)
+poll_swell36,txt_p19_top10_1700,50,45.0353,45.68,Swellendam poll tax 36 st (p.13) (A1 base); workbook share (mean10/sum of means)
+pairB_like,txt_p19_top10_1773,61,61.2413,61.82,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); workbook share (mean10/sum of means)"
+pairB_like,txt_p19_top10_1700,50,45.0353,45.55,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); workbook share (mean10/sum of means)"
+pairB_like__share_exact,txt_p19_top10_1773,61,61.2413,63.46,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); S2-4 exact share of total tax in xtile decile 10"
+pairB_like__share_exact,txt_p19_top10_1700,50,45.0353,46.6,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); S2-4 exact share of total tax in xtile decile 10"
+pairB_like__share_rand,txt_p19_top10_1773,61,61.2413,63.63,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); S2-4 ten equal groups, random tie-breaking (200 draws)"
+pairB_like__share_rand,txt_p19_top10_1700,50,45.0353,46.6,"S2-2+S2-3+S2-8 jointly, the pair-B construction (A1 base); S2-4 ten equal groups, random tie-breaking (200 draws)"
+gdp_printed,I6_1789_defgdp,40,42.2404,40.41,"S2-9: printed Image 6 GDP (1,403/3,472); pair B uses this"
+gdp_P15,I6_1789_defgdp,40,42.2404,42.24,"S2-9: P15 recalculated GDP (pair A); deficit still positive, bound unaffected"

@@ -1,0 +1,66 @@
+crime,crimecat,n_sample
+theft,theft,399
+theft/other,theft,189
+theft/ inbraak,theft,147
+veediefstal,theft,139
+vervalsing,theft,17
+theft/ bedrog,theft,14
+theft/drossing,theft,11
+inbraak,theft,6
+vervalsing/bedrog,theft,5
+medepligtige in diefstal,theft,2
+bedrog,theft,1
+drossing,minor,114
+complottering,minor,95
+other criminalities,minor,17
+medepligtigheid,minor,14
+sodomie,minor,7
+dronkenskap,minor,4
+vals beskuldiging,minor,4
+bloedskande,minor,3
+vlug,minor,3
+meineed,minor,2
+aanskou geeseling,minor,1
+afskeep van pligte,minor,1
+concealment of gunpowder,minor,1
+dronkenskap&openbarewangedrag,minor,1
+falsifying escape of convict,minor,1
+hulp aan drosters en moordenaars,minor,1
+verleen hulp aan drosters,minor,1
+verleiding,minor,1
+verleiding en schaaiking van minderjarige meisies,minor,1
+violation of bannishment,minor,1
+aanranding,violence,75
+kwetsing,violence,64
+geweldadigheid,violence,60
+theft/ geweldpleging,violence,22
+verkragting,violence,20
+brandstigting,violence,9
+geweldpleging,violence,5
+mishandeling,violence,5
+aanranding/drossing/diefstal,violence,3
+mishandeling van vrou,violence,3
+verset teen eienaar,violence,3
+kwetsing & mishandeling,violence,2
+theft/mishandeling,violence,2
+aanranding/drossing,violence,1
+dreig eienaar met 'n mes,violence,1
+dros / resistance,violence,1
+guilty of exceeding the measure of justifiable defence,violence,1
+hoogverraad,violence,1
+"intolerable persecution, scandalous oppression, perversion",violence,1
+kinder mishandeling,violence,1
+molestering,violence,1
+muitery,violence,1
+ontvoering,violence,1
+poging tot verkragting,violence,1
+moord,murder,259
+poging tot moord,murder,32
+manslag,murder,9
+medepligtige aan moord,murder,6
+"dros,medepligtige aan moord",murder,3
+aandadig op moord,murder,1
+mishandeling/moord,murder,1
+vergiftiging,murder,1
+onskuldig,NA,2
+NA,NA,2

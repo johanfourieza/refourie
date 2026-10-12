@@ -1,0 +1,5 @@
+country,measure,n,median,mean,claim_id
+Cape Colony,crop_val,2974,231.45476787431323,389.69637866904606,F6_crops_cape_median
+Cape Colony,cropwine_val,3589,383.01004807692317,750.2264466185499,F6_cropswine_cape_median
+United States,crop_val,7410,34.01,50.06367614709851,F6_crops_us_median
+United States,cropwine_val,7410,34.01,50.06367614709851,F6_cropswine_us_median

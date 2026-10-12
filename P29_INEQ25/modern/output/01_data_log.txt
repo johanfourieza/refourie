@@ -1,0 +1,6 @@
+panel_rows=142274
+clusters=41798
+missing_ids=0
+panel_equals_opgaaf_save2=TRUE
+all_districts.rds md5=71473d7f622fabf99ec66e6fecef121c
+GK=108 SR=364 BD1814=425 BD1825=611 SED=36417 probates=4423

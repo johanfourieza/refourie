@@ -1,0 +1,15 @@
+item,value
+rows_opgaaf,142297
+cols_opgaaf,172
+unique_years,143
+year_min,1685
+year_max,1844
+heatmap_vars_kept,72
+heatmap_vars_dropped,100
+class_horses,numeric
+class_cattle,numeric
+class_sheep,numeric
+class_wheat_vol,numeric
+class_barley_vol,numeric
+class_wine,logical
+class_slave_men,numeric

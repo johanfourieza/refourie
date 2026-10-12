@@ -1,0 +1,4 @@
+scenario,term,b,p,N,nclust
+S5_score_wildboot_webb,d_birth,,.0050050048,5077010,624
+S5_score_wildboot_webb,d_birth_bef_indep,,.094094098,5077010,624
+S5_score_wildboot_webb,d_birth + d_birth_bef_in,,,5077010,624

@@ -1,0 +1,12 @@
+claim,published,from_spec2,from_spec3
+TXT_p9_b,85,85,85.3
+TXT_p9_c,69.8,69.8,72.1
+TXT_p9_d,57.7,60,51.8
+TXT_p9_e,21,22.6,19.5
+TXT_p9_f,6.2,6.8,5.5
+TXT_p9_h,90.2,90.2,89.8
+TXT_p9_j,6.3,6.200000000000003,4.900000000000006
+implied_Pandemic_coef,-2.339,-2.243,-2.576
+implied_Col+ColxPan,-1.635,-1.6354,-1.4942
+implied_Bl+BlxPan,-3.027,-3.029,-2.923
+implied_Railway_total_logit_gap_p13,0.849,NA,0.1443

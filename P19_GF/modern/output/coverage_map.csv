@@ -1,0 +1,46 @@
+component,class,workbook_column,in_workbook,H2_role,H1_role
+Pensions,hr,Pensions,TRUE,denominator only,not in claim
+Education,hr,EducationNatives; Education Non- Natives,TRUE,denominator only,not in claim
+District surgeons,hr,District Surgeons,TRUE,denominator only,not in claim
+Public health,hr,Public Health,TRUE,denominator only,not in claim
+Public worship,hr,Public Worship,TRUE,denominator only,not in claim
+Hospitals (Eastern Cape and Somerset),hr,"Eastern Cape hospital and lepers; Somerset , old and new Hospital",TRUE,denominator only,not in claim
+Controller and Auditor General,adm,,FALSE,denominator only,not in claim
+Agent general,adm,,FALSE,denominator only,not in claim
+Treasury,adm,,FALSE,denominator only,not in claim
+Colonial Secretary,adm,Colonial Secretary,TRUE,denominator only,not in claim
+The governor,adm,The Governor,TRUE,denominator only,not in claim
+Crown forests,adm,Crown Forests,TRUE,denominator only,not in claim
+Joint parliamentary services,adm,Joint parliamentary expenses,TRUE,denominator only,not in claim
+Transkeian territories,adm,Transkeian territories,TRUE,denominator only,not in claim
+Immigration,adm,,FALSE,denominator only,not in claim
+Rents/rates/gas/lights,adm,"Rents, rates, insurance, gas , electric light",TRUE,denominator only,not in claim
+Headman & Chiefs allowances,adm,Headman & Chiefs Allowances,TRUE,denominator only,not in claim
+Cape Town & frontier mounted riflemen,mil,Cape Town & frontier Mounted riflemen,TRUE,denominator only,not in claim
+Cape forces,mil,,FALSE,denominator only,not in claim
+Imperial military expenditure,mil,Imperial Military Expr,TRUE,denominator only,not in claim
+Defence and military allowances,mil,Defence and Colonial Military allowance,TRUE,denominator only,not in claim
+Divisional courts,law,Divisional Courts,TRUE,denominator only,not in claim
+Registrar of Deeds,law,Registrar of Deeds,TRUE,denominator only,not in claim
+High court Sheriff,law,High Sheriff,TRUE,denominator only,not in claim
+Superior courts,law,Superior Courts,TRUE,denominator only,not in claim
+Police and gaols,law,Police and Gaol,TRUE,denominator only,not in claim
+Convicts,law,Convicts and Prisons,TRUE,denominator only,not in claim
+(not listed in Table 1) Robben Island,law,Robben Island,TRUE,denominator only,not in claim
+Loans repaid,debt,,FALSE,numerator and denominator,not in claim
+Public debt servicing,debt,National Debt Servicing,TRUE,numerator and denominator,not in claim
+Unpaid advances from the previous year,debt,,FALSE,numerator and denominator,not in claim
+Railways,pw,Total Railways,TRUE,numerator and denominator,numerator and denominator
+Roads & Bridges,pw,Roads & Bridges,TRUE,numerator and denominator,denominator only
+Works and buildings,pw,Works & Buildings,TRUE,numerator and denominator,denominator only
+Conveyance of mails,pw,Conveyance of mails,TRUE,numerator and denominator,not in claim
+Telegraph,pw,Telegraph,TRUE,numerator and denominator,denominator only
+Post office,pw,Post Office,TRUE,numerator and denominator,not in claim
+Ports and harbours,pw,Ports and Harbours,TRUE,numerator and denominator,denominator only
+Customs,pw,Customs,TRUE,numerator and denominator,not in claim
+Mines,pw,Mines,TRUE,numerator and denominator,not in claim
+Lands and agriculture,pw,,FALSE,numerator and denominator,not in claim
+Surveyor General,pw,Surveyor General,TRUE,numerator and denominator,not in claim
+Engineer and inspector of works,pw,,FALSE,numerator and denominator,not in claim
+Lighthouse,pw,,FALSE,numerator and denominator,not in claim
+Commissioner of public works,pw,Commissioner for public works,TRUE,numerator and denominator,not in claim

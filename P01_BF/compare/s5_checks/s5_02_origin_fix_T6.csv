@@ -1,0 +1,17 @@
+term,me125,scenario
+eur,51.383539569101956,orig
+id,-28.63142440178053,orig
+in,-20.256193667449573,orig
+mz,-21.340409756392212,orig
+eur,49.961694793388574,fix_kust
+id,-29.717781351690284,fix_kust
+in,-23.035094086400207,fix_kust
+mz,-22.3421779700833,fix_kust
+eur,50.29185355999344,fix_kust_westcoast
+id,-29.486078194884833,fix_kust_westcoast
+in,-22.758079085382843,fix_kust_westcoast
+mz,-22.11163720085097,fix_kust_westcoast
+eur,50.322748673926505,fix_kust_westcoast_cochin
+id,-29.437289770889787,fix_kust_westcoast_cochin
+in,-22.940390900414062,fix_kust_westcoast_cochin
+mz,-22.105572618506525,fix_kust_westcoast_cochin

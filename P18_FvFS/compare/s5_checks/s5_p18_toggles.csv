@@ -1,0 +1,48 @@
+"variant","spec","b","se","N","exp_b_minus1_pct"
+"0 published (aw=hhsize, HC1, per-member inputs, zeros->0.001)","T3c4",0.7505,"0.1511","9078",111.8
+"1 unweighted","T3c4",0.6001,"0.1272","9078",82.2
+"2 iid SE (weighted)","T3c4",0.7505,"0.1088","9078",111.8
+"3 cluster id (household; missing id = own cluster)","T3c4",0.7505,"0.1877","9078",111.8
+"4 cluster surname","T3c4",0.7505,"0.2443","9078",111.8
+"5 vines per household (other inputs per member)","T3c4",0.6063,"0.1388","9078",83.4
+"6 all inputs per household (B convention)","T3c4",0.599,"0.1391","9078",82
+"7 unweighted + all inputs per household","T3c4",0.5306,"0.1152","9078",70
+"8 zeros -> 0.01","T3c4",0.5351,"0.1006","9078",70.8
+"8 zeros -> 0.05","T3c4",0.3845,"0.0668","9078",46.9
+"8 zeros -> 0.1","T3c4",0.3196,"0.0533","9078",37.7
+"8 zeros -> 1","T3c4",0.1041,"0.0311","9078",11
+"9 log(w + 0.001) (B convention)","T3c4",0.7504,"0.1511","9078",111.8
+"10 B-like: unweighted, hh inputs, log(w+0.001)","T3c4",0.5305,"0.1152","9078",70
+"11 LPM: any wine (weighted)","T3c4",0.0936,"0.0226","9078",9.8
+"12 intensive margin: log wine | wine>0","T3c4",0.3438,"0.0826","2278",41
+"13 PPML on wine per member (weighted, HC)","T3c4",0.7857,"0.1087","9078",119.4
+"0 published (aw=hhsize, HC1, per-member inputs, zeros->0.001)","T4c7",0.7206,"0.1379","2230",105.6
+"1 unweighted","T4c7",0.5471,"0.1065","2230",72.8
+"2 iid SE (weighted)","T4c7",0.7206,"0.111","2230",105.6
+"3 cluster id (household; missing id = own cluster)","T4c7",0.7206,"0.1707","2230",105.6
+"4 cluster surname","T4c7",0.7206,"0.2142","2230",105.6
+"5 vines per household (other inputs per member)","T4c7",0.4111,"0.1256","2230",50.8
+"6 all inputs per household (B convention)","T4c7",0.3901,"0.1244","2230",47.7
+"7 unweighted + all inputs per household","T4c7",0.3366,"0.1008","2230",40
+"8 zeros -> 0.01","T4c7",0.4967,"0.0897","2230",64.3
+"8 zeros -> 0.05","T4c7",0.3402,"0.0577","2230",40.5
+"8 zeros -> 0.1","T4c7",0.2728,"0.0452","2230",31.4
+"8 zeros -> 1","T4c7",0.0489,"0.0315","2230",5
+"9 log(w + 0.001) (B convention)","T4c7",0.7206,"0.138","2230",105.6
+"10 B-like: unweighted, hh inputs, log(w+0.001)","T4c7",0.3366,"0.1008","2230",40
+"11 LPM: any wine (weighted)","T4c7",0.0972,"0.0216","2230",10.2
+"12 intensive margin: log wine | wine>0","T4c7",0.2521,"0.0632","756",28.7
+"13 PPML on wine per member (weighted, HC)","T4c7",0.3155,"0.0809","2230",37.1
+"0 published (aw=hhsize, HC1, per-member inputs, zeros->0.001)","T4c10",1.9915,"0.3495","368",632.7
+"1 unweighted","T4c10",1.5633,"0.3498","368",377.5
+"2 iid SE (weighted)","T4c10",1.9915,"0.3075","368",632.7
+"3 cluster id (household; missing id = own cluster)","T4c10",1.9915,"0.5506","368",632.7
+"4 cluster surname","T4c10",1.9915,"0.6031","368",632.7
+"8 zeros -> 0.01","T4c10",1.3486,"0.2361","368",285.2
+"8 zeros -> 0.05","T4c10",0.8993,"0.1631","368",145.8
+"8 zeros -> 0.1","T4c10",0.7058,"0.1356","368",102.5
+"8 zeros -> 1","T4c10",0.0629,"0.1003","368",6.5
+"9 log(w + 0.001) (B convention)","T4c10",1.9916,"0.3495","368",632.7
+"11 LPM: any wine (weighted)","T4c10",0.2792,"0.0523","368",32.2
+"12 intensive margin: log wine | wine>0","T4c10",0.1776,"0.1435","243",19.4
+"13 PPML on wine per member (weighted, HC)","T4c10",0.5688,"0.1352","368",76.6

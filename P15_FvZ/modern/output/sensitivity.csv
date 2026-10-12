@@ -1,0 +1,7 @@
+claim,s,n_scenarios,n_satisfy,coded_scenario_satisfies,verdict,basis
+I1a,1,144,144,TRUE,confirmed,"S1: central layer off, 144 U scenarios"
+I1b,1,144,144,TRUE,confirmed,"S1: central layer off, 144 U scenarios"
+I2,1,144,144,TRUE,confirmed,"S1: central layer off, 144 U scenarios"
+I3,1,144,144,TRUE,confirmed,"S1: central layer off, 144 U scenarios"
+I2,1,144,144,TRUE,confirmed,"S2: I2 decade means 1781-90 vs 1701-10, central layer on"
+I2,1,144,144,TRUE,confirmed,"S2: I2 decade means 1781-90 vs 1701-10, central layer off"

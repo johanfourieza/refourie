@@ -1,0 +1,8 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule,finite_pop_point
+H1,142263,population count (no inference),,"[128068, 156526] (142,297 +/- 10%)",confirmed,1,inside band
+H2,horses 0.987; cattle -0.378; sheep -0.244; wheat -0.260; barley 0.968; wine 0.354,"horses [0.456, 2.162]; cattle [-0.690, 0.309]; sheep [-0.807, 1.089]; wheat [-2.050, 3.268]; barley [-7.117, 27.511]; wine [0.102, 0.601]",,"ln r_a in [ln 0.80, ln 1.25] = [-0.223, 0.223]; >= 4 of 6 assets C (99.167% percentile-t)",weakened,"step2 #4; categories horses=O,cattle=W,sheep=W,wheat=W,barley=W,wine=W",0 of 6 point ratios in band
+H3,barley s=1.000; cattle s=1.000; horses s=1.000; sheep s=1.000; wheat s=1.000; wine s=1.000,"barley [0.736, 1.000]; cattle [1.000, 1.000]; horses [1.000, 1.000]; sheep [1.000, 1.000]; wheat [1.000, 1.000]; wine [1.000, 1.000]",,G >= 0.4; s_lo > 0.5 for every asset (95% sup-t band),confirmed,3,min point s_a = 1.000
+H4,D_rise 0.050; D_fall 0.038,"D_rise [0.033, 0.066]; D_fall [0.022, 0.052]",max <5e-05,both CIs > 0 (97.5% percentile-t),confirmed,3,2 of 2 points > 0
+H5a,"16 contrasts, range 0.940 to 5.080",lower ends 0.284 to 4.853,max 0.0004,all 16 CIs > 0 (99.737% percentile-t),not-testable,2,16 of 16 points on claimed side
+H5b,H5b_ZM 0.077; H5b_ZW 0.022,"H5b_ZM [0.025, 0.111]; H5b_ZW [-0.026, 0.131]",H5b_ZM 0.0001; H5b_ZW 0.202,dZ^M CI > 0 and dZ^W CI < 0 (99.737% percentile-t),weakened,5,1 of 2 points on claimed side
+H5c,0.125,"[0.040, 0.184]",0.0001,dC CI > 0 (99.737% percentile-t),confirmed,3,point > 0

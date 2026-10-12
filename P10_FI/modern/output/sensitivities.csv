@@ -1,0 +1,272 @@
+sens,label,target,estimate,lo,hi,p,p_holm,note
+1,1930s = 1930-1938,L30,2.10043457267021,1.13112058096844,3.19517074061586,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,1930s = 1930-1938,d30,3.96199039731779,1.26624465850914,6.78901585399378,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s1 = 1911-1914,s1,7.19322990126939,3.17589717046239,10.5851601321953,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s1 = 1911-1914,d30,5.19322990126939,1.2857673697177,8.55783195687326,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s1 = 1911-1914,G,2.08165760313919,0.148552660832421,3.87023348294145,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s1 = 1911-1914,D,6.71552289489997,2.80234800428772,9.99985059958964,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s1 = 1911-1914,F,0.809976994452671,0.551875787026101,0.925654258137912,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s3 = 1930-1948,s3,1.89397637410915,1.13109505794234,2.6621920464494,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s3 = 1930-1948,G,1.37608961406956,-0.0124464964793982,2.83095443501429,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+1,s3 = 1930-1948,F,0.746402705209833,0.496124950336268,0.872324369543724,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,L30,1.09473684210526,0.634880420439371,1.57111054644698,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,s1,5.22208883553421,2.63577186753311,8.12187138139072,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,s3,1.14735289296837,0.538046277078787,1.89444013011007,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,s4,0.0734933855952964,0,0.173412798069549,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,d30,4.12735199342895,1.54606988677385,7.09087369496524,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,S25,3.6697247706422,0,13.8753007217323,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,R25,4.07747196738022,,,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=NA; parishes=36"
+2,white-nonwhite definition,E25,2.7697247706422,-0.9,12.9753007217323,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,G,1.50043821759639,0.0774983856474225,3.09709311776574,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,D,5.14859544993892,2.59795177866735,8.05073373060337,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+2,white-nonwhite definition,F,0.791426706989416,0.526434748997172,0.915661125075648,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+3,all-interracial 1925 share (note 15),S25,3.09859154929577,0.730794908314047,5.9594285077034,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+3,all-interracial 1925 share (note 15),R25,3.44287949921753,,,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=NA; parishes=36"
+3,all-interracial 1925 share (note 15),E25,2.19859154929577,-0.169205091685953,5.05942850770339,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=36"
+4,year moving-block bootstrap (5-year blocks within pools),d30,4.062424969988,3.14535414922555,4.99162719331132,,,"B=9999, CI level 1-0.05/4"
+4,year moving-block bootstrap (5-year blocks within pools),G,1.51625513749849,0.963437912620817,2.08462514130928,,,"B=9999, CI level 1-0.05/4"
+4,year moving-block bootstrap (5-year blocks within pools),D,5.58471796361857,4.77891699417458,6.42991776265085,,,"B=9999, CI level 1-0.05/4"
+5,K = 1,theta,0.265519826595128,-1.01550362177138,1.54654327496164,0.678842712403146,,"HAC se 0.6375, df 49; 95% CI"
+5,K = 1,dslope,0.112266445362649,0.0324245868468018,0.192108303878496,0.00680836811927635,,"HAC se 0.0397, df 49; 95% CI"
+5,K = 3,theta,-1.63005529111825,-2.63091880105096,-0.629191781185529,0.00197993574348384,,"HAC se 0.4975, df 47; 95% CI"
+5,K = 3,dslope,-0.117568279064667,-0.373505405613115,0.13836884748378,0.360143727008579,,"HAC se 0.1272, df 47; 95% CI"
+6,donut: drop 1949,theta,-2.21999243231519,-3.06719865177918,-1.3727862128512,3.34039968923256e-06,,"HAC se 0.4211, df 47; 95% CI"
+6,donut: drop 1949,dslope,-0.210356150350641,-0.316872808030499,-0.103839492670783,0.00024259886059553,,"HAC se 0.0529, df 47; 95% CI"
+7,series from 1921,theta,-1.93542437932312,-2.66499847932367,-1.20585027932257,4.15437032864314e-06,,"HAC se 0.3604, df 38; 95% CI"
+7,series from 1921,dslope,-0.220676026816393,-0.36422130223565,-0.0771307513971362,0.00351852130552176,,"HAC se 0.0709, df 38; 95% CI"
+8,WLS weighted by N_t,theta,-1.93618515003256,-2.5616908758279,-1.31067942423723,1.14052301637048e-07,,"HAC se 0.3111, df 48; 95% CI"
+8,WLS weighted by N_t,dslope,-0.210120845088936,-0.317972862023814,-0.102268828154058,0.000282998795897413,,"HAC se 0.0536, df 48; 95% CI"
+9,log-odds scale,theta,-1.37524730111602,-2.31460251236506,-0.435892089866982,0.00498609353663554,,"HAC se 0.4672, df 48; 95% CI"
+9,log-odds scale,dslope,-0.0703150563146605,-0.177573211179602,0.0369430985502815,0.193723166467244,,"HAC se 0.0533, df 48; 95% CI"
+10,"placebo break dates 1916-1958, |b-1949|>=3",theta |t| rank,6.00669171534932,,,,,0 of 38 placebo |t_b| >= |t_1949| = 6.01 (diagnostic rank 1 of 39)
+11,Prais-Winsten AR(1),theta,-2.04631317410398,-3.20623000511946,-0.886396343088506,0.000889734895761018,,"rho = -0.166; conventional PW SE, df = T - k - 1; 95% CI"
+11,Prais-Winsten AR(1),dslope,-0.227666581740862,-0.363689320996707,-0.0916438424850181,0.00152256662005081,,rho = -0.166; conventional PW SE; 95% CI
+12,HAC lag 1,theta,-2.02190766352955,-2.85635800154934,-1.18745732550975,1.24554906557873e-05,,"HAC se 0.4150, df 48; 95% CI"
+12,HAC lag 1,dslope,-0.230847678156052,-0.346467982057583,-0.115227374254522,0.000208272231369414,,"HAC se 0.0575, df 48; 95% CI"
+12,HAC lag 6,theta,-2.02190766352955,-2.63476421115791,-1.40905111590119,2.68449609399344e-08,,"HAC se 0.3048, df 48; 95% CI"
+12,HAC lag 6,dslope,-0.230847678156052,-0.311637065265536,-0.150058291046569,6.12891873820501e-07,,"HAC se 0.0402, df 48; 95% CI"
+13,"second break at 1939 (level + slope, joint)",theta,-2.15616612858188,-2.6786358944733,-1.63369636269046,1.04752496232324e-10,,"HAC se 0.2596, df 46; 95% CI"
+13,"second break at 1939 (level + slope, joint)",dslope,-0.308573596366688,-0.411747723833272,-0.205399468900104,2.70095384365879e-07,,"HAC se 0.0513, df 46; 95% CI"
+14,"micro analogue: spec 2, segmented trend (K = 2)",theta_micro (act),-0.0110354145643547,-0.0245899036493823,0.000214236223013447,0.0145014501450145,,WCR two-way; N=23308; CI level 1-0.05/4
+15,add 258 same-race couples i: 1911-1919,L30,2,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,s1,5.24948024948025,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,s3,1.75381085068022,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,s4,0.477707006369427,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,d30,3.24948024948025,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,S25,3.6697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,R25,4.07747196738022,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,E25,2.7697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,G,1.10978277724462,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,D,4.77177324311082,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,F,0.732572404576612,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples i: 1911-1919,theta,-1.81435081644831,-2.51986873013184,-1.10883290276479,4.4972044489656e-06,,"HAC se 0.3509, df 48; 95% CI"
+15,add 258 same-race couples i: 1911-1919,dslope,-0.182166820274688,-0.293828917874962,-0.0705047226744134,0.00193602574896331,,"HAC se 0.0555, df 48; 95% CI"
+15,add 258 same-race couples ii: 1930-1939,L30,1.89696485623003,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,s1,6.062424969988,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,s3,1.74437561134659,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,s4,0.477707006369427,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,d30,4.16546011375796,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,S25,3.6697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,R25,4.07747196738022,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,E25,2.7697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,G,1.52569037683212,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,D,5.58471796361857,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,F,0.773190228543531,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples ii: 1930-1939,theta,-2.02974952374405,-2.68526076768399,-1.3742382798041,1.13209788109381e-07,,"HAC se 0.3260, df 48; 95% CI"
+15,add 258 same-race couples ii: 1930-1939,dslope,-0.238257329965802,-0.343712252569162,-0.132802407362441,3.75175292029311e-05,,"HAC se 0.0524, df 48; 95% CI"
+15,add 258 same-race couples iii: 1949-1963,L30,2,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,s1,6.062424969988,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,s3,1.75381085068022,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,s4,0.463072904298266,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,d30,4.062424969988,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,S25,3.6697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,R25,4.07747196738022,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,E25,2.7697247706422,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,G,1.50893808646291,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,D,5.59935206568973,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,F,0.769484409760372,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,add 258 same-race couples iii: 1949-1963,theta,-2.04268606126995,-2.7159670816935,-1.36940504084641,1.76286723459485e-07,,"HAC se 0.3349, df 48; 95% CI"
+15,add 258 same-race couples iii: 1949-1963,dslope,-0.229923829194937,-0.338621236657425,-0.12122642173245,9.69545798476993e-05,,"HAC se 0.0541, df 48; 95% CI"
+15,"add 258 same-race couples iv: proportional, all years",L30,1.9783423573511,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",s1,5.99406528189911,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",s3,1.73447884584211,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",s4,0.472498182699297,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",d30,4.01572292454801,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",S25,3.6036036036036,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",R25,4.004004004004,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",E25,2.7036036036036,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",G,1.49880288645709,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",D,5.52156709919981,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",F,0.771445200163247,,,,,point (records allocated by N_t; 1925 white-husband share 131/258)
+15,"add 258 same-race couples iv: proportional, all years",theta,-1.99855534777106,-2.66795647123123,-1.32915422431088,2.48167580877276e-07,,"HAC se 0.3329, df 48; 95% CI"
+15,"add 258 same-race couples iv: proportional, all years",dslope,-0.228041918427771,-0.33602597119252,-0.120057865663022,9.91598722065286e-05,,"HAC se 0.0537, df 48; 95% CI"
+16,two-way WCR parish x 5-year block,H2-c2,0.000268757833159656,,,0.944009632751355,0.944009632751355,WCR parish x 5-yr block; N=23308; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H2-c4,-0.00645424893002772,-0.0244788274711602,0.011714811107732,0.0572057205720572,0.171617161716172,WCR parish x 5-yr block; N=12023; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H3-c2,-0.0278252720365346,-0.0588929720980638,0.00239028999348047,0.0203020302030203,0.0812081208120812,WCR parish x 5-yr block; N=23308; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H3-c4,-0.013547413448327,-0.0427907125078216,0.0139607574000075,0.268226822682268,0.536453645364536,WCR parish x 5-yr block; N=12023; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H2-c2L,0.000174042546284846,,,0.963167402649538,0.963167402649538,WCR parish x 5-yr block; N=23308; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H2-c4L,-0.00643068768415225,-0.0243840661193006,0.0114594456149871,0.0593059305930593,0.177917791779178,WCR parish x 5-yr block; N=12023; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H3-c2L,-0.0278614667783609,-0.058821934821506,0.00231400156579271,0.0201020102010201,0.0804080408040804,WCR parish x 5-yr block; N=23308; CI level 1-0.05/4
+16,two-way WCR parish x 5-year block,H3-c4L,-0.0135428456177835,-0.0427499044633147,0.0132411566615227,0.261626162616262,0.523252325232523,WCR parish x 5-yr block; N=12023; CI level 1-0.05/4
+17,one-way WCR by parishdum,H2-c2,0.000268757833159656,-0.00543411487974802,0.00594730980054197,0.896689668966897,0.896689668966897,WCR one-way parishdum; N=23308; CI level 1-0.05/4
+17,one-way WCR by parishdum,H2-c4,-0.00645424893002772,-0.0160891087989971,0.00113906871931114,0.0329032903290329,0.0987098709870987,WCR one-way parishdum; N=12023; CI level 1-0.05/4
+17,one-way WCR by parishdum,H3-c2,-0.0278252720365346,-0.0587500918933446,-0.00442283027301392,0.0013001300130013,0.0052005200520052,WCR one-way parishdum; N=23308; CI level 1-0.05/4
+17,one-way WCR by parishdum,H3-c4,-0.013547413448327,-0.0401865869687036,0.00403076536529647,0.0891089108910891,0.178217821782178,WCR one-way parishdum; N=12023; CI level 1-0.05/4
+17,one-way WCR by parishdum,H2-c2L,0.000174042546284846,-0.00558926198713097,0.00592147688046609,0.932493249324932,0.932493249324932,WCR one-way parishdum; N=23308; CI level 1-0.05/4
+17,one-way WCR by parishdum,H2-c4L,-0.00643068768415225,-0.0160559929964937,0.00122157316139781,0.034003400340034,0.102010201020102,WCR one-way parishdum; N=12023; CI level 1-0.05/4
+17,one-way WCR by parishdum,H3-c2L,-0.0278614667783609,-0.0586829072093523,-0.0043648571935855,0.0013001300130013,0.0052005200520052,WCR one-way parishdum; N=23308; CI level 1-0.05/4
+17,one-way WCR by parishdum,H3-c4L,-0.0135428456177835,-0.0401027008325041,0.00400146761622119,0.088008800880088,0.176017601760176,WCR one-way parishdum; N=12023; CI level 1-0.05/4
+17,one-way WCR by year,H2-c2,0.000268757833159656,-0.00854621353962805,0.00923514034217178,0.946394639463946,0.946394639463946,WCR one-way year; N=23308; CI level 1-0.05/4
+17,one-way WCR by year,H2-c4,-0.00645424893002772,-0.0173883873811975,0.00245824995991147,0.0609060906090609,0.121812181218122,WCR one-way year; N=12023; CI level 1-0.05/4
+17,one-way WCR by year,H3-c2,-0.0278252720365346,-0.0446681062156816,-0.0111039641314821,0.0002000200020002,0.0008000800080008,WCR one-way year; N=23308; CI level 1-0.05/4
+17,one-way WCR by year,H3-c4,-0.013547413448327,-0.0264987707156834,-0.000231684199646324,0.0103010301030103,0.0309030903090309,WCR one-way year; N=12023; CI level 1-0.05/4
+17,one-way WCR by year,H2-c2L,0.000174042546284846,-0.0085655016272471,0.00911689540513394,0.962996299629963,0.962996299629963,WCR one-way year; N=23308; CI level 1-0.05/4
+17,one-way WCR by year,H2-c4L,-0.00643068768415225,-0.0174382492866222,0.00250241568474357,0.0623062306230623,0.124612461246125,WCR one-way year; N=12023; CI level 1-0.05/4
+17,one-way WCR by year,H3-c2L,-0.0278614667783609,-0.044684201201424,-0.0112006657841602,0.0002000200020002,0.0008000800080008,WCR one-way year; N=23308; CI level 1-0.05/4
+17,one-way WCR by year,H3-c4L,-0.0135428456177835,-0.0264394738847904,-0.000330591762812137,0.0099009900990099,0.0297029702970297,WCR one-way year; N=12023; CI level 1-0.05/4
+17,CR1 one-way by parishdum,H2-c2,0.000268757833159656,-0.00510230317072605,0.00563981883704536,,,"CR1 one-way parishdum, t(G-1), G=36; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H2-c4,-0.00645424893002772,-0.0140360614600855,0.00112756360003006,,,"CR1 one-way parishdum, t(G-1), G=34; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H3-c2,-0.0278252720365346,-0.0525998129000165,-0.00305073117305264,,,"CR1 one-way parishdum, t(G-1), G=36; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H3-c4,-0.013547413448327,-0.0347176734460328,0.00762284654937894,,,"CR1 one-way parishdum, t(G-1), G=34; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H2-c2L,0.000174042546284846,-0.00523760394278686,0.00558568903535655,,,"CR1 one-way parishdum, t(G-1), G=36; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H2-c4L,-0.00643068768415225,-0.0140349348253029,0.00117355945699845,,,"CR1 one-way parishdum, t(G-1), G=34; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H3-c2L,-0.0278614667783609,-0.0526393687723153,-0.00308356478440656,,,"CR1 one-way parishdum, t(G-1), G=36; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by parishdum,H3-c4L,-0.0135428456177835,-0.034615354781723,0.00752966354615605,,,"CR1 one-way parishdum, t(G-1), G=34; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by year,H2-c2,0.000268757833159656,-0.00774966009959991,0.00828717576591922,,,"CR1 one-way year, t(G-1), G=53; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by year,H2-c4,-0.00645424893002772,-0.0145718096925616,0.00166331183250613,,,"CR1 one-way year, t(G-1), G=37; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by year,H3-c2,-0.0278252720365346,-0.0442222226704044,-0.0114283214026648,,,"CR1 one-way year, t(G-1), G=53; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by year,H3-c4,-0.013547413448327,-0.0254391601164807,-0.00165566678017321,,,"CR1 one-way year, t(G-1), G=37; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by year,H2-c2L,0.000174042546284846,-0.00779363928994324,0.00814172438251294,,,"CR1 one-way year, t(G-1), G=53; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by year,H2-c4L,-0.00643068768415225,-0.0146066316102981,0.00174525624199364,,,"CR1 one-way year, t(G-1), G=37; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by year,H3-c2L,-0.0278614667783609,-0.044221892031876,-0.0115010415248459,,,"CR1 one-way year, t(G-1), G=53; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by year,H3-c4L,-0.0135428456177835,-0.0254099631249588,-0.00167572811060813,,,"CR1 one-way year, t(G-1), G=37; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H2-c2,0.000268757833159656,-0.00540329443747515,0.00594081010379446,,,"CR1 one-way pyear, t(G-1), G=1169; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H2-c4,-0.00645424893002772,-0.0128614124962278,-4.70853638276283e-05,,,"CR1 one-way pyear, t(G-1), G=712; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H3-c2,-0.0278252720365346,-0.0437676320391634,-0.0118829120339058,,,"CR1 one-way pyear, t(G-1), G=1169; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H3-c4,-0.013547413448327,-0.0282156233189659,0.00112079642231199,,,"CR1 one-way pyear, t(G-1), G=712; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H2-c2L,0.000174042546284846,-0.0054669771023978,0.00581506219496749,,,"CR1 one-way pyear, t(G-1), G=1169; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H2-c4L,-0.00643068768415225,-0.012846297073691,-1.5078294613541e-05,,,"CR1 one-way pyear, t(G-1), G=712; N=12023; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H3-c2L,-0.0278614667783609,-0.0438194843041362,-0.0119034492525857,,,"CR1 one-way pyear, t(G-1), G=1169; N=23308; CI level 1-0.05/4"
+17,CR1 one-way by pyear,H3-c4L,-0.0135428456177835,-0.0282007969056409,0.00111510567007402,,,"CR1 one-way pyear, t(G-1), G=712; N=12023; CI level 1-0.05/4"
+18,leave-one-out HHI,H3-c2,-0.0121915906540458,-0.0362408440508754,0.00544131074252904,0.119111911191119,,WCR two-way; N=23263; CI level 1-0.05/4
+18,leave-one-out HHI,H3-c4,-0.00250849490815783,-0.0176845476839607,0.00927512654729047,0.609460946094609,,WCR two-way; N=12007; CI level 1-0.05/4
+18,leave-one-out HHI,H3-c2L,-0.0122286517122264,-0.0362853071840165,0.0053210328979278,0.116511651165117,,WCR two-way; N=23263; CI level 1-0.05/4
+18,leave-one-out HHI,H3-c4L,-0.00249730701502498,-0.0175946848045134,0.0092406206874733,0.606460646064607,,WCR two-way; N=12007; CI level 1-0.05/4
+18,lagged (t-1) HHI,H3-c2,-0.00705857767421683,-0.0227630201172241,0.0064987729126078,0.154846453936181,,WCR two-way; N=22701; CI level 1-0.05/4
+18,lagged (t-1) HHI,H3-c4,-0.00167970176132775,-0.0256606574543738,0.0206354489225792,0.868186818681868,,WCR two-way; N=11726; CI level 1-0.05/4
+18,lagged (t-1) HHI,H3-c2L,-0.00712171030889967,-0.0229278358723174,0.00665896726019095,0.1518455536661,,WCR two-way; N=22701; CI level 1-0.05/4
+18,lagged (t-1) HHI,H3-c4L,-0.00165667334126732,-0.0254805932990932,0.0206328251550288,0.867886788678868,,WCR two-way; N=11726; CI level 1-0.05/4
+18,year FE instead of linear year,H3-c2,-0.0236962472901869,-0.0511411372842827,-0.000902301052444707,0.0081008100810081,,WCR two-way; N=23308; CI level 1-0.05/4
+18,year FE instead of linear year,H3-c4,-0.0131816645137249,-0.0391173365057505,0.00486219007917312,0.101010101010101,,WCR two-way; N=12023; CI level 1-0.05/4
+18,year FE instead of linear year,H3-c2L,-0.0237190740496289,-0.051277574646719,-0.000885300437333166,0.0082008200820082,,WCR two-way; N=23308; CI level 1-0.05/4
+18,year FE instead of linear year,H3-c4L,-0.0131886438477525,-0.0389386534985465,0.00478118922987032,0.0984098409840984,,WCR two-way; N=12023; CI level 1-0.05/4
+18,parish-years with < 10 marriages dropped,H3-c2,-0.026361150525706,-0.066062858897986,-0.00125504200738634,0.0064006400640064,,WCR two-way; N=21517; CI level 1-0.05/4
+18,parish-years with < 10 marriages dropped,H3-c4,-0.0128672722722435,-0.0433553234902191,0.0068834962952401,0.144614461446145,,WCR two-way; N=11231; CI level 1-0.05/4
+18,parish-years with < 10 marriages dropped,H3-c2L,-0.0263572827339973,-0.0661184471227648,-0.00122743482529153,0.0067006700670067,,WCR two-way; N=21517; CI level 1-0.05/4
+18,parish-years with < 10 marriages dropped,H3-c4L,-0.0128650434122602,-0.0433813313065103,0.0068446038558869,0.143514351435144,,WCR two-way; N=11231; CI level 1-0.05/4
+18,check,HHI rebuild max |diff| vs script inequality,1.11022302462516e-16,,,,,""
+19,quadratic year trend,H2-c2,-0.00773502619844034,-0.0202578755714897,0.00388322277676701,0.0931093109310931,,WCR two-way; N=23308; CI level 1-0.05/4
+19,quadratic year trend,H2-c4,-0.00545047984698275,-0.0181599533991358,0.00616178978922458,0.216121612161216,,WCR two-way; N=12023; CI level 1-0.05/4
+19,quadratic year trend,H2-c2L,-0.00778189024426539,-0.0203515756990446,0.0039043225170484,0.0923092309230923,,WCR two-way; N=23308; CI level 1-0.05/4
+19,quadratic year trend,H2-c4L,-0.00543680099190383,-0.0182557378828245,0.00631890005171851,0.21972197219722,,WCR two-way; N=12023; CI level 1-0.05/4
+19,cubic year trend,H2-c2,-0.00909855525895534,-0.0210292488396376,0.00133651170006078,0.03000300030003,,WCR two-way; N=23308; CI level 1-0.05/4
+19,cubic year trend,H2-c4,-0.00600783750243433,-0.0215553235612402,0.00686434646641304,0.231546309261852,,WCR two-way; N=12023; CI level 1-0.05/4
+19,cubic year trend,H2-c2L,-0.00915295012382682,-0.0211015513724343,0.00127189153367249,0.0295029502950295,,WCR two-way; N=23308; CI level 1-0.05/4
+19,cubic year trend,H2-c4L,-0.00599263420369015,-0.0216011803861003,0.00694136371463188,0.235947189437888,,WCR two-way; N=12023; CI level 1-0.05/4
+19,sample from 1921,H2-c2,-0.00531652440427597,-0.0137689750942056,0.00249829484328882,0.0882882882882883,,WCR two-way; N=21375; CI level 1-0.05/4
+19,sample from 1921,H2-c4,-0.00645424893002772,-0.0191796376867097,0.00287732080041716,0.109210921092109,,WCR two-way; N=12023; CI level 1-0.05/4
+19,sample from 1921,H2-c2L,-0.00533082705391605,-0.0138513051040862,0.002500965363531,0.0863604523166216,,WCR two-way; N=21375; CI level 1-0.05/4
+19,sample from 1921,H2-c4L,-0.00643068768415225,-0.0192252374065336,0.00296663737472334,0.113611361136114,,WCR two-way; N=12023; CI level 1-0.05/4
+20,husband-race dummies only,H2-c2,0.000341057769173858,-0.0105712390636978,0.0117364553417045,0.930793079307931,0.930793079307931,WCR two-way; N=23308; CI level 1-0.05/4
+20,husband-race dummies only,H2-c4,-0.0119367036579938,-0.0241237808450027,-0.00202446496081029,0.0041004100410041,0.0164016401640164,WCR two-way; N=12023; CI level 1-0.05/4
+20,husband-race dummies only,H3-c2,-0.0487513146077625,-0.115187727136961,0.00256425014595851,0.0202020202020202,0.0606060606060606,WCR two-way; N=23308; CI level 1-0.05/4
+20,husband-race dummies only,H3-c4,-0.0339966527625781,-0.108627298318599,0.0150482371702991,0.134613461346135,0.269226922692269,WCR two-way; N=12023; CI level 1-0.05/4
+20,husband-race dummies only,H2-c2L,2.62818803998968e-06,-0.0112716220892149,0.0112768784652948,0.999513676840982,0.999513676840982,fallback CR1 two-way; N=23308; CI level 1-0.05/4
+20,husband-race dummies only,H2-c4L,-0.0121350465639838,-0.0241982536539097,-0.0021617106880572,0.0036003600360036,0.0144014401440144,WCR two-way; N=12023; CI level 1-0.05/4
+20,husband-race dummies only,H3-c2L,-0.048811919950222,-0.115249764023111,0.00275058371639546,0.0208020802080208,0.0624062406240624,WCR two-way; N=23308; CI level 1-0.05/4
+20,husband-race dummies only,H3-c4L,-0.0339850014759092,-0.108602226984217,0.0151175405838203,0.136313631363136,0.272627262726273,WCR two-way; N=12023; CI level 1-0.05/4
+21,col-1 logit + month + parish + year,OR act,0.49734824514457,0.201395822851737,1.22820460447425,0.125760602093275,,"two-way CR1 (parish, year), t(35), 95% CI; N=23320"
+21,col-1 logit + month + parish + year,OR inequality,0.102629763973325,0.0280368584262857,0.375679339427897,0.00108545217736199,,"two-way CR1 (parish, year), t(35), 95% CI; N=23320"
+21,col-1 logit + month + parish + year,AME act,-0.00408471430467416,,,,,"average discrete change, point"
+21,col-1 logit + month + parish + year,AME inequality,-0.0148550129818188,,,,,"average derivative, point"
+22,spec 3 (model7),H2-c3,-0.00622355262062549,-0.0172417451671984,0.00269900261908158,0.0887532519511707,,WCR two-way; N=18829; CI level 1-0.05/4
+22,spec 3 (model7),H3-c3,-0.0224874840381402,-0.0493276799405486,-0.000964767496199096,0.0085008500850085,,WCR two-way; N=18829; CI level 1-0.05/4
+22,spec 3 (model7),H2-c3L,-0.00625385671071757,-0.0173725857580399,0.00260861954243268,0.0872436218109055,,WCR two-way; N=18829; CI level 1-0.05/4
+22,spec 3 (model7),H3-c3L,-0.0225333380707693,-0.0494279593395337,-0.000951408214608884,0.0083008300830083,,WCR two-way; N=18829; CI level 1-0.05/4
+23,"fixed composition (9 parishes), raw pooled",L30,1.6260162601626,0.679326004485919,2.28804430169676,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",s1,4.739336492891,2.7681985443192,6.2237588855767,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",s3,1.270207852194,0.123533045089561,3.25116302238548,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",s4,0.253292806484296,0,0.530886314655173,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",d30,3.11332023272839,1.30681818181818,4.27969743205012,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",S25,0,0,0,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",R25,0,,,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=NA; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",E25,-0.9,-0.9,-0.9,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",G,1.22610679749365,-0.40712909607161,2.35567826506354,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",D,4.4860436864067,2.7681985443192,5.78391631609864,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), raw pooled",F,0.773315839791956,0.416858841364101,0.992498023134613,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=9"
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",L30,1.65984253008815,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",s1,4.74816581108036,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",s3,1.5794974536558,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",s4,0.236155401082332,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",d30,3.0883232809922,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",S25,0,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",R25,0,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",E25,-0.9,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",G,0.912663152425542,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",D,4.51201040999802,,,,,point
+23,"fixed composition (9 parishes), standardised (fixed parish weights)",F,0.702274168163087,,,,,point
+23,"fixed composition, standardised annual series",theta,-1.80270175036401,-2.69254767438177,-0.912855826346258,0.000172763942167999,,"HAC se 0.4426, df 48; 95% CI"
+23,"fixed composition, standardised annual series",dslope,-0.20848535789098,-0.354655305859653,-0.0623154099223072,0.00612373383580675,,"HAC se 0.0727, df 48; 95% CI"
+23,fixed composition (9 parishes),H2-c2,0.00455469897994813,-0.00763291839460043,0.0142533836170719,0.237465953798043,0.949863815192172,WCR two-way; N=7158; CI level 1-0.05/4
+23,fixed composition (9 parishes),H2-c4,-0.00479080772129317,-0.0227615794594286,0.0061914068852357,0.63956395639564,1,WCR two-way; N=3171; CI level 1-0.05/4
+23,fixed composition (9 parishes),H3-c2,-0.0134716927775153,-0.0807741437048531,0.013288464136041,0.440444044404441,1,WCR two-way; N=7158; CI level 1-0.05/4
+23,fixed composition (9 parishes),H3-c4,-0.00924191464145535,-0.082130795439307,0.0261478492433384,0.492149214921492,1,WCR two-way; N=3171; CI level 1-0.05/4
+23,fixed composition (9 parishes),H2-c2L,0.00450689924600775,-0.00797779099740527,0.0141105834266526,0.248512954934973,0.994051819739893,WCR two-way; N=7158; CI level 1-0.05/4
+23,fixed composition (9 parishes),H2-c4L,-0.0047536481051936,-0.0222330588608009,0.00591558393341855,0.633063306330633,1,WCR two-way; N=3171; CI level 1-0.05/4
+23,fixed composition (9 parishes),H3-c2L,-0.0134372489070851,-0.0809494238472123,0.0138394151655657,0.443644364436444,1,WCR two-way; N=7158; CI level 1-0.05/4
+23,fixed composition (9 parishes),H3-c4L,-0.00914560652589669,-0.0800325656090589,0.0253540806623724,0.49034903490349,1,WCR two-way; N=3171; CI level 1-0.05/4
+24,leave-one-parish-out,H1-30s,,1.77911275415896,2.1497919556172,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H1-25s,,1.86915887850467,4.59770114942529,,,range over 36 drops; 5 change the verdict category (qualified (share below the stated value); qualified (share above the stated value)); CR1 fallback in 0 drops
+24,leave-one-parish-out,H1-25r,,2.07684319833853,5.10855683269476,,,range over 36 drops; 5 change the verdict category (qualified (multiple below the stated value); qualified (multiple above the stated value)); CR1 fallback in 0 drops
+24,leave-one-parish-out,H1-dec,,2.96046010064702,4.4685681761677,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H1-UX,,0.969158878504673,3.69770114942529,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H1-F,,0.715330329939477,0.804416760401556,,,range over 36 drops; 8 change the verdict category (weakened); CR1 fallback in 0 drops
+24,leave-one-parish-out,H2-ITS,,-2.32982911997569,-1.75559498881779,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H2-c2,,-0.000807654121510225,0.00093109331203166,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 2 drops
+24,leave-one-parish-out,H2-c4,,-0.00848152168019579,-0.00528922416155879,,,range over 36 drops; 1 change the verdict category (confirmed); CR1 fallback in 0 drops
+24,leave-one-parish-out,H3-c2,,-0.0337268953474598,-0.021640420446585,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H3-c4,,-0.0191263865001534,-0.00839441093951956,,,range over 36 drops; 2 change the verdict category (qualified (inference-fragile)); CR1 fallback in 0 drops
+24,leave-one-parish-out,H2-c2L,,-0.000896807349648041,0.000834434986347252,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 4 drops
+24,leave-one-parish-out,H2-c4L,,-0.0084743733161421,-0.00523795058042299,,,range over 36 drops; 1 change the verdict category (confirmed); CR1 fallback in 0 drops
+24,leave-one-parish-out,H3-c2L,,-0.0337685214545719,-0.0216800505718794,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+24,leave-one-parish-out,H3-c4L,,-0.0191140184835062,-0.00845237869176364,,,range over 36 drops; 0 change the verdict category; CR1 fallback in 0 drops
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",L30,2.10572175428405,1.26417888891172,3.0763652611378,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",s1,6.54175928866307,3.79355695112245,8.71846126143557,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",s3,1.8304071722077,1.1093906338675,2.55599499884993,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",s4,0.455062571103527,0.176232989675779,0.907599514550199,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",d30,4.43603753437901,1.728901234012,6.76197431023105,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",S25,5.88235294117647,0.581395348837209,14.6071729365525,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",R25,6.5359477124183,,,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=NA; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",E25,4.98235294117647,-0.318604651162791,13.7071729365525,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",G,1.6680037576756,0.35708408952351,2.79119797724726,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",D,6.08669671755954,3.35640155573716,8.26621040305585,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded (41 parishes)",F,0.774040885405637,0.589921136773169,0.878918700896542,,,"parish bootstrap B=9999, CI level 1-0.05/4; fail=0.00000; parishes=41"
+25,"2019 file + six parishes, pid 557 excluded",theta,-1.90380584730725,-2.60751237071107,-1.20009932390343,1.77771049292326e-06,,"HAC se 0.3500, df 48; 95% CI"
+25,"2019 file + six parishes, pid 557 excluded",dslope,-0.216693889311192,-0.303088672821931,-0.130299105800454,6.96132915239332e-06,,"HAC se 0.0430, df 48; 95% CI"
+25,"2019 file + six parishes, pid 557 excluded",H2-c2,0.00497923903333385,-0.00490735694508393,0.0163758716824259,0.299129912991299,0.363436343634363,WCR two-way; N=32803; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H2-c4,-0.00406634788542271,-0.0133232154870123,0.00323753940582337,0.181718171817182,0.363436343634363,WCR two-way; N=15431; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H3-c2,-0.0305488312670615,-0.0723627519922532,-0.00415714229465017,0.002000200020002,0.008000800080008,WCR two-way; N=32803; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H3-c4,-0.0167966098201694,-0.0354927826851448,0.00169102965062705,0.0267026702670267,0.0801080108010801,WCR two-way; N=15431; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H2-c2L,0.00491253869893376,-0.00501084585603629,0.0162542135332807,0.305430543054305,0.381638163816382,WCR two-way; N=32803; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H2-c4L,-0.00403243378826175,-0.0134145411229583,0.00333974371093669,0.190819081908191,0.381638163816382,WCR two-way; N=15431; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H3-c2L,-0.0306810322745031,-0.0726902389652469,-0.00431911464749326,0.002000200020002,0.008000800080008,WCR two-way; N=32803; CI level 1-0.05/4
+25,"2019 file + six parishes, pid 557 excluded",H3-c4L,-0.016794623662194,-0.0354723838499576,0.00164246297556728,0.0265026502650265,0.0795079507950795,WCR two-way; N=15431; CI level 1-0.05/4
+26,original Figure 3 definition (diagnostic),s1,6.062424969988,,,,,""
+26,original Figure 3 definition (diagnostic),L30,1.99957903599242,,,,,""
+26,original Figure 3 definition (diagnostic),s3,1.75352343493936,,,,,""
+26,original Figure 3 definition (diagnostic),s4,0.477707006369427,,,,,""
+26,original Figure 3 definition (diagnostic),d30,4.06284593399557,,,,,""
+26,original Figure 3 definition (diagnostic),G,1.51654255323935,,,,,""
+26,original Figure 3 definition (diagnostic),D,5.58471796361857,,,,,""
+26,original Figure 3 definition (diagnostic),F,0.771552218593455,,,,,""
+26,original Figure 3 definition (diagnostic),1925 all-couple share,3.09859154929577,,,,,""

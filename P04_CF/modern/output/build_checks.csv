@@ -1,0 +1,20 @@
+"check","value","expected","pass"
+"son class without a term",0,0,TRUE
+"father class without a term",0,0,TRUE
+"terms mapping to more than one non-missing class",0,0,TRUE
+"grazier class in authors' map (4 = Unskilled)",4,4,TRUE
+"century class in authors' map (1 = White collar)",1,1,TRUE
+"rebuilt son groups identical to occ_group1-8 (1 = yes)",1,1,TRUE
+"rebuilt father groups identical to f_occ_group1-9 (1 = yes)",1,1,TRUE
+"2017 duplicate groups (s5_duplicates.R key)",163,163,TRUE
+"2016 rows linked (>= 1 candidate)",9494,9494,TRUE
+"2016 rows linked uniquely",9176,9176,TRUE
+"2016 rows with ambiguous father root",0,0,TRUE
+"duplicate second records flagged",159,159,TRUE
+"ambiguous candidates outside a duplicate group",0,0,TRUE
+"ambiguous 2016 rows whose candidates differ in occupation strings",0,0,TRUE
+"rows: rebuilt base son class != 2016 class",2,2,TRUE
+"rows: rebuilt base father class != 2016 class",0,0,TRUE
+"father clusters (all 9,494 rows)",5261,5261,TRUE
+"pairs codable under both corrections",9336,9336,TRUE
+"decoded 2016 share mismatches vs rebuilt share (|diff| > 0.006)",0,0,TRUE

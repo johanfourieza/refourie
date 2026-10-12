@@ -1,0 +1,11 @@
+# S5 check: compare US crop quantities in Combined sheet vs raw US tax list file.
+suppressPackageStartupMessages({library(readxl); library(dplyr)})
+source("tools/paths.R")
+d <- dpath("P06_FGa","original","20 FG Comparisons","Data")
+fg <- read_excel(file.path(d,"FourieGarmenApril2020.xlsx"),"Combined")
+print(names(fg))
+us <- fg |> filter(District %in% c("Maine","Massachusetts"))
+print(us |> group_by(District) |> summarise(n=n(), across(c(Wheatreaped,Barleyreaped,Ryereaped,Oatsreaped,Cornreaped,Cattle), list(nna=~sum(is.na(.x)), mean=~mean(.x,na.rm=TRUE), sum=~sum(.x,na.rm=TRUE)))) |> t())
+print(excel_sheets(file.path(d,"Data for Johan - Massachusetts and Virginia.xlsx")))
+raw <- read_excel(file.path(d,"Data for Johan - Massachusetts and Virginia.xlsx"), 1)
+print(names(raw))

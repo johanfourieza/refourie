@@ -1,0 +1,3 @@
+check,item,computed,reference,tolerance,pass
+G1,Khoesan n early/mid,28/189,28/189,exact,TRUE
+G5,D,-43.816137566137,-43.816137566138,1e-8,TRUE

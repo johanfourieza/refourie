@@ -1,0 +1,36 @@
+item,n
+rows_workbook,2908
+age_23_72,1803
+age_23_72_with_bdec,1802
+group_Cape-born,140
+group_Chinese,15
+group_European,392
+group_South-east Asian,120
+group_Indian,79
+group_Khoesan,368
+group_Mozambican,105
+"group_Slave, unknown",584
+cell_Cape-born_middle,69
+cell_Cape-born_late,66
+cell_Chinese_early,13
+cell_Chinese_middle,2
+cell_European_early,168
+cell_European_middle,159
+cell_European_late,65
+cell_Indian_early,46
+cell_Indian_middle,31
+cell_Khoesan_early,28
+cell_Khoesan_middle,163
+cell_Khoesan_late,177
+cell_Mozambican_middle,55
+cell_Mozambican_late,38
+"cell_Slave, unknown_early",363
+"cell_Slave, unknown_middle",151
+"cell_Slave, unknown_late",91
+cell_South-east Asian_early,69
+cell_South-east Asian_middle,48
+crime_theft,930
+crime_minor,273
+crime_violence,284
+crime_murder,312
+crime_NA,4

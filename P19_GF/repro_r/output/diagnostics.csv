@@ -1,0 +1,16 @@
+item,value
+pwdebt_share_min_1870_1909,41.16377228458926
+pwdebt_share_frac_years_gt70_1870_1909,0.125
+pwdebt_share_alt_denominator_mean,68.0559545337067
+pwdebt_share_alt_denominator_min,45.366148062029836
+rail_pw_share_1877,37.048071067533186
+rail_pw_frac_years_gt70_1880_1909,0.23333333333333334
+pw_share_max_1895_1909,50.623790601762764
+pw_share_max_1895_1909_year,1904
+debt_gdp_1899,101.98186871550946
+debt_gdp_1900,196.64928549029582
+debt_gdp_max_all,226.20631499046638
+debt_gdp_max_year,1885
+max_abs_resid_share_of_total,4.743137445532335
+rail_max_year,1903
+deficit_max_year,1908

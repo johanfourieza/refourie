@@ -1,0 +1,61 @@
+item,scenario,label,quantity,value,claimed_side
+central,central,central,H5a_W_1680,2.48148148148148,TRUE
+central,central,central,H5a_C_1680,2.6260120585702,TRUE
+central,central,central,H5a_W_1700,3.76019656019656,TRUE
+central,central,central,H5a_C_1700,3.82211302211302,TRUE
+central,central,central,H5a_W_1720,4.90922656055708,TRUE
+central,central,central,H5a_C_1720,5.08032827654812,TRUE
+central,central,central,H5a_W_1740,3.64862940548238,TRUE
+central,central,central,H5a_C_1740,3.66215735137059,TRUE
+central,central,central,H5a_W_1760,3.77496406059936,TRUE
+central,central,central,H5a_C_1760,4.12462678314719,TRUE
+central,central,central,H5a_W_1780,3.73516563523844,TRUE
+central,central,central,H5a_C_1780,4.47454661032215,TRUE
+central,central,central,H5a_W_1800,3.04895526386285,TRUE
+central,central,central,H5a_C_1800,2.74872756496116,TRUE
+central,central,central,H5a_W_1820,2.15465515332669,TRUE
+central,central,central,H5a_C_1820,0.939887080704085,TRUE
+central,central,central,H5b_ZM,0.0765534366232365,TRUE
+central,central,central,H5b_ZW,0.0218068747915725,FALSE
+central,central,central,H5c_C,0.124611034129745,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1680,2.5,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1680,2.58540630182421,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1700,3.76389572060994,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1700,,
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1720,4.92023928215354,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1720,4.71077931618678,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1740,3.64862940548238,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1740,3.66215735137059,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1760,3.77496406059936,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1760,4.12462678314719,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1780,3.73516563523844,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1780,4.47454661032215,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1800,3.04895526386285,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1800,2.74872756496116,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_W_1820,2.15465515332669,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5a_C_1820,0.939887080704085,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5b_ZM,0.0765534366232365,TRUE
+5C13,no pre-1738 relabel,changed measurement,H5b_ZW,0.0218068747915725,FALSE
+5C13,no pre-1738 relabel,changed measurement,H5c_C,0.124611034129745,TRUE
+5C14,all households,changed population,H5a_W_1680,0.347330222913427,TRUE
+5C14,all households,changed population,H5a_C_1680,0.363033889518588,TRUE
+5C14,all households,changed population,H5a_W_1700,1.23858853998058,TRUE
+5C14,all households,changed population,H5a_C_1700,1.25898348980253,TRUE
+5C14,all households,changed population,H5a_W_1720,2.2152395915161,TRUE
+5C14,all households,changed population,H5a_C_1720,2.29244753675233,TRUE
+5C14,all households,changed population,H5a_W_1740,1.58677813903081,TRUE
+5C14,all households,changed population,H5a_C_1740,1.59266140269392,TRUE
+5C14,all households,changed population,H5a_W_1760,1.58526051825021,TRUE
+5C14,all households,changed population,H5a_C_1760,1.7320980774589,TRUE
+5C14,all households,changed population,H5a_W_1780,1.70496842804919,TRUE
+5C14,all households,changed population,H5a_C_1780,2.05694209969859,TRUE
+5C14,all households,changed population,H5a_W_1800,1.58024991322457,TRUE
+5C14,all households,changed population,H5a_C_1800,1.42464422075668,TRUE
+5C14,all households,changed population,H5a_W_1820,0.993212900591958,TRUE
+5C14,all households,changed population,H5a_C_1820,0.433251684017147,TRUE
+5C14,all households,changed population,H5b_ZM,0.0479661372077945,TRUE
+5C14,all households,changed population,H5b_ZW,0.0193160107382854,FALSE
+5C14,all households,changed population,H5c_C,0.124611034129745,TRUE
+5C15,H5b rows 1780 vs 1820; H5c from 1804,changed estimand,H5b_ZM,0.126437097064031,TRUE
+5C15,H5b rows 1780 vs 1820; H5c from 1804,changed estimand,H5b_ZW,0.00162171822276377,FALSE
+5C15,H5b rows 1780 vs 1820; H5c from 1804,changed estimand,H5c_C,0.0987034748177441,TRUE

@@ -1,0 +1,200 @@
+item,label,block,row,quantity,estimate,L,U,L95,interval,would_be,note
+5A-1,independent within-year household bootstrap,5A,H1,G1663,0.5266510168082348,0.33904626606693683,0.6332769757518547,NA,95% percentile (reported only),confirmed,
+5A-1,independent within-year household bootstrap,5A,H2-pt,G1709,0.6471974070129702,0.6039717364890359,0.6834854364949058,NA,95% percentile (reported only),confirmed,
+5A-1,independent within-year household bootstrap,5A,H3-pt,G1757,0.6262805362269264,0.6020986858525826,0.6488382125540058,NA,95% percentile (reported only),confirmed,
+5A-1,independent within-year household bootstrap,5A,H2-rise,d_1663,0.12054639020473545,-0.12414322457633681,0.3652360049858077,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-1,independent within-year household bootstrap,5A,H2-rise,d_1670,0.10769482517508466,-0.04758168590928838,0.2629713362594577,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-1,independent within-year household bootstrap,5A,H2-rise,d_1678,0.11019657953392459,0.009767334048893156,0.21062582501895602,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-1,independent within-year household bootstrap,5A,H2-rise,d_1682,0.12064194262227845,-0.012554746294422964,0.2538386315389799,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-1,independent within-year household bootstrap,5A,H3-rise,d,0.062323758689851294,0.012833944406321287,0.11229474504223837,0.023426370208391136,98.75% percentile,confirmed,
+5A-1,independent within-year household bootstrap,5A,H4,m,0.14171490921871183,0.13459925047855537,0.15046497466513123,0.13610439980616643,98.75% percentile,confirmed,
+5A-1,independent within-year household bootstrap,5A,H4-w,s,0.01203811035721376,0.008645249645087772,0.015244302860239586,0.009399943822557464,98.75% percentile,confirmed,
+5A-2,exact-name clusters,5A,H1,G1663,0.5266510168082348,0.33935965994745354,0.6335662975237897,NA,95% percentile (reported only),confirmed,
+5A-2,exact-name clusters,5A,H2-pt,G1709,0.6471974070129702,0.604641166524485,0.6831974071718634,NA,95% percentile (reported only),confirmed,
+5A-2,exact-name clusters,5A,H3-pt,G1757,0.6262805362269264,0.6017869854791917,0.648478777891852,NA,95% percentile (reported only),confirmed,
+5A-2,exact-name clusters,5A,H2-rise,d_1663,0.12054639020473545,-0.12715634901009432,0.3682491294195652,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-2,exact-name clusters,5A,H2-rise,d_1670,0.10769482517508466,-0.04981679585707141,0.26520644620724076,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-2,exact-name clusters,5A,H2-rise,d_1678,0.11019657953392459,0.003411410632238876,0.2169817484356103,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-2,exact-name clusters,5A,H2-rise,d_1682,0.12064194262227845,-0.013383565796155322,0.2546674510407122,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-2,exact-name clusters,5A,H3-rise,d,0.062323758689851294,0.015881557611532017,0.11098506488435407,0.026018763317641767,98.75% percentile,confirmed,
+5A-2,exact-name clusters,5A,H4,m,0.14171490921871183,0.13219846893343248,0.15332180067674978,0.1343103208931856,98.75% percentile,confirmed,
+5A-2,exact-name clusters,5A,H4-w,s,0.01203811035721376,0.007521258944663057,0.016264661069294202,0.008542767058359482,98.75% percentile,confirmed,
+5A-3,PCA weights held fixed,5A,H1,G1663,0.5266510168082348,0.3410960860451372,0.6368076549936392,NA,95% percentile (reported only),confirmed,
+5A-3,PCA weights held fixed,5A,H2-pt,G1709,0.6471974070129702,0.6044263261654489,0.6839574436674422,NA,95% percentile (reported only),confirmed,
+5A-3,PCA weights held fixed,5A,H3-pt,G1757,0.6262805362269264,0.602325678155263,0.6487707327556023,NA,95% percentile (reported only),confirmed,
+5A-3,PCA weights held fixed,5A,H2-rise,d_1663,0.12054639020473545,-0.12232016888212291,0.36341294929159385,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-3,PCA weights held fixed,5A,H2-rise,d_1670,0.10769482517508466,-0.04798662452679894,0.26337627487696824,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-3,PCA weights held fixed,5A,H2-rise,d_1678,0.11019657953392459,0.004565514075900959,0.21582764499194823,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-3,PCA weights held fixed,5A,H2-rise,d_1682,0.12064194262227845,-0.01154177129553785,0.25282565654009476,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5A-3,PCA weights held fixed,5A,H3-rise,d,0.062323758689851294,0.01567924701105205,0.10935972934160837,0.025690641578458583,98.75% percentile,confirmed,
+5A-3,PCA weights held fixed,5A,H4,m,0.14171490921871183,0.13143760683309916,0.153427824033375,0.13370699274296005,98.75% percentile,confirmed,
+5A-3,PCA weights held fixed,5A,H4-w,s,0.01203811035721376,0.007307881409050611,0.016456938563623867,0.008310314459508245,98.75% percentile,confirmed,
+5A-4,normal approximation X +/- z SE (central draws),5A,H2-rise,d_1663,0.12054639020473545,-0.07610208868948035,0.3171948690989512,-0.03376764825223752,98.75% normal (pointwise),qualified (significant against a subset of the initial period only),SE 0.0787
+5A-4,normal approximation X +/- z SE (central draws),5A,H2-rise,d_1670,0.10769482517508466,-0.016341751083476394,0.23173140143364573,0.010360815237833873,98.75% normal (pointwise),qualified (significant against a subset of the initial period only),SE 0.0497
+5A-4,normal approximation X +/- z SE (central draws),5A,H2-rise,d_1678,0.11019657953392459,0.02616858693860992,0.19422457212923927,0.04425811434096026,98.75% normal (pointwise),qualified (significant against a subset of the initial period only),SE 0.0336
+5A-4,normal approximation X +/- z SE (central draws),5A,H2-rise,d_1682,0.12064194262227845,0.013862228773668564,0.22742165647088836,0.036849741625275836,98.75% normal (pointwise),qualified (significant against a subset of the initial period only),SE 0.0428
+5A-4,normal approximation X +/- z SE (central draws),5A,H3-rise,d,0.062323758689851294,0.014929474663505762,0.10971804271619683,0.025132505500364728,98.75% normal (pointwise),confirmed,SE 0.0190
+5A-4,normal approximation X +/- z SE (central draws),5A,H4,m,0.14171490921871183,0.13050851535669614,0.15292130308072752,0.13292102531423816,98.75% normal (pointwise),confirmed,SE 0.0045
+5A-4,normal approximation X +/- z SE (central draws),5A,H4-w,s,0.01203811035721376,0.007452651168252519,0.016623569546175,0.008439807794146955,98.75% normal (pointwise),confirmed,SE 0.0018
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H1,G1663,0.5012930355658187,0.31345032596087,0.6062186578914041,NA,95% percentile (reported only),confirmed,
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H2-pt,G1709,0.6471974070129702,0.6039898738250423,0.6825015127271711,NA,95% percentile (reported only),confirmed,
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H3-pt,G1757,0.6262805362269264,0.6014639929298985,0.6489606696740651,NA,95% percentile (reported only),confirmed,
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H2-rise,d_1663,0.14590437144715152,-0.0932885000537107,0.38509724294801373,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H2-rise,d_1670,0.10769482517508466,-0.044530782836580435,0.25992043318674973,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H2-rise,d_1678,0.11114340810758705,0.00788827441079433,0.21439854180437978,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H2-rise,d_1682,0.12064194262227845,-0.010404941726033734,0.25168882697059064,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-5,zero-index farmers dropped from farmer Ginis (ineqdeco),5B,H3-rise,d,0.062323758689851294,0.014740743838755982,0.10964639017733815,0.02515955428667277,98.75% percentile,confirmed,
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H1,G1663,0.5207106036641496,0.3356463724837429,0.631886552388354,NA,95% percentile (reported only),confirmed,
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H2-pt,G1709,0.6463513551007394,0.6029062616761448,0.6820714394893904,NA,95% percentile (reported only),confirmed,
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H3-pt,G1757,0.624269077803592,0.5993240441918394,0.6470538689592203,NA,95% percentile (reported only),confirmed,
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H2-rise,d_1663,0.12564075143658981,-0.1152045647683432,0.3664860676415228,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H2-rise,d_1670,0.11402427191264386,-0.03895307313638455,0.26700161696167224,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H2-rise,d_1678,0.11390091888129805,0.009366963502027786,0.21843487426056832,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H2-rise,d_1682,0.12449821946127981,-0.0061486606162761415,0.2551450995388358,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-11,whole-sample PCA weights for the farmer Ginis,5B,H3-rise,d,0.06100155795110784,0.01316297203060417,0.10876842352560746,0.023682649656321553,98.75% percentile,confirmed,
+5B-16,household size incl knegte,5B,H1,G1663,0.5517985067194866,0.3524269560695904,0.6650982839805318,NA,95% percentile (reported only),qualified (above the stated value),
+5B-16,household size incl knegte,5B,H2-pt,G1709,0.6168552324403429,0.5740670032660146,0.6543222674996184,NA,95% percentile (reported only),qualified (below the stated value),
+5B-16,household size incl knegte,5B,H3-pt,G1757,0.608330187695024,0.5850581796889036,0.6295643948601041,NA,95% percentile (reported only),confirmed,
+5B-16,household size incl knegte,5B,H2-rise,d_1663,0.0650567257208563,-0.20277374052348618,0.3328871919651988,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-16,household size incl knegte,5B,H2-rise,d_1670,0.07265901995014445,-0.09153329218236192,0.23685133208265083,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-16,household size incl knegte,5B,H2-rise,d_1678,0.0867994465212154,-0.019383774606163487,0.19298266764859429,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-16,household size incl knegte,5B,H2-rise,d_1682,0.10807192988115633,-0.035603700745592826,0.2517475605079055,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-16,household size incl knegte,5B,H3-rise,d,0.07062293751599791,0.02558785684635177,0.1158354675586803,0.03405135615241496,98.75% percentile,confirmed,
+5B-16,household size incl knegte,5B,H4,m,0.14447661124930766,0.13451876997674878,0.15598298577619618,0.13659384451860015,98.75% percentile,confirmed,
+5B-16,household size incl knegte,5B,H4-w,s,0.012291630917609842,0.0074748628370457796,0.016927992525634438,0.008489493809166087,98.75% percentile,confirmed,
+5B-17,unweighted Gini (household unit),5B,H1,G1663,0.5249444885624082,0.3552186205742796,0.6096359659373003,NA,95% percentile (reported only),confirmed,
+5B-17,unweighted Gini (household unit),5B,H2-pt,G1709,0.6976389012773367,0.6527798347423933,0.7306524608686854,NA,95% percentile (reported only),qualified (above the stated value),
+5B-17,unweighted Gini (household unit),5B,H3-pt,G1757,0.7070831602539245,0.6819240241171587,0.7284813919358137,NA,95% percentile (reported only),qualified (above the stated value),
+5B-17,unweighted Gini (household unit),5B,H2-rise,d_1663,0.17269441271492858,-0.03589804442023123,0.3812868698500884,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-17,unweighted Gini (household unit),5B,H2-rise,d_1670,0.1695749074887234,0.02071824790086982,0.31843156707657694,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-17,unweighted Gini (household unit),5B,H2-rise,d_1678,0.10754829310985592,0.010482101036136005,0.20461448518357583,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-17,unweighted Gini (household unit),5B,H2-rise,d_1682,0.155857154348235,0.04876970343188437,0.26294460526458563,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-17,unweighted Gini (household unit),5B,H3-rise,d,0.06754920270034837,0.018835422180624874,0.11555526347848612,0.03033190267143352,98.75% percentile,confirmed,
+5B-17,unweighted Gini (household unit),5B,H4,m,0.15863265322016865,0.14755731734941085,0.17180242980431049,0.1498553864219227,98.75% percentile,confirmed,
+5B-17,unweighted Gini (household unit),5B,H4-w,s,0.012484408283226774,0.007000865681871848,0.01759843244112586,0.008173368301755498,98.75% percentile,confirmed,
+5B-18,only farmers' slaves added,5B,H4,m,0.135822586597445,0.12513274764558777,0.14773066009024832,0.12762597903010686,98.75% percentile,confirmed,
+5B-18,only farmers' slaves added,5B,H4-w,s,0.010940261293061516,0.006282997222120535,0.015349760326779592,0.007271291319312617,98.75% percentile,confirmed,
+5B-19,H4-w slope over all 20 census years 1663-1757,5B,H4-w,s20,0.012145431202322967,0.007316339503517446,0.016156419717781877,0.00844778698159478,98.75% percentile,confirmed,
+5B-20a,H2-rise vs pooled 1663-1682 farmer Gini,5B,H2-rise,d_pool,0.10989036179496803,0.03862908132923015,0.1811516422607059,NA,98.75% sup-t (one contrast),confirmed,"98.75% percentile [0.0407, 0.1830]"
+5B-20b,H2-rise vs mean of the four initial-year Ginis,5B,H2-rise,d_mean,0.11476993438400585,0.027927438208093,0.20161243055991868,NA,98.75% sup-t (one contrast),confirmed,"98.75% percentile [0.0510, 0.2096]"
+5B-6,districts DS1-DS3 only,5B,H1,G1663,0.5224857118211359,0.3352912203766311,0.6323478671826228,NA,95% percentile (reported only),confirmed,
+5B-6,districts DS1-DS3 only,5B,H2-pt,G1709,0.6472548827049391,0.6035132163067622,0.6820954456966074,NA,95% percentile (reported only),confirmed,
+5B-6,districts DS1-DS3 only,5B,H3-pt,G1757,0.6289079215356306,0.6013245855660779,0.6534269530338583,NA,95% percentile (reported only),confirmed,
+5B-6,districts DS1-DS3 only,5B,H2-rise,d_1663,0.12476917088380324,-0.11884588939157084,0.3683842311591773,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-6,districts DS1-DS3 only,5B,H2-rise,d_1670,0.11185716668964307,-0.04309450538270884,0.266808838761995,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-6,districts DS1-DS3 only,5B,H2-rise,d_1678,0.11256999074143526,0.009582688608140447,0.21555729287473008,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-6,districts DS1-DS3 only,5B,H2-rise,d_1682,0.12227805182939155,-0.007571231646677362,0.2521273353054605,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-6,districts DS1-DS3 only,5B,H3-rise,d,0.06617308604656325,0.0167246113173067,0.11451608578653462,0.02812014692242022,98.75% percentile,confirmed,
+5B-6,districts DS1-DS3 only,5B,H4,m,0.14342922832305563,0.13233534523159662,0.15654400812307795,0.1348306190829272,98.75% percentile,confirmed,
+5B-6,districts DS1-DS3 only,5B,H4-w,s,0.012609722914420914,0.0076674908727443845,0.017287104730000558,0.008766316723071967,98.75% percentile,confirmed,
+5B-7,Cape district (DS1) only,5B,H1,G1663,0.5172511216143822,0.33227763489531575,0.6313121601943311,NA,95% percentile (reported only),confirmed,
+5B-7,Cape district (DS1) only,5B,H2-pt,G1709,0.6527778540119282,0.5817749115079964,0.7094666485076915,NA,95% percentile (reported only),confirmed,
+5B-7,Cape district (DS1) only,5B,H3-pt,G1757,0.5866508139181141,0.5379509531908874,0.6295323143371999,NA,95% percentile (reported only),qualified (below the stated value),
+5B-7,Cape district (DS1) only,5B,H2-rise,d_1663,0.13552673239754598,-0.11861136035411102,0.389664825149203,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-7,Cape district (DS1) only,5B,H2-rise,d_1670,0.1182417069206061,-0.053676371620446084,0.29015978546165827,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-7,Cape district (DS1) only,5B,H2-rise,d_1678,0.16363621230442194,0.02746135730983154,0.2998110672990123,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-7,Cape district (DS1) only,5B,H2-rise,d_1682,0.13527208397772106,-0.017242544414384636,0.2877867123698268,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-7,Cape district (DS1) only,5B,H3-rise,d,0.03597920749841799,-0.05237089012639082,0.12506189732545486,-0.03305935626484339,98.75% percentile,"weakened (direction holds, not significant)",
+5B-7,Cape district (DS1) only,5B,H4,m,0.15251767665672006,0.1386072106584239,0.16923937647404425,0.14204204497517026,98.75% percentile,confirmed,
+5B-7,Cape district (DS1) only,5B,H4-w,s,0.01097630193546569,0.0024936973019096566,0.019334374053098163,0.0042195348408049565,98.75% percentile,confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H1,G1663,0.5301864098370437,0.3338638849151431,0.6436289713519051,NA,95% percentile (reported only),confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H2-pt,G1709,0.6303650186636056,0.5906473403101563,0.6621584041688203,NA,95% percentile (reported only),confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H3-pt,G1757,0.6198207695226474,0.5948804238623944,0.6425480449946669,NA,95% percentile (reported only),confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H2-rise,d_1663,0.10017860882656193,-0.15336047267470343,0.3537176903278273,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-8,households with any non-numeric count cell dropped,5B,H2-rise,d_1670,0.09651821439974606,-0.05671445028407937,0.2497508790835715,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-8,households with any non-numeric count cell dropped,5B,H2-rise,d_1678,0.09037087039457914,-0.014607651614954587,0.19534939240411286,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-8,households with any non-numeric count cell dropped,5B,H2-rise,d_1682,0.10660331619125962,-0.0317907460237683,0.24499737840628755,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-8,households with any non-numeric count cell dropped,5B,H3-rise,d,0.05924099070469091,0.009053820133750196,0.10703980683009748,0.021503420714412615,98.75% percentile,confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H4,m,0.1424186651759779,0.13146388476692106,0.15540498899857966,0.133755054100379,98.75% percentile,confirmed,
+5B-8,households with any non-numeric count cell dropped,5B,H4-w,s,0.012070333642572399,0.0072481220114650625,0.016673437959139694,0.008275824215234664,98.75% percentile,confirmed,
+5B-9,1723 same-name records merged,5B,H1,G1663,0.5269487770004555,0.339545485819254,0.6375833514529573,NA,95% percentile (reported only),confirmed,
+5B-9,1723 same-name records merged,5B,H2-pt,G1709,0.6471959618278007,0.6039973388453608,0.6825218493991494,NA,95% percentile (reported only),confirmed,
+5B-9,1723 same-name records merged,5B,H3-pt,G1757,0.6264421241722318,0.6016579234227389,0.6490706035233755,NA,95% percentile (reported only),confirmed,
+5B-9,1723 same-name records merged,5B,H2-rise,d_1663,0.1202471848273452,-0.12250532093763303,0.3629996905923234,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-9,1723 same-name records merged,5B,H2-rise,d_1670,0.10772516126864184,-0.045679566499732316,0.261129889037016,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-9,1723 same-name records merged,5B,H2-rise,d_1678,0.11007784494857775,0.006207359350595756,0.21394833054655976,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-9,1723 same-name records merged,5B,H2-rise,d_1682,0.12090561333099581,-0.011039363393597429,0.2528505900555891,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-9,1723 same-name records merged,5B,H3-rise,d,0.062206359124364896,0.01458215217680354,0.10950628682063052,0.025086055664608187,98.75% percentile,confirmed,
+5B-9,1723 same-name records merged,5B,H4,m,0.1421358964805581,0.1317208750842531,0.15401002553515317,0.13411796879010457,98.75% percentile,confirmed,
+5B-9,1723 same-name records merged,5B,H4-w,s,0.011970233109277811,0.007285582602046351,0.016432526307003016,0.00827885185207568,98.75% percentile,confirmed,
+5B-10,exact duplicate rows removed,5B,H1,G1663,0.5266525670441986,0.33881584386067637,0.6372745352448581,NA,95% percentile (reported only),confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H2-pt,G1709,0.6470398241789745,0.603848164598792,0.6823735181852123,NA,95% percentile (reported only),confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H3-pt,G1757,0.6260797036163888,0.6011504549273696,0.648702359382151,NA,95% percentile (reported only),confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H2-rise,d_1663,0.12038725713477594,-0.12218710764421456,0.36296162191376646,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H2-rise,d_1670,0.10753069723922648,-0.04547755527286243,0.2605389497513154,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H2-rise,d_1678,0.11003791525147077,0.006368916706676553,0.213706913796265,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H2-rise,d_1682,0.12048193508874872,-0.011247552437432473,0.2522114226149299,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H3-rise,d,0.062125666334116314,0.014615338432145504,0.10941417203398822,0.024988026932439133,98.75% percentile,confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H4,m,0.14191412574018528,0.13156230683773543,0.153782115981143,0.1338952752963706,98.75% percentile,confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-10,exact duplicate rows removed,5B,H4-w,s,0.012055583604075494,0.007371630953921175,0.016512877093501306,0.00836307585519124,98.75% percentile,confirmed,25 exact duplicate rows (all columns except ID) removed
+5B-12,vines winsorised at the 99.9th percentile,5B,H1,G1663,0.5266581001795685,0.3387965971769574,0.6372646779720945,NA,95% percentile (reported only),confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H2-pt,G1709,0.6455512400639001,0.6026369619113232,0.6807730902056962,NA,95% percentile (reported only),confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H3-pt,G1757,0.6266411735154376,0.60166835027552,0.6492101003666388,NA,95% percentile (reported only),confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H2-rise,d_1663,0.11889313988433159,-0.12338418659473355,0.3611704663633967,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H2-rise,d_1670,0.10605216353162494,-0.04685182432775192,0.2589561513910018,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H2-rise,d_1678,0.10855084960208572,0.004983925354218044,0.2121177738499534,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H2-rise,d_1682,0.1190277096996828,-0.012553445919460476,0.2506088653188261,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H3-rise,d,0.06244638924701351,0.01476180028054158,0.10972567332291958,0.0251969483503509,98.75% percentile,confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H4,m,0.14175669526928972,0.13140184081284464,0.15357182278618745,0.1337418726788496,98.75% percentile,confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-12,vines winsorised at the 99.9th percentile,5B,H4-w,s,0.011954449849332851,0.0072492722202493875,0.01643376185181866,0.008269809053013104,98.75% percentile,confirmed,"cap 159800 vines (99.9th pct of positive farmer counts, as S5)"
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H1,G1663,0.5289254557131091,0.33694805325348076,0.6395138553993507,NA,95% percentile (reported only),confirmed,
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H2-pt,G1709,0.6464572536561248,0.6029899963397698,0.6816616210364865,NA,95% percentile (reported only),confirmed,
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H3-pt,G1757,0.627762419657198,0.6022694492482082,0.6507563960757513,NA,95% percentile (reported only),confirmed,
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H2-rise,d_1663,0.11753179794301571,-0.12791341076219437,0.3629770066482258,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H2-rise,d_1670,0.10123527911907315,-0.053792621933367146,0.25626318017151345,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H2-rise,d_1678,0.10797354257710845,0.005796703898172856,0.21015038125604404,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H2-rise,d_1682,0.11952061104398704,-0.012521625905221462,0.2515628479931955,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H3-rise,d,0.06304934458308109,0.012338229248668226,0.10993580916582439,0.02468987065144127,98.75% percentile,confirmed,
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H4,m,0.14165220439458032,0.1312958995942722,0.15425781471300495,0.13350110516612632,98.75% percentile,confirmed,
+5B-13,"1705 rows included in both PCA estimations, not in the Ginis",5B,H4-w,s,0.011869877278787239,0.00714215097691774,0.01641273568687883,0.008198184229853226,98.75% percentile,confirmed,
+5B-14,annual PCA weights (Fig 2 variant),5B,H1,G1663,0.5385412686311968,0.3021485025735215,0.6383915250944736,NA,95% percentile (reported only),qualified (above the stated value),
+5B-14,annual PCA weights (Fig 2 variant),5B,H2-pt,G1709,0.6489794004382878,0.601260367334142,0.6823389831554146,NA,95% percentile (reported only),confirmed,
+5B-14,annual PCA weights (Fig 2 variant),5B,H3-pt,G1757,0.6188723480970955,0.5943991327262447,0.6423169937338955,NA,95% percentile (reported only),confirmed,
+5B-14,annual PCA weights (Fig 2 variant),5B,H2-rise,d_1663,0.11043813180709106,-0.1884643695003203,0.4093406331145024,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-14,annual PCA weights (Fig 2 variant),5B,H2-rise,d_1670,0.1482501461334631,-0.04631956907341969,0.3428198613403459,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-14,annual PCA weights (Fig 2 variant),5B,H2-rise,d_1678,0.14987516980288818,0.03092217633092624,0.2688281632748501,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-14,annual PCA weights (Fig 2 variant),5B,H2-rise,d_1682,0.1453176059803063,0.007714130972847538,0.28292108098776503,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-14,annual PCA weights (Fig 2 variant),5B,H3-rise,d,0.056544052909482945,0.009186903496532197,0.1064868255386067,0.019394572360221185,98.75% percentile,confirmed,
+5B-14,annual PCA weights (Fig 2 variant),5B,H4,m,0.1437628686765201,0.13294167028895218,0.15586218040399316,0.1351975371095138,98.75% percentile,confirmed,
+5B-14,annual PCA weights (Fig 2 variant),5B,H4-w,s,0.011942990427692835,0.007127059939214628,0.016447408013296128,0.008144609451474518,98.75% percentile,confirmed,
+5B-15a,Core 2 index (no vines),5B,H1,G1663,0.5271833417168617,0.3386225757824555,0.6379945969971174,NA,95% percentile (reported only),confirmed,
+5B-15a,Core 2 index (no vines),5B,H2-pt,G1709,0.6580046170575644,0.6162208085758594,0.6924050888144266,NA,95% percentile (reported only),confirmed,
+5B-15a,Core 2 index (no vines),5B,H3-pt,G1757,0.6217076101451704,0.597168795880805,0.6448200535205225,NA,95% percentile (reported only),confirmed,
+5B-15a,Core 2 index (no vines),5B,H2-rise,d_1663,0.13082127534070276,-0.11396146533305948,0.375604016014465,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-15a,Core 2 index (no vines),5B,H2-rise,d_1670,0.11800788077528956,-0.0361631316243452,0.27217889317492433,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-15a,Core 2 index (no vines),5B,H2-rise,d_1678,0.12046554166887535,0.01710248481706493,0.22382859852068576,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-15a,Core 2 index (no vines),5B,H2-rise,d_1682,0.13086381375116463,-0.0016704129544749535,0.2633980404568042,NA,98.75% sup-t,qualified (significant against a subset of the initial period only),
+5B-15a,Core 2 index (no vines),5B,H3-rise,d,0.06139980695591052,0.014761254524249881,0.10780795818217574,0.024629391770202704,98.75% percentile,confirmed,
+5B-15a,Core 2 index (no vines),5B,H4,m,0.13997780596353754,0.12964999698072782,0.15183615492518748,0.1320026170673679,98.75% percentile,confirmed,
+5B-15a,Core 2 index (no vines),5B,H4-w,s,0.013782023986022657,0.009094550009289817,0.018154644505042134,0.010104207048106745,98.75% percentile,confirmed,
+5B-15b,Core 3 index (no pigs),5B,H1,G1663,0.5720751093903313,0.32360538586773013,0.6730859012696685,NA,95% percentile (reported only),qualified (above the stated value),
+5B-15b,Core 3 index (no pigs),5B,H2-pt,G1709,0.6464790615746561,0.6035088671676513,0.6820893963858635,NA,95% percentile (reported only),confirmed,
+5B-15b,Core 3 index (no pigs),5B,H3-pt,G1757,0.6231557396208796,0.5985318197669129,0.6455454886312594,NA,95% percentile (reported only),confirmed,
+5B-15b,Core 3 index (no pigs),5B,H2-rise,d_1663,0.07440395218432472,-0.22997325283618175,0.3787811572048312,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-15b,Core 3 index (no pigs),5B,H2-rise,d_1670,0.07550265459089145,-0.0806830744360564,0.2316883836178393,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-15b,Core 3 index (no pigs),5B,H2-rise,d_1678,0.09184413616520581,-0.018062227881295884,0.2017505002117075,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-15b,Core 3 index (no pigs),5B,H2-rise,d_1682,0.06161430807026802,-0.082776567574015,0.20600518371455104,NA,98.75% sup-t,"weakened (direction holds, not significant)",
+5B-15b,Core 3 index (no pigs),5B,H3-rise,d,0.06791454545941678,0.022426417108613702,0.11349324522557479,0.03240145706680243,98.75% percentile,confirmed,
+5B-15b,Core 3 index (no pigs),5B,H4,m,0.14006225198190583,0.1302244904033562,0.1515070225602084,0.13238201247819872,98.75% percentile,confirmed,
+5B-15b,Core 3 index (no pigs),5B,H4-w,s,0.012521448747539184,0.007815509190041776,0.01694349209319516,0.008806124442297473,98.75% percentile,confirmed,
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H1,G1663,0.5230054821133363,NA,NA,NA,95% percentile (reported only),confirmed,1723 farmer Gini 0.6137 (central 0.5940).
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H2-pt,G1709,0.6544235713497695,NA,NA,NA,95% percentile (reported only),confirmed,1723 farmer Gini 0.6137 (central 0.5940).
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H3-pt,G1757,0.628050102449975,NA,NA,NA,95% percentile (reported only),confirmed,1723 farmer Gini 0.6137 (central 0.5940).
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H2-rise,d_1663;d_1670;d_1678;d_1682,NA,NA,NA,NA,point only,NA,1723 farmer Gini 0.6137 (central 0.5940). d_1663=0.1314 d_1670=0.1189 d_1678=0.1113 d_1682=0.1304
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H3-rise,d,NA,NA,NA,NA,point only,NA,1723 farmer Gini 0.6137 (central 0.5940). d=0.0594
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H4,m,NA,NA,NA,NA,point only,NA,1723 farmer Gini 0.6137 (central 0.5940). m=0.1433
+5C-21,stress test: single-letter cells decoded A=10..Z=35 (hypothetical),5C,H4-w,s,NA,NA,NA,NA,point only,NA,1723 farmer Gini 0.6137 (central 0.5940). s=0.0118
+5C-22,"H4-w OLS over 12 year-points, HC1",5C,H4-w,s,0.01203811035721376,-0.0033762403646835117,0.02745246107911103,7.337775752393142e-4,98.75% t(10),qualified (inference-fragile),SE 0.00507; different stochastic model
+5C-22,"H4-w OLS over 12 year-points, NW1",5C,H4-w,s,0.01203811035721376,-0.004721314390796726,0.028797535105224245,-2.526515440860865e-4,98.75% t(10),"weakened (direction holds, not significant)",SE 0.00552; different stochastic model
+5C-23,fn-14 rule: 1709 vs 1663 CI,5C,NA,G1709,0.6471974070129702,0.33881540448751646,0.6372715499406121,NA,1663 95% percentile CI,NA,above
+5C-23,fn-14 rule: 1709 vs 1670 CI,5C,NA,G1709,0.6471974070129702,0.4230111928056159,0.6086366220096537,NA,1670 95% percentile CI,NA,above
+5C-23,fn-14 rule: 1709 vs 1678 CI,5C,NA,G1709,0.6471974070129702,0.4783443450778756,0.5840909845633621,NA,1678 95% percentile CI,NA,above
+5C-23,fn-14 rule: 1709 vs 1682 CI,5C,NA,G1709,0.6471974070129702,0.4434894207955788,0.5926107732335534,NA,1682 95% percentile CI,NA,above
+5C-23,fn-14 rule: 1738 vs 1709 CI,5C,NA,G1738,0.5639567775370751,0.6039898738250423,0.6825015127271711,NA,1709 95% percentile CI,NA,below
+5C-23,fn-14 rule: 1757 vs 1738 CI,5C,NA,G1757,0.6262805362269264,0.5314041329745415,0.5946208572136502,NA,1738 95% percentile CI,NA,above
+5C-23,fn-14 rule: 1716 vs 1712 CI,5C,NA,G1716,0.5572828180903493,0.5811282956360939,0.6548526953448038,NA,1712 95% percentile CI,NA,below
+5C-24,leave-one-household-out 1663: max |dG|,5C,NA,G1663,0.05564624048086686,NA,NA,NA,,NA,ten most influential households in diag_loo_top10.csv
+5C-24,leave-one-household-out 1709: max |dG|,5C,NA,G1709,0.010466068485242674,NA,NA,NA,,NA,ten most influential households in diag_loo_top10.csv
+5C-25,replicate 1663 farmer count: minimum,5C,NA,nf_1663,5,NA,NA,NA,,NA,quantiles/skewness in diag_boot_distribution.csv; tail over-representation in diag_1663_tail_overrep.csv
+5C-25,share of draws with < 20 farmers in 1663,5C,NA,nf_1663,0.18047951198779968,NA,NA,NA,,NA,quantiles/skewness in diag_boot_distribution.csv; tail over-representation in diag_1663_tail_overrep.csv
+5C-26,gap identity g_t = p_t(1 - G^S_t): max |discrepancy|,5C,H4-ES,g_t,1.887379141862766e-15,NA,NA,NA,,NA,correlation 1.000000

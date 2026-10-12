@@ -1,0 +1,13 @@
+"check","value","target","pass"
+"d(P,I) hard-coded, closed form",19.2078929040629,19.2079,TRUE
+"d(P,I) hard-coded, lm (do-file)",19.2078929040629,19.2079,TRUE
+"d(Q,I) hard-coded, closed form",18.7846206748948,18.7846,TRUE
+"d(P,Q) hard-coded",3.70303889042058,3.703,TRUE
+"d(P,Q) G2 p hard-coded",0.0661831875829934,0.0662,TRUE
+"2016 file: d(P,I)",19.2078929040629,19.2079,TRUE
+"2016 file: d(Q,I)",18.7846206748948,18.7846,TRUE
+"2016 file: T9 Slavery F->F",78.1357882623705,78.1358,TRUE
+"2016 file: T9 Gold F->F (raked)",77.7321736033078,77.7322,TRUE
+"2016 file N",9494,9494,TRUE
+"2016 file: Gold OR Model 3 (share as label code)",1.30300945467874,1.303,TRUE
+"2016 file: migrant OR Model 1",1.49744433732305,1.4974,TRUE

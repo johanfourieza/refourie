@@ -1,0 +1,285 @@
+id,variant,claim,pair,estimate,ci_lo,ci_hi,interval_type,condition,note
+central,central scenario (reference),H1,Cape/US(Me+Ma),2.0344910486825785,2.0344910486825785,2.0344910486825785,degenerate (enumerations),confirmed,
+central,central scenario (reference),H2,Cape/US(Me+Ma),2.5249870313802756,2.5249870313802756,2.5249870313802756,degenerate (enumerations),confirmed,
+central,central scenario (reference),H3,Cape/US(Me+Ma+VA),1.7706711562807782,1.7390521114168698,1.801212144788252,Bonferroni 99% Rao-Wu (VA design),confirmed,
+central,central scenario (reference),H4/H4w,VA-Stb,0.1645238346966975,0.14319392717972554,0.18648419966569355,Bonferroni 99% Rao-Wu (VA design),confirmed,
+central,central scenario (reference),H4w,VA-GR,-0.08945549690845944,-0.11078540442543144,-0.06749513193946342,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),
+central,central scenario (reference),H4w,VA-Swe,-0.0029283886064139786,-0.024258296123385967,0.019031976362582047,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),
+central,central scenario (reference),H4w,VA-Tul,0.08722149595687956,0.06589158843990757,0.10918186092587558,Bonferroni 99% Rao-Wu (VA design),confirmed,
+central,central scenario (reference),H5,GR-Maine,0.3175175276759814,0.3175175276759814,0.3175175276759814,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,Stb-Maine,0.13932215219779365,0.13932215219779365,0.13932215219779365,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,Swe-Maine,0.09470054770723901,0.09470054770723901,0.09470054770723901,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,Tul-Maine,0.1355169454439208,0.1355169454439208,0.1355169454439208,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,GR-Mass,0.19607396795952825,0.19607396795952825,0.19607396795952825,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,Stb-Mass,0.017878592481340494,0.017878592481340494,0.017878592481340494,degenerate (enumerations),confirmed,
+central,central scenario (reference),H5,Swe-Mass,-0.02674301200921414,-0.02674301200921414,-0.02674301200921414,degenerate (enumerations),overturned (reversed),
+central,central scenario (reference),H5,Tul-Mass,0.014073385727467635,0.014073385727467635,0.014073385727467635,degenerate (enumerations),confirmed,
+5.1,V1 = Final2 (early auctions),H1,Cape/US(Me+Ma),1.8745904007486598,1.8745904007486598,1.8745904007486598,degenerate (enumerations),confirmed,
+5.1,V2 r = 0.03,H1,Cape/US(Me+Ma),1.9720417785931983,1.9720417785931983,1.9720417785931983,degenerate (enumerations),confirmed,
+5.1,V2 r = 0.1,H1,Cape/US(Me+Ma),2.094444881628281,2.094444881628281,2.094444881628281,degenerate (enumerations),confirmed,
+5.1,V3 = B,H1,Cape/US(Me+Ma),1.9561452586390156,1.9561452586390156,1.9561452586390156,degenerate (enumerations),confirmed,
+5.1,V3 = B,H2,Cape/US(Me+Ma),2.463014153349837,2.463014153349837,2.463014153349837,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,GR-Maine,0.3161776239202867,0.3161776239202867,0.3161776239202867,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,Stb-Maine,0.1356425771419254,0.1356425771419254,0.1356425771419254,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,Swe-Maine,0.09090613289019311,0.09090613289019311,0.09090613289019311,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,Tul-Maine,0.13197970338776444,0.13197970338776444,0.13197970338776444,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,GR-Mass,0.19473406420383355,0.19473406420383355,0.19473406420383355,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,Stb-Mass,0.014199017425472249,0.014199017425472249,0.014199017425472249,degenerate (enumerations),confirmed,
+5.1,V3 = B,H5,Swe-Mass,-0.03053742682626004,-0.03053742682626004,-0.03053742682626004,degenerate (enumerations),overturned (reversed),
+5.1,V3 = B,H5,Tul-Mass,0.010536143671311282,0.010536143671311282,0.010536143671311282,degenerate (enumerations),confirmed,
+5.1,V3 = C,H1,Cape/US(Me+Ma),1.9917068483853746,1.9917068483853746,1.9917068483853746,degenerate (enumerations),confirmed,
+5.1,V3 = C,H2,Cape/US(Me+Ma),2.491018153330997,2.491018153330997,2.491018153330997,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,GR-Maine,0.3161776239202867,0.3161776239202867,0.3161776239202867,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,Stb-Maine,0.1356425771419254,0.1356425771419254,0.1356425771419254,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,Swe-Maine,0.09090613289019311,0.09090613289019311,0.09090613289019311,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,Tul-Maine,0.13197970338776444,0.13197970338776444,0.13197970338776444,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,GR-Mass,0.19473406420383355,0.19473406420383355,0.19473406420383355,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,Stb-Mass,0.014199017425472249,0.014199017425472249,0.014199017425472249,degenerate (enumerations),confirmed,
+5.1,V3 = C,H5,Swe-Mass,-0.03053742682626004,-0.03053742682626004,-0.03053742682626004,degenerate (enumerations),overturned (reversed),
+5.1,V3 = C,H5,Tul-Mass,0.010536143671311282,0.010536143671311282,0.010536143671311282,degenerate (enumerations),confirmed,
+5.1,V4 wine = auction1,H2,Cape/US(Me+Ma),2.518339747814374,2.518339747814374,2.518339747814374,degenerate (enumerations),confirmed,
+5.1,V4 wine = auction3,H2,Cape/US(Me+Ma),2.5315904201622708,2.5315904201622708,2.5315904201622708,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H1,Cape/US(Me+Ma),1.9109528040202406,1.9109528040202406,1.9109528040202406,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H2,Cape/US(Me+Ma),2.3669180246572474,2.3669180246572474,2.3669180246572474,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,GR-Maine,0.3159296937641679,0.3159296937641679,0.3159296937641679,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Stb-Maine,0.13773431828598015,0.13773431828598015,0.13773431828598015,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Swe-Maine,0.09311271379542552,0.09311271379542552,0.09311271379542552,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Tul-Maine,0.1339291115321073,0.1339291115321073,0.1339291115321073,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,GR-Mass,0.19099826962026412,0.19099826962026412,0.19099826962026412,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Stb-Mass,0.01280289414207636,0.01280289414207636,0.01280289414207636,degenerate (enumerations),confirmed,
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Swe-Mass,-0.031818710348478274,-0.031818710348478274,-0.031818710348478274,degenerate (enumerations),overturned (reversed),
+5.2,US grain prices: Wright decadal (Final fills empty cells),H5,Tul-Mass,0.008997687388203501,0.008997687388203501,0.008997687388203501,degenerate (enumerations),confirmed,
+5.3,Cape livestock prices: Auction1,H1,Cape/US(Me+Ma),2.0727289425666755,2.0727289425666755,2.0727289425666755,degenerate (enumerations),confirmed,
+5.3,Cape livestock prices: Auction2,H1,Cape/US(Me+Ma),1.9567278809488275,1.9567278809488275,1.9567278809488275,degenerate (enumerations),confirmed,
+5.3,Cape livestock prices: Auction3,H1,Cape/US(Me+Ma),1.9478230183353404,1.9478230183353404,1.9478230183353404,degenerate (enumerations),confirmed,
+5.3,Cape livestock prices: Auction4,H1,Cape/US(Me+Ma),2.1467983740434207,2.1467983740434207,2.1467983740434207,degenerate (enumerations),confirmed,
+5.4,US cattle $15.29 (Rothenberg),H1,Cape/US(Me+Ma),2.048904350092697,2.048904350092697,2.048904350092697,degenerate (enumerations),confirmed,
+5.5,Cape cattle and sheep x 2 (probate-opgaaf gap),H1,Cape/US(Me+Ma),2.3265391815765337,2.3265391815765337,2.3265391815765337,degenerate (enumerations),confirmed,
+5.5,Cape cattle and sheep x 2 (probate-opgaaf gap),H3,Cape/US(Me+Ma+VA),2.4638183368407236,2.432199291976815,2.4943593253481975,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.5,break-even under-recording multiplier on US recorded output (R1 = 1),H1,Cape/US(Me+Ma),7.6483584925969765,NA,NA,threshold,threshold,multiplier m* = Cape mean / US mean
+5.5,"break-even omitted US output, $ per farming household (R1 = 1)",H1,Cape/US(Me+Ma),223.40364448841504,NA,NA,threshold,threshold,dollars
+5.6,income incl. wine and brandy,H1,Cape/US(Me+Ma),2.5002200982861518,2.5002200982861518,2.5002200982861518,degenerate (enumerations),confirmed,
+5.6,income incl. horses,H1,Cape/US(Me+Ma),2.0098839343670254,2.0098839343670254,2.0098839343670254,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H1,Cape/US(Me+Ma),2.0344910486825785,2.0344910486825785,2.0344910486825785,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H2,Cape/US(Me+Ma),2.5249870313802756,2.5249870313802756,2.5249870313802756,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H3,Cape/US(Me+Ma+VA),1.7706711562807782,1.7390521114168698,1.801212144788252,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H4/H4w,VA-Stb,0.1645238346966975,0.14319392717972554,0.18648419966569355,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H4w,VA-GR,-0.08945549690845944,-0.11078540442543144,-0.06749513193946342,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H4w,VA-Swe,-0.0029283886064139786,-0.024258296123385967,0.019031976362582047,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H4w,VA-Tul,0.08722149595687956,0.06589158843990757,0.10918186092587558,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,GR-Maine,0.3175175276759814,0.3175175276759814,0.3175175276759814,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Stb-Maine,0.13932215219779365,0.13932215219779365,0.13932215219779365,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Swe-Maine,0.09470054770723901,0.09470054770723901,0.09470054770723901,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Tul-Maine,0.1355169454439208,0.1355169454439208,0.1355169454439208,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,GR-Mass,0.19607396795952825,0.19607396795952825,0.19607396795952825,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Stb-Mass,0.017878592481340494,0.017878592481340494,0.017878592481340494,degenerate (enumerations),confirmed,
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Swe-Mass,-0.02674301200921414,-0.02674301200921414,-0.02674301200921414,degenerate (enumerations),overturned (reversed),
+5.7,"grain eligibility > 0 (code rule, wine excluded)",H5,Tul-Mass,0.014073385727467635,0.014073385727467635,0.014073385727467635,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H1,Cape/US(Me+Ma),2.0344910486825785,2.0344910486825785,2.0344910486825785,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H2,Cape/US(Me+Ma),2.5249870313802756,2.5249870313802756,2.5249870313802756,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H3,Cape/US(Me+Ma+VA),1.7706711562807782,1.7390521114168698,1.801212144788252,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H4/H4w,VA-Stb,0.1645238346966975,0.14319392717972554,0.18648419966569355,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H4w,VA-GR,-0.08945549690845944,-0.11078540442543144,-0.06749513193946342,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H4w,VA-Swe,-0.0029283886064139786,-0.024258296123385967,0.019031976362582047,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H4w,VA-Tul,0.08722149595687956,0.06589158843990757,0.10918186092587558,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,GR-Maine,0.3175175276759814,0.3175175276759814,0.3175175276759814,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Stb-Maine,0.13932215219779365,0.13932215219779365,0.13932215219779365,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Swe-Maine,0.09470054770723901,0.09470054770723901,0.09470054770723901,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Tul-Maine,0.1355169454439208,0.1355169454439208,0.1355169454439208,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,GR-Mass,0.19607396795952825,0.19607396795952825,0.19607396795952825,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Stb-Mass,0.017878592481340494,0.017878592481340494,0.017878592481340494,degenerate (enumerations),confirmed,
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Swe-Mass,-0.02674301200921414,-0.02674301200921414,-0.02674301200921414,degenerate (enumerations),overturned (reversed),
+5.7,Cape threshold kappa = 3.0 (0.3333 mud),H5,Tul-Mass,0.014073385727467635,0.014073385727467635,0.014073385727467635,degenerate (enumerations),confirmed,
+5.8,H3 unweighted pooling,H3,Cape/US(Me+Ma+VA),1.8583753679689534,1.8463889241501534,1.8697572664780282,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.9,Cape restricted to cattle owners,H3,Cape/US(Me+Ma+VA),1.7995331885206531,1.7679141436567445,1.8300741770281268,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.9,Cape restricted to cattle owners,H4/H4w,VA-Stb,0.16654925156429345,0.14521934404732148,0.1885096165332895,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.9,Cape restricted to cattle owners,H4w,VA-GR,-0.08443608574252237,-0.10576599325949436,-0.062475720773526346,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),
+5.9,Cape restricted to cattle owners,H4w,VA-Swe,-0.001710672268112834,-0.023040579785084822,0.02024969270088319,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),
+5.9,Cape restricted to cattle owners,H4w,VA-Tul,0.09206547835512335,0.07073557083815137,0.11402584332411939,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H4/H4w,VA-Stb,0.08855297296158371,0.05551483735929773,0.12355904439488495,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H4w,VA-GR,0.09198173465711812,0.058943599054832145,0.12698780609041935,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H4w,VA-Swe,0.08121779054809841,0.04817965494581243,0.11622386198139964,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H4w,VA-Tul,0.0834631696121847,0.050425034009898714,0.11846924104548594,Bonferroni 99% Rao-Wu (VA design),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,GR-Maine,0.08508144167670095,0.08508144167670095,0.08508144167670095,degenerate (enumerations),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Stb-Maine,0.2141451798480185,0.2141451798480185,0.2141451798480185,degenerate (enumerations),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Swe-Maine,0.10616387578484399,0.10616387578484399,0.10616387578484399,degenerate (enumerations),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Tul-Maine,0.08528722943138234,0.08528722943138234,0.08528722943138234,degenerate (enumerations),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,GR-Mass,-0.03210101878531424,-0.03210101878531424,-0.03210101878531424,degenerate (enumerations),overturned (reversed),
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Stb-Mass,0.09696271938600332,0.09696271938600332,0.09696271938600332,degenerate (enumerations),confirmed,
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Swe-Mass,-0.011018584677171206,-0.011018584677171206,-0.011018584677171206,degenerate (enumerations),overturned (reversed),
+5.10,owners-only Ginis (Fig 8 definition; H5: crop value > 0),H5,Tul-Mass,-0.031895231030632853,-0.031895231030632853,-0.031895231030632853,degenerate (enumerations),overturned (reversed),
+5.10,pooled-country Gini enslaved: VA - Cape pooled,H4/H4w,VA-Cape pooled,0.005262372383173397,-0.01606753513379859,0.027222737352169422,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),different estimand
+5.10,pooled-country Gini crops: Cape pooled - US(Me+Ma) pooled,H5,Cape-US pooled,0.10744579870396342,0.10744579870396342,0.10744579870396342,degenerate (enumerations),confirmed,different estimand
+5.10,district-mean Gini enslaved: VA - mean(Cape districts),H4/H4w,VA-mean Cape,0.03984036128467594,0.018510453767703952,0.061800726253671966,Bonferroni 99% Rao-Wu (VA design),confirmed,different estimand
+5.10,"district-mean Gini crops: mean(Cape) - mean(Me, Ma)",H5,mean Cape-mean US,0.11104251339800719,0.11104251339800719,0.11104251339800719,degenerate (enumerations),confirmed,different estimand
+5.11,crop Ginis on physical quantities (bushels),H5,GR-Maine,0.3198526095698756,0.3198526095698756,0.3198526095698756,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,Stb-Maine,0.1404186341287903,0.1404186341287903,0.1404186341287903,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,Swe-Maine,0.1007118716950024,0.1007118716950024,0.1007118716950024,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,Tul-Maine,0.1385475956185791,0.1385475956185791,0.1385475956185791,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,GR-Mass,0.19784280464194326,0.19784280464194326,0.19784280464194326,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,Stb-Mass,0.018408829200857957,0.018408829200857957,0.018408829200857957,degenerate (enumerations),confirmed,
+5.11,crop Ginis on physical quantities (bushels),H5,Swe-Mass,-0.021297933232929944,-0.021297933232929944,-0.021297933232929944,degenerate (enumerations),overturned (reversed),
+5.11,crop Ginis on physical quantities (bushels),H5,Tul-Mass,0.01653779069064676,0.01653779069064676,0.01653779069064676,degenerate (enumerations),confirmed,
+5.12,benchmark 1785,H1,Cape/US(Me+Ma),NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H2,Cape/US(Me+Ma),NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H3,Cape/US(Me+Ma+VA),1.551569664461686,1.4879567286993454,1.6156895096287949,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H4/H4w,VA-Stb,0.0749700200382396,0.043069245726652675,0.10809405667540634,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H4w,VA-GR,-0.06693915729180777,-0.0988399316033947,-0.03381512065464103,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H4w,VA-Swe,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H4w,VA-Tul,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,GR-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Stb-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Swe-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Tul-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,GR-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Stb-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Swe-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1785,H5,Tul-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H1,Cape/US(Me+Ma),NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H2,Cape/US(Me+Ma),NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H3,Cape/US(Me+Ma+VA),2.344219800497717,2.344219800497717,2.344219800497717,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H4/H4w,VA-Stb,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H4w,VA-GR,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H4w,VA-Swe,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H4w,VA-Tul,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,GR-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Stb-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Swe-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Tul-Maine,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,GR-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Stb-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Swe-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1795,H5,Tul-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H1,Cape/US(Me+Ma),2.195915631187241,2.195915631187241,2.195915631187241,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H2,Cape/US(Me+Ma),2.7408174439598367,2.7408174439598367,2.7408174439598367,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H3,Cape/US(Me+Ma+VA),1.8452590596492537,1.8308971190250158,1.8599630551050994,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H4/H4w,VA-Stb,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H4w,VA-GR,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H4w,VA-Swe,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H4w,VA-Tul,NA,NA,NA,Bonferroni 99% Rao-Wu (VA design),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,GR-Maine,0.3917543014385714,0.3917543014385714,0.3917543014385714,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Stb-Maine,0.19058653965632222,0.19058653965632222,0.19058653965632222,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Swe-Maine,0.15452313304388998,0.15452313304388998,0.15452313304388998,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Tul-Maine,0.23019082496023358,0.23019082496023358,0.23019082496023358,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,GR-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Stb-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Swe-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1805,H5,Tul-Mass,NA,NA,NA,degenerate (enumerations),not-testable,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H1,Cape/US(Me+Ma),1.6982041639006118,1.6982041639006118,1.6982041639006118,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H2,Cape/US(Me+Ma),2.1253484610911975,2.1253484610911975,2.1253484610911975,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H3,Cape/US(Me+Ma+VA),1.5614486904003047,1.5151374134174043,1.607310743661196,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H4/H4w,VA-Stb,0.22416285828513371,0.19829280896411686,0.250157013601863,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H4w,VA-GR,-0.09757879642360567,-0.12344884574462255,-0.07158464110687639,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H4w,VA-Swe,-0.02453867847198854,-0.05040872779300541,0.0014554768447407396,Bonferroni 99% Rao-Wu (VA design),weakened,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H4w,VA-Tul,0.07306953407229821,0.04719948475128134,0.0990636893890275,Bonferroni 99% Rao-Wu (VA design),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,GR-Maine,0.3149454258777691,0.3149454258777691,0.3149454258777691,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Stb-Maine,0.15632870909768148,0.15632870909768148,0.15632870909768148,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Swe-Maine,0.10477792160886845,0.10477792160886845,0.10477792160886845,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Tul-Maine,0.13290940740082868,0.13290940740082868,0.13290940740082868,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,GR-Mass,0.2977602948781255,0.2977602948781255,0.2977602948781255,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Stb-Mass,0.1391435780980379,0.1391435780980379,0.1391435780980379,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Swe-Mass,0.08759279060922487,0.08759279060922487,0.08759279060922487,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.12,benchmark 1815,H5,Tul-Mass,0.1157242764011851,0.1157242764011851,0.1157242764011851,degenerate (enumerations),confirmed,NaN/NA = no covered households or undefined Gini in that benchmark
+5.13,drop top 1% households by outcome in each district,H4/H4w,VA-Stb,0.14869218261041595,NA,NA,point only,point > 0,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H4w,VA-GR,-0.11792378602511044,NA,NA,point only,point <= 0,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H4w,VA-Swe,-0.029952254331632178,NA,NA,point only,point <= 0,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H4w,VA-Tul,0.060701681061725465,NA,NA,point only,point > 0,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,GR-Maine,0.32160272722333594,0.32160272722333594,0.32160272722333594,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Stb-Maine,0.13340509090371744,0.13340509090371744,0.13340509090371744,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Swe-Maine,0.08812621423084077,0.08812621423084077,0.08812621423084077,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Tul-Maine,0.13905884265337387,0.13905884265337387,0.13905884265337387,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,GR-Mass,0.21045922731008626,0.21045922731008626,0.21045922731008626,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Stb-Mass,0.02226159099046776,0.02226159099046776,0.02226159099046776,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Swe-Mass,-0.023017285682408906,-0.023017285682408906,-0.023017285682408906,degenerate (enumerations),overturned (reversed),point estimates; no interval computed
+5.13,drop top 1% households by outcome in each district,H5,Tul-Mass,0.027915342740124194,0.027915342740124194,0.027915342740124194,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H4/H4w,VA-Stb,0.15231310619223382,NA,NA,point only,point > 0,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H4w,VA-GR,-0.10784831023684216,NA,NA,point only,point <= 0,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H4w,VA-Swe,-0.019104287589725377,NA,NA,point only,point <= 0,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H4w,VA-Tul,0.07389518830814135,NA,NA,point only,point > 0,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,GR-Maine,0.3169000623238373,0.3169000623238373,0.3169000623238373,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Stb-Maine,0.13186870651714644,0.13186870651714644,0.13186870651714644,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Swe-Maine,0.08789336684169491,0.08789336684169491,0.08789336684169491,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Tul-Maine,0.13444954086182748,0.13444954086182748,0.13444954086182748,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,GR-Mass,0.19836110557118847,0.19836110557118847,0.19836110557118847,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Stb-Mass,0.013329749764497634,0.013329749764497634,0.013329749764497634,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Swe-Mass,-0.030645589910953897,-0.030645589910953897,-0.030645589910953897,degenerate (enumerations),overturned (reversed),point estimates; no interval computed
+5.13,drop 10 largest households by outcome in each district,H5,Tul-Mass,0.01591058410917867,0.01591058410917867,0.01591058410917867,degenerate (enumerations),confirmed,point estimates; no interval computed
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Graaff Reinet,0.5486443675804276,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Stellenbosch,0.4901397903721647,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Swellendam,0.5177454591916091,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Tulbagh,0.5061915768809424,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Maine,0.4881644146168399,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Massachusetts,0.49397149490181547,NA,NA,level,no verdict,
+5.15,"livestock-value Gini (cattle + sheep, central prices)",abstract livestock clause,Virginia,0.5066415154611057,NA,NA,level,no verdict,Virginia: cattle only (sheep structurally missing)
+D1,K1 off (wheat value zero),H1,Cape/US(Me+Ma),1.4842249707179431,1.4842249707179431,1.4842249707179431,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H2,Cape/US(Me+Ma),2.146977516175794,2.146977516175794,2.146977516175794,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,GR-Maine,0.33863858838055794,0.33863858838055794,0.33863858838055794,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Stb-Maine,0.168353790360928,0.168353790360928,0.168353790360928,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Swe-Maine,0.18654406003655533,0.18654406003655533,0.18654406003655533,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Tul-Maine,0.18082132812144347,0.18082132812144347,0.18082132812144347,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,GR-Mass,0.21751573793536794,0.21751573793536794,0.21751573793536794,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Stb-Mass,0.04723093991573801,0.04723093991573801,0.04723093991573801,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Swe-Mass,0.06542120959136533,0.06542120959136533,0.06542120959136533,degenerate (enumerations),confirmed,diagnostic
+D1,K1 off (wheat value zero),H5,Tul-Mass,0.05969847767625347,0.05969847767625347,0.05969847767625347,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H1,Cape/US(Me+Ma),1.1543934019010897,1.1543934019010897,1.1543934019010897,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H2,Cape/US(Me+Ma),1.4819731069739879,1.4819731069739879,1.4819731069739879,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,GR-Maine,0.3175175276759814,0.3175175276759814,0.3175175276759814,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,Stb-Maine,0.13932215219779365,0.13932215219779365,0.13932215219779365,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,Swe-Maine,0.09470054770723901,0.09470054770723901,0.09470054770723901,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,Tul-Maine,0.1355169454439208,0.1355169454439208,0.1355169454439208,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,GR-Mass,0.19607396795952825,0.19607396795952825,0.19607396795952825,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,Stb-Mass,0.017878592481340494,0.017878592481340494,0.017878592481340494,degenerate (enumerations),confirmed,diagnostic
+D1,K2 off (US grain x 2.84),H5,Swe-Mass,-0.02674301200921414,-0.02674301200921414,-0.02674301200921414,degenerate (enumerations),overturned (reversed),diagnostic
+D1,K2 off (US grain x 2.84),H5,Tul-Mass,0.014073385727467635,0.014073385727467635,0.014073385727467635,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H1,Cape/US(Me+Ma),2.022010886698378,2.022010886698378,2.022010886698378,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H2,Cape/US(Me+Ma),2.5281947827982534,2.5281947827982534,2.5281947827982534,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H3,Cape/US(Me+Ma+VA),1.7592474341587088,1.7276283892948001,1.7897884226661822,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H4/H4w,VA-Stb,0.16641471782194417,0.1450848103049722,0.1883750827909402,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H4w,VA-GR,-0.08927289692815699,-0.11060280444512897,-0.06731253195916095,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),diagnostic
+D2,original filter (> 0 incl. wine-only),H4w,VA-Swe,-0.0030740374510233037,-0.024403944967995292,0.01888632751797272,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),diagnostic
+D2,original filter (> 0 incl. wine-only),H4w,VA-Tul,0.08658059955863584,0.06525069204166385,0.10854096452763187,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,GR-Maine,0.3177131711926058,0.3177131711926058,0.3177131711926058,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Stb-Maine,0.1514657434959863,0.1514657434959863,0.1514657434959863,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Swe-Maine,0.0948716764486951,0.0948716764486951,0.0948716764486951,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Tul-Maine,0.13599797332810737,0.13599797332810737,0.13599797332810737,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,GR-Mass,0.19626961147615263,0.19626961147615263,0.19626961147615263,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Stb-Mass,0.03002218377953314,0.03002218377953314,0.03002218377953314,degenerate (enumerations),confirmed,diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Swe-Mass,-0.026571883267758056,-0.026571883267758056,-0.026571883267758056,degenerate (enumerations),overturned (reversed),diagnostic
+D2,original filter (> 0 incl. wine-only),H5,Tul-Mass,0.014554413611654216,0.014554413611654216,0.014554413611654216,degenerate (enumerations),confirmed,diagnostic
+D3,Virginia farmers entered at zero crop value in the US mean (unweighted),H1,Cape/US(Me+Ma+VA),2.17249326978748,2.17249326978748,2.17249326978748,degenerate,confirmed,diagnostic
+D3,Virginia farmers entered at zero crop value in the US mean (unweighted),H2,Cape/US(Me+Ma+VA),2.72538443674329,2.72538443674329,2.72538443674329,degenerate,confirmed,diagnostic
+D4,"H3 all-household denominator, unweighted (published population)",H3,Cape 33.457 / US 4.816,1.9383216190592463,NA,NA,point,point > 0,diagnostic
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H1,Cape/US(Me+Ma),1.9042527936983051,1.9042527936983051,1.9042527936983051,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H2,Cape/US(Me+Ma),2.375255206881796,2.375255206881796,2.375255206881796,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H3,Cape/US(Me+Ma+VA),1.7706711562807782,1.7390521114168698,1.801212144788252,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H4/H4w,VA-Stb,0.1645238346966975,0.14319392717972554,0.18648419966569355,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H4w,VA-GR,-0.08945549690845944,-0.11078540442543144,-0.06749513193946342,Bonferroni 99% Rao-Wu (VA design),overturned (reversed),diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H4w,VA-Swe,-0.0029283886064139786,-0.024258296123385967,0.019031976362582047,Bonferroni 99% Rao-Wu (VA design),overturned (credible null: similar),diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H4w,VA-Tul,0.08722149595687956,0.06589158843990757,0.10918186092587558,Bonferroni 99% Rao-Wu (VA design),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,GR-Maine,0.32177322861385405,0.32177322861385405,0.32177322861385405,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Stb-Maine,0.24661894918371874,0.24661894918371874,0.24661894918371874,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Swe-Maine,0.09470054770723901,0.09470054770723901,0.09470054770723901,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Tul-Maine,0.1355169454439208,0.1355169454439208,0.1355169454439208,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,GR-Mass,0.2003296688974009,0.2003296688974009,0.2003296688974009,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Stb-Mass,0.12517538946726559,0.12517538946726559,0.12517538946726559,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Swe-Mass,-0.02674301200921414,-0.02674301200921414,-0.02674301200921414,degenerate (enumerations),overturned (reversed),diagnostic; generalised per DEVIATIONS D3
+D5,"uncovered households treated as zero (Cape GR 1787/1798, Stb 1785/1795 for H1/H2/H5; Virginia: none uncovered under K3)",H5,Tul-Mass,0.014073385727467635,0.014073385727467635,0.014073385727467635,degenerate (enumerations),confirmed,diagnostic; generalised per DEVIATIONS D3
+D6,original-code pipeline (verification target; H2 uses printed US $55.8),H1,Cape/US,0.575031761440191,NA,NA,point,diagnostic,diagnostic
+D6,original-code pipeline (verification target; H2 uses printed US $55.8),H2,Cape/US,1.22920196532293,NA,NA,point,diagnostic,diagnostic
+D6,original-code pipeline (verification target; H2 uses printed US $55.8),H3,Cape/US,1.93832161905925,NA,NA,point,diagnostic,diagnostic
+D6,original-code pipeline (verification target; H2 uses printed US $55.8),H4/H4w,VA-Stb,0.166414717821944,NA,NA,point,diagnostic,diagnostic
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H1,Cape/US(Me+Ma),2.0344910486825785,1.9721557711559272,2.0929741922081457,percentile 99% (model-based),confirmed,"95%: [1.9876, 2.0804]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H2,Cape/US(Me+Ma),2.5249870313802756,2.4473336568969377,2.5995379691767626,percentile 99% (model-based),confirmed,"95%: [2.4668, 2.5828]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H3,Cape/US(Me+Ma+VA),1.7706711562807782,1.7203529352649967,1.818698051011684,percentile 99% (model-based),confirmed,"95%: [1.7320, 1.8084]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H4/H4w,VA-Stb,0.1645238346966975,0.13785932725257793,0.19329585343218766,percentile 99% (model-based),confirmed,"95%: [0.1435, 0.1861]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H4w,VA-GR,-0.08945549690845944,-0.11374726591755731,-0.06387541589664956,percentile 99% (model-based),overturned (reversed),"95%: [-0.1087, -0.0700]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H4w,VA-Swe,-0.0029283886064139786,-0.0316752408927872,0.02661433514220485,percentile 99% (model-based),weakened,"95%: [-0.0251, 0.0195]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H4w,VA-Tul,0.08722149595687956,0.05416721030974035,0.12144784736110048,percentile 99% (model-based),confirmed,"95%: [0.0625, 0.1131]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,GR-Maine,0.3175175276759814,0.30022879384425794,0.334162399474671,percentile 99% (model-based),confirmed,"95%: [0.3047, 0.3299]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Stb-Maine,0.13932215219779365,0.11511761392370677,0.16174148510466496,percentile 99% (model-based),confirmed,"95%: [0.1208, 0.1568]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Swe-Maine,0.09470054770723901,0.07044914545776988,0.11938616428916211,percentile 99% (model-based),confirmed,"95%: [0.0762, 0.1128]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Tul-Maine,0.1355169454439208,0.10672545553252741,0.16299707902795063,percentile 99% (model-based),confirmed,"95%: [0.1139, 0.1559]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,GR-Mass,0.19607396795952825,0.17933854638101812,0.21236294399768096,percentile 99% (model-based),confirmed,"95%: [0.1834, 0.2086]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Stb-Mass,0.017878592481340494,-0.00666574667956959,0.04091057889045034,percentile 99% (model-based),weakened,"95%: [-0.0006, 0.0355]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Swe-Mass,-0.02674301200921414,-0.051758847333971084,-0.0021515817953121808,percentile 99% (model-based),overturned (reversed),"95%: [-0.0454, -0.0085]; non-finite reps 0"
+5.14,"superpopulation household bootstrap (District x Year), B = 9,999; ci = 99%",H5,Tul-Mass,0.014073385727467635,-0.014237169878447201,0.042297852601083014,percentile 99% (model-based),weakened,"95%: [-0.0073, 0.0345]; non-finite reps 0"

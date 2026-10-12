@@ -1,0 +1,10 @@
+scenario,claim_id,published,original_code,scenario_value,note
+S2 rerun,T6_wp_all_defl_1700,0.792,,,no original code survives (S2 not-attempted); every headline claim is unavailable in pairs A and B
+"slave income at text values 40/20 (T4 prints 52/26), between-group approx.",T6_wp_xp_defl_1700,0.569,,0.6,F2-based between-group Gini shift +0.031; within-group terms held fixed
+"slave income at text values 40/20 (T4 prints 52/26), between-group approx.",T6_wp_xp_p1757_1700,0.543,,0.574,same 1700 shift +0.031 applied
+"1757 burgher count from surviving .dta (5312 vs 5367), between-group approx.",T6_fb_defl_1757,0.689,,0.689,uniform reweighting within farming burghers leaves their Gini unchanged
+"1757 burgher count from surviving .dta (5312 vs 5367), between-group approx.",T6_wp_all_defl_1700,0.792,,0.792,1700 counts match the .dta exactly; 1757 whole-population between-group shift -0.0004
+lower-bound comparison with T9 European Ginis,T6_wp_xp_p1757_1700,0.543,,0.543,"below Holland 1561 (0.560), France 1788 (0.559), Netherlands 1808 (0.570): 'worse than the European countries (except Holland 1732)' fails at the lower bound"
+T8 elasticities by year,T8_1757_wine_contrib,0.519,,0.519,wine elasticity exceeds grain only in 1757 (0.078 vs 0.043); 1700 sheep 0.010 > wine 0.008 > grain 0.007; 1723 grain 0.036 > wine 0.002
+"ex-pacht trend 1700->1757, deflated series",T6_wp_xp_defl_1700,0.569,,0.559,1757 deflated Gini 0.559 < 0.569: 'slight increase' holds in 2 of 3 price series
+1700 identity: deflated = 1700 prices,T6_wp_all_p1757_1700,0.837,,0.837,identity holds for the headline rows; fails for T6 wp_xps (0.475 vs 0.477) and 7 T7 rows

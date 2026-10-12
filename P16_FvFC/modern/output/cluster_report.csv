@@ -1,0 +1,3 @@
+key,clusters,rows_mean,rows_median,rows_p90,rows_max,years_mean,years_median,years_p90,years_max,share_rows_singleton,clusters_1663,clusters_initial,clusters_1709,clusters_1738,clusters_1757
+coarse (central),5124,2.538446526151444,1,6,33,2.2944964871194378,1,5,18,0.2151918197893442,49,335,657,1019,1541
+exact (5A item 2),5741,2.2656331649538406,1,5,25,2.144922487371538,1,5,16,0.24901975859152764,49,341,668,1048,1698

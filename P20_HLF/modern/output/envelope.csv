@@ -1,0 +1,3 @@
+claim,k,L,U,T_Ab,T_Ag,id,X,b_lo,b_hi,verdict,rule,printed_in_E,H1r_in_22_25,plaus_flag
+H1a,lo,20.539014334186952,25.62882722271895,20.539014334186952,25.62882722271895,T8_tot_lo,22.35,20.115,24.585,qualified (envelope straddles the band),6,TRUE,FALSE,FALSE
+H1b,hi,23.27069775521975,28.940923876577976,23.27069775521975,28.940923876577976,T8_tot_hi,25.09,22.581,27.599,qualified (envelope straddles the band),6,TRUE,FALSE,FALSE

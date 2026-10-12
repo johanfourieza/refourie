@@ -1,0 +1,45 @@
+$n_total
+[1] 31327
+
+$n_by_town
+
+   Cradock     Elliot      Komga    Kuruman   Mafeking Oudtshoorn      Paarl 
+      2704       1162       2254       1481       2300       5932       5056 
+    Peddie Queenstown  Sea Point    Vryburg 
+      2472       6226        343       1397 
+
+$race
+
+   Black Coloured    White     <NA> 
+   15291    10330     4799      907 
+
+$occ
+
+   Children_and_Pensioners                    Farming 
+                     14059                       5405 
+                Production Professionals_and_managers 
+                      3148                        239 
+         Sales_and_service                       <NA> 
+                      5006                       3470 
+
+$birth
+
+      Africa         Asia         Cape       Europe South_Africa         <NA> 
+         128           39        29759          557          484          360 
+
+$doc_share
+[1] 0.4520063
+
+$sig
+
+    0     1  <NA> 
+18777 12524    26 
+
+$pandemic
+
+    0     1 
+24590  6737 
+
+$complete_c3
+[1] 26823
+

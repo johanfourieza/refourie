@@ -1,0 +1,18 @@
+pattern,class
+^(\.|\?|none|nil|no trade|not given|not stated|unemployed|nothing)$,NONE
+student|scholar|schoolboy,NONE
+skilled labourer,Skilled
+farm labourer|farm hand|farm worker|farm overseer|farm manager,Agriculture
+farm|agricultur|ranch|dairy|planter|shepherd|stock ?(man|keeper|breeder),Agriculture
+labourer|laborer|porter|messenger|cleaner|watchman|handy ?man|caretaker|liftman|odd job|navvy|^servant|domestic servant|kitchen|scavenger,Unskilled
+clerk|teller|bookkeeper|book-keeper|cashier,Skilled
+motor engineer|engine driver|engine fitter|locomotive,Skilled
+accountant|auditor|^engineer$|civil engineer|electrical engineer|mining engineer|mechanical engineer|consulting engineer,Middle_class
+attorney|solicitor|barrister|lawyer|advocate|doctor|physician|surgeon|dentist|chemist|druggist|architect,Middle_class
+clergy|minister|missionary|priest|predikant|teacher|school ?master|professor|lecturer|journalist|editor|magistrate,Middle_class
+manager|merchant|director|banker|land surveyor|surveyor|draughtsman|veterinar|photographer,Middle_class
+apprentice|prospector,Skilled
+fireman|stoker|shunter|plate ?layer|ganger|barman|waiter|steward|postman|letter carrier,Semi_skilled
+sampler|cyanid|amalgamator|sorter|packer|guard|conductor|police|warder|soldier|trooper|c\.m\.p,Semi_skilled
+machinist|machineman|pumpman|attendant|checker|timberman|trammer|driller|quarry ?man|wood ?cutter|sawyer|striker|rigger,Semi_skilled
+railway ?man|carter|hawker|jockey|groom|male nurse|orderly,Semi_skilled

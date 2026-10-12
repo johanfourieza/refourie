@@ -1,0 +1,207 @@
+"unit_id","members","area_km2","coverage_1970","coverage_1937","missing_share_B","missing_share_C","missing_share_T","missing_share_urate","rail_source","in_H1","in_H3"
+"aberdeen","aberdeen",6882.56504272427,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"adelaide","adelaide",1392.74327607306,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"albany","albany",4107.98189078533,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"albert","albert",5988.95534252884,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"alexandra","alexandra",1367.03186883321,0.937865992904144,0.999999999999981,0,0,0,1.63394223945015e-14,"authors' value",TRUE,TRUE
+"alexandria","alexandria",2534.3603332043,0.979299754088772,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"alfred","alfred",1548.91505171594,1,0.999999999999997,0,0,0,2.87211700783909e-14,"authors' value",TRUE,TRUE
+"aliwal north","aliwal north",3407.53184874999,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"barberton","barberton",12591.1259376015,0.97185269152323,0.999999999999859,0,0,0,0,"authors' value",TRUE,TRUE
+"barkly east","barkly east",3928.70191522371,0.990855522099911,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"barkly west","barkly west",11466.1000716549,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"bathurst","bathurst",1626.29318428297,0.974411196304213,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"beaufort west","beaufort west",15768.5987353207,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"bedford","bedford",2440.14451761092,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"benoni","benoni",510.36452302097,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"bergville","bergville",2815.60038143088,0.999999999999998,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"bethal","bethal",3301.29632085935,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"bethlehem","bethlehem",6338.86918072434,0.999999999999999,0.999999999999987,0,0,0,0,"authors' value",TRUE,TRUE
+"bethulie","bethulie",3156.70608745286,1,0.999999999999869,0,0,0,0,"authors' value",TRUE,TRUE
+"bizana","bizana",1924.23851693145,0.987183853088767,0.999999999999978,0,0,0,7.97135432239101e-09,"authors' value",TRUE,TRUE
+"bloemfontein","bloemfontein",11682.4085735066,1,0.999999999871606,0,0,0,0,"authors' value",TRUE,TRUE
+"bloemhof","bloemhof",7531.28074106001,1,0.999999971381755,0,0,0,0,"authors' value",TRUE,TRUE
+"boksburg","boksburg",189.257439309895,1.00000000000001,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"boshof","boshof",10799.6442036649,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"bredasdorp","bredasdorp",4401.71656817895,0.979287264998515,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"britstown","britstown",7616.54046058982,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"butterworth","butterworth",692.062035956538,0.999999999999997,0.999999999999955,0,0,0,4.12113669630847e-14,"authors' value",TRUE,TRUE
+"caledon","caledon",4574.55107863013,0.99811439396349,1,0,0,0,0,"authors' value",TRUE,TRUE
+"calvinia","calvinia",37597.5923512837,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"camperdown","camperdown",905.20496208408,0.999999999999993,0.999999999999993,0,0,0,3.78875784288399e-11,"authors' value",TRUE,TRUE
+"cape","cape",1250.46122535645,0.996980424647024,0.999999999998249,0,0,0,0,"authors' value",TRUE,TRUE
+"carnarvon","carnarvon",16711.2222859862,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"carolina","carolina",4998.15833690242,0.999588239765308,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"cathcart","cathcart",2513.54158427486,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"ceres","ceres",9367.53172778894,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"clanwilliam","clanwilliam",7591.82501260873,0.999993952796201,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"colesberg","colesberg",5490.67329553952,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"cradock","cradock",6900.01940018998,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"de aar","de aar",2266.85450547256,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"dundee","dundee",2139.67970603155,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"durban","durban",1625.37106506118,0.961774138120727,0.54076994858752,0,0,0,0.45923005141285,"authors' value",TRUE,TRUE
+"east london","east london",2014.17223758555,0.920732353007795,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"edenburg","edenburg",2823.9246393912,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"elliot","elliot",1939.50911484613,1,0.999999991569477,0,0,0,0,"authors' value",TRUE,TRUE
+"elliotdale","elliotdale",771.594322628331,0.947768641949531,1.46519760863227e-05,0,0,0,1.00000000000001,"authors' value",TRUE,FALSE
+"engcobo","engcobo",2285.72851471422,1,1,0,0,0,2.63824580732816e-17,"authors' value",TRUE,TRUE
+"ermelo","ermelo",7883.84041263455,0.990510381759395,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"eshowe","eshowe",1593.6667240711,1,0.999999999999997,0,0,0,6.58081254707726e-14,"authors' value",TRUE,TRUE
+"estcourt","estcourt",4932.09307523539,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"fauresmith","fauresmith",8800.07667847399,1,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"ficksburg","ficksburg",2807.33994532289,0.992649582544888,0.999999999999632,0,0,0,9.90756496486056e-14,"authors' value",TRUE,TRUE
+"flagstaff","flagstaff",909.311663304882,1,0.999999999999991,0,0,0,1.03844664354838e-14,"authors' value",TRUE,TRUE
+"fort beaufort","fort beaufort",1188.65178836403,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"frankfort","frankfort",3408.84088256647,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"fraserburg","fraserburg",23974.8549874575,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"george","george",2603.64576226903,0.992003555615968,1,0,0,0,0,"authors' value",TRUE,TRUE
+"germiston","germiston",675.998851738183,1.00000000000001,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"glen grey","glen grey",2064.27951294685,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"gordonia","gordonia",53103.1016571297,0.975123959569048,1,0,0,0,0,"authors' value",TRUE,TRUE
+"graaff-reinet","graaff-reinet",6563.41545160145,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"hanover","hanover",4540.34319925431,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"harrismith","harrismith",8165.01467715613,0.999999999999999,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"hay","hay",16644.3697928232,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"heidelberg t","heidelberg t",6097.3372358102,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"heilbron","heilbron",4353.16442433177,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"helpmekaar","helpmekaar",1606.80118169871,1,0.569972610332981,0,0,0,0.430027365525715,"authors' value",TRUE,TRUE
+"herbert","herbert",6654.95593478903,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"herschel","herschel",1902.67194547714,0.834804454296651,0.999999999999987,0,0,0,0,"authors' value",TRUE,TRUE
+"hlabisa","hlabisa",4315.75893587739,0.959235600844734,1,0,0,0,0,"authors' value",TRUE,TRUE
+"hoopstad","hoopstad",7873.36930027054,0.999999999999999,1,0,0,0,0,"authors' value",TRUE,TRUE
+"hopetown","hopetown",8056.31677040821,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"humansdorp","humansdorp",5512.31509318204,0.984034408989092,0.999999999999996,0,0,0,0,"authors' value",TRUE,TRUE
+"idutywa","idutywa",1197.90925586273,1,0.999999999999995,0,0,0,3.13470540650027e-15,"authors' value",TRUE,TRUE
+"impendle","impendle",1540.95798417173,0.975586014035391,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"inanda","inanda",1269.23767621235,0.99308916706734,0.51791716152012,0,0,0,0.482082889950521,"authors' value",TRUE,TRUE
+"ingwavuma","ingwavuma",4236.04418963256,0.942605904425561,0.999999999999991,0,0,0,0,"authors' value",TRUE,TRUE
+"ixopo","ixopo",2661.63507390202,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"jacobsdal","jacobsdal",3452.15606501123,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"jansenville","jansenville",5031.98756787188,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"johannesburg","johannesburg",993.427162783935,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"kenhardt","kenhardt",37374.1923309311,0.99444474346204,1,0,0,0,0,"authors' value",TRUE,TRUE
+"kentani","kentani",1286.26138197543,0.957214900539047,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"kimberley","kimberley",4268.00700934858,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"king williams town","king williams town",3287.8273875722,1,0.999999999865355,0,0,0,0,"authors' value",TRUE,TRUE
+"klipriver","klipriver",3674.03241339346,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"knysna","knysna",2292.90195134256,0.973180781766451,0.99999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"komga","komga",1423.00272706992,0.956132733685563,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"kranskop","kranskop",1197.71813010032,0.999999999999999,0.999999999999999,0,0,0,3.8259876646713e-15,"authors' value",TRUE,TRUE
+"kroonstad","kroonstad",8612.7101678606,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"krugersdorp","krugersdorp",3121.05807071767,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"kuruman","kuruman",36432.5570498127,0.993699462617282,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"ladismith","ladismith",3555.17759001973,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"ladybrand","ladybrand",2753.53444485654,0.995421423473683,0.666736660431987,0,0,0,0.333263339567745,"authors' value",TRUE,TRUE
+"laingsburg","laingsburg",8894.04882068377,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"libode","libode",1544.7654114623,1,0.999999999999996,0,0,0,1.83278354488206e-15,"authors' value",TRUE,TRUE
+"lichtenburg","lichtenburg",11122.791772365,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"lindley","lindley",2773.46287690327,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"lions river","lions river",1665.36120877041,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"lower tugela","lower tugela",1031.26865718767,0.993591765913974,0.999999999999979,0,0,0,9.5943680279175e-15,"authors' value",TRUE,TRUE
+"lower umfolozi","lower umfolozi",2710.28732146216,0.975149026830027,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"lusikisiki","lusikisiki",2535.99003466863,0.982298231293599,1,0,0,0,0,"authors' value",TRUE,TRUE
+"lydenburg","lydenburg",27289.4187163329,0.983466236282677,0.999999997570781,0,0,0,0,"authors' value",TRUE,TRUE
+"maclear","maclear",2632.75123851775,0.999741391178767,1,0,0,0,0,"authors' value",TRUE,TRUE
+"mafeking","mafeking",11936.662104403,0.980580229836467,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"mahlabathini","mahlabathini",1708.22046295173,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"malmesbury","malmesbury",5589.62519138227,0.998899571417212,0.999999999999323,0,0,0,0,"authors' value",TRUE,TRUE
+"maphumulo","maphumulo",600.074278759762,1.00000000000001,1.13495716155348e-06,0,0,0,0.999999999999954,"authors' value",TRUE,FALSE
+"maraisburg","maraisburg",2307.46214939041,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"marico","marico",9764.73488672634,0.995002348005937,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"matatiele","matatiele",2901.9548320719,0.935455921254906,1,0,0,0,0,"authors' value",TRUE,TRUE
+"middelburg c","middelburg c",5458.42472290674,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"middelburg t","middelburg t",12602.3844788375,1,0.999999999909827,0,0,0,0,"authors' value",TRUE,TRUE
+"molteno","molteno",1421.64123497373,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"montagu","montagu",2568.60537264056,0.999999999999999,0.99999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"mossel bay","mossel bay",2069.89567300377,0.979986625462121,1,0,0,0,0,"authors' value",TRUE,TRUE
+"mount ayliff","mount ayliff",774.048638889324,1,4.59848968639048e-14,0,0,0,0.999999999999947,"authors' value",TRUE,FALSE
+"mount currie","mount currie",2970.60721764366,0.993308227996784,0.999999999999994,0,0,0,9.31763209470646e-16,"authors' value",TRUE,TRUE
+"mount fletcher","mount fletcher",2280.34316940493,0.993089722265966,0.999999999999989,0,0,0,1.36711391156016e-08,"authors' value",TRUE,TRUE
+"mount frere","mount frere",1827.2295677343,0.999999999999996,1.00000000000001,0,0,0,3.17076450179825e-12,"authors' value",TRUE,TRUE
+"mpofana","mpofana",1144.50284734467,0.999999999999996,1.60122483467522e-12,0,0,0,0.999999999998477,"authors' value",TRUE,FALSE
+"mqanduli","mqanduli",1711.29931802368,0.996855519594233,1,0,0,0,0,"authors' value",TRUE,TRUE
+"mtonjaneni","mtonjaneni",1591.31406512624,0.999999999999998,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"mtunzini","mtunzini",1505.77747636592,0.96848240335759,1.00000000000003,0,0,0,0,"authors' value",TRUE,TRUE
+"murraysburg","murraysburg",5177.37495527121,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"namaqualand","namaqualand",47096.978186374,0.983751379430871,0.999999999999992,0,0,0,0,"authors' value",TRUE,TRUE
+"ndwandwe","ndwandwe",1733.85419085792,0.999999999999983,0.999999999999983,0,0,0,0,"authors' value",TRUE,TRUE
+"new hanover","new hanover",1321.40974782088,0.999999999999978,0.999999999999985,0,0,0,0,"authors' value",TRUE,TRUE
+"newcastle","newcastle",3065.45624600211,0.999999999999997,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"ngotshe","ngotshe",3002.76881499523,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"ngqeleni","ngqeleni",1502.79728950133,0.990038477252516,1,0,0,0,0,"authors' value",TRUE,TRUE
+"nkandla","nkandla",1705.9234517022,0.999999999999999,0.99999999999999,0,0,0,6.13241675763675e-14,"authors' value",TRUE,TRUE
+"nqamakwe","nqamakwe",1153.87887882083,1,3.27227980114635e-15,0,0,0,0.999999999999996,"authors' value",TRUE,FALSE
+"nqutu","nqutu",1469.87454010101,0.999999999999993,0.999999999999993,0,0,0,0,"authors' value",TRUE,TRUE
+"oudtshoorn","oudtshoorn",4037.17603877039,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"paarl_wellington","paarl|wellington",1574.73625901419,1,1.00000000000029,0,0,0,0,"authors' algorithm re-run on 1918 unit centroid",TRUE,TRUE
+"paulpietersburg","paulpietersburg",1570.76500023435,0.999999999999993,0.999999999999993,0,0,0,0,"authors' value",TRUE,TRUE
+"pearston","pearston",2017.31353011418,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"peddie","peddie",1792.83657293729,0.958180243549227,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"philippolis","philippolis",3816.98622755068,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"phillipstown","phillipstown",5140.79060111144,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"piet retief","piet retief",4460.29153459269,0.937828884401751,0.99999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"pietermaritzburg","pietermaritzburg",2610.73887104561,1,0.999999999999895,0,0,0,3.13030648705497e-16,"authors' value",TRUE,TRUE
+"pietersburg","pietersburg",32313.723014217,0.996053997817139,0.999999999998788,0,0,0,0,"authors' value",TRUE,TRUE
+"piketberg","piketberg",4553.4254915988,1,0.99999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"polela","polela",3235.29104901992,0.989592790031942,0.999999999999573,0,0,0,0,"authors' value",TRUE,TRUE
+"port elizabeth","port elizabeth",2319.14146402828,0.946121261645086,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"port shepstone","port shepstone",263.011785984704,0.899034296600124,0.999999999999395,0,0,0,0,"authors' algorithm re-run on 1918 unit centroid",TRUE,TRUE
+"port st johns","port st johns",916.449392263796,0.979806314488199,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"potchefstroom","potchefstroom",13083.5360915382,0.999999999999999,0.999999999995174,0,0,0,0,"authors' value",TRUE,TRUE
+"pretoria","pretoria",14157.890414566,1,1.00000000000002,0,0,0,0,"authors' value",TRUE,TRUE
+"prieska","prieska",14733.8970670498,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"prince albert","prince albert",8658.5777848172,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"queenstown","queenstown",4690.17167068049,1,0.999999958651374,0,0,0,0,"authors' value",TRUE,TRUE
+"qumbu","qumbu",1396.73782149313,0.999999999999997,2.56631727026306e-14,0,0,0,0.999999999999975,"authors' value",TRUE,FALSE
+"richmond c","richmond c",7701.24519454695,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"riversdale","riversdale",4593.61177352375,0.975630297645327,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"robertson","robertson",1964.77733175756,0.999999999999999,0.999999999999991,0,0,0,0,"authors' value",TRUE,TRUE
+"rouxville","rouxville",4873.00414252525,0.978671701086359,0.999999999999648,0,0,0,0,"authors' value",TRUE,TRUE
+"rustenburg","rustenburg",23740.7970898155,0.995981679566451,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"senekal","senekal",4463.53837415972,1,1,0,0,0,2.53719841941244e-16,"authors' value",TRUE,TRUE
+"simonstown","simonstown",279.609461972396,0.970458713772655,0.99999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"smithfield","smithfield",4283.55119755462,0.999999999999999,0.999999999953086,0,0,0,0,"authors' value",TRUE,TRUE
+"somerset east","somerset east",5274.5751356168,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"soutpansberg","soutpansberg",28143.4680144236,0.992019099431714,0.999999999999996,0,0,0,0,"authors' value",TRUE,TRUE
+"st marks","st marks",1782.30227132841,1,1.00000000000002,0,0,0,8.2194468817821e-15,"authors' value",TRUE,TRUE
+"standerton","standerton",4807.72580654392,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"stellenbosch","stellenbosch",903.823919802159,0.998924770758363,1.00000000000041,0,0,0,0,"authors' value",TRUE,TRUE
+"steynsburg","steynsburg",2424.60809950343,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"steytlerville","steytlerville",4983.04410149767,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"stockenstrom","stockenstrom",821.286102420898,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"stutterheim","stutterheim",1681.71478403706,1,0.999999999999989,0,0,0,8.4227727437534e-15,"authors' value",TRUE,TRUE
+"sutherland","sutherland",9599.21076587044,0.999999999999996,0.999999999999996,0,0,0,0,"authors' value",TRUE,TRUE
+"swellendam","swellendam",5541.34461613465,0.998015400021181,1,0,0,0,0,"authors' value",TRUE,TRUE
+"tabankulu","tabankulu",1382.08486338105,0.999999999999989,0.999999999999971,0,0,0,1.7288400557945e-14,"authors' value",TRUE,TRUE
+"tarka","tarka",3669.88844072602,0.999999999999999,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"taung","taung",3754.67799327856,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"thabanchu","thabanchu",2851.23756369199,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"tsolo","tsolo",1600.30508926222,0.999999999999999,0.999999999999983,0,0,0,1.41534043518481e-14,"authors' value",TRUE,TRUE
+"tsomo","tsomo",1096.91978410993,1,2.40083039669876e-14,0,0,0,0.999999999999966,"authors' value",TRUE,FALSE
+"tulbagh","tulbagh",713.681730372783,0.999999999999995,0.999999999999912,0,0,0,0,"authors' value",TRUE,TRUE
+"ubombo","ubombo",3879.35077342486,0.970475364063015,0.999999999999993,0,0,0,0,"authors' value",TRUE,TRUE
+"uitenhage","uitenhage",4186.24993547859,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"umtata","umtata",1558.79680054076,0.999999999999997,0.999999999999997,0,0,0,0,"authors' value",TRUE,TRUE
+"umvoti","umvoti",2422.98083560695,0.999999999999998,1,0,0,0,0,"authors' value",TRUE,TRUE
+"umzimkulu","umzimkulu",2807.30675383638,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"uniondale","uniondale",4143.48241250608,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"utrecht","utrecht",3411.22319806294,1.00000000000001,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"vanrhynsdorp","vanrhynsdorp",13501.4594511983,0.999752158596912,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"victoria east","victoria east",989.235515231612,0.999999999999997,0.999999999999995,0,0,0,0,"authors' value",TRUE,TRUE
+"victoria west","victoria west",11215.6272630807,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"vrede","vrede",5467.88936084944,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"vredefort","vredefort",3609.77513503801,0.999999999999999,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"vryburg","vryburg",32116.0414806649,0.993904895500324,0.999999999999998,0,0,0,0,"authors' value",TRUE,TRUE
+"vryheid","vryheid",5717.1832084919,1,0.999999998972231,0,0,0,0,"authors' value",TRUE,TRUE
+"wakkerstroom","wakkerstroom",6252.13806074922,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"waterberg","waterberg",43240.2568282392,0.998475732178521,0.999999999999741,0,0,0,0,"authors' value",TRUE,TRUE
+"weenen","weenen",1101.80831479379,1.00000000000001,1.00000000000001,0,0,0,0,"authors' value",TRUE,TRUE
+"wepener","wepener",2637.2638575185,0.934484686893597,0.999999999999472,0,0,0,0,"authors' value",TRUE,TRUE
+"willowmore","willowmore",6454.84137764759,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"willowvale","willowvale",1448.73168795143,0.970234713045879,0.999999999999989,0,0,0,5.43082834163514e-15,"authors' value",TRUE,TRUE
+"winburg","winburg",10093.7326885992,1,0.999999999999992,0,0,0,6.20132639038185e-15,"authors' value",TRUE,TRUE
+"wodehouse","wodehouse",4093.17558296288,1,1.00000000000005,0,0,0,0,"authors' value",TRUE,TRUE
+"wolmaransstad","wolmaransstad",4913.17561758697,1,1,0,0,0,0,"authors' value",TRUE,TRUE
+"worcester","worcester",4319.84153571501,1,0.999999999999999,0,0,0,0,"authors' value",TRUE,TRUE
+"wynberg","wynberg",444.412046015871,0.99987372688061,1.00000000000002,0,0,0,0,"authors' value",TRUE,TRUE
+"xalanga","xalanga",966.52984343868,1,0.999999999999867,0,0,0,0,"authors' value",TRUE,TRUE

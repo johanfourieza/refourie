@@ -1,0 +1,19 @@
+check,item,computed,reference,tolerance,pass
+G1,N,1802,1802,exact,TRUE
+G1,origin counts Kust/Cust/Westcoast/Coehin,3/1/2/1,3/1/2/1,exact,TRUE
+G1,"pre-recode bco (6 za, Coehin cn)","Cust:za,Westcoast:za,Kust:za,Kust:za,Kust:za,Westcoast:za,Coehin:cn","za x6, cn x1",exact,TRUE
+G1,post-recode za/in/cn/oth_bl,140/76/15/583,140/76/15/583,exact,TRUE
+G1,Khoesan early/mid,28/189,28/189,exact,TRUE
+G1,missing regressors (listwise),0,0,report,TRUE
+G2,eur,51.3835395691,51.3835395691,1e-4,TRUE
+G3,eur,51.3835395691,51.3835395687,1e-4,TRUE
+G4,eur,50.3227486739,50.3227486739,1e-4,TRUE
+G2,id,-28.6314244018,-28.6314244018,1e-4,TRUE
+G3,id,-28.6314244018,-28.6314243577,1e-4,TRUE
+G4,id,-29.4372897709,-29.4372897709,1e-4,TRUE
+G2,in,-20.2561936674,-20.2561936674,1e-4,TRUE
+G3,in,-20.2561936674,-20.2561936682,1e-4,TRUE
+G4,in,-22.9403909004,-22.9403909004,1e-4,TRUE
+G2,mz,-21.3404097564,-21.3404097564,1e-4,TRUE
+G3,mz,-21.3404097564,-21.3404097576,1e-4,TRUE
+G4,mz,-22.1055726185,-22.1055726185,1e-4,TRUE

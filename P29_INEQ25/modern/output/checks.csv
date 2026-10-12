@@ -1,0 +1,6 @@
+check,n,max_abs_diff,pass
+Fig1 total value,15,0,TRUE
+Fig2 raw units,32,0,TRUE
+"Fig6 (1825 BD sheet, no SR sheep)",13,0,TRUE
+"weighted Gini = ineq::Gini(rep(x, w))",1,3.3306690738754696e-16,TRUE
+synthetic zero rows = sum(slave_men) per year,136,0,TRUE

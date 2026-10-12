@@ -1,0 +1,23 @@
+block,quantity,estimate,lo,hi,p,p_holm,fail_rate,note
+H1,A,4.30861411930778,,,,,,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,D,5.58471796361857,2.91625705448136,8.31910827141578,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,E25,2.7697247706422,-0.9,12.9753007217323,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,F,0.771500753910239,0.515027090770804,0.913195893192572,,,0,"Fieller-type set [0.5155, 0.9130], bounded=1"
+H1,G,1.51625513749849,0.0477061595650767,3.01910531707449,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,L30,2,1.0898941668014,3.00120981476516,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,R25,4.07747196738022,,,,,,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,S25,3.6697247706422,0,13.8753007217323,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,d30,4.062424969988,1.34790174086263,6.86880961844193,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,s1,6.062424969988,3.35553346278461,8.81878064396095,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,s3,1.75381085068022,0.901746021633254,2.6868957860315,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H1,s4,0.477707006369427,0.152360647447875,1.03156884059374,,,0,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+H2-ITS,theta,-2.02190766352955,-2.69870581093753,-1.34510951612156,2.44902574931365e-07,,,"HAC 95% CI; block bootstrap 95% [-3.1437, -0.8290]"
+H2-ITS,dslope,-0.230847678156052,-0.339997158609985,-0.12169819770212,9.71422451487301e-05,,,"HAC 95% CI; block bootstrap 95% [-0.3527, -0.1087]"
+LPM family E,H2-c2,0.000268757833159656,-0.00866671188454092,0.00862145725828714,0.931565782891446,0.931565782891446,,WCR two-way; N=23308; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family E,H2-c4,-0.00645424893002772,-0.0191796376867097,0.00287732080041716,0.109210921092109,0.218421842184218,,WCR two-way; N=12023; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family E,H3-c2,-0.0278252720365346,-0.0595637511828307,-0.00469110567883531,0.0003000300030003,0.0012001200120012,,WCR two-way; N=23308; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family E,H3-c4,-0.013547413448327,-0.037396672468463,0.00341237437681593,0.0694069406940694,0.208220822082208,,WCR two-way; N=12023; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family L,H2-c2L,0.000174042546284846,-0.00872339494248536,0.0085652402765856,0.956582633053221,0.956582633053221,,WCR two-way; N=23308; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family L,H2-c4L,-0.00643068768415225,-0.0192252374065336,0.00296663737472334,0.113611361136114,0.227222722272227,,WCR two-way; N=12023; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family L,H3-c2L,-0.0278614667783609,-0.0595868315768964,-0.00465574724224527,0.0004000400040004,0.0016001600160016,,WCR two-way; N=23308; Bonferroni CI 1-0.05/4; degenerate draws 0
+LPM family L,H3-c4L,-0.0135428456177835,-0.0373273459674199,0.00335585830205791,0.0683068306830683,0.204920492049205,,WCR two-way; N=12023; Bonferroni CI 1-0.05/4; degenerate draws 0

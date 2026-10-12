@@ -1,0 +1,22 @@
+# S5 check: search for the source of the printed Stellenbosch total of 110.1 bushels (p.14, Table A1).
+suppressPackageStartupMessages({library(dplyr)})
+source("tools/paths.R")
+o <- readRDS(dscratch("P06_FGa","repro_original","objects.rds"))
+print(as.data.frame(o$descriptives) |> filter(District=="Stellenbosch") |> mutate(across(where(is.numeric), ~round(.x,1))))
+fg <- as.data.frame(o$fg)
+st <- fg |> filter(District=="Stellenbosch")
+fl <- with(st, (Wheatreaped>0 | Barleyreaped>0 | Ryereaped>0 | Oatsreaped>0 | Cornreaped>0 | Wine>0 | Cattle>0 | Sheep>0)); fl[is.na(fl)] <- FALSE
+s <- st[fl,]
+crop <- rowSums(s[,c("Wheatreaped","Barleyreaped","Ryereaped","Oatsreaped")], na.rm=TRUE)
+sown <- rowSums(s[,c("Wheatsown","Barleysown","Ryesown","Oatssown")], na.rm=TRUE)
+cat("farmers mean crops", mean(crop), " +sown", mean(crop+sown), " crop>0 mean", mean(crop[crop>0]), "\n")
+cat("by year mean crops:\n"); print(tapply(crop, s$Year, mean))
+cat("by year mean crops, producers:\n"); print(tapply(crop[crop>0], s$Year[crop>0], mean))
+cat("all households mean crops", mean(rowSums(st[,c("Wheatreaped","Barleyreaped","Ryereaped","Oatsreaped")], na.rm=TRUE)), "\n")
+cat("component means sum (available case):", sum(sapply(s[,c("Wheatreaped","Barleyreaped","Ryereaped","Oatsreaped")], mean, na.rm=TRUE)), "\n")
+# district-year where Oatsreaped is huge (vine stock shift, rebuild D7)
+print(tapply(s$Oatsreaped, s$Year, function(x) c(n=sum(!is.na(x)), max=max(x,na.rm=TRUE), n1000=sum(x>=1000,na.rm=TRUE))))
+cat("Stellenbosch crops excl oats>=1000 rows:", mean(crop[!(s$Oatsreaped>=1000 & !is.na(s$Oatsreaped))]), "\n")
+# Result: 110.1 = obs-weighted mean of the 1805 and 1815 Stellenbosch crop totals (years with oats recorded)
+d <- as.data.frame(o$descriptives) |> filter(District=="Stellenbosch", Year %in% c(1805,1815))
+cat("1805-1815 obs-weighted Crops:", weighted.mean(d$Crops, d$obs), "\n")

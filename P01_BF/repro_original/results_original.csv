@@ -1,0 +1,398 @@
+claim_id,source,value,se,n,status_override,note
+T1_r1_c1,original,,,,unavailable,comparison with literature; no code
+T1_r1_c2,original,,,,unavailable,comparison with literature; no code
+T1_r1_c3,original,,,,unavailable,comparison with literature; no code
+T1_r2_c1,original,,,,unavailable,comparison with literature; no code
+T1_r2_c2,original,,,,unavailable,comparison with literature; no code
+T1_r2_c3,original,,,,unavailable,comparison with literature; no code
+T1_r3_c1,original,,,,unavailable,comparison with literature; no code
+T1_r3_c2,original,,,,unavailable,comparison with literature; no code
+T1_r3_c3,original,,,,unavailable,comparison with literature; no code
+T1_r4_c1,original,,,,unavailable,comparison with literature; no code
+T1_r4_c2,original,,,,unavailable,comparison with literature; no code
+T1_r4_c3,original,,,,unavailable,comparison with literature; no code
+T2_r1_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r1_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r1_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r1_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r1_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r2_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r2_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r2_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r2_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r2_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r3_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r3_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r3_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r3_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r3_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r4_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r4_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r4_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r4_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r4_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r5_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r5_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r5_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r5_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r5_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r6_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r6_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r6_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r6_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r6_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r7_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r7_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r7_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r7_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r7_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r8_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r8_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r8_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r8_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r8_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r9_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r9_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r9_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r9_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r9_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r10_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r10_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r10_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r10_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r10_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r11_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r11_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r11_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r11_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r11_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r12_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r12_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r12_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r12_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r12_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r13_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r13_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r13_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r13_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r13_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r14_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r14_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r14_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r14_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r14_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r15_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r15_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r15_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r15_abcc,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r15_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r16_n,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r16_age,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r16_knows,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T2_r16_eur,original,,,,unavailable,no code for Table 2 (2013 revision); l.801-856 ABCC-by-decade blocks need missing na110421a.dta and do not output T2
+T3_r1_abcc,original,,,,unavailable,2013 revision table; no surviving code
+T3_r2_abcc,original,,,,unavailable,2013 revision table; no surviving code
+T3_r3_diff,original,,,,unavailable,2013 revision table; no surviving code
+T3_r4_abcc,original,,,,unavailable,2013 revision table; no surviving code
+T3_r5_abcc,original,,,,unavailable,2013 revision table; no surviving code
+T3_r6_diff,original,,,,unavailable,2013 revision table; no surviving code
+T4_r1_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_r1_c1_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r2_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_r2_c1_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r3_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_r3_c1_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r4_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_r4_c1_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_n_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_rsq_c1,original,,,,unavailable,2013 revision table; no surviving code
+T4_r1_c2,original,,,,unavailable,2013 revision table; no surviving code
+T4_r1_c2_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r2_c2,original,,,,unavailable,2013 revision table; no surviving code
+T4_r2_c2_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r3_c2,original,,,,unavailable,2013 revision table; no surviving code
+T4_r3_c2_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_r4_c2,original,,,,unavailable,2013 revision table; no surviving code
+T4_r4_c2_p,original,,,,unavailable,2013 revision table; no surviving code
+T4_n_c2,original,,,,unavailable,2013 revision table; no surviving code
+T4_rsq_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r1_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r2_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r3_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r4_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r5_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r6_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r7_c9,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c1,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c2,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c3,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c4,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c5,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c6,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c7,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c8,original,,,,unavailable,2013 revision table; no surviving code
+T5_r8_c9,original,,,,unavailable,2013 revision table; no surviving code
+T6_r1,original,-2.1458696081,4.99285726525,1802,,"mfx dy/dx x125, female2; l.1656-1657"
+T6_r1_p,original,0.6673499400419212,,1802,,mfx p-value (normal)
+T6_r2,original,3.7298187777375,3.7059645434624997,1802,,"mfx dy/dx x125, age23; l.1656-1657"
+T6_r2_p,original,0.31420554019834346,,1802,,mfx p-value (normal)
+T6_r3,original,8.282273497625,17.14559299025,1802,,"mfx dy/dx x125, b_cn; l.1656-1657"
+T6_r3_p,original,0.6290563087769322,,1802,,mfx p-value (normal)
+T6_r4,original,51.383539568749995,5.7930607355875,1802,,"mfx dy/dx x125, b_eur; l.1656-1657"
+T6_r4_p,original,7.324906031775411e-19,,1802,,mfx p-value (normal)
+T6_r5,original,-28.63142435775,5.940623411325,1802,,"mfx dy/dx x125, b_id; l.1656-1657"
+T6_r5_p,original,1.4384685131654765e-6,,1802,,mfx p-value (normal)
+T6_r6,original,-20.25619366825,7.8922698227625006,1802,,"mfx dy/dx x125, b_in; l.1656-1657"
+T6_r6_p,original,0.010270498719207426,,1802,,mfx p-value (normal)
+T6_r7,original,-6.30410255875,5.94690196195,1802,,"mfx dy/dx x125, b_kobc; l.1656-1657"
+T6_r7_p,original,0.28911503461412447,,1802,,mfx p-value (normal)
+T6_r8,original,-21.340409757625,6.792067528875,1802,,"mfx dy/dx x125, b_mz; l.1656-1657"
+T6_r8_p,original,0.0016782051685491702,,1802,,mfx p-value (normal)
+T6_r9,original,-8.018560934875,6.1454020020375,1802,,"mfx dy/dx x125, b_oth_bl; l.1656-1657"
+T6_r9_p,original,0.19195871989278473,,1802,,mfx p-value (normal)
+T6_n,original,1802,,,,e(N) l.1656
+T6_rsq,original,0.14864645,,1802,,e(r2_p) l.1656
+T7_r1_c1,original,167,,167,,sum of dummy eur_early in est. sample; equals l.1699 collapse
+T7_r1_c2,original,170,,170,,sum of dummy eur_mid in est. sample; equals l.1699 collapse
+T7_r1_c3,original,55,,55,,sum of dummy eur_post in est. sample; equals l.1699 collapse
+T7_r2_c1,original,74,,74,,sum of dummy id_early in est. sample; equals l.1699 collapse
+T7_r2_c2,original,53,,53,,"sum of dummy id_mid in est. sample; l.1699 bco x bcoh collapse gives a different cell (50/27/346), see audit"
+T7_r3_c1,original,42,,42,,sum of dummy in_early in est. sample; equals l.1699 collapse
+T7_r3_c2,original,29,,29,,"sum of dummy in_mid in est. sample; l.1699 bco x bcoh collapse gives a different cell (50/27/346), see audit"
+T7_r4_c1,original,28,,28,,sum of dummy ko_early in est. sample; equals l.1699 collapse
+T7_r4_c2,original,189,,189,,sum of dummy ko_mid in est. sample; equals l.1699 collapse
+T7_r4_c3,original,151,,151,,sum of dummy ko_post in est. sample; equals l.1699 collapse
+T7_r5_c2,original,63,,63,,sum of dummy mz_mid in est. sample; equals l.1699 collapse
+T7_r5_c3,original,29,,29,,sum of dummy mz_post in est. sample; equals l.1699 collapse
+T7_r6_c2,original,79,,79,,sum of dummy za_mid in est. sample; equals l.1699 collapse
+T7_r6_c3,original,58,,58,,sum of dummy za_post in est. sample; equals l.1699 collapse
+T7_r7_c1,original,364,,364,,"sum of dummy otb_early in est. sample; l.1699 bco x bcoh collapse gives a different cell (50/27/346), see audit"
+T7_r7_c2,original,156,,156,,sum of dummy otb_mid in est. sample; equals l.1699 collapse
+T7_r7_c3,original,79,,79,,sum of dummy otb_post in est. sample; equals l.1699 collapse
+T8_r1_c1,original,2.8412640022625,2.8767153335374998,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.0230
+T8_r2_c1,original,38.013652713,16.2302117295,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1298
+T8_r3_c1,original,39.21130318075,16.200695930125,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1296
+T8_r4_c1,original,38.839523643875005,17.343956915750002,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1388
+T8_r5_c1,original,-29.8354395515,16.735144199625,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1339
+T8_r6_c1,original,-47.882591200625,16.141250270625,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1291
+T8_r7_c1,original,-25.1199488815,17.709200439750003,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1417
+T8_r8_c1,original,-37.848036592875,17.635415456875002,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1411
+T8_r9_c1,original,11.541238927575,19.610376650750002,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1569
+T8_r10_c1,original,-31.584245492749996,16.053407087,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1284
+T8_r11_c1,original,-6.8788954921,16.55618281275,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1324
+T8_r12_c1,original,-43.355453022875004,16.330705428625002,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1306
+T8_r13_c1,original,-8.949292869725,19.450850396125,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1556
+T8_r14_c1,original,-11.6829309257625,15.994724238125,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1280
+T8_r15_c1,original,-26.137187628875,16.23974047675,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1299
+T8_r16_c1,original,-16.953943956,17.098519399624998,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1368
+T8_r17_c1,original,-17.029651487875,16.9731193455,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1358
+T8_r18_c1,original,-9.0364404864625,17.70252734925,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1416
+T8_r20_c1,original,53.957560054625,15.684090682625,1802,,OLS coef x125 (l.1667-1668); se = robust (l.1672) x125; printed unscaled robust se = 0.1255
+T8_orphse_c1,original,0.0339063578296,,1802,,"equals robust SE of female2 (l.1672), coefficient not printed"
+T8_rsq_c1,original,0.19369562,,1802,,e(r2) l.1667
+T8_n_c1,original,1802,,,,e(N) l.1667
+T8_r1_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r2_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r3_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r4_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r5_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r6_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r7_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r8_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r9_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r10_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r11_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r12_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r13_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r14_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r15_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r16_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r17_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r18_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r19_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r20_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_orphse_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_rsq_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_n_c2,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r1_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r2_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r3_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r4_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r5_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r6_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r7_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r8_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r9_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r10_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r11_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r12_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r13_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r14_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r15_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r16_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r17_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r18_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_r20_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_orphse_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_rsq_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T8_n_c3,original,,,,unavailable,T8 cols 2-3 (severe-crime controls/sample) are 2013 revision; no surviving code
+T9_r1,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r1_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r2,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r2_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r3,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r3_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r4,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r4_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r5,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r5_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r6,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r6_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r7,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r7_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r8,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r8_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r9,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r9_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r10,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T9_r10_p,original,,,,unavailable,T9 cohort tests: model not in code; no surviving code
+T10_r1_abcc_lo,original,,,,unavailable,comparison with literature; no code
+T10_r1_abcc_hi,original,,,,unavailable,comparison with literature; no code
+T10_r1_our,original,,,,unavailable,comparison with literature; no code
+T10_r1_cases,original,,,,unavailable,comparison with literature; no code
+T10_r2_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r2_our,original,,,,unavailable,comparison with literature; no code
+T10_r2_cases,original,,,,unavailable,comparison with literature; no code
+T10_r3_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r3_our,original,,,,unavailable,comparison with literature; no code
+T10_r3_cases,original,,,,unavailable,comparison with literature; no code
+T10_r4_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r4_our,original,,,,unavailable,comparison with literature; no code
+T10_r4_cases,original,,,,unavailable,comparison with literature; no code
+T10_r5_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r5_our,original,,,,unavailable,comparison with literature; no code
+T10_r5_cases,original,,,,unavailable,comparison with literature; no code
+T10_r6_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r6_our,original,,,,unavailable,comparison with literature; no code
+T10_r6_cases,original,,,,unavailable,comparison with literature; no code
+T10_r7_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r7_our,original,,,,unavailable,comparison with literature; no code
+T10_r7_cases,original,,,,unavailable,comparison with literature; no code
+T10_r8_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r8_our,original,,,,unavailable,comparison with literature; no code
+T10_r8_cases,original,,,,unavailable,comparison with literature; no code
+T10_r9_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r9_our,original,,,,unavailable,comparison with literature; no code
+T10_r9_cases,original,,,,unavailable,comparison with literature; no code
+T10_r10_abcc,original,,,,unavailable,comparison with literature; no code
+T10_r10_our,original,,,,unavailable,comparison with literature; no code
+T10_r10_cases,original,,,,unavailable,comparison with literature; no code
+F4_1,original,91.971212767625,,1802,,125*(_cons + eur_early) from l.1667
+F4_2,original,93.168863235375,,1802,,125*(_cons + eur_mid) from l.1667
+F4_3,original,92.7970836985,,1802,,125*(_cons + eur_post) from l.1667
+F4_4,original,24.122120503125,,1802,,125*(_cons + id_early) from l.1667
+F4_5,original,6.074968854000002,,1802,,125*(_cons + id_mid) from l.1667
+F4_6,original,28.837611173124998,,1802,,125*(_cons + in_early) from l.1667
+F4_7,original,16.10952346175,,1802,,125*(_cons + in_mid) from l.1667
+F4_8,original,53.957560054625,,1802,,125*(_cons + _cons) from l.1667
+F4_9,original,65.4987989822,,1802,,125*(_cons + ko_early) from l.1667
+F4_10,original,22.373314561875002,,1802,,125*(_cons + ko_mid) from l.1667
+F4_11,original,47.078664562525,,1802,,125*(_cons + ko_post) from l.1667
+F4_12,original,10.602107031749998,,1802,,125*(_cons + mz_mid) from l.1667
+F4_13,original,45.0082671849,,1802,,125*(_cons + mz_post) from l.1667
+F4_14,original,36.927908566750006,,1802,,125*(_cons + za_mid) from l.1667
+F4_15,original,44.921119568162496,,1802,,125*(_cons + za_post) from l.1667
+F4_16,original,42.2746291288625,,1802,,125*(_cons + otb_early) from l.1667
+F4_17,original,27.82037242575,,1802,,125*(_cons + otb_mid) from l.1667
+F4_18,original,37.003616098625,,1802,,125*(_cons + otb_post) from l.1667
+TXT_p633_a,original,1802,,1802,,e(N) l.1656
+TXT_p636_a,original,,,,unavailable,no surviving code for this number
+TXT_p639_a,original,392,,,,Europeans in est. sample
+TXT_p639_b,original,368,,,,Khoesan in est. sample
+TXT_p639_c,original,1026,,,,"1802 minus Europeans, Khoesan and 16 Chinese"
+TXT_p639_d,original,,,,unavailable,no surviving code for this number
+TXT_p639_e,original,,,,unavailable,no surviving code for this number
+TXT_p639_f,original,,,,unavailable,no surviving code for this number
+TXT_p639_g,original,,,,unavailable,no surviving code for this number
+TXT_p639_h,original,,,,unavailable,no surviving code for this number
+TXT_p640_a,original,,,,unavailable,no surviving code for this number
+TXT_p640_b,original,,,,unavailable,no surviving code for this number
+TXT_p640_c,original,,,,unavailable,no surviving code for this number
+TXT_p640_d,original,,,,unavailable,no surviving code for this number
+TXT_p641_a,original,,,,unavailable,no surviving code for this number
+TXT_p641_b,original,,,,unavailable,no surviving code for this number
+TXT_p641_c,original,,,,unavailable,no surviving code for this number
+TXT_p643_a,original,,,,unavailable,no surviving code for this number
+TXT_p643_b,original,,,,unavailable,no surviving code for this number
+TXT_p644_a,original,,,,unavailable,no surviving code for this number
+TXT_p644_b,original,,,,unavailable,no surviving code for this number
+TXT_p645_a,original,51.383539568749995,5.7930607355875,1802,,T6 European
+TXT_p645_b,original,-20.25619366825,7.8922698227625006,1802,,text says Indians -29; code Indian = -20.26 (SE Asian = -28.63)
+TXT_p645_c,original,-28.63142435775,5.940623411325,1802,,text says SE Asians -20; code SE Asian = -28.63 (Indian = -20.26)
+TXT_p645_d,original,-21.340409757625,6.792067528875,1802,,T6 Mozambican
+TXT_p646_a,original,91.971212767625,,,,min European cohort level (F4)
+TXT_p646_b,original,93.168863235375,,,,max European cohort level (F4)
+TXT_p646_c,original,,,,unavailable,no surviving code for this number
+TXT_p650_a,original,,,,unavailable,no surviving code for this number
+TXT_p650_b,original,,,,unavailable,no surviving code for this number
+TXT_p650_c,original,53.957560054625,,,,T8 constant = Chinese level
+TXT_p650_d,original,10.602107031749998,,,,Mozambique 1750s-80s level (F4_12)
+TXT_p650_e,original,,,,unavailable,no surviving code for this number
+TXT_p650_f,original,,,,unavailable,no surviving code for this number
+TXT_p652_a,original,,,,unavailable,Brazil data G:/a/hb/br300407.dta not recovered (run_E fails r(601)); code comments give 83.6-60.2=23.4

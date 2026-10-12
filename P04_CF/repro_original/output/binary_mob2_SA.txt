@@ -1,0 +1,43 @@
+		(1)
+VARIABLES	LABELS	mobility
+		
+mobility	mobility	
+		
+_Iperiod_2	period==2	1.126*
+		(0.0803)
+_Iperiod_3	period==3	1.235***
+		(0.0934)
+_Iperiod_4	period==4	1.302***
+		(0.0973)
+_Iorigin_2	origin==2	1.014
+		(0.0629)
+_Iorigin_3	origin==3	1.175*
+		(0.105)
+_Iorigin_4	origin==4	1.440***
+		(0.131)
+_Iorigin_5	origin==5	1.351***
+		(0.148)
+_Iorigin_6	origin==6	1.495*
+		(0.325)
+_Iorigin_7	origin==7	0.966
+		(0.0543)
+_If_gen_dad_2	f_gen_dad==2	0.657***
+		(0.0582)
+_Ifirst_son_2	first_son==2	1.032
+		(0.0573)
+_Iprov_2	prov==2	1.043
+		(0.158)
+_Iprov_3	prov==3	1.233***
+		(0.0926)
+_Iprov_4	prov==4	1.019
+		(0.0822)
+_Iprov_5	prov==5	0.813***
+		(0.0446)
+share	share	1.010
+		(0.00644)
+Constant	Constant	0.655***
+		(0.0821)
+		
+Observations		9,494
+seEform in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

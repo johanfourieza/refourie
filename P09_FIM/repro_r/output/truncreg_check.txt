@@ -1,0 +1,1 @@
+max |truncreg - own| coefficient difference (WWI, unweighted): 8.21e-04

@@ -1,0 +1,303 @@
+claim_id,source,value,se,n,status_override,note
+txt_p1_wb_gini,original,,,,unavailable,cited literature value; not computed by the code
+txt_p1_wb_gap,original,,,,unavailable,cited literature value; not computed by the code
+txt_p1_top10,original,,,,unavailable,cited literature value; not computed by the code
+txt_p1_top1,original,,,,unavailable,cited literature value; not computed by the code
+txt_p1_wgini_lo,original,,,,unavailable,cited literature value; not computed by the code
+txt_p1_wgini_hi,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_us_lo,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_us_hi,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_eng_lo,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_eng_hi,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_holland,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_lindert_1688,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_lindert_1759,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_lindert_1801,original,,,,unavailable,cited literature value; not computed by the code
+txt_p2_1731_7pct,original,,,,unavailable,cited literature value; not computed by the code
+txt_p3_districts1825,original,11,,,,districts read
+txt_p3_hh1825,original,10420,,,,as txt_p5_n1825
+txt_p3_sd_share1825,original,13.56089992242048,,,,derived from district_counts (pre-filter rows). The code's own stellenbosch_share (line 2127) returns 0: it tests district=='Stellenbosch' before relabelling
+txt_p3_enslaved1834,original,36417,,,,rows of Slave Emancipation Dataset (text says 'over 37 000')
+txt_p3_enslaved_sd,original,8451,,,,Stellenbosch district rows in SED
+txt_p4_mooc10_vols,original,,,,unavailable,"not computed by the surviving code (source description, constant or interpretive bound)"
+txt_p4_nobs,original,142274,,,,rows after outlier removal; raw rows with year = 142293
+txt_p4_ncensus,original,143,,,,distinct census years 1685-1844
+txt_p4_hh_first,original,218.7,,,,"mean rows per year, first 10 census years (line 1001)"
+txt_p4_hh_last,original,1442.5,,,,"mean rows per year, last 10 census years"
+txt_p4_hh_avg,original,994.9230769230769,,,,"mean rows per year, all census years"
+txt_p4_min_asset_gini,original,0.6164792527125645,,,,lower bound claim: min annual Gini over six assets (all years)
+txt_p4_tv_lo,original,0.6577082115559318,,,,"min of decade total-value Gini, periods 1700-1790"
+txt_p4_tv_hi,original,0.7478258596067908,,,,"max of decade total-value Gini, periods 1700-1790"
+txt_p4_ox_price,original,,,,unavailable,"not computed by the surviving code (source description, constant or interpretive bound)"
+txt_p4_top1_avg,original,11.736553476695672,,,,"mean over decades of top-1% share, pre-slave state; linear-run state (12-sheep slave households) = 24.6"
+txt_p4_top1_1800,original,13.593385125380857,,,,"mean top-1% share, periods 1800-1830, pre-slave state"
+txt_p4_top01_18c,original,2.0234050759982667,,,,"mean top-0.1% share, periods 1690-1790"
+txt_p4_top001_18c,original,0.5227204234041746,,,,"mean top-0.01% share, periods 1690-1790"
+txt_p4_top01_19c,original,2.5979038611064484,,,,"mean top-0.1% share, periods 1800-1830"
+txt_p4_top001_19c,original,0.5334020947663508,,,,"mean top-0.01% share, periods 1800-1830"
+txt_p4_slavemen_gini,original,0.7210188818901396,,,,min annual Gini of slave_men (line 708)
+txt_p5_slave_income,original,,,,unavailable,"not computed by the surviving code (source description, constant or interpretive bound)"
+txt_p5_interest,original,,,,unavailable,"not computed by the surviving code (source description, constant or interpretive bound)"
+txt_p5_slave_value,original,200,,,,"hard-coded constant, line 1179"
+txt_p5_zero_gini,original,0.9746133835483552,,,,"zero-asset scenario, period 1780 (1760: 0.968, 1800: 0.972); settlers-only 1780 = 0.915"
+txt_p5_12sheep_lo,original,0.9614989781112632,,,,"12-sheep scenario, min over periods 1760-1800"
+txt_p5_12sheep_hi,original,0.968003892797933,,,,"12-sheep scenario, max over periods 1760-1800"
+txt_p5_n1825,original,10420,,,,rows with settler_men==1 | settler_women==1 (line 2138); after wheat_sown<=100 filter used for Fig 3: 10417
+txt_p5_district_min,original,0.51315991689888385,,,,min district Gini excl. Albany wine (Cradock Oxen)
+txt_p5_wine_min,original,0.8505422805534884,,,,min wine Gini
+txt_p5_nprobates,original,4423,,,,probates with 1700<=year<=1839
+txt_p5_probate_min,original,0.666679053109528,,,,"min probate Gini, all assets/periods"
+txt_p5_probate_min1770,original,0.7018995961303653,,,,min probate Gini from 1770
+txt_p6_nslave,original,36417,,,,rows of Slave Emancipation Dataset
+txt_p6_val_lo,original,0.29053675655544653,,,,"owners only, min valuation Gini (Somerset 0.2905, Uitenhage 0.2911)"
+txt_p6_val_hi,original,0.47285380607175226,,,,"owners only, max valuation Gini (Worcester)"
+txt_p6_comp_lo,original,0.44606997640983553,,,,Somerset; overall min of 11 districts = 0.440 (Beaufort)
+txt_p6_comp_hi,original,0.5493859891715178,,,,max compensation Gini (Cape)
+txt_p6_owner_share,original,30,,,,hard-coded constant 30% (line 3041)
+txt_p6_nonowners,original,13033,,,,zero-asset settlers added = ceiling(owners*100/30) - owners per district
+txt_p6_valall_lo,original,0.4912464586932787,,,,"incl. non-owners, min valuation (Stellenbosch)"
+txt_p6_valall_hi,original,0.7470106696842411,,,,"incl. non-owners, max valuation (Beaufort)"
+txt_p7_compall_lo,original,0.8279527133792991,,,,"incl. non-owners, min compensation over the 9 plotted districts (Somerset)"
+txt_p7_compall_hi,original,0.923503947971968,,,,"incl. non-owners, max compensation (Cape)"
+txt_p7_beth_hh,original,611,,,,nrow of EBTstation 'Bethelsdorp1825' sheet
+txt_p7_swart_hh,original,364,,,,nrow Swartrivier
+txt_p7_groen_hh,original,108,,,,nrow Groenekloof
+txt_p8_beth_cattle,original,0.7184569714580477,,,,
+txt_p8_khoe_min,original,0.7525682616923492,,,,min of other Khoe-settlement Ginis (Groenekloof horses)
+txt_p8_beth_sheep,original,10,,,,households with sheep_breeding>0
+txt_p8_groen_sheep,original,1,,,,households with sheep>0
+txt_p8_comb_cattle,original,0.9164103642076382,,,,"'combined' Swellendam Gini: settler rows = 0 (filter district=='district_sw' after relabelling), Khoe rows = 472"
+txt_p8_comb_other,original,0.7725573280159521,,,,min of horses/oxen/wheat_sown 'combined' Ginis (Khoe rows only)
+txt_p8_alvaredo,original,,,,unavailable,cited literature value; not computed by the code
+txt_p8_concl_gini,original,,,,unavailable,"not computed by the surviving code (source description, constant or interpretive bound)"
+F1_totval_1690,original,0.7359368976239211,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1700,original,0.7478258596067908,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1720,original,0.6970843027326906,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1730,original,0.6577082115559318,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1740,original,0.6869188333907411,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1750,original,0.7039503359868987,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1760,original,0.7340926715962104,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1770,original,0.7099932507981457,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1780,original,0.7269497157492261,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1790,original,0.7271667623982809,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1800,original,0.739489800545031,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1810,original,0.8032616294321085,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1820,original,0.8285842462178445,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_totval_1830,original,0.8238481706525499,,,,"Fig 1 total value (5-good price-weighted basket, decade), pre-slave state per '##Run until before slaves'"
+F1_min_asset,original,0.6164792527125645,,,,min annual asset Gini: cattle 1729
+F2_settlers_1680,original,0.7273336710723044,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1700,original,0.7683208991991733,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1720,original,0.8372653277400307,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1740,original,0.8835037868022004,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1760,original,0.9033211049353669,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1780,original,0.9146923466489927,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1800,original,0.8903345154436113,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_settlers_1820,original,0.8775244935075833,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1680,original,0.725975735595864,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1700,original,0.7643824724545084,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1720,original,0.8101144838263965,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1740,original,0.8586705735125966,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1760,original,0.879459608216802,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1780,original,0.8835562117602344,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1800,original,0.862124757008332,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_slaveassets_1820,original,0.8670515766310856,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1680,original,0.8426976828339263,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1700,original,0.9014350478497443,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1720,original,0.9519970423737748,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1740,original,0.9579740844802107,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1760,original,0.9677921384719947,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1780,original,0.9746133835483552,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1800,original,0.9715626646329472,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_zero_1820,original,0.9604842783329106,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1680,original,0.8406950262671393,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1700,original,0.8975169782194141,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1720,original,0.941649971589691,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1740,original,0.9505317345327117,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1760,original,0.9614989781112632,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1780,original,0.968003892797933,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1800,original,0.9671818796696644,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F2_sheep12_1820,original,0.9588370817826241,,,,Fig 2 two-decade period; total_value = unweighted sum of raw quantities
+F3_cattle_albany,original,0.6405719381963909,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_beaufort,original,0.7650953544402873,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_cape,original,0.8656537099432419,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_clanwilliam,original,0.6707560120398741,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_cradock,original,0.5918100217434924,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_george,original,0.6801109121727458,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_graaffreinet,original,0.701540665911325,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_stellenbosch,original,0.8866894271583364,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_swellendam,original,0.8202184112532593,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_uitenhage,original,0.626690409646251,,,,Fig 3 'Cattle' = cattle_breeding
+F3_cattle_worcester,original,0.7520731772716989,,,,Fig 3 'Cattle' = cattle_breeding
+F3_horses_albany,original,0.6425729065999658,,,,
+F3_horses_beaufort,original,0.6681467744008129,,,,
+F3_horses_cape,original,0.8152235089811589,,,,
+F3_horses_clanwilliam,original,0.6402200382029113,,,,
+F3_horses_cradock,original,0.5293431066705514,,,,
+F3_horses_george,original,0.627558861456029,,,,
+F3_horses_graaffreinet,original,0.6389161190780158,,,,
+F3_horses_stellenbosch,original,0.757050671540057,,,,
+F3_horses_swellendam,original,0.6956888459252198,,,,
+F3_horses_uitenhage,original,0.6563668190216864,,,,
+F3_horses_worcester,original,0.65998651863105,,,,
+F3_oxen_albany,original,0.5385816896591039,,,,
+F3_oxen_beaufort,original,0.541129394266911,,,,
+F3_oxen_cape,original,0.8116104032276448,,,,
+F3_oxen_clanwilliam,original,0.5733014955385196,,,,
+F3_oxen_cradock,original,0.51315991689888385,,,,
+F3_oxen_george,original,0.5461192733244112,,,,
+F3_oxen_graaffreinet,original,0.5419395137055487,,,,
+F3_oxen_stellenbosch,original,0.7824192527813538,,,,
+F3_oxen_swellendam,original,0.6542564744643863,,,,
+F3_oxen_uitenhage,original,0.5992509049661804,,,,
+F3_oxen_worcester,original,0.6223274703794563,,,,
+F3_sheep_albany,original,0.7785678755985772,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_beaufort,original,0.7214047148685202,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_cape,original,0.9427884936179382,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_clanwilliam,original,0.7483823575832936,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_cradock,original,0.6106708450091777,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_george,original,0.8616862285816126,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_graaffreinet,original,0.6733459018601926,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_stellenbosch,original,0.95380415686588,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_swellendam,original,0.8505073463790704,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_uitenhage,original,0.8089865177915492,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_sheep_worcester,original,0.8187768007240154,,,,Fig 3 'Sheep' = sheep_breeding only
+F3_wheat_albany,original,0.8666322647986722,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_beaufort,original,0.9384956483470775,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_cape,original,0.8790794189775513,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_clanwilliam,original,0.8073128969466469,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_cradock,original,0.8107089563340664,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_george,original,0.7096677045248809,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_graaffreinet,original,0.9140192861086126,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_stellenbosch,original,0.901857573982399,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_swellendam,original,0.7664495514254915,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_uitenhage,original,0.7963353876812932,,,,Fig 3 'Wheat' = wheat_sown
+F3_wheat_worcester,original,0.7750657229881137,,,,Fig 3 'Wheat' = wheat_sown
+F3_wine_beaufort,original,0.9870569397069846,,,,
+F3_wine_cape,original,0.9978698882864089,,,,
+F3_wine_clanwilliam,original,0.9873776245305093,,,,
+F3_wine_cradock,original,0.9901368507054645,,,,
+F3_wine_george,original,0.9225939666269558,,,,
+F3_wine_graaffreinet,original,0.9796465721366907,,,,
+F3_wine_stellenbosch,original,0.8589731208755833,,,,
+F3_wine_swellendam,original,0.9534907194740591,,,,
+F3_wine_uitenhage,original,0.9819201850780798,,,,
+F3_wine_worcester,original,0.8505422805534884,,,,
+F4_cattle_1700,original,0.912167606768735,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1710,original,0.9560758082497212,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1720,original,0.9505494505494505,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1730,original,0.9405864197530864,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1740,original,0.9346166611350814,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1750,original,0.961764705882353,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1760,original,0.9606041535556955,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1770,original,0.952564856015448,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1780,original,0.8985219326128416,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1790,original,0.9044953427656106,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1800,original,0.9129586531319636,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1810,original,0.9377147862806314,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1820,original,0.9825580097452078,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_cattle_1830,original,0.9713470785701324,,,,value of the line the code's legend labels 'cattle' = horses_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1700,original,0.7340968865791374,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1710,original,0.7822403662896258,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1720,original,0.8131554341079649,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1730,original,0.7589637552332165,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1740,original,0.666679053109528,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1750,original,0.8045082771707127,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1760,original,0.7619288944747743,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1770,original,0.7391870842419689,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1780,original,0.8346046547307625,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1790,original,0.8086390306088074,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1800,original,0.7578679585221147,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1810,original,0.7885124716039648,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1820,original,0.7828515712487687,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_horses_1830,original,0.7691611234294161,,,,value of the line the code's legend labels 'horses' = cattle_gini (LABEL SWAP: variable and legend disagree)
+F4_sheep_1700,original,0.7288974244105418,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1710,original,0.8151295689843198,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1720,original,0.8154159867105645,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1730,original,0.7529290023204497,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1740,original,0.6727874907151316,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1750,original,0.8108996539792389,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1760,original,0.7596419440383841,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1770,original,0.7494966204507085,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1780,original,0.8142510323134309,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1790,original,0.8534340114910709,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1800,original,0.9170826437542419,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1810,original,0.9214617452216394,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1820,original,0.8939863289467336,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_sheep_1830,original,0.8686962756706134,,,,value of the line the code's legend labels 'sheep' = sheep_gini
+F4_ploughs_1700,original,0.8065753424657534,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1710,original,0.7944858009374139,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1720,original,0.8712606837606839,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1730,original,0.9042604696199468,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1740,original,0.7818590031432421,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1750,original,0.875506268081003,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1760,original,0.921687319747726,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1770,original,0.8815950717053622,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1780,original,0.9001230251230251,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1790,original,0.9199304028101508,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1800,original,0.8783770007136302,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1810,original,0.8860520817408142,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1820,original,0.9191832597361285,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_ploughs_1830,original,0.9377705627705627,,,,value of the line the code's legend labels 'ploughs' = plough_gini
+F4_wagons_1700,original,0.8161499639509732,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1710,original,0.8034468263976461,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1720,original,0.7991613649508386,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1730,original,0.7315879097488294,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1740,original,0.743485127665175,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1750,original,0.8203324808184144,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1760,original,0.6866579076177963,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1770,original,0.9654188775551408,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1780,original,0.7018995961303653,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1790,original,0.7968765291563437,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1800,original,0.7957650998007522,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1810,original,0.7272444908560258,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1820,original,0.9232200770889579,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F4_wagons_1830,original,0.9757849766127914,,,,value of the line the code's legend labels 'wagons' = wagon_gini
+F5_owners_val_cape,original,0.3375952056661102,,,,
+F5_owners_comp_cape,original,0.5493859891715178,,,,
+F5_owners_val_stellenbosch,original,0.3617609447342726,,,,
+F5_owners_comp_stellenbosch,original,0.5318584609945974,,,,
+F5_owners_val_worcester,original,0.47285380607175226,,,,
+F5_owners_comp_worcester,original,0.5286649476048082,,,,
+F5_owners_val_uitenhage,original,0.29109382489198793,,,,
+F5_owners_comp_uitenhage,original,0.5016958204169414,,,,
+F5_owners_val_somerset,original,0.29053675655544653,,,,
+F5_owners_comp_somerset,original,0.44606997640983553,,,,
+F5_owners_val_albany,original,0.34424773658105684,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_comp_albany,original,0.4543902375694325,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_val_graaffreinet,original,0.3361644838573547,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_comp_graaffreinet,original,0.45175729918084384,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_val_george,original,0.3883792140200407,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_comp_george,original,0.4789500859182234,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_val_beaufort,original,0.401417697705733,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_owners_comp_beaufort,original,0.43984184127660036,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_val_cape,original,0.646513433016563,,,,
+F5_all_comp_cape,original,0.923503947971968,,,,
+F5_all_val_beaufort,original,0.7470106696842411,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_comp_beaufort,original,0.8768617840737353,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_val_worcester,original,0.6809882338722473,,,,
+F5_all_comp_worcester,original,0.8586332233689439,,,,
+F5_all_val_uitenhage,original,0.5398117541247991,,,,
+F5_all_comp_uitenhage,original,0.8557540532785884,,,,
+F5_all_val_stellenbosch,original,0.4912464586932787,,,,
+F5_all_comp_stellenbosch,original,0.8538748953393541,,,,
+F5_all_val_albany,original,0.6356931869894756,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_comp_albany,original,0.8493077799001293,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_val_graaffreinet,original,0.5676373919251606,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_comp_graaffreinet,original,0.8395795640242053,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_val_george,original,0.5520906159347857,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_comp_george,original,0.8436850257754669,,,,district labels ambiguous in printed figure (see claims_spec e.8)
+F5_all_val_somerset,original,0.5333371255271084,,,,
+F5_all_comp_somerset,original,0.8279527133792991,,,,
+F6_cattle_bethelsdorp,original,0.7184569714580477,,,,
+F6_cattle_groenekloof,original,0.7729408512990603,,,,
+F6_cattle_swartrivier,original,0.9558289536550405,,,,
+F6_horses_bethelsdorp,original,0.8506106041436736,,,,
+F6_horses_groenekloof,original,0.7525682616923492,,,,
+F6_horses_swartrivier,original,0.7707882668512589,,,,
+F6_oxen_bethelsdorp,original,0.8257952935675088,,,,
+F6_oxen_groenekloof,original,0.800117031529671,,,,
+F6_oxen_swartrivier,original,0.918858463940431,,,,
+F6_sheep_bethelsdorp,original,0.9933279528229995,,,,
+F6_sheep_groenekloof,original,0.9907407407407407,,,,
+F6_wheat_groenekloof,original,0.7782122298251332,,,,
+F6_wheat_swartrivier,original,0.8635126252161363,,,,

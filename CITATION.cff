@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "ReFourie: code and data for an AI-assisted re-examination of thirty papers"
+authors:
+  - family-names: Fourie
+    given-names: Johan
+    affiliation: Stellenbosch University
+date-released: 2026-10-12
+url: "https://www.johanfourie.com/research/refourie.html"
+repository-code: "https://github.com/johanfourieza/refourie"
+license: MIT

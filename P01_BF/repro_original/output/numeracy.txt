@@ -1,0 +1,47 @@
+	(1)
+VARIABLES	numerate
+	
+female2	-0.0202
+	(0.0339)
+age23	0.0227
+	(0.0230)
+eur_early	0.304**
+	(0.130)
+eur_mid	0.314**
+	(0.130)
+eur_post	0.311**
+	(0.139)
+id_early	-0.239*
+	(0.134)
+id_mid	-0.383***
+	(0.129)
+in_early	-0.201
+	(0.142)
+in_mid	-0.303**
+	(0.141)
+ko_early	0.0923
+	(0.157)
+ko_mid	-0.253**
+	(0.128)
+ko_post	-0.0550
+	(0.132)
+mz_mid	-0.347***
+	(0.131)
+mz_post	-0.0716
+	(0.156)
+otb_early	-0.0935
+	(0.128)
+otb_mid	-0.209
+	(0.130)
+otb_post	-0.136
+	(0.137)
+za_mid	-0.136
+	(0.136)
+za_post	-0.0723
+	(0.142)
+Constant	0.432***
+	(0.125)
+	
+Observations	1,802
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

@@ -1,0 +1,37 @@
+year,item,value
+1700,n,438
+1700,k = n/10,43.8
+1700,cut-point c (slaves),6
+1700,records tied at c,6
+1700,weight per tied record,0.13333333333333405
+1700,records with tslaves > c,43
+1700,zero-slave records,281
+1700,hearth uncertain set |U_t|,36
+1700,records ds=1,184
+1700,top_weight ds=1,31.400000000000002
+1700,records ds=2,128
+1700,top_weight ds=2,11.266666666666667
+1700,records ds=3,126
+1700,top_weight ds=3,1.133333333333334
+1700,records ds=4,0
+1700,top_weight ds=4,0
+1700,records ds=missing,0
+1700,top_weight ds=missing,0
+1773,n,2702
+1773,k = n/10,270.2
+1773,cut-point c (slaves),10
+1773,records tied at c,38
+1773,weight per tied record,0.057894736842104964
+1773,records with tslaves > c,268
+1773,zero-slave records,1563
+1773,hearth uncertain set |U_t|,430
+1773,records ds=1,1073
+1773,top_weight ds=1,140.2157894736842
+1773,records ds=2,300
+1773,top_weight ds=2,36.11578947368421
+1773,records ds=3,814
+1773,top_weight ds=3,81.69473684210526
+1773,records ds=4,503
+1773,top_weight ds=4,11.173684210526314
+1773,records ds=missing,12
+1773,top_weight ds=missing,1

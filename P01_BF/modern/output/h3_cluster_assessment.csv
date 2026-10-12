@@ -1,0 +1,10 @@
+item,text
+G (volumes with Khoesan cohorts 1-2),34
+cluster size min/median/max,1/5.5/20
+volumes with early-cohort Khoesan,8
+largest volume share of the 28 early,0.250
+volumes with both cohorts,2
+volumes with one cohort only,32
+nesting (cyear per source max; source per cyear max),crossed (3; 2)
+"G* (CSS 2017), rho = 0",8.24
+"G* (CSS 2017), rho = 1",7.24

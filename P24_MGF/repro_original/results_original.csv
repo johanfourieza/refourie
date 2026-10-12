@@ -1,0 +1,257 @@
+claim_id,source,value,se,n,status_override,note
+T1_blacks_1936_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1936_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1936_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1946_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1946_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1946_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1960_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1960_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1960_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1970_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1970_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1970_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1996_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1996_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_blacks_1996_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1946_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1946_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1946_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1960_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1960_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1960_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1970_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1970_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1970_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1996_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1996_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_coloureds_1996_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1936_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1936_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1936_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1946_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1946_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1946_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1960_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1960_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1960_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1970_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1970_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1970_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1996_rural_pop,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1996_rural_sr,original,,,,unavailable,no original code or tabulation survives
+T1_whites_1996_urban_sr,original,,,,unavailable,no original code or tabulation survives
+T2_white_1926,original,,,,unavailable,no original code or tabulation survives
+T2_nonwhite_1926,original,,,,unavailable,no original code or tabulation survives
+T2_coloured_1946,original,,,,unavailable,no original code or tabulation survives
+T2_white_1946,original,,,,unavailable,no original code or tabulation survives
+T2_black_1989,original,,,,unavailable,no original code or tabulation survives
+T2_coloured_1989,original,,,,unavailable,no original code or tabulation survives
+T2_white_1989,original,,,,unavailable,no original code or tabulation survives
+T2_n_black,original,,,,unavailable,no original code or tabulation survives
+T2_n_coloured,original,,,,unavailable,no original code or tabulation survives
+T2_n_white,original,,,,unavailable,no original code or tabulation survives
+T2_n_nonwhite,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1955,original,,,,unavailable,no original code or tabulation survives
+T3_white_1955,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1960,original,,,,unavailable,no original code or tabulation survives
+T3_white_1960,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1965,original,,,,unavailable,no original code or tabulation survives
+T3_white_1965,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1970,original,,,,unavailable,no original code or tabulation survives
+T3_white_1970,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1975,original,,,,unavailable,no original code or tabulation survives
+T3_white_1975,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1980,original,,,,unavailable,no original code or tabulation survives
+T3_white_1980,original,,,,unavailable,no original code or tabulation survives
+T3_coloured_1985,original,,,,unavailable,no original code or tabulation survives
+T3_white_1985,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1955_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1955_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1955_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1955_diff,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1965_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1965_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1965_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1965_diff,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1975_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1975_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1975_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1975_diff,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1985_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1985_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1985_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_coloured_1985_diff,original,,,,unavailable,no original code or tabulation survives
+T4_white_1955_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_white_1955_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_white_1955_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_white_1955_diff,original,,,,unavailable,no original code or tabulation survives
+T4_white_1965_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_white_1965_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_white_1965_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_white_1965_diff,original,,,,unavailable,no original code or tabulation survives
+T4_white_1975_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_white_1975_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_white_1975_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_white_1975_diff,original,,,,unavailable,no original code or tabulation survives
+T4_white_1985_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_white_1985_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_white_1985_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_white_1985_diff,original,,,,unavailable,no original code or tabulation survives
+T4_black_1980_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_black_1980_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_black_1980_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_black_1980_diff,original,,,,unavailable,no original code or tabulation survives
+T4_black_1985_sr_birth,original,,,,unavailable,no original code or tabulation survives
+T4_black_1985_sr_death,original,,,,unavailable,no original code or tabulation survives
+T4_black_1985_sr_04,original,,,,unavailable,no original code or tabulation survives
+T4_black_1985_diff,original,,,,unavailable,no original code or tabulation survives
+T5_black_0-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_black_0-4years_n,original,,,,unavailable,no original code or tabulation survives
+T5_black_0-5months_sr,original,,,,unavailable,no original code or tabulation survives
+T5_black_0-5months_n,original,,,,unavailable,no original code or tabulation survives
+T5_black_6months-1p5years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_black_6months-1p5years_n,original,,,,unavailable,no original code or tabulation survives
+T5_black_1p5-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_black_1p5-4years_n,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_0-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_0-4years_n,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_0-5months_sr,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_0-5months_n,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_6months-1p5years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_6months-1p5years_n,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_1p5-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_coloured_1p5-4years_n,original,,,,unavailable,no original code or tabulation survives
+T5_white_0-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_white_0-4years_n,original,,,,unavailable,no original code or tabulation survives
+T5_white_0-5months_sr,original,,,,unavailable,no original code or tabulation survives
+T5_white_0-5months_n,original,,,,unavailable,no original code or tabulation survives
+T5_white_6months-1p5years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_white_6months-1p5years_n,original,,,,unavailable,no original code or tabulation survives
+T5_white_1p5-4years_sr,original,,,,unavailable,no original code or tabulation survives
+T5_white_1p5-4years_n,original,,,,unavailable,no original code or tabulation survives
+T6_black_1983_av,original,,,,unavailable,no original code or tabulation survives
+T6_black_1985_av,original,,,,unavailable,no original code or tabulation survives
+T6_black_1986_av,original,,,,unavailable,no original code or tabulation survives
+T6_black_1984_low,original,,,,unavailable,no original code or tabulation survives
+T6_black_1989_90_low,original,,,,unavailable,no original code or tabulation survives
+T6_black_1990_91_low,original,,,,unavailable,no original code or tabulation survives
+T6_black_1979_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1986_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1987_88_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1988_89_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1989_90_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1990_91_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1991_92_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1992_93_still,original,,,,unavailable,no original code or tabulation survives
+T6_black_1993_94_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1983_av,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1985_av,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1986_av,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1984_low,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1989_90_low,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1990_91_low,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1979_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1986_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1987_88_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1988_89_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1989_90_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1990_91_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1991_92_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1992_93_still,original,,,,unavailable,no original code or tabulation survives
+T6_coloured_1993_94_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1983_av,original,,,,unavailable,no original code or tabulation survives
+T6_white_1985_av,original,,,,unavailable,no original code or tabulation survives
+T6_white_1986_av,original,,,,unavailable,no original code or tabulation survives
+T6_white_1984_low,original,,,,unavailable,no original code or tabulation survives
+T6_white_1989_90_low,original,,,,unavailable,no original code or tabulation survives
+T6_white_1990_91_low,original,,,,unavailable,no original code or tabulation survives
+T6_white_1979_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1986_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1987_88_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1988_89_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1989_90_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1990_91_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1991_92_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1992_93_still,original,,,,unavailable,no original code or tabulation survives
+T6_white_1993_94_still,original,,,,unavailable,no original code or tabulation survives
+TX_p130_black_1921_u1,original,89.17,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1921*, black (under-one)"
+TX_p130_black_1921_est_a,original,,,,unavailable,no original code or tabulation survives
+TX_p130_black_1921_est_b,original,,,,unavailable,no original code or tabulation survives
+TX_p130_adj_1911,original,,,,unavailable,no original code or tabulation survives
+TX_p130_adj_1936,original,,,,unavailable,no original code or tabulation survives
+TX_p130_cohort_1951,original,,,,unavailable,no original code or tabulation survives
+TX_p130_cohort_1960,original,,,,unavailable,no original code or tabulation survives
+TX_p130_cohort_gain,original,,,,unavailable,no original code or tabulation survives
+TX_p129_intro_birth_sr,original,,,,unavailable,no original code or tabulation survives
+TX_p129_u5_sr_close_to_90,original,,,,unavailable,no original code or tabulation survives
+TX_p130_u5_below_91,original,,,,unavailable,no original code or tabulation survives
+TX_p133_rural_black_1936,original,,,,unavailable,no original code or tabulation survives
+TX_p133_rural_white_1996,original,,,,unavailable,no original code or tabulation survives
+TX_p136_imr_black,original,,,,unavailable,no original code or tabulation survives
+TX_p136_imr_coloured,original,,,,unavailable,no original code or tabulation survives
+TX_p136_imr_white,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1989,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1990,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1991,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1992,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1993,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1994,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1995,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1996,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_1997,original,,,,unavailable,no original code or tabulation survives
+TX_p137_dhs_mean,original,,,,unavailable,no original code or tabulation survives
+TX_p137_u1_1991,original,,,,unavailable,no original code or tabulation survives
+TX_p137_u1_1996,original,,,,unavailable,no original code or tabulation survives
+TX_p137_u1_2001,original,,,,unavailable,no original code or tabulation survives
+TX_p137_certs,original,,,,unavailable,no original code or tabulation survives
+TX_p138_black_gt101,original,,,,unavailable,no original code or tabulation survives
+TX_p138_white_92,original,,,,unavailable,no original code or tabulation survives
+TX_p138_white_fall,original,,,,unavailable,no original code or tabulation survives
+TX_p138_black_fall,original,,,,unavailable,no original code or tabulation survives
+TX_p138_coloured_fall,original,,,,unavailable,no original code or tabulation survives
+TX_p141_poly_1911,original,,,,unavailable,no original code or tabulation survives
+TX_p141_mm_1911,original,,,,unavailable,no original code or tabulation survives
+TX_p141_poly_1921,original,,,,unavailable,no original code or tabulation survives
+TX_p141_mm_1921,original,,,,unavailable,no original code or tabulation survives
+TX_p141_poly_1998,original,,,,unavailable,no original code or tabulation survives
+TX_p142_zambia_twins,original,,,,unavailable,no original code or tabulation survives
+F1_black_1894,original,94.5,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1894, black"
+F1_black_1904,original,94.6,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1904, black"
+F1_black_1911,original,92.9,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1911, black"
+F1_black_1921,original,89.17,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1921, black"
+F1_black_1936,original,91.45,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1936, black"
+F1_black_1946,original,95.1,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1946, black"
+F1_black_1951,original,96.11,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1951, black"
+F1_black_1960,original,96.59,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1960, black"
+F1_black_1970,original,98.76,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1970, black"
+F1_black_1980,original,101.05,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1980, black"
+F1_black_1991,original,101.38,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1991, black"
+F1_black_2001,original,99.56,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2001, black"
+F1_black_2011,original,101.42,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2011, black"
+F1_coloured_1894,original,99.59,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1894, coloured"
+F1_coloured_1904,original,99.49,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1904, coloured"
+F1_coloured_1911,original,98.73,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1911, coloured"
+F1_coloured_1921,original,99.91,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1921, coloured"
+F1_coloured_1936,original,99.12,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1936, coloured"
+F1_coloured_1946,original,99.28,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1946, coloured"
+F1_coloured_1951,original,99.88,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1951, coloured"
+F1_coloured_1960,original,100.06,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1960, coloured"
+F1_coloured_1970,original,98.81,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1970, coloured"
+F1_coloured_1980,original,99.48,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1980, coloured"
+F1_coloured_1991,original,100.94,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1991, coloured"
+F1_coloured_2001,original,100.68,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2001, coloured"
+F1_coloured_2011,original,102.57,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2011, coloured"
+F1_white_1894,original,101.89,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1894, white"
+F1_white_1904,original,101.72,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1904, white"
+F1_white_1911,original,103.17,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1911, white"
+F1_white_1921,original,104.47,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1921, white"
+F1_white_1936,original,103.62,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1936, white"
+F1_white_1946,original,103.39,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1946, white"
+F1_white_1951,original,103.92,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1951, white"
+F1_white_1960,original,103.06,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1960, white"
+F1_white_1970,original,103.86,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1970, white"
+F1_white_1980,original,103.41,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1980, white"
+F1_white_1991,original,104.86,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 1991, white"
+F1_white_2001,original,103.23,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2001, white"
+F1_white_2011,original,105.61,,,,"Supplementary DATA POPULATION PDF, SEX RATIO column, row 2011, white"

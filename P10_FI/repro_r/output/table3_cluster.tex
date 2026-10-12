@@ -1,0 +1,68 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Interracial marriages in Cape Town, 1911--1964 (R recreation; parish-clustered SEs)},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]Q[]},
+hline{2}={1-5}{solid, black, 0.05em},
+hline{46}={1-5}{solid, black, 0.05em},
+hline{1}={1-5}{solid, black, 0.08em},
+hline{52}={1-5}{solid, black, 0.08em},
+column{2-5}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& (1) Logit & (2) OLS & (3) OLS & (4) OLS \\
+White male & \num{6.2113}*** & \num{0.6374}*** & \num{0.6530}*** & \num{0.6405}*** \\
+& (\num{0.3204}) & (\num{0.0343}) & (\num{0.0568}) & (\num{0.0718}) \\
+Black male & \num{8.7047}*** & \num{0.9135}*** & \num{0.8894}*** & \num{0.9955}*** \\
+& (\num{0.9935}) & (\num{0.0517}) & (\num{0.0694}) & (\num{0.0019}) \\
+White female & \num{-5.3358}*** & \num{-0.6252}*** & \num{-0.6441}*** & \num{-0.6252}*** \\
+& (\num{0.3676}) & (\num{0.0349}) & (\num{0.0556}) & (\num{0.0723}) \\
+Black female & \num{-7.2874}*** & \num{-0.8858}*** & \num{-0.9153}*** & \num{-0.9943}*** \\
+& (\num{0.9370}) & (\num{0.0330}) & (\num{0.0238}) & (\num{0.0017}) \\
+Male age & \num{0.0189}*** & \num{0.0004}*** & \num{0.0003}*** & \num{0.0001} \\
+& (\num{0.0071}) & (\num{0.0001}) & (\num{0.0001}) & (\num{0.0003}) \\
+Female age & \num{0.0120} & \num{0.0001} & \num{0.0001} & \num{0.0000} \\
+& (\num{0.0085}) & (\num{0.0002}) & (\num{0.0002}) & (\num{0.0002}) \\
+Act & \num{-0.6617}* & \num{0.0044} & \num{-0.0050}*** & \num{-0.0042}** \\
+& (\num{0.3438}) & (\num{0.0031}) & (\num{0.0019}) & (\num{0.0020}) \\
+Sex ratio &  &  & \num{0.0100}*** & \num{-0.0004} \\
+&  &  & (\num{0.0031}) & (\num{0.0007}) \\
+Segregation & \num{-2.3410}*** & \num{-0.0329}*** & \num{-0.0180}*** & \num{-0.0217}*** \\
+& (\num{0.6471}) & (\num{0.0111}) & (\num{0.0067}) & (\num{0.0063}) \\
+Literacy gap & \num{-0.0815} & \num{-0.0013} & \num{-0.0014} & \num{-0.0029}*** \\
+& (\num{0.1281}) & (\num{0.0019}) & (\num{0.0017}) & (\num{0.0010}) \\
+Widower &  & \num{-0.0005} & \num{-0.0000} & \num{0.0042} \\
+&  & (\num{0.0039}) & (\num{0.0038}) & (\num{0.0037}) \\
+Male divorcee &  & \num{-0.0601} & \num{-0.0768} & \num{-0.1306} \\
+&  & (\num{0.0533}) & (\num{0.0718}) & (\num{0.1226}) \\
+Widow &  & \num{0.0040} & \num{0.0055} & \num{0.0150}* \\
+&  & (\num{0.0035}) & (\num{0.0046}) & (\num{0.0078}) \\
+Female divorcee &  & \num{0.1474} & \num{0.1966} & \num{0.3747} \\
+&  & (\num{0.1547}) & (\num{0.2008}) & (\num{0.3399}) \\
+Foreign-born male &  &  & \num{0.0042} & \num{-0.0014} \\
+&  &  & (\num{0.0050}) & (\num{0.0009}) \\
+Foreign-born female &  &  & \num{-0.0046} & \num{-0.0040}*** \\
+&  &  & (\num{0.0033}) & (\num{0.0015}) \\
+Male manager &  &  &  & \num{-0.0024}* \\
+&  &  &  & (\num{0.0013}) \\
+Male sales &  &  &  & \num{-0.0018} \\
+&  &  &  & (\num{0.0017}) \\
+Female manager &  &  &  & \num{-0.0072}*** \\
+&  &  &  & (\num{0.0025}) \\
+Female sales &  &  &  & \num{-0.0015} \\
+&  &  &  & (\num{0.0012}) \\
+Year & \num{-0.0322}*** & \num{-0.0005}*** & \num{0.0001} & \num{0.0001} \\
+& (\num{0.0078}) & (\num{0.0002}) & (\num{0.0001}) & (\num{0.0001}) \\
+Constant & \num{58.3219}*** & \num{1.0241}*** & \num{-0.1142} & \num{-0.1036} \\
+& (\num{14.9087}) & (\num{0.3006}) & (\num{0.2430}) & (\num{0.1790}) \\
+Observations & \num{33932} & \num{33918} & \num{26276} & \num{15928} \\
+R-squared &  & \num{0.580} & \num{0.640} & \num{0.686} \\
+Adjusted R-sq &  & \num{0.579} & \num{0.639} & \num{0.684} \\
+AIC & \num{2546.166} & \num{-65434.469} & \num{-62782.150} & \num{-45195.509} \\
+Month dummies & Yes & Yes & Yes & Yes \\
+Parish dummies & Yes & Yes & Yes & Yes \\
+\end{talltblr}
+\end{table}

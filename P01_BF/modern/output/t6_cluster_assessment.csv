@@ -1,0 +1,11 @@
+item,value,text
+G (court volumes),43,NA
+cluster size min/median/max,NA,1/42/103
+largest cluster share of N,0.05715871254162042,NA
+support za: volumes with >=1 / with exact+heaped / largest share,NA,29 / 22 / 0.114
+support eur: volumes with >=1 / with exact+heaped / largest share,NA,40 / 32 / 0.115
+support id: volumes with >=1 / with exact+heaped / largest share,NA,32 / 9 / 0.126
+support in: volumes with >=1 / with exact+heaped / largest share,NA,24 / 7 / 0.171
+support mz: volumes with >=1 / with exact+heaped / largest share,NA,27 / 11 / 0.109
+cyear per source (min/median/max); source per cyear (min/median/max); nesting,NA,1/1/11; 1/1/3; crossed
+distinct cyear,126,NA

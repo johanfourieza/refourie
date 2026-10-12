@@ -1,0 +1,65 @@
+key,tab,name,year,nrec,raw,flag,value
+T1_Aliwal North_1886,T1,Aliwal North,1886,1,670,ok,670
+T1_Aliwal North_1887,T1,Aliwal North,1887,1,299,ok,299
+T1_Cradock_1886,T1,Cradock,1886,1,185,ok,185
+T1_Cradock_1887,T1,Cradock,1887,1,27,ok,27
+T1_East London_1886,T1,East London,1886,1,16,ok,16
+T1_East London_1887,T1,East London,1887,1,117,ok,117
+T1_Fort Beaufort_1886,T1,Fort Beaufort,1886,1,437,ok,437
+T1_Fort Beaufort_1887,T1,Fort Beaufort,1887,1,144,ok,144
+T1_Graaff Reinet_1886,T1,Graaff Reinet,1886,1,48,ok,48
+T1_Graaff Reinet_1887,T1,Graaff Reinet,1887,1,3,ok,3
+T1_Grahamstown_1886,T1,Grahamstown,1886,1,81,ok,81
+T1_Grahamstown_1887,T1,Grahamstown,1887,1,41,ok,41
+T1_Griqualand East_1886,T1,Griqualand East,1886,0,NA,structural,NA
+T1_Griqualand East_1887,T1,Griqualand East,1887,1,598,ok,598
+T1_Kimberley_1886,T1,Kimberley,1886,1,175,ok,175
+T1_Kimberley_1887,T1,Kimberley,1887,1,50,ok,50
+T1_King William's Town_1886,T1,King William's Town,1886,1,1183,ok,1183
+T1_King William's Town_1887,T1,King William's Town,1887,1,903,ok,903
+T1_Port Elizabeth_1886,T1,Port Elizabeth,1886,1,517,ok,517
+T1_Port Elizabeth_1887,T1,Port Elizabeth,1887,1,326,ok,326
+T1_Queenstown_1886,T1,Queenstown,1886,1,1665,ok,1665
+T1_Queenstown_1887,T1,Queenstown,1887,1,950,ok,950
+T1_Somerset East_1886,T1,Somerset East,1886,1,156,ok,156
+T1_Somerset East_1887,T1,Somerset East,1887,1,65,ok,65
+T1_Thembuland_1886,T1,Thembuland,1886,0,NA,structural,NA
+T1_Thembuland_1887,T1,Thembuland,1887,1,375,ok,375
+T1_Uitenhage_1886,T1,Uitenhage,1886,1,331,ok,331
+T1_Uitenhage_1887,T1,Uitenhage,1887,1,94,ok,94
+T1_Victoria East_1886,T1,Victoria East,1886,1,461,ok,461
+T1_Victoria East_1887,T1,Victoria East,1887,1,158,ok,158
+T1_Wodehouse_1886,T1,Wodehouse,1886,1,1234,ok,1234
+T1_Wodehouse_1887,T1,Wodehouse,1887,1,184,ok,184
+T2_Aliwal North_1886,T2,Aliwal North,1886,1,816,ok,816
+T2_Aliwal North_1887,T2,Aliwal North,1887,1,779,ok,779
+T2_Cradock_1886,T2,Cradock,1886,1,2051,ok,2051
+T2_Cradock_1887,T2,Cradock,1887,1,1583,ok,1583
+T2_East London_1886,T2,East London,1886,1,1593,ok,1593
+T2_East London_1887,T2,East London,1887,1,1141,ok,1141
+T2_Fort Beaufort_1886,T2,Fort Beaufort,1886,1,1385,ok,1385
+T2_Fort Beaufort_1887,T2,Fort Beaufort,1887,1,1095,ok,1095
+T2_Graaff Reinet_1886,T2,Graaff Reinet,1886,1,2985,ok,2985
+T2_Graaff Reinet_1887,T2,Graaff Reinet,1887,1,1972,ok,1972
+T2_Grahamstown_1886,T2,Grahamstown,1886,1,2194,ok,2194
+T2_Grahamstown_1887,T2,Grahamstown,1887,1,1282,ok,1282
+T2_Griqualand East_1886,T2,Griqualand East,1886,0,NA,structural,NA
+T2_Griqualand East_1887,T2,Griqualand East,1887,1,1149,ok,1149
+T2_Kimberley_1886,T2,Kimberley,1886,1,6037,ok,6037
+T2_Kimberley_1887,T2,Kimberley,1887,1,3733,ok,3733
+T2_King William's Town_1886,T2,King William's Town,1886,1,2149,ok,2149
+T2_King William's Town_1887,T2,King William's Town,1887,1,1380,ok,1380
+T2_Port Elizabeth_1886,T2,Port Elizabeth,1886,1,5242,ok,5242
+T2_Port Elizabeth_1887,T2,Port Elizabeth,1887,1,3489,ok,3489
+T2_Queenstown_1886,T2,Queenstown,1886,1,2104,ok,2104
+T2_Queenstown_1887,T2,Queenstown,1887,1,1661,ok,1661
+T2_Somerset East_1886,T2,Somerset East,1886,1,1748,ok,1748
+T2_Somerset East_1887,T2,Somerset East,1887,1,1685,ok,1685
+T2_Thembuland_1886,T2,Thembuland,1886,0,NA,structural,NA
+T2_Thembuland_1887,T2,Thembuland,1887,1,1106,ok,1106
+T2_Uitenhage_1886,T2,Uitenhage,1886,1,4670,ok,4670
+T2_Uitenhage_1887,T2,Uitenhage,1887,1,3237,ok,3237
+T2_Victoria East_1886,T2,Victoria East,1886,1,562,ok,562
+T2_Victoria East_1887,T2,Victoria East,1887,1,548,ok,548
+T2_Wodehouse_1886,T2,Wodehouse,1886,1,1477,ok,1477
+T2_Wodehouse_1887,T2,Wodehouse,1887,1,1239,ok,1239

@@ -1,0 +1,95 @@
+"sensitivity","description","claim","estimate","se","ci_lo","ci_hi","p_raw","p_holm_within","n_obs","n_clusters","B_used","exp_estimate"
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I1",-1.74036391320628,3.17092667480053,-12.0471533681762,7.79532511810428,0.6016,0.6016,9388,5199,4999,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I2-OR",0.442521155928909,0.0976289186295921,0.184950951252718,0.7000913606051,5.82385721246542e-06,1.74715716373963e-05,9388,5199,NA,1.55662677435074
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I2-RR",0.281624773013946,0.0569332959051992,0.13142009098905,0.431829455038842,7.55309421999877e-07,3.02123768799951e-06,9388,5199,NA,1.32528134535355
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I3-OR",0.697701167660137,0.105965234103914,0.41813761804982,0.977264717270454,4.57199632016673e-11,2.28599816008336e-10,9388,5199,NA,2.00912874451617
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I3-RR",0.423904561170981,0.0589143392405657,0.268473377157481,0.57933574518448,6.23374129825692e-13,3.74024477895415e-12,9388,5199,NA,1.52791576433388
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","I4",-0.693480862764517,1.16082712435232,-3.82734063170184,2.44640103153375,4e-04,8e-04,9388,5199,4999,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(P,I)",17.4465665218254,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(Q,I)",19.1869304350317,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(P,Q)",9.22599001874243,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(P,Q) G2",28.0137192501114,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: d(P,Q) G2 p (model-based, unclustered)",0.00094884535476758,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: min cell P,Q",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: Slavery farmer->farmer %",85.0877192982456,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1a_grazier_only","grazier -> Farmer only (century kept as White collar)","component: Gold farmer->farmer % (Slavery margins)",84.3942384354811,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I1",1.36030420481372,2.02993463694173,-3.50190349344873,6.74423376850077,0.3848,0.3848,9230,5114,4999,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I2-OR",0.303373111687267,0.105413756798242,0.0252645010897953,0.581481722284738,0.0040029758034986,0.00800595160699721,9230,5114,NA,1.35441972000505
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I2-RR",0.200505000729012,0.057579188228284,0.0485962885848545,0.352413712873169,0.000497223365650765,0.00198889346260306,9230,5114,NA,1.22201972321425
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I3-OR",0.507084163359212,0.106083758334273,0.227207916336066,0.786960410382358,1.75263976839027e-06,8.76319884195133e-06,9230,5114,NA,1.66044255022536
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I3-RR",0.294156071320873,0.057523213834992,0.142395034026947,0.445917108614799,3.159202041901e-07,1.8955212251406e-06,9230,5114,NA,1.34199333399575
+"S1b_century_only","century removed only (grazier kept as Unskilled)","I4",-1.1951553685223,1.25039660707355,-4.48430658990068,2.25586446305623,0.0014,0.0042,9230,5114,4999,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(P,I)",20.705520268059,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(Q,I)",19.3452160632453,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(P,Q)",4.13476027173026,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(P,Q) G2",22.3593059429055,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: d(P,Q) G2 p (model-based, unclustered)",0.00780737616368399,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: min cell P,Q",7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: Slavery farmer->farmer %",80.0899887514061,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S1b_century_only","century removed only (grazier kept as Unskilled)","component: Gold farmer->farmer % (Slavery margins)",78.8948333828838,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I1",-1.22201229145369,3.19389590838627,-10.8888016019676,8.97465200413603,0.746,0.746,9072,5114,4999,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I2-OR",0.460244578664764,0.105919692348109,0.180801179922946,0.739687977406583,1.39134871050067e-05,4.17404613150201e-05,9072,5114,NA,1.58446146307712
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I2-RR",0.314857647070222,0.0603387202916648,0.155668579388458,0.474046714751986,1.80700433337328e-07,7.22801733349311e-07,9072,5114,NA,1.37006426441258
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I3-OR",0.813051920567646,0.109042656124694,0.525369339927447,1.10073450120784,8.90035647969989e-14,4.45017823984994e-13,9072,5114,NA,2.25477890270706
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I3-RR",0.501505294109556,0.0609492714843785,0.340705435302785,0.662305152916327,1.89982567372727e-16,1.13989540423636e-15,9072,5114,NA,1.65120494998213
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","I4",-1.52302767887644,1.08912261268306,-4.21927391220262,1.46935797305034,6e-04,0.0012,9072,5114,4999,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(P,I)",18.1835934276045,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(Q,I)",19.4056057190582,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(P,Q)",9.08227342741363,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(P,Q) G2",32.5509168590045,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: d(P,Q) G2 p (model-based, unclustered)",0.000159849903259679,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: min cell P,Q",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: Slavery farmer->farmer %",87.2171945701357,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S2_dedup","both corrections; second record of 159 duplicate pairs dropped","component: Gold farmer->farmer % (Slavery margins)",85.6941668912593,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I1",-1.19660079914201,3.06501455333413,-10.167668315598,8.41123914314944,0.7536,0.7536,9230,5114,4999,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I2-OR",0.309238235709371,0.108361424531951,0.0233529192736488,0.595123552145093,0.00432042328800794,0.00864084657601587,9230,5114,NA,1.36238690105431
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I2-RR",0.243381396591713,0.0614762090072572,0.0811913410325393,0.405571452150886,7.52791784082929e-05,0.000301116713633171,9230,5114,NA,1.27555502369557
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I3-OR",0.59946986697829,0.111608855033435,0.305016993401916,0.893922740554663,7.82284556377263e-08,3.91142278188632e-07,9230,5114,NA,1.82115309104477
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I3-RR",0.384053520382782,0.065935649733729,0.210098312891356,0.558008727874208,5.72249403934124e-09,3.43349642360474e-08,9230,5114,NA,1.46822401949075
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","I4",-1.50108108799329,1.08192276706941,-4.30745769454434,1.3759033057578,8e-04,0.0024,9230,5114,4999,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(P,I)",17.4987806117883,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(Q,I)",18.6953814109304,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(P,Q)",8.09796142082852,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(P,Q) G2",28.6083581737339,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: d(P,Q) G2 p (model-based, unclustered)",0.000754294347152906,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: min cell P,Q",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: Slavery farmer->farmer %",86.4077669902913,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S3_highest_class","both corrections; highest class (F < U < S < W), not last listed: different definition","component: Gold farmer->farmer % (Slavery margins)",84.906685902298,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","I1",-1.43109447602811,3.20438996527866,-11.1623831429277,8.69247149126821,0.6592,0.6592,9336,5176,4999,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","I2-OR",0.368821723985253,0.108611710435588,0.0822760889438131,0.655367359026693,0.000684327644440782,0.00136865528888156,9336,5176,NA,1.44602978826641
+"S4_with_1910","both corrections; 106 sons born 1910 included","I2-RR",0.273170964178244,0.0605314623985549,0.113473393231072,0.432868535125416,6.39545149909336e-06,2.55818059963734e-05,9336,5176,NA,1.31412489390332
+"S4_with_1910","both corrections; 106 sons born 1910 included","I3-OR",0.80073691942744,0.109271804900375,0.512449785363094,1.08902405349178,2.33722260845896e-13,1.16861130422948e-12,9336,5176,NA,2.22718157727797
+"S4_with_1910","both corrections; 106 sons born 1910 included","I3-RR",0.494378232209383,0.0612693401262713,0.332733949980127,0.65602251443864,7.0914864250231e-16,4.25489185501386e-15,9336,5176,NA,1.63947854713008
+"S4_with_1910","both corrections; 106 sons born 1910 included","I4",-1.25003404545528,1.07186426366756,-4.11652601998339,1.60408788344019,2e-04,6e-04,9336,5176,4999,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(P,I)",18.1512759044357,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(Q,I)",19.5823703804638,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(P,Q)",9.25427302221516,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(P,Q) G2",33.1818646834458,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: d(P,Q) G2 p (model-based, unclustered)",0.00012415619159778,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: min cell P,Q",6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: Slavery farmer->farmer %",86.9098712446352,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S4_with_1910","both corrections; 106 sons born 1910 included","component: Gold farmer->farmer % (Slavery margins)",85.6598371991799,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I1",0.581407495019867,1.9927395769724,-4.45698868346375,6.5714037275493,0.6476,0.6476,9388,5199,4999,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I2-OR",0.255256410665245,0.0964437311842582,0.000813035387139172,0.50969978594335,0.00812844472134367,0.0162568894426873,9388,5199,NA,1.29079255142082
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I2-RR",0.15201328114185,0.0542659303810804,0.00884579561198187,0.295180766671719,0.00509026137225102,0.015270784116753,9388,5199,NA,1.16417569791202
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I3-OR",0.416118073410843,0.103970983122525,0.141815870957313,0.690420275864373,6.27424240060067e-05,0.000313712120030034,9388,5199,NA,1.5160648652527
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I3-RR",0.238171455914243,0.056175608303679,0.0899657487150811,0.386377163113405,2.23752522862744e-05,0.000134251513717647,9388,5199,NA,1.26892673916875
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","I4",-0.661047861747965,1.34375610305478,-4.20927487580191,3.00882804600756,0.0016,0.0064,9388,5199,4999,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(P,I)",19.2078929040629,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(Q,I)",18.626485409043,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(P,Q)",3.70003359511826,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(P,Q) G2",17.5531473186274,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(P,Q) G2 df",9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: d(P,Q) G2 p (model-based, unclustered)",0.040726329825287,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: min cell P,Q",7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: Slavery farmer->farmer %",78.1357882623705,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S6_original_coding","DIAGNOSTIC: 2016-file (published) coding, primary sample/shares/inference","component: Gold farmer->farmer % (Slavery margins)",77.4747404006226,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"S5_migrant_models_2_3","migrant father in Models 2 (+ father class) and 3 (+ share + father class)","I3-OR Model 2",0.137415474015193,0.120360061820349,-0.180125334518455,0.454956282548841,0.253577388538679,NA,9230,5114,NA,1.14730472481168
+"S5_migrant_models_2_3","migrant father in Models 2 (+ father class) and 3 (+ share + father class)","I3-RR Model 2",0.0968899570362912,0.0584458334910466,-0.0573051882758735,0.251085102348456,0.0973631813458855,NA,9230,5114,NA,1.10173912831112
+"S5_migrant_models_2_3","migrant father in Models 2 (+ father class) and 3 (+ share + father class)","I3-OR Model 3",0.0282171787049361,0.121048271246702,-0.291139303353463,0.347573660763335,0.815678451944175,NA,9230,5114,NA,1.02861905431904
+"S5_migrant_models_2_3","migrant father in Models 2 (+ father class) and 3 (+ share + father class)","I3-RR Model 3",0.0478112864993818,0.0590207216387333,-0.107900561649853,0.203523134648617,0.417896337351283,NA,9230,5114,NA,1.04897268133813

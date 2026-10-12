@@ -1,0 +1,9 @@
+(A) c4 re-run: cells compared 200; docx-journal mismatches 0
+(B1) keys 64; ok 60; structural 4 (T1_Griqualand East_1886, T1_Thembuland_1886, T2_Griqualand East_1886, T2_Thembuland_1886); integrity failures 0
+(B2) |D| = 14: Aliwal North, Cradock, East London, Fort Beaufort, Graaff Reinet, Grahamstown, Kimberley, King William's Town, Port Elizabeth, Queenstown, Somerset East, Uitenhage, Victoria East, Wodehouse
+(B5) T1_1886 printed 7159 column sum 7159 gap 0
+(B5) T1_1887 printed 4334 column sum 4334 gap 0
+(B5) T2_1886 printed 35013 column sum 35013 gap 0
+(B5) T2_1887 printed 27079 column sum 27079 gap 0
+(B3) published-set check: B = 2825 (paper 2,825), W = 7934 (paper 7,934)
+(B3) B = 3798; W = 10189; Delta = 6391; R = 26202; B/30000 = 0.1266

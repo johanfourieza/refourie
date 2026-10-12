@@ -1,0 +1,12 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule
+H1-00 top-decile share 1700 < 50%,S00 = 46.86,"none (census reading, §1)",n/a,S00 < 50 (A8 threshold),confirmed,H1-00 #1
+H1-73 top-decile share 1773 > 61%,S73 = 63.66,"none (census reading, §1)",n/a,S73 > 61 (A8 threshold),confirmed,H1-73 #1
+H1-rise burden increased 1700-1773,Delta = 16.80 pp,"none (census reading, §1)",n/a,Delta > 0 on full enumerations (A8 exception),confirmed,H1-rise #1
+H1-prog tax system progressive,,,,,not-testable,§8 (no income measure)
+H1-incr progressiveness increased,,,,,not-testable,§8 (no income measure)
+H2-89 deficit/GDP 40% in 1789,R89 = 40.4%,none (printed inputs),n/a,36 <= R89 <= 44 (A8 ratio ±10%),confirmed,H2-89 #2
+H2-yrs deficit in every Image 6 year (1777-1794),"1777 = 254,000; 1787 = 1,304,000; 1789 = 1,403,000; 1792 = 342,000; 1794 = 230,000",none (printed inputs),n/a,D_t > 0 in all 5 universe years,confirmed,H2-yrs #3
+H2-full deficit throughout 1652-1795,,,,,not-testable,§8 (no expenditure data outside 1777-1794)
+H2-ext deficits not extractive,,,,,not-testable,§8
+SP-rise superpopulation Delta (iid bootstrap),Delta = 16.80 pp,"[8.90, 24.96]",n/a,reported only,different-estimand,§8 (never votes)
+"E-prog R = tax share / output share of top slave decile, 1700 -> 1773",R00 = 0.936; R73 = 0.851; dR = -0.085,"R00 [0.907, 0.966]; R73 [0.807, 0.899]; dR [-0.138, -0.028]",n/a,reported only,different-estimand,§8 (never votes)

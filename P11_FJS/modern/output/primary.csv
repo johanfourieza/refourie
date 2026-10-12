@@ -1,0 +1,11 @@
+quantity,value,row,note
+S00,46.86257166257166,H1-00,"full enumerations, fractional tie rule, corrected tax (§3)"
+S73,63.66349656134274,H1-73,"full enumerations, fractional tie rule, corrected tax (§3)"
+Delta,16.80092489877108,H1-rise,"full enumerations, fractional tie rule, corrected tax (§3)"
+R89,40.40898617511521,H2-89,"printed Image 6 revenue, expenditure, GDP"
+D_1777,254000,H2-yrs,"Exp - Rev, printed Image 6"
+D_1787,1304000,H2-yrs,"Exp - Rev, printed Image 6"
+D_1789,1403000,H2-yrs,"Exp - Rev, printed Image 6"
+D_1792,342000,H2-yrs,"Exp - Rev, printed Image 6"
+D_1794,230000,H2-yrs,"Exp - Rev, printed Image 6"
+corrections-off check passed,1,gate,check_corrections_off.csv

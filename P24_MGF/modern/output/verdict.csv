@@ -1,0 +1,9 @@
+claim,claim_id,estimate,interval,test_p,threshold_or_band,verdict,rule
+C21,F1_black_1921,89.17486390984624,"[88.46, 89.90] (reported only)",,"[80.28, 98.12]",confirmed (arithmetic),1
+C80,T4_black_1980_sr_04,101.05477279033016,"[100.81, 101.30] (reported only)",,"[90.90, 111.10]",confirmed (arithmetic),1
+K04,T5_black_0-4years_sr,108.4304932735426,"[99.87, 117.73] (reported only)",0.05368948435623381,"[95.04, 116.16]",confirmed (numerical agreement on the recovered registers),1
+C21e,TX_p130_black_1921_est_a,,,,< 91 (90.61),not-testable (inputs not recovered),0
+D80,T4_black_1980_sr_death,,,,115.3,not-testable (inputs not recovered),0
+K04-ex,T5_black_0-4years_sr (interpretation),0.020223752151462993,"[-0.0048, 0.0452] (98.33%)",0.05368948435623381,"adjusted interval excludes 0, estimate > 0",weakened,3
+K18-ex,T5_black_0-4years_sr (interpretation),-0.009127789046653123,"[-0.0638, 0.0457] (98.33%)",0.7186611559990188,"adjusted interval excludes 0, estimate > 0",weakened,3
+KBW,T5_black_0-4years_sr (interpretation),0.013260270654839423,"[-0.1020, 0.1270] (98.33%)",0.7853908033059651,"adjusted interval excludes 0, estimate > 0",weakened,3

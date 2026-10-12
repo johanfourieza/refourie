@@ -1,0 +1,223 @@
+sens,label,target,contrast,est,se,lo,hi,c_crit,n,note
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,b65,1.34626,0.428095,0.239132,2.45338,2.58617,9149,
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,b15,1.13365,0.382904,0.143397,2.1239,2.58617,9149,
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,d1,0.733579,0.43132,-0.381886,1.84904,2.58617,9149,
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,d2,0.612678,0.279211,-0.10941,1.33477,2.58617,9149,
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,d3,0.192807,0.360244,-0.738844,1.12446,2.58617,9149,
+S1,"Anchor: cohort + Attestation, c = 160.02 with 63-in heights kept",diagnostic,r,1.32646,0.266422,0.637446,2.01547,2.58617,9149,
+S2a,Drop force FE,same target,b65,1.47016,0.402174,0.432408,2.50792,2.58036,9149,
+S2a,Drop force FE,same target,b15,0.894923,0.219578,0.328332,1.46151,2.58036,9149,
+S2a,Drop force FE,same target,d1,0.790562,0.423724,-0.302799,1.88392,2.58036,9149,
+S2a,Drop force FE,same target,d2,0.679602,0.255706,0.0197879,1.33942,2.58036,9149,
+S2a,Drop force FE,same target,d3,0.245723,0.253678,-0.408858,0.900304,2.58036,9149,
+S2a,Drop force FE,same target,r,1.14065,0.26056,0.468308,1.81298,2.58036,9149,
+S2b,Drop growth dummies,same target,b65,0.700669,0.431213,-0.413809,1.81515,2.58452,9149,
+S2b,Drop growth dummies,same target,b15,0.16117,0.409232,-0.8965,1.21884,2.58452,9149,
+S2b,Drop growth dummies,same target,d1,0.585387,0.421788,-0.504732,1.67551,2.58452,9149,
+S2b,Drop growth dummies,same target,d2,0.115283,0.292979,-0.641928,0.872493,2.58452,9149,
+S2b,Drop growth dummies,same target,d3,0.966863,0.373413,0.00176889,1.93196,2.58452,9149,
+S2b,Drop growth dummies,same target,r,1.12803,0.262601,0.449336,1.80673,2.58452,9149,
+S2c,Add Attestation (relaxes R2),same target,b65,0.768793,0.463722,-0.428367,1.96595,2.58163,9149,
+S2c,Add Attestation (relaxes R2),same target,b15,0.0378971,0.451283,-1.12715,1.20294,2.58163,9149,
+S2c,Add Attestation (relaxes R2),same target,d1,0.592023,0.438819,-0.540847,1.72489,2.58163,9149,
+S2c,Add Attestation (relaxes R2),same target,d2,0.17677,0.30113,-0.600637,0.954177,2.58163,9149,
+S2c,Add Attestation (relaxes R2),same target,d3,0.989418,0.389177,-0.0152924,1.99413,2.58163,9149,
+S2c,Add Attestation (relaxes R2),same target,r,1.02731,0.278248,0.308983,1.74565,2.58163,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,b65,0.819928,0.45422,-0.353087,1.99294,2.58248,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,b15,0.02161,0.458614,-1.16275,1.20597,2.58248,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,d1,0.635233,0.431818,-0.47993,1.7504,2.58248,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,d2,0.184694,0.307442,-0.609269,0.978657,2.58248,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,d3,1.02536,0.396057,0.00254653,2.04816,2.58248,9149,
+S2d,Truncation at 160.02 with 63-in heights kept,diagnostic,r,1.04697,0.284448,0.312384,1.78155,2.58248,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,b65,0.81148,0.449717,-0.349882,1.97284,2.58243,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,b15,0.0223524,0.453641,-1.14914,1.19385,2.58243,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,d1,0.629065,0.427822,-0.475755,1.73388,2.58243,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,d2,0.182415,0.303894,-0.60237,0.9672,2.58243,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,d3,1.01306,0.391341,0.00245579,2.02367,2.58243,9149,
+S3,c = 159.71 (quarter-inch rounding),same target,r,1.03542,0.281249,0.309113,1.76172,2.58243,9149,
+S4,Strict c = 160.02 (63-in heights dropped),same target,b65,0.86664,0.442602,-0.276571,2.00985,2.58293,9088,
+S4,Strict c = 160.02 (63-in heights dropped),same target,b15,-0.123992,0.445084,-1.27362,1.02563,2.58293,9088,
+S4,Strict c = 160.02 (63-in heights dropped),same target,d1,0.738803,0.422371,-0.352152,1.82976,2.58293,9088,
+S4,Strict c = 160.02 (63-in heights dropped),same target,d2,0.127837,0.302354,-0.653122,0.908797,2.58293,9088,
+S4,Strict c = 160.02 (63-in heights dropped),same target,d3,1.09191,0.385116,0.0971844,2.08664,2.58293,9088,
+S4,Strict c = 160.02 (63-in heights dropped),same target,r,0.967922,0.276991,0.252473,1.68337,2.58293,9088,
+S5,Higher cut c = 164.465,changed target,b65,0.955593,0.510025,-0.362019,2.2732,2.58343,8659,
+S5,Higher cut c = 164.465,changed target,b15,-0.31723,0.507831,-1.62917,0.994715,2.58343,8659,
+S5,Higher cut c = 164.465,changed target,d1,0.74328,0.48532,-0.510509,1.99707,2.58343,8659,
+S5,Higher cut c = 164.465,changed target,d2,0.212313,0.350832,-0.694035,1.11866,2.58343,8659,
+S5,Higher cut c = 164.465,changed target,d3,0.943398,0.43879,-0.190182,2.07698,2.58343,8659,
+S5,Higher cut c = 164.465,changed target,r,0.626168,0.317735,-0.194675,1.44701,2.58343,8659,
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,b65,0.803383,0.445404,-0.346843,1.95361,2.58243,9149,empty intersections: 0
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,b15,0.0230692,0.448875,-1.13612,1.18226,2.58243,9149,empty intersections: 0
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,d1,0.623152,0.423993,-0.471782,1.71809,2.58243,9149,empty intersections: 0
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,d2,0.180231,0.300494,-0.595776,0.956238,2.58243,9149,empty intersections: 0
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,d3,1.00129,0.386822,0.00234218,2.00023,2.58243,9149,empty intersections: 0
+S6a,"Interval-rounded likelihood, w = 1.270 cm",same target,r,1.02435,0.278186,0.305958,1.74275,2.58243,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,b65,0.803597,0.44552,-0.346936,1.95413,2.58245,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,b15,0.0230645,0.448999,-1.13645,1.18258,2.58245,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,d1,0.623313,0.424099,-0.471902,1.71853,2.58245,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,d2,0.180284,0.300578,-0.595945,0.956513,2.58245,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,d3,1.00158,0.386932,0.0023431,2.00081,2.58245,9149,empty intersections: 0
+S6b,"Interval-rounded likelihood, w = 0.635 cm",same target,r,1.02464,0.278263,0.306039,1.74324,2.58245,9149,empty intersections: 0
+S7,Growth dummies ages 21-24,same target,b65,0.950336,0.470307,-0.262481,2.16315,2.57878,9149,
+S7,Growth dummies ages 21-24,same target,b15,-0.183509,0.49304,-1.45495,1.08793,2.57878,9149,
+S7,Growth dummies ages 21-24,same target,d1,0.659893,0.42652,-0.440008,1.75979,2.57878,9149,
+S7,Growth dummies ages 21-24,same target,d2,0.290443,0.317864,-0.529257,1.11014,2.57878,9149,
+S7,Growth dummies ages 21-24,same target,d3,1.02425,0.387622,0.0246541,2.02384,2.57878,9149,
+S7,Growth dummies ages 21-24,same target,r,0.840738,0.330415,-0.0113293,1.6928,2.57878,9149,
+S8,Ages 23-39 only,changed target,b65,0.613554,0.723099,-1.23386,2.46097,2.55486,6283,dropped empty: g21 g22
+S8,Ages 23-39 only,changed target,b15,4.67699,0.420899,3.60165,5.75232,2.55486,6283,dropped empty: g21 g22
+S8,Ages 23-39 only,changed target,d1,0.531258,0.643354,-1.11242,2.17494,2.55486,6283,dropped empty: g21 g22
+S8,Ages 23-39 only,changed target,d2,0.082296,0.355452,-0.825836,0.990428,2.55486,6283,dropped empty: g21 g22
+S8,Ages 23-39 only,changed target,d3,-3.94221,0.191749,-4.4321,-3.45231,2.55486,6283,dropped empty: g21 g22
+S8,Ages 23-39 only,changed target,r,0.73478,0.374075,-0.22093,1.69049,2.55486,6283,dropped empty: g21 g22
+S9,age + age^2 instead of growth dummies,same target,b65,0.994329,0.590798,-0.507799,2.49646,2.54254,9149,
+S9,age + age^2 instead of growth dummies,same target,b15,-0.256994,0.727002,-2.10543,1.59144,2.54254,9149,
+S9,age + age^2 instead of growth dummies,same target,d1,0.697855,0.456703,-0.463331,1.85904,2.54254,9149,
+S9,age + age^2 instead of growth dummies,same target,d2,0.296474,0.382986,-0.677283,1.27023,2.54254,9149,
+S9,age + age^2 instead of growth dummies,same target,d3,1.06569,0.40909,0.0255602,2.10582,2.54254,9149,
+S9,age + age^2 instead of growth dummies,same target,r,0.808695,0.519171,-0.511318,2.12871,2.54254,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,b65,1.07391,0.446868,-0.0800465,2.22786,2.58232,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,b15,-0.451211,0.449999,-1.61325,0.710829,2.58232,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,d1,0.815674,0.425039,-0.28191,1.91326,2.58232,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,d2,0.258233,0.300814,-0.518564,1.03503,2.58232,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,d3,1.19886,0.388023,0.196859,2.20085,2.58232,9149,
+S10a,"Shrinkage s = 0.05 cm/yr after 35, observation-specific truncation",same target,r,0.747645,0.278228,0.0291728,1.46612,2.58232,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,b65,1.34365,0.448451,0.185635,2.50167,2.58227,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,b15,-0.92508,0.451226,-2.09027,0.240105,2.58227,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,d1,1.00764,0.426201,-0.0929252,2.1082,2.58227,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,d2,0.336015,0.301102,-0.44151,1.11354,2.58227,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,d3,1.39639,0.389348,0.390988,2.40179,2.58227,9149,
+S10b,"Shrinkage s = 0.10 cm/yr after 35, observation-specific truncation",same target,r,0.471308,0.278288,-0.247304,1.18992,2.58227,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,b65,0.611363,0.454927,-0.563332,1.78606,2.58216,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,b15,0.155536,0.463212,-1.04055,1.35162,2.58216,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,d1,0.52651,0.425542,-0.572308,1.62533,2.58216,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,d2,0.0848532,0.300878,-0.692061,0.861768,2.58216,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,d3,1.01715,0.401234,-0.0188953,2.05321,2.58216,9149,
+S11,Heteroskedastic truncated normal (log sigma by force and cohort),same target,r,1.17269,0.287131,0.431272,1.91411,2.58216,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,b65,0.747801,0.416415,-0.327208,1.82281,2.58158,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,b15,0.0299605,0.416248,-1.04462,1.10454,2.58158,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,d1,0.582959,0.398501,-0.445802,1.61172,2.58158,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,d2,0.164842,0.276754,-0.549621,0.879306,2.58158,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,d3,0.918367,0.355106,0.00163132,1.8351,2.58158,9149,
+S12,"OLS on the §4B sample, HC1 (no truncation correction)",diagnostic,r,0.948328,0.257204,0.284336,1.61232,2.58158,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,b65,0.803668,0.440025,-0.332649,1.93998,2.58239,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,b15,0.0230639,0.437622,-1.10705,1.15318,2.58239,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,d1,0.623366,0.426349,-0.477634,1.72437,2.58239,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,d2,0.180302,0.299075,-0.592027,0.95263,2.58239,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,d3,1.00167,0.379473,0.0217244,1.98162,2.58239,9149,
+S14,Model-based (-H^-1) SE for the primary,same target,r,1.02474,0.271168,0.324475,1.725,2.58239,9149,
+S15a,CR1 by force x enlistment year,same target,b65,0.803668,0.813642,-1.27318,2.88051,2.55253,9149,G = 54
+S15a,CR1 by force x enlistment year,same target,b15,0.0230639,0.272084,-0.671438,0.717566,2.55253,9149,G = 54
+S15a,CR1 by force x enlistment year,same target,d1,0.623366,0.804257,-1.42952,2.67626,2.55253,9149,G = 54
+S15a,CR1 by force x enlistment year,same target,d2,0.180302,0.247156,-0.450571,0.811175,2.55253,9149,G = 54
+S15a,CR1 by force x enlistment year,same target,d3,1.00167,0.279578,0.28804,1.7153,2.55253,9149,G = 54
+S15a,CR1 by force x enlistment year,same target,r,1.02474,0.186421,0.548891,1.50058,2.55253,9149,G = 54
+S15c,CR1 with candidate repeat pairs merged,same target,b65,0.803668,0.44559,-0.347301,1.95464,2.58302,9149,G = 9135; merged pairs 14
+S15c,CR1 with candidate repeat pairs merged,same target,b15,0.0230639,0.449055,-1.13686,1.18298,2.58302,9149,G = 9135; merged pairs 14
+S15c,CR1 with candidate repeat pairs merged,same target,d1,0.623366,0.424433,-0.472955,1.71969,2.58302,9149,G = 9135; merged pairs 14
+S15c,CR1 with candidate repeat pairs merged,same target,d2,0.180302,0.301415,-0.59826,0.958863,2.58302,9149,G = 9135; merged pairs 14
+S15c,CR1 with candidate repeat pairs merged,same target,d3,1.00167,0.386986,0.0020774,2.00127,2.58302,9149,G = 9135; merged pairs 14
+S15c,CR1 with candidate repeat pairs merged,same target,r,1.02474,0.278288,0.305912,1.74356,2.58302,9149,G = 9135; merged pairs 14
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,b65,1.27,0.693297,-0.524599,3.0646,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,b15,0,0.679792,-1.75964,1.75964,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,d1,1.27,0.707268,-0.560763,3.10076,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,d2,0,0.519335,-1.3443,1.3443,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,d3,1.27,0.500066,-0.0244214,2.56442,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S13,"Median regression on the §4B sample, pairs bootstrap B = 999",changed target,r,1.27,0.587027,-0.249519,2.78952,2.5885,9149,"defined draws 999; percentile 95%: b65 [0.000, 2.540]; b15 [-1.270, 1.270]; d1 [0.000, 2.540]; d2 [-1.270, 1.270]; d3 [0.000, 2.540]; r [0.000, 1.905]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,b65,0.803668,0.830218,-1.32231,2.92965,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,b15,0.0230639,0.581281,-1.46545,1.51158,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,d1,0.623366,0.797003,-1.41756,2.66429,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,d2,0.180302,0.329877,-0.66443,1.02503,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,d3,1.00167,0.353137,0.0973771,1.90597,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S15b,"Pairs cluster bootstrap over force x enlistment-year groups, B = 999",same target,r,1.02474,0.502325,-0.261592,2.31106,2.56075,9149,"G = 54; defined draws 997; percentile 95%: b65 [-0.682, 2.396]; b15 [-1.085, 1.189]; d1 [-0.871, 2.199]; d2 [-0.554, 0.754]; d3 [0.396, 1.666]; r [0.145, 2.033]"
+S16,Birth year - 1 for colonial and WWI records,same target,b65,0.72571,0.417031,-0.35119,1.80261,2.5823,9146,
+S16,Birth year - 1 for colonial and WWI records,same target,b15,0.480194,0.502097,-0.816374,1.77676,2.5823,9146,
+S16,Birth year - 1 for colonial and WWI records,same target,d1,0.603272,0.392288,-0.409733,1.61628,2.5823,9146,
+S16,Birth year - 1 for colonial and WWI records,same target,d2,0.122438,0.298235,-0.647695,0.892571,2.5823,9146,
+S16,Birth year - 1 for colonial and WWI records,same target,d3,0.528274,0.479102,-0.708912,1.76546,2.5823,9146,
+S16,Birth year - 1 for colonial and WWI records,same target,r,1.00847,0.282689,0.27848,1.73846,2.5823,9146,
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,b65,0.795614,0.448788,-0.363391,1.95462,2.58252,9123,dropped from S3 sample: 26
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,b15,0.0574821,0.449623,-1.10368,1.21865,2.58252,9123,dropped from S3 sample: 26
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,d1,0.60487,0.427461,-0.499059,1.7088,2.58252,9123,dropped from S3 sample: 26
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,d2,0.190743,0.301183,-0.587068,0.968555,2.58252,9123,dropped from S3 sample: 26
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,d3,0.96287,0.387764,-0.0385403,1.96428,2.58252,9123,dropped from S3 sample: 26
+S17,Drop later copies of unflagged name + birth-year repeats (S2-8),same target,r,1.02035,0.278371,0.301453,1.73925,2.58252,9123,dropped from S3 sample: 26
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,b65,0.721415,0.433412,-0.398057,1.84089,2.58293,9228,added: 79
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,b15,0.0722953,0.447346,-1.08317,1.22776,2.58293,9228,added: 79
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,d1,0.543525,0.406499,-0.506432,1.59348,2.58293,9228,added: 79
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,d2,0.17789,0.296976,-0.58918,0.944959,2.58293,9228,added: 79
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,d3,0.953175,0.384752,-0.0406126,1.94696,2.58293,9228,added: 79
+S19,Relaxed complete-case rule (records missing only occupation/town added back),changed target,r,1.02547,0.277821,0.307878,1.74306,2.58293,9228,added: 79
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,b65,0.902507,0.477331,-0.266551,2.07157,2.44916,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,b15,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,d1,0.771506,0.440253,-0.306743,1.84975,2.44916,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,d2,0.131001,0.297234,-0.596972,0.858974,2.44916,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,d3,1.52071,0.535664,0.208789,2.83264,2.44916,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20a,"Colonial + WWI, published covariates, unweighted",changed target,r,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,b65,-0.0193931,0.611855,-1.51834,1.47955,2.44984,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,b15,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,d1,0.151405,0.565671,-1.2344,1.53721,2.44984,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,d2,-0.170798,0.383743,-1.11091,0.769312,2.44984,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,d3,1.45036,0.756445,-0.402805,3.30353,2.44984,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20b,"Colonial + WWI, published covariates, D7 post-stratification weights",changed target,r,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,b65,1.01064,0.475829,-0.154984,2.17626,2.44967,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,b15,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,d1,0.816799,0.440129,-0.261369,1.89497,2.44967,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,d2,0.193839,0.297975,-0.536099,0.923778,2.44967,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,d3,1.61942,0.536674,0.304746,2.93409,2.44967,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20c,"Colonial + WWI, published covariates without occupation, unweighted",changed target,r,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,b65,0.110335,0.602946,-1.36658,1.58724,2.44949,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,b15,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,d1,0.201115,0.557737,-1.16506,1.56729,2.44949,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,d2,-0.09078,0.382706,-1.02821,0.846654,2.44949,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,d3,1.52072,0.766986,-0.358001,3.39945,2.44949,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S20d,"Colonial + WWI, published covariates without occupation, D7 weights",changed target,r,,,,,,3535,dropped empty: cohort1905_1914 cohort1915_1920 forceWWII
+S21_WWI,Leave out WWI,changed target,b65,-0.0559535,0.788142,-2.08842,1.97651,2.57881,6508,
+S21_WWI,Leave out WWI,changed target,b15,0.228807,0.574545,-1.25283,1.71045,2.57881,6508,
+S21_WWI,Leave out WWI,changed target,d1,0.428993,0.566819,-1.03272,1.89071,2.57881,6508,
+S21_WWI,Leave out WWI,changed target,d2,-0.484947,0.632239,-2.11537,1.14547,2.57881,6508,
+S21_WWI,Leave out WWI,changed target,d3,0.676816,0.580714,-0.820733,2.17436,2.57881,6508,
+S21_WWI,Leave out WWI,changed target,r,0.905623,0.30151,0.128088,1.68316,2.57881,6508,
+S21_SAC,Leave out SAC,changed target,b65,0.781998,0.458134,-0.400665,1.96466,2.58148,8994,
+S21_SAC,Leave out SAC,changed target,b15,0.00134373,0.449831,-1.15989,1.16257,2.58148,8994,
+S21_SAC,Leave out SAC,changed target,d1,0.676413,0.445251,-0.472995,1.82582,2.58148,8994,
+S21_SAC,Leave out SAC,changed target,d2,0.105585,0.305673,-0.683503,0.894673,2.58148,8994,
+S21_SAC,Leave out SAC,changed target,d3,1.02478,0.387241,0.025125,2.02443,2.58148,8994,
+S21_SAC,Leave out SAC,changed target,r,1.02612,0.278578,0.306979,1.74527,2.58148,8994,
+S21_CMP,Leave out CMP,changed target,b65,1.31987,0.509591,0.00536054,2.63438,2.57954,8703,
+S21_CMP,Leave out CMP,changed target,b15,0.0486856,0.455413,-1.12607,1.22344,2.57954,8703,
+S21_CMP,Leave out CMP,changed target,d1,1.03138,0.523996,-0.320287,2.38305,2.57954,8703,
+S21_CMP,Leave out CMP,changed target,d2,0.288488,0.31954,-0.535777,1.11275,2.57954,8703,
+S21_CMP,Leave out CMP,changed target,d3,0.974012,0.390572,-0.0334839,1.98151,2.57954,8703,
+S21_CMP,Leave out CMP,changed target,r,1.0227,0.280774,0.298431,1.74696,2.57954,8703,
+S21_AOF,Leave out AOF,changed target,b65,0.661287,0.470978,-0.554822,1.8774,2.58209,8856,
+S21_AOF,Leave out AOF,changed target,b15,0.0418502,0.451494,-1.12395,1.20765,2.58209,8856,
+S21_AOF,Leave out AOF,changed target,d1,0.402539,0.452107,-0.764844,1.56992,2.58209,8856,
+S21_AOF,Leave out AOF,changed target,d2,0.258748,0.317154,-0.560174,1.07767,2.58209,8856,
+S21_AOF,Leave out AOF,changed target,d3,0.987127,0.388572,-0.0162009,1.99046,2.58209,8856,
+S21_AOF,Leave out AOF,changed target,r,1.02898,0.278891,0.308856,1.7491,2.58209,8856,
+S21_WWII,Leave out WWII,changed target,b65,0.703146,0.455555,-0.414382,1.82067,2.45311,3535,
+S21_WWII,Leave out WWII,changed target,b15,,,,,,3535,
+S21_WWII,Leave out WWII,changed target,d1,0.591487,0.424465,-0.449774,1.63275,2.45311,3535,
+S21_WWII,Leave out WWII,changed target,d2,0.11166,0.305128,-0.636854,0.860173,2.45311,3535,
+S21_WWII,Leave out WWII,changed target,d3,1.00806,0.546016,-0.331375,2.3475,2.45311,3535,
+S21_WWII,Leave out WWII,changed target,r,,,,,,3535,
+S22,Drop horse-riding forces SAC and CMP,changed target,b65,1.36617,0.535491,-0.0142199,2.74656,2.5778,8548,
+S22,Drop horse-riding forces SAC and CMP,changed target,b15,0.0335874,0.456695,-1.14368,1.21086,2.5778,8548,
+S22,Drop horse-riding forces SAC and CMP,changed target,d1,1.1768,0.567337,-0.285677,2.63929,2.5778,8548,
+S22,Drop horse-riding forces SAC and CMP,changed target,d2,0.189365,0.328168,-0.656586,1.03532,2.5778,8548,
+S22,Drop horse-riding forces SAC and CMP,changed target,d3,0.994035,0.391071,-0.0140695,2.00214,2.5778,8548,
+S22,Drop horse-riding forces SAC and CMP,changed target,r,1.02762,0.281245,0.302629,1.75262,2.5778,8548,
+S23,"T2 means, ages 23-49",changed target,mean 1865_1874,175.393,0.354692,,,,318,
+S23,"T2 means, ages 23-49",changed target,mean 1875_1884,174.282,0.215829,,,,880,
+S23,"T2 means, ages 23-49",changed target,mean 1885_1894,174.047,0.166444,,,,1492,
+S23,"T2 means, ages 23-49",changed target,mean 1895_1904,173.685,0.211517,,,,1082,
+S23,"T2 means, ages 23-49",changed target,mean 1905_1914,174.471,0.131895,,,,2502,
+S23,"T2 means, ages 23-49",changed target,mean 1915_1920,174.503,0.213074,,,,998,
+S23,Family D contrasts on ages 23-49 means,changed target,e1,1.70777,0.412972,0.672932,2.74261,2.50583,7272,CI > 0
+S23,Family D contrasts on ages 23-49 means,changed target,e2,0.596593,0.302195,-0.160656,1.35384,2.50583,7272,CI includes 0
+S23,Family D contrasts on ages 23-49 means,changed target,e3,0.361835,0.269152,-0.312615,1.03629,2.50583,7272,CI includes 0
+S23,Family D contrasts on ages 23-49 means,changed target,e5,0.786115,0.24927,0.161485,1.41074,2.50583,7272,CI > 0
+S23,Family D contrasts on ages 23-49 means,changed target,e6,0.817649,0.30023300000000003,0.0653153,1.56998,2.50583,7272,CI > 0
+S24,Is the 1865-74 mean the maximum of the six cohort means?,diagnostic,m1 is max,1,,,,,9216,max cohort: 1865_1874 (175.382)

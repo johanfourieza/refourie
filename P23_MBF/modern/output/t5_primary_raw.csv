@@ -1,0 +1,2 @@
+claim_rows,estimator,N,events,n_param,beta,pl_ci_lo,pl_ci_hi,plr_p,wald_se,conv_full,conv_null,conv_ci_lo,conv_ci_hi,recovery,ml_beta_same_sample,flic_discrete_effect,flic_ci_lo,flic_ci_hi,flic_boot_B,flic_boot_failed,logistf_version
+"H3-OR,H3-P","Firth penalised logit (logistf, PL)",64,15,24,2.2681698101520054,-0.05925697468745203,7.497635556847378,0.057259183949075365,1.1754727852543685,TRUE,TRUE,TRUE,TRUE,none,9.098989189014825,0.2945824826190813,-0.2071123151833104,0.5182861605706726,1999,94,1.26.1

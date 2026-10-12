@@ -1,0 +1,26 @@
+row,quantity,estimate,lo,hi,n,note
+H1-cons,C,22.392042697719553,NA,NA,4122,share of purpose-recorded rows
+H1-land,L,27.632217370208636,NA,NA,4122,share of purpose-recorded rows
+H1-main,Delta vs Child Care,26.88015526443474,23.18508400139754,30.816426868492677,4122,simultaneous percentile CI
+H1-main,Delta vs Clothing and Shoes,26.88015526443474,23.12738281362273,30.846995215394518,4122,simultaneous percentile CI
+H1-main,Delta vs Food,22.950024260067927,18.775026383896705,27.28276035349252,4122,simultaneous percentile CI
+H1-main,Delta vs Funeral Expenses,18.34061135371179,13.767801901394037,23.101922883966747,4122,simultaneous percentile CI
+H1-main,Delta vs Household Expenditure,22.707423580786028,18.679600811239098,26.949992438071884,4122,simultaneous percentile CI
+H1-main,Delta vs Medical Expenses,26.297913634158174,22.5078669935168,30.27043292004298,4122,simultaneous percentile CI
+H1-main,Delta vs Wedding Expenses,27.607957302280447,23.943150122604813,31.474156908384934,4122,simultaneous percentile CI
+H1-main,Delta vs Other consumption,27.00145560407569,23.225801166726182,30.94495790119325,4122,simultaneous percentile CI
+H1-main,Delta vs Agricultural Output,24.57544881125667,20.558021148082236,28.79166352262925,4122,simultaneous percentile CI
+H1-main,Delta vs Cattle,18.753032508491025,14.182257226292355,23.507137718767844,4122,simultaneous percentile CI
+H1-main,Delta vs Slaves,25.52159146045609,21.65617266582555,29.568700217448775,4122,simultaneous percentile CI
+H1-main,Delta vs Wages,22.24648229015041,17.870668275961737,26.761637309181673,4122,simultaneous percentile CI
+H1-main,Delta vs Working Capital,24.090247452692868,20.03287888589353,28.278585065942707,4122,simultaneous percentile CI
+H1-main,Delta vs Other production,25.594371664240658,21.723715051320653,29.66406239224176,4122,simultaneous percentile CI
+H1-main,Delta vs Accounts,25.012130033964095,21.006859963093206,29.227275630343833,4122,simultaneous percentile CI
+H1-main,Delta vs Auctions,25.157690441533237,21.339356336440414,29.16489293963057,4122,simultaneous percentile CI
+H1-main,Delta vs Taxes,27.341096555070354,23.676250516063575,31.226559157755453,4122,simultaneous percentile CI
+H1-main,Delta vs Wares,19.50509461426492,15.011636240904533,24.180068828351256,4122,simultaneous percentile CI
+H1-main,Delta vs Donations,27.438136826783115,23.76864439088693,31.366596168826813,4122,simultaneous percentile CI
+H1-main,Delta vs Inheritance,21.85832120329937,17.181282362485696,26.431073031631936,4122,simultaneous percentile CI
+H1-main,Delta vs Other mixed,22.14944201843765,17.92162116212635,26.489677058948622,4122,simultaneous percentile CI
+H2-mag,b_slaves,0.0800813410023803,NA,NA,559,"HC3 SE NA; t_conv 8.21, t_HC1 7.08; max leverage 1.0000"
+H3-ext,b_wealth_pct,0.02529496059111474,NA,NA,565,different-estimand; HC3 undefined

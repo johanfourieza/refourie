@@ -1,0 +1,9 @@
+# P22_MEFK S6 deviations and implementation choices (card v3, commit 3c93b12)
+
+None of the items below changes a primary quantity or a verdict rule. None was informed by results: each was fixed while writing the scripts, before 02/03 were run.
+
+- **D1 (implementation, no effect on numbers): serial bootstrap.** The card fixes B = 999 and seed 20261012 but says nothing about parallelism. The company-cluster bootstrap runs serially with `set.seed(20261012)` and `sample.int` and finishes in seconds, so no parLapply/L'Ecuyer streams were needed. Results informed: no.
+- **D2 (interpretation where the card is silent): investor-level coding (sensitivity 5).** An investor is a non-empty normalised full-name key (as in S3). Their class is the modal class among their known-class rows; an investor whose rows are all unknown is unknown; a tie between modal classes is coded unknown (the card's tie rule). Location uses the same rule over known-location rows (foreign vs local). Results informed: no.
+- **D3 (interpretation): definitions behind sensitivities 1, 2 and 7.** "Unknowns excluded from the denominator" (1b) removes unknown-class rows from class shares and unknown-location rows (UL) from foreign and local shares. Bootstrap percentile intervals (2) are reported for both 1a and 1b. The leave-one-company-out range (7) uses the 1a point estimate. Sensitivities 1 and 2 also cover the competitor classes, so the plurality can be read off. Results informed: no.
+- **D4 (implementation of C1).** C1 matches the literal substring "east london" in the lower-cased address: 106 rows and £57,583, the same as Codex S5 A1. These rows lose their foreign code and fall into region "East" through the unchanged S3 East keyword list. Results informed: no.
+- No packages were installed. Nothing in original/, repro_original/, repro_r/ or compare/ was edited. 01_clean.R is a copy of repro_r/01_clean.R with the C1 switch, and its output paths point to modern/.

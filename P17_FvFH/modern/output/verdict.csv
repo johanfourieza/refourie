@@ -1,0 +1,12 @@
+claim,estimate,interval,test_p,threshold,verdict,rule,seed2_verdict,mc_flag
+FB-pt (T6_fb_defl_1757),0.7449605953661879,NA,NA,"[0.659, 0.719]",qualified (above stated value),3,qualified (above stated value),
+FB-rise,0.14528614707133236,"[0.068, 0.229]",NA,Delta > 0; CI 1-0.05/9,confirmed,1,confirmed,
+FB-steady,0.0669509293971875,"Da [-0.016, 0.157]; Db [0.019, 0.145]",NA,"all of Da,Db > 0; CI 1-0.05/9",weakened,3,weakened,
+W-pt (T8_1757_wine_contrib),0.5215191346075059,NA,NA,"[0.489, 0.549]",confirmed,1,confirmed,
+W-cmp,0.06533628743005293,"[0.045, 0.087]",NA,E > 0; CI 1-0.05/9,confirmed,1,confirmed,
+W-max,0.21602699905317801,"D_grain [0.063, 0.362]; D_cattle [0.342, 0.521]; D_sheep [0.350, 0.526]; D_pigs [0.437, 0.598]; D_horses [0.430, 0.592]",NA,"all of D_grain,D_cattle,D_sheep,D_pigs,D_horses > 0; CI 1-0.05/9",confirmed,1,confirmed,
+W-causal,NA,NA,NA,"structurally not-testable (card §0, §1)",not-testable,0,not-testable,
+WP-all-defl (T6_wp_all_defl_1700),NA,NA,NA,"structurally not-testable (card §0, §1)",not-testable,0,not-testable,
+WP-all-p57 (T6_wp_all_p1757_1700),NA,NA,NA,"structurally not-testable (card §0, §1)",not-testable,0,not-testable,
+WP-xp-defl (T6_wp_xp_defl_1700),NA,NA,NA,"structurally not-testable (card §0, §1)",not-testable,0,not-testable,
+WP-xp-p57 (T6_wp_xp_p1757_1700),NA,NA,NA,"structurally not-testable (card §0, §1)",not-testable,0,not-testable,

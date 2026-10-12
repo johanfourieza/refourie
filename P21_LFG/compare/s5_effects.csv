@@ -1,0 +1,28 @@
+scenario,claim_id,published,original_code,scenario_value,note
+base_annual,F7_all_median,0.85,,0.8359,"S3 rebuild: annual translog, ln(1+x) inputs, median of household HEC; years with negative annual centre = 0 of 22"
+base_annual,F8_all_median,0.8,,0.8454,"S3 rebuild: annual translog, ln(1+x) inputs, median of household HEC; years with negative annual centre = 0 of 22"
+base_annual,F9_1812_1817_median,0.9,,0.9005,"S3 rebuild: annual translog, ln(1+x) inputs, median of household HEC; years with negative annual centre = 5 of 22"
+ma5_of_annual_medians,F7_all_median,0.85,,0.8321,centred 5-year moving average of annual medians; years with negative annual centre = 0 of 22
+ma5_of_annual_medians,F8_all_median,0.8,,0.8432,centred 5-year moving average of annual medians; years with negative annual centre = 0 of 22
+ma5_of_annual_medians,F9_1812_1817_median,0.9,,0.9553,centred 5-year moving average of annual medians; years with negative annual centre = 4 of 22
+battese_zero_dummies,F7_all_median,0.85,,0.8367,"ln(max(x,1)) plus zero-input dummies instead of ln(1+x); years with negative annual centre = 8 of 22"
+battese_zero_dummies,F8_all_median,0.8,,1.0978,"ln(max(x,1)) plus zero-input dummies instead of ln(1+x); years with negative annual centre = 1 of 22"
+battese_zero_dummies,F9_1812_1817_median,0.9,,1.1048,"ln(max(x,1)) plus zero-input dummies instead of ln(1+x); years with negative annual centre = 3 of 22"
+output_Tot_prod,F7_all_median,0.85,,0.8359,output Tot_prod instead of Tot_prodfl (=0.06*Tot_prod; identical); years with negative annual centre = 0 of 22
+output_Tot_prod,F8_all_median,0.8,,0.8454,output Tot_prod instead of Tot_prodfl (=0.06*Tot_prod; identical); years with negative annual centre = 0 of 22
+output_Tot_prod,F9_1812_1817_median,0.9,,0.9005,output Tot_prod instead of Tot_prodfl (=0.06*Tot_prod; identical); years with negative annual centre = 5 of 22
+owners_only,F7_all_median,0.85,,0.8986,slave-owning households only (paper robustness sample); years with negative annual centre = 6 of 22
+owners_only,F8_all_median,0.8,,0.7128,slave-owning households only (paper robustness sample); years with negative annual centre = 2 of 22
+owners_only,F9_1812_1817_median,0.9,,1.1294,slave-owning households only (paper robustness sample); years with negative annual centre = 1 of 22
+drop_1828,F7_all_median,0.85,,0.8345,1828 excluded as p.6 says; years with negative annual centre = 0 of 21
+drop_1828,F8_all_median,0.8,,0.852,1828 excluded as p.6 says; years with negative annual centre = 0 of 21
+drop_1828,F9_1812_1817_median,0.9,,0.9005,1828 excluded as p.6 says; years with negative annual centre = 5 of 21
+trimmed_mean,F7_all_median,0.85,,0.7649,5%-trimmed mean of household HEC instead of median (paper says mean); years with negative annual centre = 0 of 22
+trimmed_mean,F8_all_median,0.8,,0.8271,5%-trimmed mean of household HEC instead of median (paper says mean); years with negative annual centre = 2 of 22
+trimmed_mean,F9_1812_1817_median,0.9,,0.9038,5%-trimmed mean of household HEC instead of median (paper says mean); years with negative annual centre = 7 of 22
+bootstrap_ci95_lo,F7_all_median,0.85,,0.619,199 household bootstraps within year; base spec; CI includes Cobb-Douglas value 1
+bootstrap_ci95_hi,F7_all_median,0.85,,1.114,199 household bootstraps within year; base spec
+bootstrap_ci95_lo,F8_all_median,0.8,,0.649,199 household bootstraps within year; base spec; CI includes Cobb-Douglas value 1
+bootstrap_ci95_hi,F8_all_median,0.8,,1.011,199 household bootstraps within year; base spec
+bootstrap_ci95_lo,F9_1812_1817_median,0.9,,0.704,199 household bootstraps within year; base spec; CI includes Cobb-Douglas value 1
+bootstrap_ci95_hi,F9_1812_1817_median,0.9,,1.212,199 household bootstraps within year; base spec

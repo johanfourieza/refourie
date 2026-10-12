@@ -1,0 +1,10 @@
+"sample","quantity","value"
+"primary","d(P,I)",18.1512759044357
+"primary","d(Q,I)",19.4269595416724
+"primary","d(P,Q)",9.18515830143551
+"primary","d(P,Q) G2",34.3206219235872
+"primary","d(P,Q) G2 df",9
+"primary","d(P,Q) G2 p (model-based, unclustered)",7.84701813607569e-05
+"primary","min cell P,Q",6
+"primary","Slavery farmer->farmer %",86.9098712446352
+"primary","Gold farmer->farmer % (Slavery margins)",85.505223932711

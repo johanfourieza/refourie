@@ -1,0 +1,6 @@
+# P26_NF S3: 03_figures. Black registrations by division and year (recreated cells only)
+suppressMessages({library(dplyr); library(ggplot2); library(readr); library(here)})
+d <- read_csv(here::here("P26_NF", "repro_r", "output", "division_year_counts.csv"), show_col_types = FALSE) |> filter(variant == "primary")
+g <- ggplot(d, aes(year, black, colour = division)) + geom_line() + geom_point() + labs(x = NULL, y = "Surname-matched black registrations", colour = NULL) + theme_minimal(base_size = 11)
+ggsave(here::here("P26_NF", "repro_r", "output", "fig_black_by_division.pdf"), g, width = 7, height = 4)
+ggsave(here::here("P26_NF", "repro_r", "output", "fig_black_by_division.png"), g, width = 7, height = 4, dpi = 300)

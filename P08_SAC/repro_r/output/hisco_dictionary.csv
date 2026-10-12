@@ -1,0 +1,1340 @@
+calling_norm,n_terms,hisco2,hisco_major,occ_class
+farmer,915,61,6,Farmers
+clerk,774,30,3,"Upper, middle"
+soldier,418,58,5,"Upper, middle"
+groom,305,62,6,Lower
+butcher,297,77,7,"Upper, middle"
+labourer,236,99,9,Lower
+carpenter,199,95,9,"Upper, middle"
+engineer,152,03,0,"Upper, middle"
+grocer,127,41,4,"Upper, middle"
+nil,126,00,0,"Upper, middle"
+miner,123,71,7,"Upper, middle"
+none,113,00,0,"Upper, middle"
+rancher,103,61,6,Farmers
+policeman,98,58,5,"Upper, middle"
+farrier,90,83,8,"Upper, middle"
+bricklayer,87,95,9,"Upper, middle"
+baker,86,77,7,"Upper, middle"
+coachman,80,98,9,Lower
+blacksmith,78,83,8,"Upper, middle"
+draper,77,41,4,"Upper, middle"
+gardener,68,62,6,Lower
+saddler,68,80,8,"Upper, middle"
+musician,64,17,1,"Upper, middle"
+plumber,64,87,8,"Upper, middle"
+painter,62,93,9,"Upper, middle"
+joiner,56,95,9,"Upper, middle"
+tailor,56,79,7,"Upper, middle"
+barman,54,53,5,Lower
+sailor,51,98,9,Lower
+shoeing smith,49,83,8,"Upper, middle"
+warehouseman,48,97,9,Lower
+fireman,46,98,9,Lower
+fitter,46,84,8,"Upper, middle"
+electrician,43,85,8,"Upper, middle"
+valet,42,54,5,Lower
+mason,41,95,9,"Upper, middle"
+accountant,39,11,1,"Upper, middle"
+bookkeeper,38,33,3,"Upper, middle"
+telegraphist,38,38,3,"Upper, middle"
+bank clerk,37,30,3,"Upper, middle"
+printer,37,92,9,"Upper, middle"
+traveller,37,43,4,"Upper, middle"
+chemist,35,06,0,"Upper, middle"
+commercial traveller,34,43,4,"Upper, middle"
+ironmonger,33,41,4,"Upper, middle"
+seaman,33,98,9,Lower
+waiter,33,53,5,Lower
+salesman,32,45,4,"Upper, middle"
+game keeper,30,64,6,Lower
+footman,27,54,5,Lower
+medical student,27,10,1,"Upper, middle"
+porter,27,97,9,Lower
+shoemaker,25,80,8,"Upper, middle"
+stockman,24,62,6,Lower
+horse breaker,22,62,6,Lower
+mechanic,22,84,8,"Upper, middle"
+machinist,21,83,8,"Upper, middle"
+shop assistant,21,45,4,"Upper, middle"
+surveyor,21,03,0,"Upper, middle"
+cook,20,53,5,Lower
+student,20,10,1,"Upper, middle"
+electrical engineer,19,03,0,"Upper, middle"
+engine driver,19,98,9,Lower
+moulder,19,72,7,"Upper, middle"
+wheelwright,19,81,8,"Upper, middle"
+builder,18,95,9,"Upper, middle"
+carter,18,98,9,Lower
+farm servant,18,62,6,Lower
+horse trainer,18,62,6,Lower
+police constable,18,58,5,"Upper, middle"
+postman,18,37,3,"Upper, middle"
+draughtsman,17,03,0,"Upper, middle"
+constable,16,58,5,"Upper, middle"
+drapers assistant,16,45,4,"Upper, middle"
+farming,16,61,6,Farmers
+miller,16,77,7,"Upper, middle"
+school teacher,16,13,1,"Upper, middle"
+teamster,16,98,9,Lower
+carman,15,98,9,Lower
+farm labourer,15,62,6,Lower
+stone mason,15,95,9,"Upper, middle"
+architect,14,03,0,"Upper, middle"
+dairyman,14,62,6,Lower
+gentleman,14,00,0,"Upper, middle"
+hairdresser,14,57,5,"Upper, middle"
+iron moulder,14,72,7,"Upper, middle"
+plasterer,14,95,9,"Upper, middle"
+ploughman,14,62,6,Lower
+railway porter,14,97,9,Lower
+storekeeper,14,41,4,"Upper, middle"
+coach builder,13,81,8,"Upper, middle"
+confectioner,13,77,7,"Upper, middle"
+grocers assistant,13,45,4,"Upper, middle"
+photographer,13,16,1,"Upper, middle"
+railway clerk,13,30,3,"Upper, middle"
+upholsterer,13,79,7,"Upper, middle"
+civil engineer,12,03,0,"Upper, middle"
+horse dealer,12,41,4,"Upper, middle"
+merchant,12,41,4,"Upper, middle"
+ranchman,12,62,6,Lower
+schoolmaster,12,13,1,"Upper, middle"
+carpenter & joiner,11,95,9,"Upper, middle"
+compositor,11,92,9,"Upper, middle"
+jockey,11,18,1,"Upper, middle"
+prospector,11,71,7,"Upper, middle"
+railway servant,11,99,9,Lower
+transport rider,11,98,9,Lower
+asylum attendant,10,06,0,"Upper, middle"
+cabinet maker,10,81,8,"Upper, middle"
+driver,10,98,9,Lower
+platelayer,10,95,9,"Upper, middle"
+railway guard,10,36,3,"Upper, middle"
+solicitor,10,12,1,"Upper, middle"
+weaver,10,75,7,"Upper, middle"
+auctioneer,9,44,4,"Upper, middle"
+barber,9,57,5,"Upper, middle"
+brass finisher,9,83,8,"Upper, middle"
+brewer,9,77,7,"Upper, middle"
+cowboy,9,62,6,Lower
+gamekeeper,9,64,6,Lower
+mechanical engineer,9,03,0,"Upper, middle"
+publican,9,51,5,"Upper, middle"
+tea planter,9,61,6,Farmers
+trader,9,41,4,"Upper, middle"
+tutor,9,13,1,"Upper, middle"
+watchmaker,9,84,8,"Upper, middle"
+agent,8,43,4,"Upper, middle"
+bootmaker,8,80,8,"Upper, middle"
+loco fireman,8,98,9,Lower
+lumberman,8,63,6,Lower
+mining engineer,8,03,0,"Upper, middle"
+steward,8,53,5,Lower
+storeman,8,39,3,"Upper, middle"
+armourer,7,83,8,"Upper, middle"
+cycle maker,7,84,8,"Upper, middle"
+jeweller,7,88,8,"Upper, middle"
+law clerk,7,30,3,"Upper, middle"
+marine engineer,7,04,0,"Upper, middle"
+packer,7,97,9,Lower
+ranching,7,61,6,Farmers
+servant,7,54,5,Lower
+ships steward,7,53,5,Lower
+shunter,7,98,9,Lower
+solicitors clerk,7,30,3,"Upper, middle"
+stableman,7,62,6,Lower
+stoker,7,98,9,Lower
+vanman,7,98,9,Lower
+watch maker,7,84,8,"Upper, middle"
+baker & confectioner,6,77,7,"Upper, middle"
+bookbinder,6,92,9,"Upper, middle"
+boot maker,6,80,8,"Upper, middle"
+brakesman,6,98,9,Lower
+brickmaker,6,89,8,"Upper, middle"
+cellarman,6,53,5,Lower
+collier,6,71,7,"Upper, middle"
+cycle fitter,6,84,8,"Upper, middle"
+cycle mechanic,6,84,8,"Upper, middle"
+fruiterer,6,41,4,"Upper, middle"
+harness maker,6,80,8,"Upper, middle"
+iron turner,6,83,8,"Upper, middle"
+job master,6,51,5,"Upper, middle"
+journalist,6,15,1,"Upper, middle"
+police,6,58,5,"Upper, middle"
+school master,6,13,1,"Upper, middle"
+slater,6,95,9,"Upper, middle"
+stationer,6,41,4,"Upper, middle"
+stockbroker,6,44,4,"Upper, middle"
+stone cutter,6,82,8,"Upper, middle"
+stonemason,6,95,9,"Upper, middle"
+tailors cutter,6,79,7,"Upper, middle"
+teacher,6,13,1,"Upper, middle"
+veterinary surgeon,6,06,0,"Upper, middle"
+assayer,5,01,0,"Upper, middle"
+auctioneers clerk,5,30,3,"Upper, middle"
+boiler maker,5,87,8,"Upper, middle"
+bushman,5,62,6,Lower
+cashier,5,33,3,"Upper, middle"
+constable r.i.c,5,58,5,"Upper, middle"
+decorator,5,93,9,"Upper, middle"
+drover,5,62,6,Lower
+engine cleaner,5,55,5,Lower
+estate agent,5,44,4,"Upper, middle"
+gas fitter,5,87,8,"Upper, middle"
+groom & gardener,5,62,6,Lower
+hotel manager,5,21,2,"Upper, middle"
+indoor servant,5,54,5,Lower
+n.w.m. police,5,58,5,"Upper, middle"
+outfitter,5,41,4,"Upper, middle"
+rough rider,5,62,6,Lower
+shepherd,5,62,6,Lower
+tanner,5,76,7,"Upper, middle"
+tin smith,5,87,8,"Upper, middle"
+tinsmith,5,87,8,"Upper, middle"
+turner,5,83,8,"Upper, middle"
+amalgamator,4,72,7,"Upper, middle"
+artist,4,16,1,"Upper, middle"
+attendant,4,59,5,Lower
+billiard marker,4,59,5,Lower
+butler,4,54,5,Lower
+cabman,4,98,9,Lower
+carriage smith,4,83,8,"Upper, middle"
+cattle dealer,4,41,4,"Upper, middle"
+civil service clerk,4,30,3,"Upper, middle"
+clothier,4,41,4,"Upper, middle"
+contractor,4,21,2,"Upper, middle"
+cooper,4,81,8,"Upper, middle"
+cycle engineer,4,84,8,"Upper, middle"
+cycle repairer,4,84,8,"Upper, middle"
+engine fitter,4,84,8,"Upper, middle"
+hotel proprietor,4,51,5,"Upper, middle"
+insurance agent,4,44,4,"Upper, middle"
+land agent,4,44,4,"Upper, middle"
+law student,4,10,1,"Upper, middle"
+milkman,4,45,4,"Upper, middle"
+mounted policeman,4,58,5,"Upper, middle"
+plate layer,4,95,9,"Upper, middle"
+plater,4,87,8,"Upper, middle"
+provision merchant,4,41,4,"Upper, middle"
+r.i.c,4,58,5,"Upper, middle"
+secretary,4,30,3,"Upper, middle"
+shipping clerk,4,30,3,"Upper, middle"
+shipwright,4,95,9,"Upper, middle"
+shoe maker,4,80,8,"Upper, middle"
+signalman,4,98,9,Lower
+smith,4,83,8,"Upper, middle"
+taylor,4,79,7,"Upper, middle"
+tobacconist,4,41,4,"Upper, middle"
+transport driver,4,98,9,Lower
+agriculturist,3,61,6,Farmers
+art student,3,10,1,"Upper, middle"
+basket maker,3,94,9,"Upper, middle"
+bleacher,3,75,7,"Upper, middle"
+boilermaker,3,87,8,"Upper, middle"
+boot salesman,3,45,4,"Upper, middle"
+brick maker,3,89,8,"Upper, middle"
+builders clerk,3,30,3,"Upper, middle"
+cab proprietor,3,98,9,Lower
+carpet planner,3,75,7,"Upper, middle"
+carriage builder,3,81,8,"Upper, middle"
+coach painter,3,93,9,"Upper, middle"
+coffee planter,3,61,6,Farmers
+commercial clerk,3,30,3,"Upper, middle"
+coppersmith,3,87,8,"Upper, middle"
+dispenser,3,06,0,"Upper, middle"
+driller,3,71,7,"Upper, middle"
+electric engineer,3,03,0,"Upper, middle"
+farm bailiff,3,62,6,Lower
+farm hand,3,62,6,Lower
+farmers son,3,61,6,Farmers
+fireman (loco),3,98,9,Lower
+fishmonger,3,41,4,"Upper, middle"
+glazier,3,95,9,"Upper, middle"
+grazier,3,61,6,Farmers
+grocer assistant,3,45,4,"Upper, middle"
+groom & coachman,3,62,6,Lower
+horse keeper,3,62,6,Lower
+hospital attendant,3,06,0,"Upper, middle"
+house decorator,3,93,9,"Upper, middle"
+insurance broker,3,44,4,"Upper, middle"
+iron worker,3,72,7,"Upper, middle"
+joiner & carpenter,3,95,9,"Upper, middle"
+land surveyor,3,03,0,"Upper, middle"
+locomotive fireman,3,98,9,Lower
+locomotive fitter,3,98,9,Lower
+manufacturer,3,21,2,"Upper, middle"
+mariner,3,98,9,Lower
+market gardener,3,61,6,Farmers
+merchant service,3,98,9,Lower
+mining,3,71,7,"Upper, middle"
+motorman,3,98,9,Lower
+nurseryman,3,62,6,Lower
+painter & glazier,3,93,9,"Upper, middle"
+planter,3,61,6,Farmers
+prison warder,3,58,5,"Upper, middle"
+quarryman,3,71,7,"Upper, middle"
+railway,3,99,9,Lower
+rigger,3,87,8,"Upper, middle"
+riveter,3,87,8,"Upper, middle"
+sailmaker,3,79,7,"Upper, middle"
+sanitary engineer,3,03,0,"Upper, middle"
+sheep farmer,3,61,6,Farmers
+shopman,3,45,4,"Upper, middle"
+shorthand clerk,3,32,3,"Upper, middle"
+staats artillery,3,58,5,"Upper, middle"
+steel smelter,3,72,7,"Upper, middle"
+telegraph clerk,3,38,3,"Upper, middle"
+telegraph operator,3,38,3,"Upper, middle"
+tenter,3,75,7,"Upper, middle"
+ticket collector,3,36,3,"Upper, middle"
+transport conductor,3,36,3,"Upper, middle"
+veterinary assistant,3,06,0,"Upper, middle"
+whip,3,62,6,Lower
+wood carver,3,81,8,"Upper, middle"
+apprentice shipbuilder,2,95,9,"Upper, middle"
+architects assistant,2,03,0,"Upper, middle"
+army,2,58,5,"Upper, middle"
+bailiff,2,58,5,"Upper, middle"
+barrister,2,12,1,"Upper, middle"
+boat builder,2,95,9,"Upper, middle"
+boot & shoe maker,2,80,8,"Upper, middle"
+boot manufacturer,2,21,2,"Upper, middle"
+boot trade,2,80,8,"Upper, middle"
+bottler,2,97,9,Lower
+brick burner,2,89,8,"Upper, middle"
+butler & valet,2,54,5,Lower
+caster,2,72,7,"Upper, middle"
+cattle rancher,2,61,6,Farmers
+cellar man,2,53,5,Lower
+chair maker,2,81,8,"Upper, middle"
+chauffeur,2,98,9,Lower
+cheese maker,2,77,7,"Upper, middle"
+cheesemonger,2,41,4,"Upper, middle"
+chef,2,53,5,Lower
+chemists assistant,2,06,0,"Upper, middle"
+clerk & soldier,2,30,3,"Upper, middle"
+cloth finisher,2,75,7,"Upper, middle"
+clothiers assistant,2,45,4,"Upper, middle"
+coachman & groom,2,98,9,Lower
+coal merchant,2,41,4,"Upper, middle"
+coal miner,2,71,7,"Upper, middle"
+coal porter,2,97,9,Lower
+commission agent,2,44,4,"Upper, middle"
+conductor,2,36,3,"Upper, middle"
+coremaker,2,72,7,"Upper, middle"
+currier,2,76,7,"Upper, middle"
+cycle agent,2,43,4,"Upper, middle"
+dealer,2,41,4,"Upper, middle"
+decorator/painter,2,93,9,"Upper, middle"
+deer stalker,2,64,6,Lower
+dentist,2,06,0,"Upper, middle"
+distiller,2,77,7,"Upper, middle"
+druggist,2,06,0,"Upper, middle"
+engineering,2,03,0,"Upper, middle"
+engraver,2,92,9,"Upper, middle"
+farm pupil,2,62,6,Lower
+farmer & butcher,2,61,6,Farmers
+farmer/swazi police,2,61,6,Farmers
+ferrier,2,83,8,"Upper, middle"
+fisherman,2,64,6,Lower
+fishing rod maker,2,94,9,"Upper, middle"
+fitter and turner,2,84,8,"Upper, middle"
+footman valet,2,54,5,Lower
+foreman,2,22,2,"Upper, middle"
+french polisher,2,81,8,"Upper, middle"
+fruit merchant,2,41,4,"Upper, middle"
+general smith,2,83,8,"Upper, middle"
+greengrocer,2,41,4,"Upper, middle"
+gun maker,2,83,8,"Upper, middle"
+gymnastic instructor,2,13,1,"Upper, middle"
+hair dresser,2,57,5,"Upper, middle"
+hatter,2,79,7,"Upper, middle"
+horse breeder,2,61,6,Farmers
+hosier,2,41,4,"Upper, middle"
+hotel clerk,2,30,3,"Upper, middle"
+hotel porter,2,97,9,Lower
+independent,2,00,0,"Upper, middle"
+indigo planter,2,61,6,Farmers
+insurance,2,44,4,"Upper, middle"
+ironmongers assistant,2,45,4,"Upper, middle"
+ironmoulder,2,72,7,"Upper, middle"
+keeper,2,99,9,Lower
+lace maker,2,75,7,"Upper, middle"
+lather,2,83,8,"Upper, middle"
+laundryman,2,56,5,Lower
+lawyer,2,12,1,"Upper, middle"
+leather worker,2,80,8,"Upper, middle"
+linen finisher,2,75,7,"Upper, middle"
+loco. fireman,2,98,9,Lower
+machine hand,2,83,8,"Upper, middle"
+male nurse,2,06,0,"Upper, middle"
+merchant seaman,2,98,9,Lower
+millwright,2,84,8,"Upper, middle"
+miner/soldier,2,71,7,"Upper, middle"
+mining prospector,2,71,7,"Upper, middle"
+motor mechanic,2,84,8,"Upper, middle"
+mounted police,2,58,5,"Upper, middle"
+music trade,2,41,4,"Upper, middle"
+naturalist,2,19,1,"Upper, middle"
+nothing,2,00,0,"Upper, middle"
+optician,2,06,0,"Upper, middle"
+ostler,2,62,6,Lower
+painter & decorator,2,93,9,"Upper, middle"
+paper warehouseman,2,97,9,Lower
+pattern maker,2,81,8,"Upper, middle"
+piano maker,2,94,9,"Upper, middle"
+pipe fitter,2,87,8,"Upper, middle"
+police clerk,2,30,3,"Upper, middle"
+poulterer,2,41,4,"Upper, middle"
+printers reader,2,92,9,"Upper, middle"
+rail servant,2,99,9,Lower
+railway employee,2,99,9,Lower
+railway ganger,2,22,2,"Upper, middle"
+railway shunter,2,98,9,Lower
+railway signalman,2,98,9,Lower
+rivetter,2,87,8,"Upper, middle"
+saddler & harness maker,2,80,8,"Upper, middle"
+sanitary inspector,2,22,2,"Upper, middle"
+seedsman,2,41,4,"Upper, middle"
+ship builder,2,95,9,"Upper, middle"
+ship steward,2,53,5,Lower
+shipbuilder,2,95,9,"Upper, middle"
+shopkeeper,2,41,4,"Upper, middle"
+sign writer,2,93,9,"Upper, middle"
+signalman (railway),2,98,9,Lower
+silversmith,2,88,8,"Upper, middle"
+skilled labourer,2,99,9,Lower
+soldier & chemist,2,58,5,"Upper, middle"
+soldier & clerk,2,58,5,"Upper, middle"
+solicitors apprentice,2,12,1,"Upper, middle"
+spirit salesman,2,45,4,"Upper, middle"
+spirit trade,2,41,4,"Upper, middle"
+staats artillerie,2,58,5,"Upper, middle"
+station hand,2,62,6,Lower
+steam fitter,2,87,8,"Upper, middle"
+steel worker,2,72,7,"Upper, middle"
+stenographer,2,32,3,"Upper, middle"
+stock dealer,2,41,4,"Upper, middle"
+stockrider,2,62,6,Lower
+stone driller,2,71,7,"Upper, middle"
+striker,2,83,8,"Upper, middle"
+stud groom,2,62,6,Lower
+surveyors assistant,2,03,0,"Upper, middle"
+swazi police,2,58,5,"Upper, middle"
+telegraph linesman,2,85,8,"Upper, middle"
+thatcher,2,95,9,"Upper, middle"
+trumpeter,2,17,1,"Upper, middle"
+van man,2,98,9,Lower
+veterinary student,2,10,1,"Upper, middle"
+warehouse clerk,2,30,3,"Upper, middle"
+warpdresser,2,75,7,"Upper, middle"
+weigh master,2,39,3,"Upper, middle"
+white smith,2,83,8,"Upper, middle"
+(boot) traveller,1,43,4,"Upper, middle"
+(grocer) n.w.m. police,1,58,5,"Upper, middle"
+(loco) fireman,1,98,9,Lower
+2nd mate (mercantile marine),1,04,0,"Upper, middle"
+actor,1,17,1,"Upper, middle"
+advertising contractor,1,21,2,"Upper, middle"
+agent grocer,1,43,4,"Upper, middle"
+agricultural student,1,10,1,"Upper, middle"
+agriculturalist,1,61,6,Farmers
+agriculture,1,61,6,Farmers
+aluminium furnaceman,1,72,7,"Upper, middle"
+ammunition column,1,58,5,"Upper, middle"
+analyst,1,01,0,"Upper, middle"
+apprentice,1,99,9,Lower
+apprentice fitter,1,84,8,"Upper, middle"
+"apprentice, screw & rivet works",1,99,9,Lower
+architect & draughtsman,1,03,0,"Upper, middle"
+architect - art pupil,1,03,0,"Upper, middle"
+architect asst. & clerk,1,03,0,"Upper, middle"
+architects pupil,1,10,1,"Upper, middle"
+architectural draughtsman,1,03,0,"Upper, middle"
+armourer & cycle fitter,1,83,8,"Upper, middle"
+arms smith,1,83,8,"Upper, middle"
+art,1,16,1,"Upper, middle"
+art editor,1,15,1,"Upper, middle"
+art in trans (?),1,99,9,Lower
+assayer & chemist,1,01,0,"Upper, middle"
+assayer chemist,1,01,0,"Upper, middle"
+assistant draper,1,45,4,"Upper, middle"
+assistant electrician,1,85,8,"Upper, middle"
+assistant farrier,1,83,8,"Upper, middle"
+assistant grocer,1,45,4,"Upper, middle"
+assistant rigger,1,87,8,"Upper, middle"
+assistant salesman,1,45,4,"Upper, middle"
+assistant sanitary surveyor,1,03,0,"Upper, middle"
+assistant schoolmaster,1,13,1,"Upper, middle"
+assistant storekeeper,1,45,4,"Upper, middle"
+assistant tea planter,1,61,6,Farmers
+assistant to veterinary surgeon,1,06,0,"Upper, middle"
+"assistant, linen warehouse",1,45,4,"Upper, middle"
+asylum & hospital attendant,1,06,0,"Upper, middle"
+asylum warder,1,06,0,"Upper, middle"
+athlete (pro),1,18,1,"Upper, middle"
+attendant (asylum),1,59,5,Lower
+attendant asylum,1,06,0,"Upper, middle"
+auctioneer & surveyor,1,44,4,"Upper, middle"
+auctioneer clerk,1,30,3,"Upper, middle"
+australian bushman,1,62,6,Lower
+author & composer,1,15,1,"Upper, middle"
+baiter fitter,1,84,8,"Upper, middle"
+baker & cook,1,77,7,"Upper, middle"
+baker and confectioner,1,77,7,"Upper, middle"
+baker/groom,1,77,7,"Upper, middle"
+bandsman,1,17,1,"Upper, middle"
+bank accountant,1,11,1,"Upper, middle"
+bank cashier,1,33,3,"Upper, middle"
+bank manager,1,21,2,"Upper, middle"
+banker,1,21,2,"Upper, middle"
+bar manager,1,21,2,"Upper, middle"
+barrister at law,1,12,1,"Upper, middle"
+bartender,1,53,5,Lower
+batman,1,54,5,Lower
+beamer,1,75,7,"Upper, middle"
+beer bottler,1,97,9,Lower
+bicycle maker,1,84,8,"Upper, middle"
+bicycle mechanic,1,84,8,"Upper, middle"
+bicycle worker,1,84,8,"Upper, middle"
+billiard master,1,59,5,Lower
+binder,1,92,9,"Upper, middle"
+biscuit baker,1,77,7,"Upper, middle"
+blacksmith (shoeing),1,83,8,"Upper, middle"
+blaster,1,71,7,"Upper, middle"
+bleacher & dyer,1,75,7,"Upper, middle"
+bleeder,1,99,9,Lower
+boat-swain,1,98,9,Lower
+boer,1,61,6,Farmers
+boiler maker assistant,1,87,8,"Upper, middle"
+boiler smith,1,87,8,"Upper, middle"
+book seller,1,41,4,"Upper, middle"
+bookbinder (soldier),1,92,9,"Upper, middle"
+bookbinding,1,92,9,"Upper, middle"
+booker,1,39,3,"Upper, middle"
+bookkeeper & clerk,1,33,3,"Upper, middle"
+bookkeeper & telegraphist,1,33,3,"Upper, middle"
+bookmaker,1,59,5,Lower
+bookseller,1,41,4,"Upper, middle"
+booksellers assistant,1,45,4,"Upper, middle"
+boot and leather assistant,1,80,8,"Upper, middle"
+boot and shoe manufacturer,1,80,8,"Upper, middle"
+boot cutter,1,80,8,"Upper, middle"
+boot finisher (soldier),1,80,8,"Upper, middle"
+boot trade (manager),1,80,8,"Upper, middle"
+bootmaker/postman,1,80,8,"Upper, middle"
+boots,1,54,5,Lower
+boots (hotel),1,54,5,Lower
+boundary rider,1,62,6,Lower
+boy servant/labourer,1,54,5,Lower
+brass founder,1,72,7,"Upper, middle"
+brass moulder,1,72,7,"Upper, middle"
+brass moulder & finisher,1,72,7,"Upper, middle"
+brass trimmer,1,83,8,"Upper, middle"
+breadsman,1,45,4,"Upper, middle"
+brewers traveller,1,43,4,"Upper, middle"
+bricklayer & carpenter,1,95,9,"Upper, middle"
+bricklayers labourer,1,99,9,Lower
+brickmakers foreman,1,22,2,"Upper, middle"
+bridge carpenter,1,95,9,"Upper, middle"
+broker,1,44,4,"Upper, middle"
+brush maker,1,94,9,"Upper, middle"
+builders assistant,1,95,9,"Upper, middle"
+bus conductor,1,36,3,"Upper, middle"
+bus driver,1,98,9,Lower
+bus proprietor,1,41,4,"Upper, middle"
+butcher & clerk,1,77,7,"Upper, middle"
+butcher/farmer,1,77,7,"Upper, middle"
+butter maker,1,77,7,"Upper, middle"
+c.e,1,03,0,"Upper, middle"
+c.m. rifles,1,58,5,"Upper, middle"
+c.s. clerk,1,30,3,"Upper, middle"
+cabdriver,1,98,9,Lower
+cabinet draftsman,1,03,0,"Upper, middle"
+callico printer,1,75,7,"Upper, middle"
+cambridge undergrad,1,10,1,"Upper, middle"
+canteen inspector,1,22,2,"Upper, middle"
+canteen manager,1,21,2,"Upper, middle"
+canteen steward,1,53,5,Lower
+canvasser,1,43,4,"Upper, middle"
+captain - reserves,1,58,5,"Upper, middle"
+captains steward in royal navy,1,53,5,Lower
+car conductor,1,36,3,"Upper, middle"
+car driver,1,98,9,Lower
+careman,1,99,9,Lower
+carpenter & farmer,1,95,9,"Upper, middle"
+carpenter & machineman,1,95,9,"Upper, middle"
+carpenter & wood carver,1,95,9,"Upper, middle"
+carpenter and joiner,1,95,9,"Upper, middle"
+carpenter/joiner,1,95,9,"Upper, middle"
+carpet finisher,1,75,7,"Upper, middle"
+carriage finisher,1,81,8,"Upper, middle"
+carrier,1,98,9,Lower
+carrier (groom),1,98,9,Lower
+cartwright,1,81,8,"Upper, middle"
+caterer,1,51,5,"Upper, middle"
+cattle musterer,1,62,6,Lower
+cattleman,1,62,6,Lower
+cellerman,1,53,5,Lower
+cement labourer,1,99,9,Lower
+chain maker,1,83,8,"Upper, middle"
+chartered accountant,1,11,1,"Upper, middle"
+checker,1,39,3,"Upper, middle"
+checker (books),1,39,3,"Upper, middle"
+checking clerk,1,30,3,"Upper, middle"
+chemical student,1,10,1,"Upper, middle"
+chemist & druggist,1,06,0,"Upper, middle"
+chemist apprentice,1,06,0,"Upper, middle"
+chemists storeman,1,06,0,"Upper, middle"
+china painter,1,16,1,"Upper, middle"
+cigar box maker,1,81,8,"Upper, middle"
+civil service clerk (legal dept),1,30,3,"Upper, middle"
+cleaner (railway),1,55,5,Lower
+clerk & assistant accountant,1,30,3,"Upper, middle"
+clerk & cyclemaker,1,30,3,"Upper, middle"
+clerk & gymnastics instructor,1,30,3,"Upper, middle"
+clerk & storekeeper,1,30,3,"Upper, middle"
+clerk & telegraphist,1,30,3,"Upper, middle"
+clerk & traveller,1,30,3,"Upper, middle"
+clerk & typewriter,1,30,3,"Upper, middle"
+clerk & typist,1,30,3,"Upper, middle"
+clerk (clothing),1,30,3,"Upper, middle"
+clerk (telegraph),1,30,3,"Upper, middle"
+clerk - railway,1,30,3,"Upper, middle"
+clerk and marine surveyor,1,30,3,"Upper, middle"
+clerk internal revenue,1,30,3,"Upper, middle"
+clerk shorthand typer,1,32,3,"Upper, middle"
+clerk solicitor,1,30,3,"Upper, middle"
+clicker (boot & shoe),1,80,8,"Upper, middle"
+clicker (boot trade),1,80,8,"Upper, middle"
+clockmaker,1,84,8,"Upper, middle"
+cloth lapper,1,75,7,"Upper, middle"
+clothier (salesman),1,41,4,"Upper, middle"
+coach,1,98,9,Lower
+coach business,1,41,4,"Upper, middle"
+coach driver,1,98,9,Lower
+coach smith,1,83,8,"Upper, middle"
+coach-body maker,1,81,8,"Upper, middle"
+coachbuilder,1,81,8,"Upper, middle"
+coachsmith,1,83,8,"Upper, middle"
+coal carter,1,98,9,Lower
+coal foreman,1,22,2,"Upper, middle"
+coalminer,1,71,7,"Upper, middle"
+cocoa planter,1,61,6,Farmers
+coin chandler,1,41,4,"Upper, middle"
+collector,1,31,3,"Upper, middle"
+collerman,1,53,5,Lower
+colliery agent,1,43,4,"Upper, middle"
+colonial broker,1,44,4,"Upper, middle"
+colour mixer,1,74,7,"Upper, middle"
+colourman,1,41,4,"Upper, middle"
+colt breaker,1,62,6,Lower
+commercial,1,41,4,"Upper, middle"
+composer of music,1,17,1,"Upper, middle"
+compounder,1,06,0,"Upper, middle"
+compounder - chemistry,1,06,0,"Upper, middle"
+constable (dundee met. police),1,58,5,"Upper, middle"
+constable (r.i.c.),1,58,5,"Upper, middle"
+constable in nwmp,1,58,5,"Upper, middle"
+contractors foreman,1,21,2,"Upper, middle"
+conveyancer,1,12,1,"Upper, middle"
+copper smelter,1,72,7,"Upper, middle"
+corker,1,97,9,Lower
+corn & forage merchant,1,41,4,"Upper, middle"
+corn merchant,1,41,4,"Upper, middle"
+correspondence clerk,1,30,3,"Upper, middle"
+costumier,1,79,7,"Upper, middle"
+cotton dyer,1,75,7,"Upper, middle"
+cotton manufacturer,1,21,2,"Upper, middle"
+cowboy rancher,1,61,6,Farmers
+crane driver,1,97,9,Lower
+craneman,1,97,9,Lower
+creamery agent,1,43,4,"Upper, middle"
+creamery manager,1,21,2,"Upper, middle"
+creeler (?),1,75,7,"Upper, middle"
+crown labourer,1,99,9,Lower
+crown law,1,12,1,"Upper, middle"
+currier & tanner,1,76,7,"Upper, middle"
+cutter (tailors),1,79,7,"Upper, middle"
+cyanide shiftsman,1,72,7,"Upper, middle"
+cycle builder,1,84,8,"Upper, middle"
+cycle examiner,1,84,8,"Upper, middle"
+cycle machinist,1,84,8,"Upper, middle"
+cycle salesman,1,45,4,"Upper, middle"
+cycle smith,1,84,8,"Upper, middle"
+cycle worker,1,84,8,"Upper, middle"
+dairy farmer,1,61,6,Farmers
+deliverer,1,98,9,Lower
+dental instrument maker,1,84,8,"Upper, middle"
+dental student,1,10,1,"Upper, middle"
+dental surgeon,1,06,0,"Upper, middle"
+diamond digger/butcher,1,71,7,"Upper, middle"
+diamond drill foreman,1,22,2,"Upper, middle"
+diamond worker,1,88,8,"Upper, middle"
+digger,1,71,7,"Upper, middle"
+dispatch rider,1,58,5,"Upper, middle"
+doctor of medicine,1,06,0,"Upper, middle"
+draper & farmer,1,41,4,"Upper, middle"
+drapers traveller,1,43,4,"Upper, middle"
+drapery,1,41,4,"Upper, middle"
+drapery & furnishing,1,41,4,"Upper, middle"
+draughtsman and elec. engineer,1,03,0,"Upper, middle"
+drayman,1,98,9,Lower
+drill instructor,1,13,1,"Upper, middle"
+driver-groom,1,98,9,Lower
+drover (?),1,62,6,Lower
+dyer,1,75,7,"Upper, middle"
+dyer (miner),1,75,7,"Upper, middle"
+dyers labourer,1,99,9,Lower
+elec. machinist,1,83,8,"Upper, middle"
+electrical fitter,1,85,8,"Upper, middle"
+electrician/salesman,1,85,8,"Upper, middle"
+electroplater,1,72,7,"Upper, middle"
+engine attendant,1,96,9,"Upper, middle"
+engine driver (loco),1,98,9,Lower
+engine fitters clerk,1,30,3,"Upper, middle"
+engine man,1,96,9,"Upper, middle"
+engine-fitter,1,84,8,"Upper, middle"
+engineer & practical machinist,1,03,0,"Upper, middle"
+engineer & surveyor,1,03,0,"Upper, middle"
+engineer (building),1,03,0,"Upper, middle"
+engineer (loco),1,03,0,"Upper, middle"
+engineer (telephone),1,03,0,"Upper, middle"
+engineer apprentice,1,03,0,"Upper, middle"
+engineer assistant,1,03,0,"Upper, middle"
+engineer draughtsman,1,03,0,"Upper, middle"
+engineer student,1,10,1,"Upper, middle"
+engineer/fitter,1,03,0,"Upper, middle"
+engineering student,1,10,1,"Upper, middle"
+engineers assistant,1,03,0,"Upper, middle"
+engineers turner,1,83,8,"Upper, middle"
+estate agents assistant,1,44,4,"Upper, middle"
+etcher,1,92,9,"Upper, middle"
+ex-cavalryman,1,58,5,"Upper, middle"
+explosive expert,1,03,0,"Upper, middle"
+fallsman,1,99,9,Lower
+family grocer & wine merchant,1,41,4,"Upper, middle"
+fareman,1,99,9,Lower
+farm & land agent,1,44,4,"Upper, middle"
+farm hand (ploughman),1,62,6,Lower
+farm labourer/policeman,1,62,6,Lower
+farm overseer,1,62,6,Lower
+farm steward,1,62,6,Lower
+farm-pupil,1,62,6,Lower
+farmer & engineer,1,61,6,Farmers
+farmer & gardener,1,61,6,Farmers
+farmer & horse breaker,1,61,6,Farmers
+farmer & musician,1,61,6,Farmers
+farmer & police,1,61,6,Farmers
+farmer & pro-cricketer,1,61,6,Farmers
+farmer & staats artillery,1,61,6,Farmers
+farmer & store keeper,1,61,6,Farmers
+farmer & swazi police,1,61,6,Farmers
+farmer & traveller,1,61,6,Farmers
+"farmer, mechanical engineer",1,61,6,Farmers
+farmer/draper,1,61,6,Farmers
+farmer/horse breaker,1,61,6,Farmers
+farmer/soldier,1,61,6,Farmers
+farming cattle,1,61,6,Farmers
+farrier - shoeing,1,83,8,"Upper, middle"
+fetler,1,99,9,Lower
+fibrous plasterer,1,95,9,"Upper, middle"
+filer,1,83,8,"Upper, middle"
+fine art,1,16,1,"Upper, middle"
+fine art trade,1,16,1,"Upper, middle"
+fire brigade instructor,1,13,1,"Upper, middle"
+fireman & butcher,1,98,9,Lower
+fireman (locomotive),1,98,9,Lower
+fireman/soldier,1,98,9,Lower
+fish hook maker,1,94,9,"Upper, middle"
+fishmonger & horse dealing,1,41,4,"Upper, middle"
+fishmonger/poulterer,1,41,4,"Upper, middle"
+fishmongers assistant,1,45,4,"Upper, middle"
+fitter & turner,1,84,8,"Upper, middle"
+fitter/armourer,1,84,8,"Upper, middle"
+fitters labourer,1,99,9,Lower
+fitters manager,1,21,2,"Upper, middle"
+florist,1,41,4,"Upper, middle"
+foreman a.o.d,1,22,2,"Upper, middle"
+foreman bean curer,1,22,2,"Upper, middle"
+foreman of mines,1,22,2,"Upper, middle"
+forestry,1,63,6,Lower
+forrester,1,63,6,Lower
+french correspondent,1,30,3,"Upper, middle"
+fruit growing,1,61,6,Farmers
+fruit salesman,1,45,4,"Upper, middle"
+fruiterer/florist,1,41,4,"Upper, middle"
+fur draper,1,41,4,"Upper, middle"
+furnaceman,1,72,7,"Upper, middle"
+furnishman,1,41,4,"Upper, middle"
+furniture porter,1,97,9,Lower
+furniture remover,1,97,9,Lower
+furniture salesman,1,45,4,"Upper, middle"
+furrier,1,79,7,"Upper, middle"
+game keeper & deer stalker,1,64,6,Lower
+gaoler,1,58,5,"Upper, middle"
+gardener & farming,1,62,6,Lower
+gardener/soldier,1,62,6,Lower
+gardiner,1,62,6,Lower
+gas worker,1,74,7,"Upper, middle"
+gasfitter,1,87,8,"Upper, middle"
+gen decorator,1,93,9,"Upper, middle"
+general clerk & bookkeeper,1,30,3,"Upper, middle"
+general dealer,1,41,4,"Upper, middle"
+general fitter,1,84,8,"Upper, middle"
+general porter,1,97,9,Lower
+general wholesaler,1,41,4,"Upper, middle"
+gentleman rider,1,18,1,"Upper, middle"
+gents outfitter,1,41,4,"Upper, middle"
+glass blower,1,89,8,"Upper, middle"
+glass trade,1,89,8,"Upper, middle"
+glove manufacturer,1,21,2,"Upper, middle"
+gold refiner,1,72,7,"Upper, middle"
+golf club maker,1,94,9,"Upper, middle"
+golf professional,1,18,1,"Upper, middle"
+golfer,1,18,1,"Upper, middle"
+govt servant,1,31,3,"Upper, middle"
+grain trade,1,41,4,"Upper, middle"
+grocer & baker,1,41,4,"Upper, middle"
+grocer & provision merchant,1,41,4,"Upper, middle"
+grocer (fitter),1,41,4,"Upper, middle"
+grocering,1,41,4,"Upper, middle"
+grocers clerk,1,30,3,"Upper, middle"
+grocers porter,1,97,9,Lower
+grocers van driver,1,98,9,Lower
+grocery assistant,1,45,4,"Upper, middle"
+groom & soldier,1,62,6,Lower
+groom/servant,1,62,6,Lower
+groundsman,1,62,6,Lower
+guard,1,36,3,"Upper, middle"
+gun browner,1,83,8,"Upper, middle"
+gun trade,1,83,8,"Upper, middle"
+gunmaker,1,83,8,"Upper, middle"
+gymnast,1,18,1,"Upper, middle"
+hall porter,1,97,9,Lower
+hammerman,1,83,8,"Upper, middle"
+handyman,1,99,9,Lower
+hardware merchant,1,41,4,"Upper, middle"
+hardwarehousemans assistant,1,45,4,"Upper, middle"
+hawker,1,45,4,"Upper, middle"
+hay and straw dealer,1,41,4,"Upper, middle"
+heater (iron),1,72,7,"Upper, middle"
+helper,1,99,9,Lower
+horse & cattle dealer,1,41,4,"Upper, middle"
+horse hirer,1,51,5,"Upper, middle"
+horsebreaker,1,62,6,Lower
+horticulturist,1,62,6,Lower
+hosepipe weaver,1,75,7,"Upper, middle"
+hosier shirt cutter,1,79,7,"Upper, middle"
+hosiers assistant,1,45,4,"Upper, middle"
+hospital orderly,1,06,0,"Upper, middle"
+hot-water fitter,1,87,8,"Upper, middle"
+hotel attendant,1,59,5,Lower
+hotel boots,1,54,5,Lower
+hotel keeper,1,51,5,"Upper, middle"
+hotelkeeper,1,51,5,"Upper, middle"
+house furnisher,1,41,4,"Upper, middle"
+house painter,1,93,9,"Upper, middle"
+house-painter,1,93,9,"Upper, middle"
+hunter & tea planter,1,64,6,Lower
+huntsman,1,62,6,Lower
+ice worker,1,99,9,Lower
+improver,1,99,9,Lower
+in c.m.r,1,58,5,"Upper, middle"
+india rubber manufacturer,1,21,2,"Upper, middle"
+indoor postman,1,37,3,"Upper, middle"
+inquiry agent,1,43,4,"Upper, middle"
+inspector of claims,1,22,2,"Upper, middle"
+interpreter,1,19,1,"Upper, middle"
+iron & steel worker,1,72,7,"Upper, middle"
+iron founder,1,72,7,"Upper, middle"
+iron machinist,1,83,8,"Upper, middle"
+ironmonger asst,1,45,4,"Upper, middle"
+ironmongers asst,1,45,4,"Upper, middle"
+ironplate worker,1,87,8,"Upper, middle"
+ironwork erector,1,87,8,"Upper, middle"
+j.b. mounted police,1,58,5,"Upper, middle"
+jewellers traveller,1,43,4,"Upper, middle"
+jobbing engineer,1,84,8,"Upper, middle"
+jobmaster,1,51,5,"Upper, middle"
+jobmaster/foreman,1,51,5,"Upper, middle"
+joiner & cabinet maker,1,95,9,"Upper, middle"
+joiner and carpenter,1,95,9,"Upper, middle"
+journalist & artist,1,15,1,"Upper, middle"
+kitchen porter,1,97,9,Lower
+labeller,1,97,9,Lower
+laborer,1,99,9,Lower
+labourer in cement works,1,99,9,Lower
+lace manufacturer,1,21,2,"Upper, middle"
+lace trade,1,41,4,"Upper, middle"
+laceman,1,41,4,"Upper, middle"
+lamplighter,1,55,5,Lower
+land agency & farming,1,44,4,"Upper, middle"
+land agents assistant,1,44,4,"Upper, middle"
+land steward,1,62,6,Lower
+landowner,1,61,6,Farmers
+lands agent,1,44,4,"Upper, middle"
+lap piecer,1,75,7,"Upper, middle"
+late staats artillery,1,58,5,"Upper, middle"
+launderer,1,56,5,Lower
+laundry,1,56,5,Lower
+laundry man,1,56,5,Lower
+law clerk & shorthand writer,1,30,3,"Upper, middle"
+law student & soldier,1,10,1,"Upper, middle"
+layman,1,00,0,"Upper, middle"
+lead glazier,1,95,9,"Upper, middle"
+letter press printer,1,92,9,"Upper, middle"
+library assistant,1,19,1,"Upper, middle"
+licensed retailer,1,41,4,"Upper, middle"
+licensed victualler,1,51,5,"Upper, middle"
+lieutenant - volunteer rifles,1,58,5,"Upper, middle"
+lift attendant,1,59,5,Lower
+lighterman,1,98,9,Lower
+lineman,1,85,8,"Upper, middle"
+linen manufacturer,1,21,2,"Upper, middle"
+linesman,1,85,8,"Upper, middle"
+linoleum printer,1,75,7,"Upper, middle"
+linotype cleaner,1,55,5,Lower
+lithographer,1,92,9,"Upper, middle"
+liveryman,1,51,5,"Upper, middle"
+lobster packer,1,97,9,Lower
+loco (engineer),1,98,9,Lower
+loco cleaner,1,98,9,Lower
+loco engineer,1,98,9,Lower
+lorryman,1,98,9,Lower
+lumber man,1,63,6,Lower
+m.f.h,1,62,6,Lower
+machine operator,1,83,8,"Upper, middle"
+mail courier,1,37,3,"Upper, middle"
+malster,1,77,7,"Upper, middle"
+malts man,1,77,7,"Upper, middle"
+maltster,1,77,7,"Upper, middle"
+man servant,1,54,5,Lower
+manager,1,21,2,"Upper, middle"
+manager creamery,1,21,2,"Upper, middle"
+manager of ferry,1,21,2,"Upper, middle"
+manservant,1,54,5,Lower
+manufacturing chemist,1,06,0,"Upper, middle"
+marble mason & clerk,1,82,8,"Upper, middle"
+marble polisher,1,82,8,"Upper, middle"
+marine fireman,1,98,9,Lower
+marine insurance assistant,1,44,4,"Upper, middle"
+market gardiner,1,62,6,Lower
+mason & bricklayer,1,95,9,"Upper, middle"
+mason & builder,1,95,9,"Upper, middle"
+master carman,1,98,9,Lower
+master cook,1,53,5,Lower
+master mariner,1,04,0,"Upper, middle"
+master tailor,1,79,7,"Upper, middle"
+mate: merchant service,1,04,0,"Upper, middle"
+mattress maker,1,79,7,"Upper, middle"
+mechanic fitter,1,84,8,"Upper, middle"
+mechanic/blacksmith,1,84,8,"Upper, middle"
+medical assistant,1,06,0,"Upper, middle"
+medical assistant & clerk,1,06,0,"Upper, middle"
+medical attendant & compounder of medicine,1,06,0,"Upper, middle"
+medical nurse,1,06,0,"Upper, middle"
+mercantile,1,41,4,"Upper, middle"
+merchant navy,1,98,9,Lower
+merchants assistant,1,45,4,"Upper, middle"
+met. police,1,58,5,"Upper, middle"
+metal pipe maker,1,94,9,"Upper, middle"
+metal polisher,1,83,8,"Upper, middle"
+metal roller,1,72,7,"Upper, middle"
+metal spinner,1,75,7,"Upper, middle"
+metal worker,1,87,8,"Upper, middle"
+metropolitan police,1,58,5,"Upper, middle"
+military,1,58,5,"Upper, middle"
+militia officer,1,58,5,"Upper, middle"
+milk dealer,1,41,4,"Upper, middle"
+milkman & soldier,1,45,4,"Upper, middle"
+mill hand,1,99,9,Lower
+millhand,1,99,9,Lower
+millier,1,77,7,"Upper, middle"
+millwright engineer,1,03,0,"Upper, middle"
+mine contractor,1,21,2,"Upper, middle"
+mine fitter,1,84,8,"Upper, middle"
+miner & clerk,1,71,7,"Upper, middle"
+mineral water maker,1,77,7,"Upper, middle"
+mineral water manufacturer,1,21,2,"Upper, middle"
+mineral water works,1,77,7,"Upper, middle"
+miners labourer,1,99,9,Lower
+mining agent,1,44,4,"Upper, middle"
+mining contractor,1,21,2,"Upper, middle"
+mining student,1,10,1,"Upper, middle"
+mole catcher,1,64,6,Lower
+monumental mason,1,82,8,"Upper, middle"
+motor engineer,1,84,8,"Upper, middle"
+motor-man,1,98,9,Lower
+mould maker,1,72,7,"Upper, middle"
+mounted constable,1,58,5,"Upper, middle"
+mounted messenger,1,58,5,"Upper, middle"
+musician (bandmaster),1,17,1,"Upper, middle"
+n.s.m. police,1,58,5,"Upper, middle"
+n.w. mounted police,1,58,5,"Upper, middle"
+natal police,1,58,5,"Upper, middle"
+nautical instructor,1,13,1,"Upper, middle"
+no occupation,1,00,0,"Upper, middle"
+no profession,1,00,0,"Upper, middle"
+no trade or calling,1,00,0,"Upper, middle"
+none (surveyor),1,00,0,"Upper, middle"
+none - gentleman,1,00,0,"Upper, middle"
+nurse,1,06,0,"Upper, middle"
+nurse valet,1,06,0,"Upper, middle"
+nursing attendant,1,06,0,"Upper, middle"
+nwn police,1,58,5,"Upper, middle"
+officer r.n. reserve,1,04,0,"Upper, middle"
+officer r.n.r,1,04,0,"Upper, middle"
+officer rnr,1,04,0,"Upper, middle"
+officers servant,1,54,5,Lower
+oil blender,1,74,7,"Upper, middle"
+organ builder,1,94,9,"Upper, middle"
+organist,1,17,1,"Upper, middle"
+outfitters assistant,1,45,4,"Upper, middle"
+overlooker in mill,1,22,2,"Upper, middle"
+overseer,1,22,2,"Upper, middle"
+overseer on sugar estate,1,22,2,"Upper, middle"
+p.o. clerk (telegraphist),1,30,3,"Upper, middle"
+packer & shoeing smith,1,97,9,Lower
+packing case maker,1,81,8,"Upper, middle"
+painter & writer,1,93,9,"Upper, middle"
+paper cutter,1,91,9,"Upper, middle"
+paper finisher,1,91,9,"Upper, middle"
+paper hanger,1,93,9,"Upper, middle"
+paper ruler/soldier,1,91,9,"Upper, middle"
+parliamentary clerk,1,30,3,"Upper, middle"
+pattern maker (engineer),1,81,8,"Upper, middle"
+pawn broker,1,41,4,"Upper, middle"
+pawnbroker,1,41,4,"Upper, middle"
+pay clerk,1,30,3,"Upper, middle"
+"petty officer, royal navy",1,58,5,"Upper, middle"
+"photographer, carpenter",1,16,1,"Upper, middle"
+physician,1,06,0,"Upper, middle"
+physician and surgeon,1,06,0,"Upper, middle"
+piano tuner,1,94,9,"Upper, middle"
+pianoforte maker,1,94,9,"Upper, middle"
+pile driver,1,97,9,Lower
+pilot,1,04,0,"Upper, middle"
+pilot apprentice,1,04,0,"Upper, middle"
+pipe layer,1,87,8,"Upper, middle"
+pipe maker,1,94,9,"Upper, middle"
+pipemounter,1,99,9,Lower
+piper,1,17,1,"Upper, middle"
+pit sinker,1,71,7,"Upper, middle"
+plasterer & painter,1,95,9,"Upper, middle"
+plate moulder,1,72,7,"Upper, middle"
+plateman,1,99,9,Lower
+ploughman/farmer,1,62,6,Lower
+plumber & electrical fitter,1,87,8,"Upper, middle"
+plumber & gas fitter,1,87,8,"Upper, middle"
+plumber & painter,1,87,8,"Upper, middle"
+plumber/electrical wireman,1,87,8,"Upper, middle"
+police constable (nwmp),1,58,5,"Upper, middle"
+police force,1,58,5,"Upper, middle"
+police officer,1,58,5,"Upper, middle"
+police trooper,1,58,5,"Upper, middle"
+policeman (army reservist),1,58,5,"Upper, middle"
+policeman (r.i.c.),1,58,5,"Upper, middle"
+policeman r.i.c,1,58,5,"Upper, middle"
+pork butcher,1,77,7,"Upper, middle"
+portmanteau maker,1,80,8,"Upper, middle"
+post office porter,1,97,9,Lower
+post-boy,1,37,3,"Upper, middle"
+posting master,1,51,5,"Upper, middle"
+potter,1,89,8,"Upper, middle"
+potters placer,1,89,8,"Upper, middle"
+poultry dresser,1,77,7,"Upper, middle"
+power loom tenter,1,75,7,"Upper, middle"
+press,1,92,9,"Upper, middle"
+pressman,1,92,9,"Upper, middle"
+printer compositor,1,92,9,"Upper, middle"
+process engineer,1,03,0,"Upper, middle"
+professional golfer,1,18,1,"Upper, middle"
+professional interpreter,1,19,1,"Upper, middle"
+professional nurse,1,06,0,"Upper, middle"
+professional swimmer,1,18,1,"Upper, middle"
+provision dealer,1,41,4,"Upper, middle"
+publisher,1,15,1,"Upper, middle"
+publishers assistant,1,15,1,"Upper, middle"
+pumpman,1,96,9,"Upper, middle"
+quarryman (police sergeant),1,71,7,"Upper, middle"
+rabbit trapper,1,64,6,Lower
+railroad engineer,1,98,9,Lower
+railroading,1,98,9,Lower
+railway brakesman,1,98,9,Lower
+railway carr joiner,1,95,9,"Upper, middle"
+railway checker,1,39,3,"Upper, middle"
+railway coach builder,1,81,8,"Upper, middle"
+railway engineer,1,98,9,Lower
+railway fireman,1,98,9,Lower
+railway fireman & porter,1,98,9,Lower
+railway joiner,1,95,9,"Upper, middle"
+railway policeman,1,58,5,"Upper, middle"
+railway staff clerk,1,30,3,"Upper, middle"
+railway ticket collector,1,36,3,"Upper, middle"
+railway ticket inspector,1,36,3,"Upper, middle"
+railway wagon builder,1,81,8,"Upper, middle"
+railwayman,1,99,9,Lower
+ranch overseer,1,62,6,Lower
+rancher & miner,1,61,6,Farmers
+rancher (canada),1,61,6,Farmers
+range rider,1,62,6,Lower
+ref guard ?,1,58,5,"Upper, middle"
+reporter,1,15,1,"Upper, middle"
+rigger & tent repairer,1,87,8,"Upper, middle"
+river bailiff,1,58,5,"Upper, middle"
+river police,1,58,5,"Upper, middle"
+rivitter,1,87,8,"Upper, middle"
+road making,1,95,9,"Upper, middle"
+road surveyor,1,03,0,"Upper, middle"
+roll turner,1,83,8,"Upper, middle"
+rollerman,1,72,7,"Upper, middle"
+royal irish constabulary,1,58,5,"Upper, middle"
+rubber stamp maker,1,90,9,"Upper, middle"
+ruler,1,91,9,"Upper, middle"
+saddle tree maker,1,80,8,"Upper, middle"
+saddler & traveller,1,80,8,"Upper, middle"
+sadler,1,80,8,"Upper, middle"
+safe making,1,84,8,"Upper, middle"
+sail maker,1,79,7,"Upper, middle"
+sailor (merchant service),1,98,9,Lower
+saleman,1,45,4,"Upper, middle"
+saw mill manager,1,21,2,"Upper, middle"
+sawyer,1,73,7,"Upper, middle"
+scaffolder,1,95,9,"Upper, middle"
+scholar,1,10,1,"Upper, middle"
+scout,1,58,5,"Upper, middle"
+scout - intelligence,1,58,5,"Upper, middle"
+seafaring,1,98,9,Lower
+sealer,1,64,6,Lower
+seaman & soldier,1,98,9,Lower
+seaman gunner,1,98,9,Lower
+secretarial clerk,1,30,3,"Upper, middle"
+seed merchant,1,41,4,"Upper, middle"
+seedsman (florist),1,41,4,"Upper, middle"
+served in natal police,1,58,5,"Upper, middle"
+shearer,1,62,6,Lower
+sheep station hand,1,62,6,Lower
+sheep/cattle manager,1,21,2,"Upper, middle"
+shell moulder,1,72,7,"Upper, middle"
+sheriff,1,58,5,"Upper, middle"
+ship carpenter,1,95,9,"Upper, middle"
+ship painter,1,93,9,"Upper, middle"
+shipping,1,99,9,Lower
+ships chandler,1,41,4,"Upper, middle"
+ships plater,1,87,8,"Upper, middle"
+ships store merchant,1,41,4,"Upper, middle"
+shirt cutter,1,79,7,"Upper, middle"
+shirt maker,1,79,7,"Upper, middle"
+shoe laster,1,80,8,"Upper, middle"
+shoeing farrier,1,83,8,"Upper, middle"
+shoeing smith & farrier student,1,83,8,"Upper, middle"
+shoemaker/soldier,1,80,8,"Upper, middle"
+shop keeper,1,41,4,"Upper, middle"
+shop porter,1,97,9,Lower
+shorthand clerk & typist,1,32,3,"Upper, middle"
+shorthand writer,1,32,3,"Upper, middle"
+"shorthand, writer & typist",1,32,3,"Upper, middle"
+shunter & carman,1,98,9,Lower
+shunter n.e.r,1,98,9,Lower
+sick attendant,1,06,0,"Upper, middle"
+sicknurse,1,06,0,"Upper, middle"
+sight spring maker,1,84,8,"Upper, middle"
+sign writer & coach painter,1,93,9,"Upper, middle"
+signal man,1,98,9,Lower
+signal-man,1,98,9,Lower
+signaller,1,38,3,"Upper, middle"
+silk cutter,1,79,7,"Upper, middle"
+silk mercer,1,41,4,"Upper, middle"
+silver polisher,1,88,8,"Upper, middle"
+silversmith improver,1,88,8,"Upper, middle"
+sink & bath maker,1,87,8,"Upper, middle"
+slate layer,1,95,9,"Upper, middle"
+slater and plumber,1,95,9,"Upper, middle"
+slating and draining,1,95,9,"Upper, middle"
+small arms examiner,1,83,8,"Upper, middle"
+smelter,1,72,7,"Upper, middle"
+soap maker,1,74,7,"Upper, middle"
+soda water manufacturer,1,21,2,"Upper, middle"
+soldier & butcher,1,58,5,"Upper, middle"
+soldier & groom,1,58,5,"Upper, middle"
+soldier & litho printer,1,58,5,"Upper, middle"
+soldier & musician,1,58,5,"Upper, middle"
+soldier & plumber,1,58,5,"Upper, middle"
+soldier & tailor,1,58,5,"Upper, middle"
+soldier (baker),1,58,5,"Upper, middle"
+soldier (builder),1,58,5,"Upper, middle"
+soldier (engineer),1,58,5,"Upper, middle"
+soldier (plumber),1,58,5,"Upper, middle"
+soldier (signaller),1,58,5,"Upper, middle"
+soldier (tailor),1,58,5,"Upper, middle"
+soldier (valet),1,58,5,"Upper, middle"
+soldier civil engineer,1,03,0,"Upper, middle"
+"soldier, telegraphist",1,58,5,"Upper, middle"
+soldier/barman,1,58,5,"Upper, middle"
+soldier/butcher,1,58,5,"Upper, middle"
+soldier/engine driver,1,58,5,"Upper, middle"
+soldiering,1,58,5,"Upper, middle"
+solicitors assistant,1,12,1,"Upper, middle"
+spinning overlooker,1,22,2,"Upper, middle"
+splicer,1,87,8,"Upper, middle"
+spring smith,1,83,8,"Upper, middle"
+staats artillerie corporal,1,58,5,"Upper, middle"
+"staats artillerie, telegraphist",1,58,5,"Upper, middle"
+staats srt. (?),1,58,5,"Upper, middle"
+stable boy,1,62,6,Lower
+stableman/groom,1,62,6,Lower
+staff clerk,1,30,3,"Upper, middle"
+stage driver,1,98,9,Lower
+state nurse,1,06,0,"Upper, middle"
+station manager,1,21,2,"Upper, middle"
+stationary engineer,1,96,9,"Upper, middle"
+steam crane driver,1,97,9,Lower
+steam winch driver,1,97,9,Lower
+steelworker,1,72,7,"Upper, middle"
+steeplechase jockey,1,18,1,"Upper, middle"
+stenographer (shorthand),1,32,3,"Upper, middle"
+stereotyper,1,92,9,"Upper, middle"
+stevedore,1,97,9,Lower
+stiker - blacksmith,1,83,8,"Upper, middle"
+stock broker,1,44,4,"Upper, middle"
+stock brokers clerk,1,30,3,"Upper, middle"
+stock cutter - tartan tailor,1,79,7,"Upper, middle"
+stock driver,1,98,9,Lower
+stock exchange,1,44,4,"Upper, middle"
+stock exchange clerk,1,30,3,"Upper, middle"
+stock keeper,1,39,3,"Upper, middle"
+stock raising,1,61,6,Farmers
+stock rider,1,62,6,Lower
+stock riding,1,62,6,Lower
+stockbrokers clerk,1,30,3,"Upper, middle"
+stoker - locomotive,1,98,9,Lower
+stoker loco,1,98,9,Lower
+stone & marble mason,1,82,8,"Upper, middle"
+stonebreaker,1,71,7,"Upper, middle"
+stonecutter,1,82,8,"Upper, middle"
+store keeper,1,41,4,"Upper, middle"
+store man,1,39,3,"Upper, middle"
+store manager,1,21,2,"Upper, middle"
+storekeeper & time keeper,1,41,4,"Upper, middle"
+storekeepers clerk,1,30,3,"Upper, middle"
+student at law,1,10,1,"Upper, middle"
+sub-editor (press),1,15,1,"Upper, middle"
+sub-mgr & accountant railways,1,11,1,"Upper, middle"
+sub. telegraphist,1,38,3,"Upper, middle"
+supply store manager,1,21,2,"Upper, middle"
+surveyor & land agent,1,03,0,"Upper, middle"
+surveyors chainman,1,03,0,"Upper, middle"
+swimmer,1,18,1,"Upper, middle"
+swimming instructor,1,13,1,"Upper, middle"
+tailor & hosiers assistant,1,79,7,"Upper, middle"
+tailor & musician,1,79,7,"Upper, middle"
+tailor & outfitter,1,79,7,"Upper, middle"
+tailor (soldier),1,79,7,"Upper, middle"
+tailor and cutter,1,79,7,"Upper, middle"
+tapster,1,53,5,Lower
+tattooist,1,94,9,"Upper, middle"
+tea brokers apprentice,1,44,4,"Upper, middle"
+tea planter & clerk,1,61,6,Farmers
+tea trade,1,41,4,"Upper, middle"
+telegrapher,1,38,3,"Upper, middle"
+telegraphist & signaller,1,38,3,"Upper, middle"
+telephone engineer,1,85,8,"Upper, middle"
+telephone jointer & seaman,1,85,8,"Upper, middle"
+telephonist,1,38,3,"Upper, middle"
+tent & sail maker,1,79,7,"Upper, middle"
+terracotta maker,1,89,8,"Upper, middle"
+theatrical,1,17,1,"Upper, middle"
+theatrical profession,1,17,1,"Upper, middle"
+ticket inspector,1,36,3,"Upper, middle"
+tilemaker,1,89,8,"Upper, middle"
+tiler,1,95,9,"Upper, middle"
+timber clerk,1,30,3,"Upper, middle"
+timber merchant,1,41,4,"Upper, middle"
+timber porter,1,97,9,Lower
+timber salesman,1,45,4,"Upper, middle"
+time keeper,1,39,3,"Upper, middle"
+tin worker,1,87,8,"Upper, middle"
+tinker,1,87,8,"Upper, middle"
+tinplater,1,87,8,"Upper, middle"
+tinsmith/gas fitter,1,87,8,"Upper, middle"
+tobacco operator,1,78,7,"Upper, middle"
+tool forger,1,83,8,"Upper, middle"
+tool maker,1,83,8,"Upper, middle"
+tool sharpener,1,83,8,"Upper, middle"
+toy maker,1,94,9,"Upper, middle"
+trackman,1,95,9,"Upper, middle"
+tradesman,1,41,4,"Upper, middle"
+traffic manager,1,21,2,"Upper, middle"
+train conductor,1,36,3,"Upper, middle"
+trained nurse,1,06,0,"Upper, middle"
+trainer,1,62,6,Lower
+trainer (steeplechase jockey),1,62,6,Lower
+tramcar driver,1,98,9,Lower
+transport,1,98,9,Lower
+transportation,1,98,9,Lower
+traveller & clerk,1,43,4,"Upper, middle"
+traveller (leatherware),1,43,4,"Upper, middle"
+trench polisher,1,81,8,"Upper, middle"
+trooper b.s.a.p,1,58,5,"Upper, middle"
+trucker,1,98,9,Lower
+trussman,1,97,9,Lower
+turner & engineer,1,83,8,"Upper, middle"
+turner & fitter,1,83,8,"Upper, middle"
+turner/fitter (engineer),1,83,8,"Upper, middle"
+umbrella maker,1,94,9,"Upper, middle"
+unqualified chemist,1,06,0,"Upper, middle"
+usher,1,55,5,Lower
+van driver,1,98,9,Lower
+van traveller,1,43,4,"Upper, middle"
+vanman & boat repairer,1,98,9,Lower
+veterinary,1,06,0,"Upper, middle"
+veterinary profession,1,06,0,"Upper, middle"
+veterinary surgeon pupil,1,10,1,"Upper, middle"
+victoria rifles,1,58,5,"Upper, middle"
+wagon repairer,1,81,8,"Upper, middle"
+war office clerk & elec. engineer,1,30,3,"Upper, middle"
+warder,1,58,5,"Upper, middle"
+warehouse foreman,1,22,2,"Upper, middle"
+warehouse manager,1,21,2,"Upper, middle"
+warehouse salesman,1,45,4,"Upper, middle"
+warehouseman & clerk,1,97,9,Lower
+warp dresser,1,75,7,"Upper, middle"
+watch & clock trade,1,84,8,"Upper, middle"
+watch case manufacturer,1,21,2,"Upper, middle"
+watchman,1,58,5,"Upper, middle"
+watchman/vanman,1,58,5,"Upper, middle"
+waterman,1,98,9,Lower
+well sinker,1,71,7,"Upper, middle"
+whip maker,1,80,8,"Upper, middle"
+whitesmith,1,83,8,"Upper, middle"
+wholesale chemist,1,06,0,"Upper, middle"
+wholesale confectioner,1,77,7,"Upper, middle"
+window dresser,1,45,4,"Upper, middle"
+wine & spirit merchant,1,41,4,"Upper, middle"
+wine cellarman,1,53,5,Lower
+wine merchant,1,41,4,"Upper, middle"
+wine porter,1,97,9,Lower
+wire rope splicer,1,87,8,"Upper, middle"
+wire worker,1,87,8,"Upper, middle"
+wood burner,1,63,6,Lower
+wood carter,1,98,9,Lower
+wood mechanic,1,81,8,"Upper, middle"
+wood moulder,1,72,7,"Upper, middle"
+wood turner,1,81,8,"Upper, middle"
+woodcarver,1,81,8,"Upper, middle"
+woodman,1,63,6,Lower
+woodranger,1,63,6,Lower
+wool classer,1,75,7,"Upper, middle"
+wool merchant,1,41,4,"Upper, middle"
+wool sorter,1,75,7,"Upper, middle"
+wool stapler,1,75,7,"Upper, middle"
+woollen carder,1,75,7,"Upper, middle"
+woollen manufacturer,1,21,2,"Upper, middle"
+woollen trade,1,41,4,"Upper, middle"
+woollen warehouseman,1,97,9,Lower
+worsted spinner,1,75,7,"Upper, middle"
+yeoman,1,61,6,Farmers
+z.a.r.p. standerton,1,58,5,"Upper, middle"
+zar mounted police,1,58,5,"Upper, middle"

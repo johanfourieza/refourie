@@ -1,0 +1,17 @@
+pattern,class,hisco_major,rule
+^\.$|^-+$|^none|^nil$|no occupation|^unemployed|^out of work|not stated|^n/?a$|^\?,NA,NA,1
+household|house ?hold|home ?duties|house ?duties|housewife|house-wife|at home|domestic duties|home$|housework|^spinster|^widow|^married|^wife|^daughter,NA,NA,2
+student(?! nurse)|scholar|school ?girl|school ?boy|^pupil|apprentice teacher,NA,NA,3
+retired|pensioner|annuitant|independent|gentleman|gentlewoman|private means|of means|^lady$|invalid|minor$|^full$,NA,NA,4
+domestic science|science teacher|schoolmaster|schoolmistress|student nurse|probationer nurse,prof,1,5
+cleaner|w\.a\.a\.s|\bwaas\b,sales,5,6
+merchant seaman|merchant navy,prod,9,7
+agent|broker|auctioneer|valuer|florist,sales,4,8
+nursemaid|nurse ?girl|nurse aid|nursing aid|children'?s nurse,sales,5,9
+market gardener|fruit grower|farm|agricult|gardener|dairy farmer|shepherd|herdsman|fisher|forester|woodcutter|poultry|horticult|vine dresser|vineyard,prod,6,10
+manager|manageress|director|proprietor|company secretary|administrator|superintendent|inspector|supervisor|overseer|foreman|forewoman|forelady|headmaster|principal|master mariner|official|commissioner|magistrate|mayor|councillor|executive|organiser|organizer|controller|chief ,prof,2,11
+clerk|typist|typiste|stenograph|secretary|bookkeeper|book-keeper|book keeper|cashier|teller|accounts?|accountant|audit|telephonist|telegraph|(telephone|switchboard|wireless|radio|teleprinter|comptometer|punch card|accounting machine|calculating machine) ?operator|receptionist|comptometer|office|stores? ?keeper|storeman|civil servant|post ?office|postal|postmaster|messenger|post ?man|postman|computor|computer|filing|ledger|tracer|librarian|records,prof,3,12
+teacher|lecturer|professor|tutor|governess|nurse|nursing|sister|matron|midwife|doctor|physician|surgeon|medical|dentist|dental|chemist|pharmac|engineer|architect|surveyor|draughts|draftsman|chartered|attorney|advocate|lawyer|solicitor|barrister|clergy|clergyman|minister|priest|reverend|rev\.|pastor|missionary|evangelist|curate|vicar|rector|deacon|catechist|journalist|reporter|editor|author|artist|musician|organist|\bactor\b|actress|photographer|scientist|analyst|physiotherap|radiograph|dietitian|optician|optometr|veterinar|technician|laboratory|lab\. |designer|commercial artist|social worker|welfare|interpreter|translator|pilot|navigator|officer|lieutenant|captain|major|colonel|bank|insurance|consultant|statistician|economist|quantity|draughtsman|announcer|probation,prof,0/1,13
+sales|\bshop|\bstore|merchant|dealer|trader|hawker|vendor|seller|commercial traveller|traveller|representative|canvasser|buyer|grocer|greengrocer|fruiterer|tobacconist|draper|stationer|newsagent|market|pedlar|peddler|hawk|business|retailer|wholesaler|counter hand|counterhand|cashier,sales,4,14
+domestic|servant|maid|charwoman|char-woman|cook|chef|waiter|waitress|steward|stewardess|barman|barmaid|bar ?tender|hotel|boarding|housekeeper|house keeper|caretaker|cleaner|launder|laundress|washer|washing|ironer|hairdress|barber|beauty|valet|porter|attendant|nursemaid|nanny|child|baby|companion|usherette|usher|police|constable|detective|warder|gaoler|guard|watchman|night watch|fireman$|fire brigade|soldier|sergeant|corporal|private|sapper|gunner|trooper|army|military|active service|navy|naval|air force|s\.a\.a\.f|^rating|marine$|lance corporal|bombardier|airman|signalman|sexton|verger|undertaker|hall keeper|lift|hostess|kitchen|pantry|dairy maid|nurse aid|ward maid|wardmaid|home help|help$|lady help|mother'?s help|janitor|doorman|commissionaire,sales,5,15
+.,prod,7-9,16

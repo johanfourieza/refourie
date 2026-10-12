@@ -1,0 +1,11 @@
+check,target,got,pass
+cons count = 923 (published),923,923,TRUE
+land count = 1139 (published),1139,1139,TRUE
+inheritance count = 238 (published),238,238,TRUE
+n_spec = 4122 (S5),4122,4122,TRUE
+C on data base = 22.39 (S5),22.39,22.392042697719553,TRUE
+L on data base = 27.63 (S5),27.63,27.632217370208636,TRUE
+C on base 4418 = 20.89 (published),20.89,20.891806247170667,TRUE
+L on base 4418 = 25.78 (published),25.78,25.780896333182437,TRUE
+S3 rebuild mapping C = 22.16 (S4),22.16,22.161490683229815,TRUE
+S3 rebuild mapping L = 23.35 (S4),23.35,23.354037267080745,TRUE

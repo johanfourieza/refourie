@@ -1,0 +1,321 @@
+claim_id,source,value,se,n,status_override,note
+T3_Capedistrict_n,original,126,,126,,CreatingKhoe.do *Table 2
+T3_Capedistrict_without,original,12.48496,,126,,slave productivity (no Khoesan)
+T3_Capedistrict_with,original,12.48496,,126,,productivity incl. imputed Khoesan
+T3_Stellenbosch_n,original,38,,38,,CreatingKhoe.do *Table 2
+T3_Stellenbosch_without,original,18.35405,,38,,slave productivity (no Khoesan)
+T3_Stellenbosch_with,original,8.122504,,38,,productivity incl. imputed Khoesan
+T3_Drakenstein_n,original,206,,206,,CreatingKhoe.do *Table 2
+T3_Drakenstein_without,original,15.10156,,206,,slave productivity (no Khoesan)
+T3_Drakenstein_with,original,5.575425,,206,,productivity incl. imputed Khoesan
+T3_Total_n,original,370,,370,,CreatingKhoe.do *Table 2
+T3_Total_without,original,14.54454,,370,,slave productivity (no Khoesan)
+T3_Total_with,original,8.189994,,370,,productivity incl. imputed Khoesan
+T4_Capedistrict_n,original,114,,114,,CreatingKhoe.do *Table 3
+T4_Capedistrict_without,original,0.7804779,,114,,slave productivity (no Khoesan)
+T4_Capedistrict_with,original,0.7804779,,114,,productivity incl. imputed Khoesan
+T4_Stellenbosch_n,original,54,,54,,CreatingKhoe.do *Table 3
+T4_Stellenbosch_without,original,3.252518,,54,,slave productivity (no Khoesan)
+T4_Stellenbosch_with,original,2.30758,,54,,productivity incl. imputed Khoesan
+T4_Drakenstein_n,original,152,,152,,CreatingKhoe.do *Table 3
+T4_Drakenstein_without,original,4.051261,,152,,slave productivity (no Khoesan)
+T4_Drakenstein_with,original,2.254036,,152,,productivity incl. imputed Khoesan
+T4_Total_n,original,320,,320,,CreatingKhoe.do *Table 3
+T4_Total_without,original,2.751257,,320,,slave productivity (no Khoesan)
+T4_Total_with,original,1.738116,,320,,productivity incl. imputed Khoesan
+T5_Capedistrict_n,original,321,,321,,CreatingKhoe.do *Table 4
+T5_Capedistrict_wheat_without,original,7.681725,,321,,
+T5_Capedistrict_wheat_with,original,7.681725,,321,,
+T5_Capedistrict_wheat_pct,original,0,,321,,Excel formula (D-C)/C*100 on Stata means
+T5_Capedistrict_wine_without,original,0.540666,,321,,
+T5_Capedistrict_wine_with,original,0.540666,,321,,
+T5_Capedistrict_wine_pct,original,0,,321,,Excel formula (T-S)/S*100 on Stata means
+T5_Stellenbosch_n,original,207,,207,,CreatingKhoe.do *Table 4
+T5_Stellenbosch_wheat_without,original,9.667434,,207,,
+T5_Stellenbosch_wheat_with,original,4.883664,,207,,
+T5_Stellenbosch_wheat_pct,original,-49.483347908038475,,207,,Excel formula (D-C)/C*100 on Stata means
+T5_Stellenbosch_wine_without,original,1.598169,,207,,
+T5_Stellenbosch_wine_with,original,1.046169,,207,,
+T5_Stellenbosch_wine_pct,original,-34.5395261702611,,207,,Excel formula (T-S)/S*100 on Stata means
+T5_Drakenstein_n,original,567,,567,,CreatingKhoe.do *Table 4
+T5_Drakenstein_wheat_without,original,9.542755,,567,,
+T5_Drakenstein_wheat_with,original,3.721491,,567,,
+T5_Drakenstein_wheat_pct,original,-61.00192240081611,,567,,Excel formula (D-C)/C*100 on Stata means
+T5_Drakenstein_wine_without,original,1.839146,,567,,
+T5_Drakenstein_wine_with,original,0.9643692,,567,,
+T5_Drakenstein_wine_pct,original,-47.56429342749298,,567,,Excel formula (T-S)/S*100 on Stata means
+T5_Total_n,original,1095,,1095,,CreatingKhoe.do *Table 4; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wheat_without,original,9.020762,,1095,,; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wheat_with,original,5.102135,,1095,,; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wheat_pct,original,-43.440088542409164,,1095,,Excel formula (D-C)/C*100 on Stata means; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wine_without,original,1.412941,,1095,,; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wine_with,original,0.8556238,,1095,,; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T5_Total_wine_pct,original,-39.443770122036234,,1095,,Excel formula (T-S)/S*100 on Stata means; Total row: published/Excel total (N=1096) includes one district-0 household (1773) that line 8 drops - see PATCHES.md D1
+T6_Capedistrict_s1to5_n,original,111,,111,,"N of slagprod; 'with' columns use N=111 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Capedistrict_s1to5_wheat_without,original,10.70871,,111,,"; 'with' columns use N=111 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Capedistrict_s1to5_wheat_with,original,10.70871,,111,,"; 'with' columns use N=111 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Capedistrict_s1to5_wine_without,original,0.6388889,,111,,"; 'with' columns use N=111 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Capedistrict_s1to5_wine_with,original,0.6388889,,111,,"; 'with' columns use N=111 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Stellenbosch_s1to5_n,original,131,,131,,"N of slagprod; 'with' columns use N=136 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Stellenbosch_s1to5_wheat_without,original,12.25865,,131,,"; 'with' columns use N=136 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Stellenbosch_s1to5_wheat_with,original,5.754738,,136,,"; 'with' columns use N=136 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Stellenbosch_s1to5_wine_without,original,1.600509,,131,,"; 'with' columns use N=136 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Stellenbosch_s1to5_wine_with,original,1.0624,,136,,"; 'with' columns use N=136 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Drakenstein_s1to5_n,original,422,,422,,"N of slagprod; 'with' columns use N=429 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Drakenstein_s1to5_wheat_without,original,10.39139,,422,,"; 'with' columns use N=429 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Drakenstein_s1to5_wheat_with,original,3.642291,,429,,"; 'with' columns use N=429 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Drakenstein_s1to5_wine_without,original,1.939731,,422,,"; 'with' columns use N=429 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Drakenstein_s1to5_wine_with,original,0.9665795,,429,,"; 'with' columns use N=429 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Total_s1to5_n,original,664,,664,,"N of slagprod; 'with' columns use N=676 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Total_s1to5_wheat_without,original,10.81283,,664,,"; 'with' columns use N=676 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Total_s1to5_wheat_with,original,5.227594,,676,,"; 'with' columns use N=676 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Total_s1to5_wine_without,original,1.655346,,664,,"; 'with' columns use N=676 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Total_s1to5_wine_with,original,0.9320499,,676,,"; 'with' columns use N=676 (condition slaves!=0, so farms with female slaves only enter labgprod/labwprod but not slagprod/slawprod)"
+T6_Capedistrict_s6plus_n,original,210,,210,,N of slagprod
+T6_Capedistrict_s6plus_wheat_without,original,6.081748,,210,,
+T6_Capedistrict_s6plus_wheat_with,original,6.081748,,210,,
+T6_Capedistrict_s6plus_wine_without,original,0.4887482,,210,,
+T6_Capedistrict_s6plus_wine_with,original,0.4887482,,210,,
+T6_Stellenbosch_s6plus_n,original,76,,76,,N of slagprod
+T6_Stellenbosch_s6plus_wheat_without,original,5.200993,,76,,
+T6_Stellenbosch_s6plus_wheat_with,original,3.628466,,76,,
+T6_Stellenbosch_s6plus_wine_without,original,1.594136,,76,,
+T6_Stellenbosch_s6plus_wine_with,original,1.181968,,76,,
+T6_Drakenstein_s6plus_n,original,145,,145,,N of slagprod
+T6_Drakenstein_s6plus_wheat_without,original,7.072936,,145,,
+T6_Drakenstein_s6plus_wheat_with,original,4.079573,,145,,
+T6_Drakenstein_s6plus_wine_without,original,1.546407,,145,,
+T6_Drakenstein_s6plus_wine_with,original,1.000013,,145,,
+T6_Total_s6plus_n,original,431,,431,,N of slagprod; Total row: published N=432 includes one district-0 household (PATCHES.md D1)
+T6_Total_s6plus_wheat_without,original,6.259903,,431,,; Total row: published N=432 includes one district-0 household (PATCHES.md D1)
+T6_Total_s6plus_wheat_with,original,4.975565,,431,,; Total row: published N=432 includes one district-0 household (PATCHES.md D1)
+T6_Total_s6plus_wine_without,original,1.039491,,431,,; Total row: published N=432 includes one district-0 household (PATCHES.md D1)
+T6_Total_s6plus_wine_with,original,0.7829897,,431,,; Total row: published N=432 includes one district-0 household (PATCHES.md D1)
+T1_1663_all_khoesan,original,0,,24,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1663_all_slaves,original,19,,24,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1682_all_khoesan,original,0,,83,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1682_all_slaves,original,192,,83,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1685_all_khoesan,original,121.7672,,85,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1685_all_slaves,original,222,,85,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1692_all_khoesan,original,405.5666,,215,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1692_all_slaves,original,303,,215,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1695_all_khoesan,original,380.0365,,262,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1695_all_slaves,original,533,,262,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1700_all_khoesan,original,525.8015,,269,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1700_all_slaves,original,807,,269,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1709_all_khoesan,original,1338.082,,369,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1709_all_slaves,original,1582,,369,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1712_all_khoesan,original,1297.5209,,404,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1712_all_slaves,original,1766,,404,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1719_all_khoesan,original,1075.7717,,404,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1719_all_slaves,original,2317,,404,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1723_all_khoesan,original,1433.8365,,444,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1723_all_slaves,original,2508,,444,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1731_all_khoesan,original,2015.84,,568,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1731_all_slaves,original,3590,,568,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1738_all_khoesan,original,2724.1741,,683,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1738_all_slaves,original,4769,,683,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1741_all_khoesan,original,2617.0937,,759,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1741_all_slaves,original,4495,,759,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1757_all_khoesan,original,5358.8,,1139,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1757_all_slaves,original,5007,,1139,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1773_all_khoesan,original,6842.9801,,1625,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1773_all_slaves,original,7062,,1625,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_Total_all_khoesan,original,26137.2706,,7333,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_Total_all_slaves,original,35172,,7333,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1663_csd_khoesan,original,0,,24,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1663_csd_slaves,original,19,,24,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1682_csd_khoesan,original,0,,83,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1682_csd_slaves,original,192,,83,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1685_csd_khoesan,original,121.7672,,85,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1685_csd_slaves,original,222,,85,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1692_csd_khoesan,original,405.5666,,215,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1692_csd_slaves,original,303,,215,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1695_csd_khoesan,original,380.0365,,262,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1695_csd_slaves,original,533,,262,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1700_csd_khoesan,original,525.8015,,269,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1700_csd_slaves,original,807,,269,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1709_csd_khoesan,original,1338.082,,369,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1709_csd_slaves,original,1582,,369,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1712_csd_khoesan,original,1297.5209,,404,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1712_csd_slaves,original,1766,,404,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1719_csd_khoesan,original,1075.7717,,404,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1719_csd_slaves,original,2317,,404,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1723_csd_khoesan,original,1433.8365,,444,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1723_csd_slaves,original,2508,,444,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1731_csd_khoesan,original,2015.84,,568,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1731_csd_slaves,original,3590,,568,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1738_csd_khoesan,original,2724.1741,,683,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1738_csd_slaves,original,4769,,683,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1741_csd_khoesan,original,2617.0937,,759,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1741_csd_slaves,original,4495,,759,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1757_csd_khoesan,original,2122.8513,,885,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1757_csd_slaves,original,4711,,885,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1773_csd_khoesan,original,3295.7398,,1128,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1773_csd_slaves,original,6330,,1128,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_Total_csd_khoesan,original,19354.0817,,6582,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_Total_csd_slaves,original,34144,,6582,,"sum of slaves on do-file sample; slaves: published value = this +39 in 1773/Total (district-0 household, PATCHES.md D1)"
+T1_1757_swe_khoesan,original,3235.9487,,254,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1757_swe_slaves,original,296,,254,,sum of slaves on do-file sample
+T1_1773_swe_khoesan,original,3547.2402,,497,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_1773_swe_slaves,original,732,,497,,sum of slaves on do-file sample
+T1_Total_swe_khoesan,original,6783.1889,,751,,sum of cattlekhoe (CreatingKhoe.do l.25-39) on do-file sample
+T1_Total_swe_slaves,original,1028,,751,,sum of slaves on do-file sample
+T2_Christian_Cape,original,6261,,,,input cell (General description 1790)
+T2_Christian_Stellenbosch,original,7256,,,,input cell (General description 1790)
+T2_Christian_Swellendam,original,3667,,,,input cell (General description 1790)
+T2_Christian_GraaffReinet,original,4126,,,,input cell (General description 1790)
+T2_Christian_Total,original,21310,,,,recalculated =SUM(B4:E4)
+T2_Slaves_Cape,original,11891,,,,input cell (General description 1790)
+T2_Slaves_Stellenbosch,original,1073,,,,input cell (General description 1790)
+T2_Slaves_Swellendam,original,2196,,,,input cell (General description 1790)
+T2_Slaves_GraaffReinet,original,964,,,,input cell (General description 1790)
+T2_Slaves_Total,original,16124,,,,recalculated =SUM(B5:E5)
+T2_Khoesan_Cape,original,0,,,,blank input cell (= 0)
+T2_Khoesan_Stellenbosch,original,5000,,,,input cell (General description 1790)
+T2_Khoesan_Swellendam,original,800,,,,input cell (General description 1790)
+T2_Khoesan_GraaffReinet,original,9083,,,,input cell (General description 1790)
+T2_Khoesan_Total,original,14883,,,,recalculated =SUM(B6:E6)
+T2_Totalpopulation_Cape,original,18152,,,,recalculated =SUM(B4:B6)
+T2_Totalpopulation_Stellenbosch,original,13329,,,,recalculated =SUM(C4:C6)
+T2_Totalpopulation_Swellendam,original,6663,,,,recalculated =SUM(D4:D6)
+T2_Totalpopulation_GraaffReinet,original,14173,,,,recalculated =SUM(E4:E6)
+T2_Totalpopulation_Total,original,38144,,,,recalculated =SUM(B7:D7) - formula omits Graaff-Reinet (E7=14173); full sum = 52317
+T2_Horses_Cape,original,8334,,,,input cell (General description 1790)
+T2_Horses_Stellenbosch,original,22661,,,,input cell (General description 1790)
+T2_Horses_Swellendam,original,9049,,,,input cell (General description 1790)
+T2_Horses_GraaffReinet,original,7392,,,,input cell (General description 1790)
+T2_Horses_Total,original,47436,,,,recalculated =SUM(B8:E8)
+T2_Cattle_Cape,original,20957,,,,input cell (General description 1790)
+T2_Cattle_Stellenbosch,original,59567,,,,input cell (General description 1790)
+T2_Cattle_Swellendam,original,52376,,,,input cell (General description 1790)
+T2_Cattle_GraaffReinet,original,118306,,,,input cell (General description 1790)
+T2_Cattle_Total,original,251206,,,,recalculated =SUM(B9:E9)
+T2_Sheep_Cape,original,61573,,,,input cell (General description 1790)
+T2_Sheep_Stellenbosch,original,451695,,,,input cell (General description 1790)
+T2_Sheep_Swellendam,original,154992,,,,input cell (General description 1790)
+T2_Sheep_GraaffReinet,original,780274,,,,input cell (General description 1790)
+T2_Sheep_Total,original,1448534,,,,recalculated =SUM(B10:E10)
+T2_Wineleaguers_Cape,original,768.5,,,,input cell (General description 1790)
+T2_Wineleaguers_Stellenbosch,original,7914,,,,input cell (General description 1790)
+T2_Wineleaguers_Swellendam,original,220.5,,,,input cell (General description 1790)
+T2_Wineleaguers_GraaffReinet,original,187.5,,,,input cell (General description 1790)
+T2_Wineleaguers_Total,original,9090.5,,,,recalculated =SUM(B13:E13)
+T2_Wheattarwen_Cape,original,32962,,,,input cell (General description 1790)
+T2_Wheattarwen_Stellenbosch,original,77063,,,,input cell (General description 1790)
+T2_Wheattarwen_Swellendam,original,16720,,,,input cell (General description 1790)
+T2_Wheattarwen_GraaffReinet,original,11283.5,,,,input cell (General description 1790)
+T2_Wheattarwen_Total,original,138028.5,,,,recalculated =SUM(B14:E14)
+T2_Barley_Cape,original,18819,,,,input cell (General description 1790)
+T2_Barley_Stellenbosch,original,32872,,,,input cell (General description 1790)
+T2_Barley_Swellendam,original,10554,,,,input cell (General description 1790)
+T2_Barley_GraaffReinet,original,5193.25,,,,input cell (General description 1790)
+T2_Barley_Total,original,67438.25,,,,recalculated =SUM(B15:E15)
+T2_Rye_Cape,original,529,,,,input cell (General description 1790)
+T2_Rye_Stellenbosch,original,2053,,,,input cell (General description 1790)
+T2_Rye_Total,original,2582,,,,recalculated =SUM(B16:E16)
+tx_p205_kh_1685,original,121.7672,,,,T1 1685 all regions
+tx_p205_kh_1773,original,6842.9801,,,,T1 1773 all regions
+tx_p205_kh_growth,original,3.8191645006873998,,,,Opgaafrol!J3 = (D17/D5)^(1/88)-1 uses the Cape/Stell/Drak series (121.8 -> 3295.7); the text's endpoints 122 -> 6843 give 4.68%
+tx_p205_swe_khoesan,original,6783.1889,,,,T1 Swellendam total
+tx_p205_swe_maleslaves,original,738,,,,"sum of slavemales, Swellendam 1757+1773"
+tx_p205_swe_ratio,original,6.598432782101168,,,,Opgaafrol!F21 = F18/G18 divides by ALL slaves (1028); Khoesan per male slave (738) = 9.19
+tx_p206_own_stel_1773,original,3295.7398,,,,T1 1773 Cape/Stell/Drak column
+tx_p206_gd_stel,original,5000,,,,input cell T2
+tx_p206_ratio_gr_swe,original,3.1275316455696203,,,,(800+9083)/(2196+964) from T2 inputs; no workbook formula
+tx_p204_ratio_swe_gt5,original,67.5,,,,CreatingKhoe.do l.31 (district 4)
+tx_p204_ratio_step,original,10,,,,CreatingKhoe.do l.29-31: 47.5/57.5/67.5
+tx_p204_ratio_sd_gt5,original,135,,,,"CreatingKhoe.do l.35, Drakenstein only; Stellenbosch (district 2) uses 202.5 (l.39), i.e. triple not double"
+tx_p204_ratio_sd_1to5,original,115,,,,l.34 Drakenstein; Stellenbosch uses 172.5 (l.38)
+tx_p204_ratio_sd_0,original,95,,,,l.33 Drakenstein; Stellenbosch uses 142.5 (l.37)
+tx_p208_herd1000,original,1000,,,,vherd<1000 in CreatingKhoe.do l.56-67 and productivity.do l.62
+tx_p204_botha_maleslaves,original,20,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_botha_femaleslaves,original,3,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_botha_horses,original,19,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_botha_cattle,original,250,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_botha_sheep,original,900,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_botha_herdvalue,original,3375.2000122070313,,,,"data lookup: BOTHA SR JACOBUS, Swellendam, opgaafrol 1773 (missingpeople.dta)"
+tx_p204_tas_herd,original,2041.199951171875,,,,"data lookup: TAS ADAM, Stellenbosch, opgaafrol 1709"
+tx_p204_tas_vines,original,20000,,,,"data lookup: TAS ADAM, Stellenbosch, opgaafrol 1709"
+tx_p204_tas_ratio,original,185.5636319247159,,,,Tas herd value / 11 Khoesan (text input)
+tx_p209_stel_wo,original,18.35405,,,,= T3_Stellenbosch_without
+tx_p209_stel_w,original,8.122504,,,,= T3_Stellenbosch_with
+tx_p209_drak_wo,original,15.10156,,,,= T3_Drakenstein_without
+tx_p209_drak_w,original,5.575425,,,,= T3_Drakenstein_with
+tx_p210_t5_stel_wo,original,9.667434,,,,= T5_Stellenbosch_wheat_without
+tx_p210_t5_drak_wo,original,9.542755,,,,= T5_Drakenstein_wheat_without
+tx_p210_t5_stel_w,original,4.883664,,,,= T5_Stellenbosch_wheat_with
+tx_p210_t5_drak_w,original,3.721491,,,,= T5_Drakenstein_wheat_with
+tx_p210_t6_wheat_wo_small,original,10.81283,,,,= T6_Total_s1to5_wheat_without
+tx_p210_t6_wheat_wo_large,original,6.259903,,,,= T6_Total_s6plus_wheat_without
+tx_p210_t6_wheat_w_small,original,5.227594,,,,= T6_Total_s1to5_wheat_with
+tx_p210_t6_wheat_w_large,original,4.975565,,,,= T6_Total_s6plus_wheat_with
+tx_p210_t6_wine_wo_small,original,1.655346,,,,= T6_Total_s1to5_wine_without
+tx_p210_t6_wine_wo_large,original,1.039491,,,,= T6_Total_s6plus_wine_without
+tx_p210_t6_wine_w_small,original,0.9320499,,,,= T6_Total_s1to5_wine_with
+tx_p210_t6_wine_w_large,original,0.7829897,,,,= T6_Total_s6plus_wine_with
+tx_p209_rep_1000,original,15.97632,,17,,"productivity.do l.62: 1741, Cape district, vherd<1000, grain-only"
+tx_p209_rep_1000_n,original,17,,17,,productivity.do l.62
+tx_p209_redo_wine_stel,original,4.846251,,24,,"productivity.do l.65: 1773, Stellenbosch, wine-only, vherd<1000"
+F3_1701_new,original,1499.2215671427039,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1701_fvz,original,1702.6523089400519,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1701_eng,original,1616.2525401098287,,,,"input series ('total economy'!AA, England)"
+F3_1708_new,original,1725.7561810625436,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1708_fvz,original,2112.0749813994585,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1708_eng,original,1645.7223430620907,,,,"input series ('total economy'!AA, England)"
+F3_1711_new,original,1112.3065605897325,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1711_fvz,original,1347.5230557209745,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1711_eng,original,1470.374121718209,,,,"input series ('total economy'!AA, England)"
+F3_1721_new,original,1410.7281867214815,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1721_fvz,original,1637.4322637969624,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1721_eng,original,1614.984663026617,,,,"input series ('total economy'!AA, England)"
+F3_1751_new,original,1346.2105068390197,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1751_fvz,original,1658.8677905599727,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1751_eng,original,1700.0090272240743,,,,"input series ('total economy'!AA, England)"
+F3_1773_new,original,1431.9870205457707,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1773_fvz,original,1606.7496708595368,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1773_eng,original,1794.9259972080724,,,,"input series ('total economy'!AA, England)"
+F3_1781_new,original,746.0463619684742,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1781_fvz,original,782.6843157201126,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1781_eng,original,1907.3691573453298,,,,"input series ('total economy'!AA, England)"
+F3_1791_new,original,1013.8326134236512,,,,recalculated 'total economy'!X (KhoesanGDPnew.xlsx)
+F3_1791_fvz,original,1021.3185108272813,,,,"input series (GDPcomparison_data!D, Fourie-van Zanden 2013; no formula)"
+F3_1791_eng,original,1973.5277015563227,,,,"input series ('total economy'!AA, England)"
+tx_p214_gdp_year_new,original,1710,,,,last year recalculated new GDP pc >= England
+tx_p214_gdp_year_old,original,1750,,,,last year FvZ GDP pc >= England (GDPcomparison_data D vs H)
+tx_p214_khoesan_ext,original,1758,,,,"GDP!B110:B186 (1759-1835) add $C$109, the 1757-1773 slope stored in the 1758 row"
+T7_GiniAll_fvf,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+T7_GiniAll_khoesan,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+T7_TheilBetween_fvf,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+T7_TheilBetween_khoesan,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+T7_TheilWithin_fvf,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+T7_TheilWithin_khoesan,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+tx_p213_gini_fvf,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+tx_p213_gini_kh,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+tx_p213_theil_within_fvf,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+tx_p213_theil_within_kh,original,,,,unavailable,"no code: Dataset.xlsx 'Inequality' and Dieter.xlsx hold pasted values only (cached 0.744/0.504, Theil between 0.331/0.354, within 0.669/0.387)"
+tx_p208_herd100,original,,,,unavailable,Worden replication at Rds 100/400 not scripted
+tx_p208_herd400,original,,,,unavailable,Worden replication at Rds 100/400 not scripted
+tx_p208_rep_400,original,,,,unavailable,Worden replication at Rds 100/400 not scripted
+tx_p208_rep_400_n,original,,,,unavailable,Worden replication at Rds 100/400 not scripted
+tx_p203_base_1652,original,,,,unavailable,Khoe pop!B:C baseline/FvZ series are pasted values (no formula)
+tx_p203_base_1780,original,,,,unavailable,Khoe pop!B:C baseline/FvZ series are pasted values (no formula)
+tx_p203_growth,original,,,,unavailable,Khoe pop!B:C baseline/FvZ series are pasted values (no formula)
+tx_p202_fvz_1795,original,,,,unavailable,Khoe pop!B:C baseline/FvZ series are pasted values (no formula)
+tx_p206_1806_share,original,,,,unavailable,'Aggregate Hottentots' shares are pasted values; 1806 share not in files
+tx_p207_1830s_lo,original,,,,unavailable,'Aggregate Hottentots' shares are pasted values; 1806 share not in files
+tx_p207_1830s_hi,original,,,,unavailable,'Aggregate Hottentots' shares are pasted values; 1806 share not in files
+tx_p201_elphick_pop,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p201_elphick_area,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p201_elphick_density,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p201_guelke_khoe,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p201_guelke_san,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p203_smallpox_1713,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p203_smallpox_1755,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p204_botha_clan,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p204_tas_khoesan,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p208_worden_1741,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p208_worden_cape,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p209_worden_wine_stel,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p209_worden_wine_cape,original,,,,not-attempted,"literature/anecdote input, not computed by original code"
+tx_p209_barrow_wine,original,,,,not-attempted,"literature/anecdote input, not computed by original code"

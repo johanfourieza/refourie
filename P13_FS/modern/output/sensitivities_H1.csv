@@ -1,0 +1,75 @@
+sens,what,est,lo,hi,note
+1,C on published base 4418,20.891806247170667,NA,NA,diagnostic; reproduces by construction
+1,L on published base 4418,25.780896333182437,NA,NA,
+2,"L, bonds in Mixed",11.935953420669579,NA,NA,
+2,"C, bonds in Mixed",22.392042697719553,NA,NA,unchanged
+2,Delta (bonds in Mixed) vs Child Care,11.183891314895682,9.005835401925072,13.510988354392918,
+2,Delta (bonds in Mixed) vs Clothing and Shoes,11.183891314895682,8.966423725746345,13.570030692409532,
+2,Delta (bonds in Mixed) vs Food,7.25376031052887,4.5023688484423765,10.085551631168087,
+2,Delta (bonds in Mixed) vs Funeral Expenses,2.6443474041727324,-0.34475435054476344,5.782544773814754,
+2,Delta (bonds in Mixed) vs Household Expenditure,7.011159631246969,4.50486280021995,9.653691985776339,
+2,Delta (bonds in Mixed) vs Medical Expenses,10.601649684619117,8.407864011604726,13.040425552907505,
+2,Delta (bonds in Mixed) vs Wedding Expenses,11.911693352741388,9.822534785238958,14.198981882181926,
+2,Delta (bonds in Mixed) vs Other consumption,11.305191654536634,9.16901277218919,13.651755257156807,
+2,Delta (bonds in Mixed) vs Agricultural Output,8.879184861717613,6.3851770360034825,11.515374944503087,
+2,Delta (bonds in Mixed) vs Cattle,3.0567685589519655,-0.024392799997896734,6.229601508107117,
+2,Delta (bonds in Mixed) vs Slaves,9.825327510917031,7.566200341066803,12.326212320969407,
+2,Delta (bonds in Mixed) vs Wages,6.550218340611354,3.635954144333691,9.508229471868285,
+2,Delta (bonds in Mixed) vs Working Capital,8.393983503153809,5.901353050992124,11.007388066841257,
+2,Delta (bonds in Mixed) vs Other production,9.898107714701602,7.614625132649401,12.330260418759936,
+2,Delta (bonds in Mixed) vs Accounts,9.315866084425037,6.739081406852787,11.936127427350943,
+2,Delta (bonds in Mixed) vs Auctions,9.461426491994178,7.191723402380163,11.88173824386669,
+2,Delta (bonds in Mixed) vs Taxes,11.644832605531297,9.509422225128457,13.969920299206722,
+2,Delta (bonds in Mixed) vs Wares,3.8088306647258623,0.8065068264679484,6.935054787937072,
+2,Delta (bonds in Mixed) vs Donations,11.741872877244058,9.607906089587125,14.038989542856616,
+2,Delta (bonds in Mixed) vs Inheritance,6.162057253760311,2.8833770965660035,9.3409816167324,
+2,Delta (bonds in Mixed) vs Other mixed,6.453178068898594,3.7671103232054737,9.181055282648279,
+2,Delta (bonds in Mixed) vs Bond/Bonds as own mixed row,-3.7603105288694803,-7.593309689471061,0.19248878953574436,bond rows exceed land if listed separately
+2,"min Delta over 21 competitors, bonds in Mixed",2.6443474041727324,NA,NA,argmax Funeral Expenses
+3,"C, valued rows",21.975856122197584,NA,NA,
+3,"L, valued rows",27.839369302783936,NA,NA,
+3,"min Delta, valued rows",18.723823601872382,NA,NA,
+4,"C, S3 rebuild mapping",22.161490683229815,NA,NA,
+4,"L, S3 rebuild mapping",23.354037267080745,NA,NA,
+5,C value-weighted,3.683461475735119,NA,NA,different-estimand
+5,L value-weighted,60.12456627807043,NA,NA,
+5,max competitor value share,18.683895838828196,NA,NA,argmax Inheritance
+6,"C, base = all U rows",7.30048248042395,NA,NA,different-estimand
+6,"L, base = all U rows",9.008937752115795,NA,NA,
+6,share of U rows purpose-recorded,32.60302143478605,NA,NA,
+7,"C, matched",22.37953303527074,NA,NA,n_spec 4026
+7,"L, matched",27.670144063586687,NA,NA,
+7,"min Delta, matched",18.45504222553403,NA,NA,
+7,"C, unmatched",22.916666666666668,NA,NA,n_spec 96
+7,"L, unmatched",26.041666666666668,NA,NA,
+7,"min Delta, unmatched",12.5,NA,NA,
+8,"C, Other rows dropped",23.692551505546753,NA,NA,
+8,"L, Other rows dropped",30.084521922873744,NA,NA,
+8,"min Delta, Other rows dropped",19.968304278922346,NA,NA,
+9,L - 50 (majority reading),-22.367782629791364,-24.922710388480397,-19.7128402131169,
+10,production minus consumption share,30.252304706453177,26.13450832115901,34.27405222328445,
+11,"Dmin = L - max_c s_c (v1, diagnostic)",18.34061135371179,15.02904408919751,21.35227325689784,argmax Funeral Expenses
+12,household_iden clusters (count),4160,NA,NA,household_iden unique per inventory: identical to primary
+12,decade blocks (count),19,NA,NA,purpose rows per block min/med/max 3/122/997
+12,"Delta, decade-block CI vs Child Care",26.88015526443474,20.0510114228734,40.33881394130681,
+12,"Delta, decade-block CI vs Clothing and Shoes",26.88015526443474,19.965372680723082,40.56290816677101,
+12,"Delta, decade-block CI vs Food",22.950024260067927,16.21251879921347,35.965337103697465,
+12,"Delta, decade-block CI vs Funeral Expenses",18.34061135371179,10.242984568288897,34.53918460321553,
+12,"Delta, decade-block CI vs Household Expenditure",22.707423580786028,15.166472877773023,38.162608669534066,
+12,"Delta, decade-block CI vs Medical Expenses",26.297913634158174,19.49247279402374,40.035576253832566,
+12,"Delta, decade-block CI vs Wedding Expenses",27.607957302280447,20.94776680507238,41.256085037992236,
+12,"Delta, decade-block CI vs Other consumption",27.00145560407569,20.22111844388748,40.66403372306709,
+12,"Delta, decade-block CI vs Agricultural Output",24.57544881125667,17.234291872443382,39.59233109062882,
+12,"Delta, decade-block CI vs Cattle",18.753032508491025,10.542348878088742,35.67451544294434,
+12,"Delta, decade-block CI vs Slaves",25.52159146045609,18.97378343937512,40.05752098660027,
+12,"Delta, decade-block CI vs Wages",22.24648229015041,13.38691753889406,35.3110032932342,
+12,"Delta, decade-block CI vs Working Capital",24.090247452692868,16.634716373975543,39.184463370235115,
+12,"Delta, decade-block CI vs Other production",25.594371664240658,18.758739642223563,39.7012613639869,
+12,"Delta, decade-block CI vs Accounts",25.012130033964095,17.408967404510804,38.8818216807347,
+12,"Delta, decade-block CI vs Auctions",25.157690441533237,19.077390860403217,38.28228111517919,
+12,"Delta, decade-block CI vs Taxes",27.341096555070354,20.528429077882386,41.19638888813104,
+12,"Delta, decade-block CI vs Wares",19.50509461426492,9.519442200615725,38.463104980126246,
+12,"Delta, decade-block CI vs Donations",27.438136826783115,20.84087131432782,40.92232099090923,
+12,"Delta, decade-block CI vs Inheritance",21.85832120329937,13.651665657576695,38.5553211355464,
+12,"Delta, decade-block CI vs Other mixed",22.14944201843765,14.065801447919076,33.57684067940498,
+12,decade-block: n contrasts lo<=0,0,NA,NA,undefined draws 0

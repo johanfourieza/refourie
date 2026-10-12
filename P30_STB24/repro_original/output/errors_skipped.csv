@@ -1,0 +1,5 @@
+"line","error"
+57,"`path` does not exist: 'stellenbosch_clea.xlsx'"
+58,"object 'temp_df' not found"
+61,"object 'num_columns' not found"
+64,"`path` does not exist: 'stellenbosch_clea.xlsx'"

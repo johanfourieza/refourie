@@ -1,0 +1,8 @@
+Run: 2026-10-11 10:47:16
+R version 4.5.2 (2025-10-31 ucrt)
+Script: C:/Users/johanf/Dropbox/0Claude0/1Research/Fourie_ReplicateMe/P06_FGa/repro_original/FG_Replication_Code.R
+Expressions: 118
+line 101: ERROR: 'x' must be numeric
+line 217: ERROR: object 'Districy' not found
+line 219: ERROR: object 'Crops' not found
+Errors: 3; warnings (muffled): 440543

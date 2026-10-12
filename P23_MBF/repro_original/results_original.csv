@@ -1,0 +1,287 @@
+claim_id,source,value,se,n,status_override,note
+T2_br_c1,original,0.4882203,0.1692456,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0040
+T2_n_c1,original,5077010,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_r2_c1,original,0.245,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_clus_c1,original,624,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; clusters in id_birth
+T2_ctrlind_c1,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T2_ctrlgeo_c1,original,0,,,,count of geographic controls in the code
+T2_br_c2,original,0.4099943,0.1103387,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0000
+T2_n_c2,original,5077010,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_r2_c2,original,0.2608,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_clus_c2,original,624,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; clusters in id_birth
+T2_ctrlind_c2,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T2_ctrlgeo_c2,original,8,,,,count of geographic controls in the code
+T2_br_c3,original,0.4640509,0.1667737,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0050
+T2_ia_c3,original,0.2279419,0.1328012,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0860
+T2_pi_c3,original,-0.0069248,0.0493499,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.8880
+T2_n_c3,original,5077010,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_r2_c3,original,0.2451,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_clus_c3,original,624,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; clusters in id_birth
+T2_ctrlind_c3,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T2_ctrlgeo_c3,original,0,,,,count of geographic controls in the code
+T2_br_c4,original,0.3802291,0.1116197,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0010
+T2_ia_c4,original,0.2809717,0.1269793,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.0270
+T2_pi_c4,original,0.0207078,0.0505898,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; p=0.6820
+T2_n_c4,original,5077010,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_r2_c4,original,0.2609,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt
+T2_clus_c4,original,624,,5077010,,run_t2.do (lines 44-104 of regression_analysis_220131.do); output identical to authors' 2_micro.txt; clusters in id_birth
+T2_ctrlind_c4,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T2_ctrlgeo_c4,original,8,,,,count of geographic controls in the code
+T3_br_c1,original,0.2598736,0.1496241,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0820
+T3_ia_c1,original,0.4116744,0.1469833,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0050
+T3_pi_c1,original,0.0174117,0.0745511,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.8150
+T3_n_c1,original,4738139,,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_r2_c1,original,0.2643,,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_clus_c1,original,147,,4738139,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; clusters in tribe_co_1
+T3_ctrlind_c1,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T3_ctrlgeo_c1,original,8,,,,count of geographic controls in the code
+T3_br_c2,original,0.3562949,0.1427467,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0130
+T3_ia_c2,original,0.3726508,0.1892961,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0490
+T3_pi_c2,original,0.0411563,0.0731243,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.5740
+T3_n_c2,original,4923110,,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_r2_c2,original,0.262,,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_clus_c2,original,149,,4923110,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; clusters in tribe_co_1
+T3_ctrlind_c2,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T3_ctrlgeo_c2,original,8,,,,count of geographic controls in the code
+T3_br_c3,original,0.345034,0.1406578,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0140
+T3_ia_c3,original,0.3658247,0.1881332,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0520
+T3_pi_c3,original,0.0140615,0.0863198,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.8710
+T3_n_c3,original,4623069,,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_r2_c3,original,0.2679,,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_clus_c3,original,149,,4623069,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; clusters in tribe_co_1
+T3_ctrlind_c3,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T3_ctrlgeo_c3,original,9,,,,count of geographic controls in the code; includes d_centraliz (9th control) although the table prints 8
+T3_br_c4,original,0.3455048,0.1415178,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0150
+T3_ia_c4,original,0.3739485,0.1826341,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.0410
+T3_pi_c4,original,0.060486,0.0936048,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; p=0.5180
+T3_n_c4,original,4461147,,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_r2_c4,original,0.2688,,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1
+T3_clus_c4,original,149,,4461147,,run_t3.do (lines 282-356); original code clusters on tribe_co_1; clusters in tribe_co_1
+T3_ctrlind_c4,original,5,,,,count of individual controls in the code (age i_age_age d_female d_christian rural)
+T3_ctrlgeo_c4,original,9,,,,count of geographic controls in the code; includes d_centraliz (9th control) although the table prints 8
+T4_yrschool_br_c1,original,1.07321,0.1569765,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c1,original,0.8110723,0.1235078,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c1,original,342,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c1,original,0,,,,count of controls in the code
+T4_yrschool_r2_c1,original,0.5912,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c2,original,0.4679725,0.1352414,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0010
+T4_yrschool_rho_c2,original,0.8251606,0.1245797,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c2,original,342,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c2,original,8,,,,count of controls in the code
+T4_yrschool_r2_c2,original,0.7356,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c3,original,0.9159634,0.1920414,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c3,original,0.9159819,0.0710441,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c3,original,592,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c3,original,0,,,,count of controls in the code
+T4_yrschool_r2_c3,original,0.4056,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c4,original,0.5355144,0.1711432,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0020
+T4_yrschool_rho_c4,original,0.8146626,0.0747338,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c4,original,592,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c4,original,8,,,,count of controls in the code
+T4_yrschool_r2_c4,original,0.6047,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c5,original,1.184303,0.2335318,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c5,original,0.9592673,0.0509494,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c5,original,635,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c5,original,0,,,,count of controls in the code
+T4_yrschool_r2_c5,original,0.4202,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c6,original,0.7935501,0.2136807,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c6,original,0.8329164,0.0604448,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c6,original,635,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c6,original,8,,,,count of controls in the code
+T4_yrschool_r2_c6,original,0.6344,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c7,original,1.381511,0.2522824,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c7,original,0.9785315,0.0507815,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c7,original,644,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c7,original,0,,,,count of controls in the code
+T4_yrschool_r2_c7,original,0.4952,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c8,original,1.023799,0.2358081,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c8,original,0.8838866,0.0589478,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c8,original,644,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c8,original,8,,,,count of controls in the code
+T4_yrschool_r2_c8,original,0.6765,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c9,original,1.379745,0.2690228,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c9,original,0.9860249,0.054018,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c9,original,611,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c9,original,0,,,,count of controls in the code
+T4_yrschool_r2_c9,original,0.5655,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_br_c10,original,1.027541,0.2554054,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_rho_c10,original,0.8781324,0.0611589,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt; p=0.0000
+T4_yrschool_n_c10,original,611,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_yrschool_ctrl_c10,original,8,,,,count of controls in the code
+T4_yrschool_r2_c10,original,0.7151,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_yrschool_all.txt
+T4_abcc_br_c1,original,7.064806,2.093423,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0010
+T4_abcc_rho_c1,original,0.7634098,0.1063829,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c1,original,342,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c1,original,0,,,,count of controls in the code
+T4_abcc_r2_c1,original,0.769,,342,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c2,original,3.335079,2.242771,319,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.1370
+T4_abcc_rho_c2,original,0.6533478,0.1092118,319,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c2,original,319,,319,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c2,original,9,,,,count of controls in the code; includes d_centraliz although the table prints 8
+T4_abcc_r2_c2,original,0.7833,,319,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c3,original,6.285328,1.747477,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c3,original,0.8765096,0.0743815,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c3,original,592,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c3,original,0,,,,count of controls in the code
+T4_abcc_r2_c3,original,0.6665,,592,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c4,original,3.898993,1.76067,546,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0270
+T4_abcc_rho_c4,original,0.7025704,0.0754238,546,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c4,original,546,,546,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c4,original,9,,,,count of controls in the code; includes d_centraliz although the table prints 8
+T4_abcc_r2_c4,original,0.7176,,546,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c5,original,6.744491,1.47866,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c5,original,0.9373752,0.0734559,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c5,original,635,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c5,original,0,,,,count of controls in the code
+T4_abcc_r2_c5,original,0.7178,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c6,original,5.507325,1.445662,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c6,original,0.880446,0.0688536,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c6,original,635,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c6,original,8,,,,count of controls in the code
+T4_abcc_r2_c6,original,0.7572,,635,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c7,original,5.623943,1.354757,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c7,original,0.8814173,0.0766582,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c7,original,644,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c7,original,0,,,,count of controls in the code
+T4_abcc_r2_c7,original,0.6729,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c8,original,4.721161,1.317501,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c8,original,0.7982587,0.0717207,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c8,original,644,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c8,original,8,,,,count of controls in the code
+T4_abcc_r2_c8,original,0.727,,644,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c9,original,6.052056,1.157364,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c9,original,1.02445,0.0890442,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c9,original,611,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c9,original,0,,,,count of controls in the code
+T4_abcc_r2_c9,original,0.5953,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_br_c10,original,5.404782,1.127984,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_rho_c10,original,0.90566,0.0811623,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt; p=0.0000
+T4_abcc_n_c10,original,611,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_abcc_ctrl_c10,original,8,,,,count of controls in the code
+T4_abcc_r2_c10,original,0.6753,,611,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); output identical to authors' 1_abcc_all.txt
+T4_gini_br_c1,original,-0.073632,0.0237437,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0020
+T4_gini_rho_c1,original,0.4322241,0.1543613,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0050
+T4_gini_n_c1,original,320,,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c1,original,0,,,,count of controls in the code
+T4_gini_r2_c1,original,0.4983,,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c2,original,-0.0341935,0.0242795,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.1590
+T4_gini_rho_c2,original,0.3174278,0.1638852,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0530
+T4_gini_n_c2,original,320,,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c2,original,8,,,,count of controls in the code
+T4_gini_r2_c2,original,0.5577,,320,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c3,original,-0.0747439,0.0169321,570,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c3,original,1.072833,0.066337,570,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c3,original,570,,570,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c3,original,0,,,,count of controls in the code
+T4_gini_r2_c3,original,0.5638,,570,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c4,original,-0.047597,0.016522,524,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0040
+T4_gini_rho_c4,original,0.8548335,0.0712934,524,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c4,original,524,,524,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c4,original,9,,,,count of controls in the code; includes d_centraliz although the table prints 8
+T4_gini_r2_c4,original,0.7224,,524,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c5,original,-0.0932409,0.0194072,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c5,original,1.051497,0.0542107,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c5,original,613,,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c5,original,0,,,,count of controls in the code
+T4_gini_r2_c5,original,0.5877,,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c6,original,-0.072795,0.0184026,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c6,original,0.9405149,0.0611026,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c6,original,613,,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c6,original,8,,,,count of controls in the code
+T4_gini_r2_c6,original,0.7284,,613,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c7,original,-0.0996514,0.0206976,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c7,original,1.113029,0.0731953,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c7,original,622,,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c7,original,0,,,,count of controls in the code
+T4_gini_r2_c7,original,0.6409,,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c8,original,-0.0805286,0.0198232,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c8,original,1.023287,0.0680199,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c8,original,622,,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c8,original,8,,,,count of controls in the code
+T4_gini_r2_c8,original,0.7509,,622,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c9,original,-0.0966863,0.0222263,589,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_rho_c9,original,1.095901,0.072019,589,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c9,original,589,,589,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c9,original,0,,,,count of controls in the code
+T4_gini_r2_c9,original,0.6676,,589,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_br_c10,original,-0.0675252,0.0217687,539,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0020
+T4_gini_rho_c10,original,0.8863799,0.0744677,539,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run; p=0.0000
+T4_gini_n_c10,original,539,,539,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T4_gini_ctrl_c10,original,9,,,,count of controls in the code; includes d_centraliz although the table prints 8
+T4_gini_r2_c10,original,0.7975,,539,,run_t4.do (lines 128-1226 of spatial ...(no ethnic regression).do); authors' surviving 1_gini_all.txt is an older d_lead_eth run
+T5_mission_c1,original,1.160955,0.5198104,155,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt; p=0.0260
+T5_n_c1,original,155,,155,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_r2_c1,original,0.046,,155,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_mission_c2,original,1.976112,0.8829687,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt; p=0.0250
+T5_n_c2,original,94,,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_r2_c2,original,0.1623,,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_mission_c3,original,2.433393,1.193022,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt; p=0.0410
+T5_n_c3,original,94,,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_r2_c3,original,0.2188,,94,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_mission_c4,original,7.855309,3.308603,64,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt; p=0.0180
+T5_n_c4,original,64,,64,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+T5_r2_c4,original,0.3999,,64,,run_t5.do (lines 484-535 of 1.4_leaders and murdock (not included).do); output identical to authors' 3_dbirthethnic.txt
+text_p1575_sum,original,0.6612008,,5077010,,T2 col 4 Birth Region + interaction (original run)
+text_p1575_or,original,1.937117029,,5077010,,exp(T2 col 4 b1+b2) (original run)
+text_p1575_32pct,original,32.44161224,,5077010,,"100*(exp(interaction)-1), T2 col 4; the text's 32% equals exp(.28)-1"
+text_p1563_countries,original,11,,5077010,,country FE levels in the T2 logits (10 dummies + base)
+text_p1571_indiv,original,5077010,,5077010,,"T2 estimation N; text says 'more than 5 million' (threshold claim, satisfied)"
+text_p1563_leaders,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1572_6of11,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1570_n623,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1570_n201,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1570_sd20,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn15_sd_comb,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn15_mean_comb,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn15_sd_first,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn15_mean_first,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1579_max645,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1579_min34,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn1_thyolo40,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_fn1_thyolo60,original,,,,unavailable,no surviving original code output for this number within S2 scope
+text_p1592_bal_ids,original,592,,1776,ambiguous,"balanced panel built in run_t4.do (lines 227-251, xtdes) has 592 ids x 3 decades; appendix panel (633/1899) not produced by the Table 4 code"
+text_p1592_bal_obs,original,1776,,1776,ambiguous,592 x 3 from the same xtdes; see text_p1592_bal_ids
+T1_r1_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r1_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r1_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r1_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r2_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r2_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r2_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r2_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r3_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r3_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r3_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r3_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r4_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r4_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r4_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r4_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r5_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r5_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r5_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r5_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r6_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r6_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r6_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r6_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r7_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r7_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r7_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r7_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r8_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r8_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r8_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r8_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r9_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r9_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r9_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r9_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r10_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r10_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r10_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r10_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r11_indep,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r11_census,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r11_bd0,original,,,,unavailable,Table 1 has no generating code or output file (S1)
+T1_r11_bd1,original,,,,unavailable,Table 1 has no generating code or output file (S1)

@@ -1,0 +1,6 @@
+check,value,target,pass
+1 K1-K5 off vs S2 fig5 means,2.8421709430404e-14,< 1e-6,TRUE
+1 K1-K5 off vs S2 fig6 Ginis,1.11022302462516e-16,< 1e-6,TRUE
+2 K4 off vs S5 all_fixes_base1795 index,5.6843418860808e-14,< 1e-6,TRUE
+2 K4 off vs S5 all_fixes_base1795 Ginis,1.11022302462516e-16,< 1e-6,TRUE
+4 owner rows before 1830,55940,55940,TRUE

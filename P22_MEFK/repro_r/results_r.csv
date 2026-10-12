@@ -1,0 +1,120 @@
+claim_id,source,value,se,n,status_override,note
+T2_r1_share,r,5.26961,,816,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r2_share,r,6.25,,64,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r3_share,r,0.265018,,1132,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r4_share,r,3.73609,,1258,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r5_share,r,9.65517,,290,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r6_share,r,1.47059,,204,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T2_r7_share,r,6.31868,,2912,,RE-CODING foreign share of investors in class (unit assumed: investors)
+T3_r1_N,r,1118.73,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r1_E,r,2924.26,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r1_W,r,773.578,,187,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r2_N,r,200,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r2_E,r,350,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r2_W,r,262,,187,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r3_N,r,11177,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r3_E,r,61051,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r3_W,r,16150,,187,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r4_N,r,2,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r4_E,r,12,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r4_W,r,2,,187,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r5_N,r,2608.78,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r5_E,r,9648.58,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r5_W,r,1656.42,,187,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r6_N,r,83905,,75,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r6_E,r,122819,,42,,RE-CODING diversified = >1 company by name; region from address towns
+T3_r6_W,r,144659,,187,,RE-CODING diversified = >1 company by name; region from address towns
+TX_n_shareholders,r,6845,,6845,,"direct: non-empty shareholder rows, Sheet3 (2018 transcription)"
+TX_n_companies,r,285,,6845,,direct: distinct company records with >=1 shareholder row
+TX_missing_occ,r,42.542,,6845,,direct: occupation blank/'.'/'?'
+TX_co_1892act,r,200,,455,,direct: Sheet2 founding year 1892-1897 (1892-1896: 159)
+TX_co_1861act,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_africans_share,r,0.219138,,6845,,direct: Language = Xhosa
+TX_men,r,93.8776,,6664,,RE-CODING light: gender/title fields; entities by name pattern
+TX_women,r,5.16206,,6664,,RE-CODING light: gender/title fields
+TX_entities,r,0.960384,,6664,,RE-CODING light: entity name pattern
+TX_foreign_cap_8,r,4.86486,,6845,,RE-CODING address outside Africa; share of shareholders (paper wording ambiguous)
+TX_foreign_uk,r,94.2943,,333,,RE-CODING country from address
+TX_foreign_nl,r,2.4024,,333,,RE-CODING country from address
+TX_foreign_de,r,1.8018,,333,,RE-CODING country from address
+TX_foreign_be,r,0.3003,,333,,RE-CODING country from address
+TX_brit_london,r,78.3439,,314,,RE-CODING London/E.C./Stock Exchange in address
+TX_brit_family,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_transvaal_9296,r,13,,83,,"RE-CODING Transvaal address, company founded 1892-1896, distinct names"
+TX_transvaal_9702,r,65,,83,,"RE-CODING Transvaal address, company founded 1897-1902, distinct names"
+TX_local,r,95.1351,,6845,,RE-CODING address not outside Africa
+TX_mid_inv,r,18.3784,,6845,,RE-CODING investor class from occupation text
+TX_farm_inv,r,16.5376,,6845,,RE-CODING investor class from occupation text
+TX_bus_inv,r,11.9211,,6845,,RE-CODING investor class from occupation text
+TX_rent_inv,r,4.23667,,6845,,RE-CODING investor class from occupation text
+TX_work_inv,r,2.98028,,6845,,RE-CODING investor class from occupation text
+TX_comp_inv,r,0.934989,,6845,,RE-CODING investor class from occupation text
+TX_afr_n,r,15,,6845,,direct: Language = Xhosa
+TX_afr_cap,r,270,,15,,"direct: sum of Value, Language = Xhosa"
+TX_cap_mid,r,15.9956,,6708,,RE-CODING class share of summed Value
+TX_cap_bus,r,19.7319,,6708,,RE-CODING class share of summed Value
+TX_cap_rent,r,4.54306,,6708,,RE-CODING class share of summed Value
+TX_cap_farm,r,2.37901,,6708,,RE-CODING class share of summed Value
+TX_cap_comp,r,3.33556,,6708,,RE-CODING class share of summed Value
+TX_cap_work,r,1.21683,,6708,,RE-CODING class share of summed Value
+TX_cap_noinfo,r,50.1074,,6708,,RE-CODING class share of summed Value
+TX_cap_foreign,r,11.3595,,6708,,RE-CODING foreign share of summed Value
+TX_fc_rent,r,12.2667,,333,,RE-CODING class share of foreign Value
+TX_fc_bus,r,15.3489,,333,,RE-CODING class share of foreign Value
+TX_fc_comp,r,14.2107,,333,,RE-CODING class share of foreign Value
+TX_fc_mid,r,6.69326,,333,,RE-CODING class share of foreign Value
+TX_fc_wf,r,0.0712271,,333,,RE-CODING class share of foreign Value
+TX_fc_noinfo,r,35.4363,,333,,RE-CODING class share of foreign Value
+TX_popgrowth,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_urban1891,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_eur_share,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_1895_foreign_inv,r,3.47107,,605,,RE-CODING companies founded 1895
+TX_1895_foreign_cap,r,47.5447,,605,,RE-CODING companies founded 1895
+TX_1895_rent_inv,r,40,,10,,"RE-CODING foreign share within class, 1895 companies"
+TX_1895_rent_cap,r,97.1592,,10,,"RE-CODING foreign Value share within class, 1895 companies"
+TX_1895_bus_inv,r,2.83019,,106,,"RE-CODING foreign share within class, 1895 companies"
+TX_1895_bus_cap,r,1.10254,,106,,"RE-CODING foreign Value share within class, 1895 companies"
+TX_1895_mid_inv,r,1.07527,,186,,"RE-CODING foreign share within class, 1895 companies"
+TX_1895_mid_cap,r,0.303914,,186,,"RE-CODING foreign Value share within class, 1895 companies"
+TX_1896_foreign,r,0.473934,,211,,RE-CODING companies founded 1896
+TX_women_mid_inv,r,12.7186,,1258,,RE-CODING subgroup share of class investors
+TX_women_mid_cap,r,22.8456,,1258,,RE-CODING subgroup share of class Value
+TX_lmc_inv,r,39.9841,,1258,,RE-CODING subgroup share of class investors
+TX_lmc_cap,r,29.8321,,1258,,RE-CODING subgroup share of class Value
+TX_umc_inv,r,41.8124,,1258,,RE-CODING subgroup share of class investors
+TX_umc_cap,r,35.2098,,1258,,RE-CODING subgroup share of class Value
+TX_gent_inv,r,82.069,,290,,RE-CODING subgroup share of class investors
+TX_gent_cap,r,78.0802,,290,,RE-CODING subgroup share of class Value
+TX_lady_inv,r,9.65517,,290,,RE-CODING subgroup share of class investors
+TX_lady_cap,r,1.00342,,290,,RE-CODING subgroup share of class Value
+TX_land_inv,r,8.27586,,290,,RE-CODING subgroup share of class investors
+TX_land_cap,r,20.9164,,290,,RE-CODING subgroup share of class Value
+TX_merch,r,42.402,,816,,RE-CODING subgroup share of businessmen investors
+TX_genbus,r,34.3137,,816,,RE-CODING subgroup share of businessmen investors
+TX_capitalists,r,10.5392,,816,,RE-CODING subgroup share of businessmen investors
+TX_manuf,r,4.28922,,816,,RE-CODING subgroup share of businessmen investors
+TX_contr,r,8.45588,,816,,RE-CODING subgroup share of businessmen investors
+TX_pam,r,38800,,2,,"direct: rows with surname Pam in 1895 companies, summed Value"
+TX_multi,r,5.18519,,6210,,RE-CODING investor identity = normalised full name
+TX_single,r,94.8148,,6210,,RE-CODING investor identity = normalised full name
+TX_div_bus,r,14.8794,,746,,RE-CODING name identity + class
+TX_div_farm,r,2.14753,,1071,,RE-CODING name identity + class
+TX_ramsay_n,r,10,,10,,"direct-ish: A. Ramsay rows (name match), distinct companies"
+TX_ramsay_cap,r,156,,10,,"direct-ish: A. Ramsay rows, summed Value"
+TX_silb_cap,r,827,,5,,"direct-ish: C. Silberbauer rows, summed Value, 5 companies"
+TX_found_mid,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_railway,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_family_net,r,38.9335,,6845,,RE-CODING shares surname with another shareholder in same company (address ignored)
+TX_afrik,r,98.2387,,2044,,RE-CODING Language=Dutch as proxy for Afrikaans names; another Dutch shareholder in company
+TX_dist100,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_dist_op,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_med_office,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_med_oper,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_sector_mid_first,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_sector_mid_second,r,,,,unavailable,"inputs do not survive (geocoding, founders, sector scheme, external sources, or 1861 almanac company list)"
+TX_fmin_inv,r,29.4294,,333,,RE-CODING sector from Nature_of_Business; foreign investors in mining
+TX_fmin_cap,r,42.4895,,333,,RE-CODING foreign Value in mining
+TX_ffin_inv,r,0.900901,,333,,RE-CODING foreign investors in financial companies
+TX_ffin_cap,r,0.392617,,333,,RE-CODING foreign Value in financial companies
+TX_mid_mining,r,22.496,,1258,,RE-CODING middle-class rows in mining companies
+TX_bus_mining,r,16.6667,,816,,RE-CODING businessmen rows in mining companies

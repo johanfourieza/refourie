@@ -1,0 +1,20 @@
+# P11_FJS S6: deviations from, and implementation notes on, the frozen method card
+
+Card: `modern/method_card.md`, v3, frozen at commit d59616d (A9). No analysis outside the card was added. No package was installed. Total runtime is about 2.5 minutes (bootstrap 128 s; `output/bootstrap_run_info.csv`), so no replication count was reduced. A full clean re-run of 01–07 reproduced the bootstrap outputs byte for byte (md5). **No S6 estimate informed any item below.** D2 was prompted by the outcome of the §4 check itself, as stated there.
+
+**D1. Script layout and file names.** The card names `01_tax.R` to `06_verdicts.R`, and those names are used. Two files were added: `00_common.R` (the tax construction, share rules and E-prog functions shared by all scripts) and `07_figures.R` (range plot). Following the task instructions, the verdict file is `output/verdict.csv`, with `output/primary.csv`, `output/sensitivities.csv` and `output/summary.csv` (§8 coverage and weakest verdict). The §4 checks are in `output/check_corrections_off.csv`, `check_image9_cells.csv` and `check_missing.csv`.
+
+**D2. Stata float storage in the §4 Image 9 digit check (prompted by the check, not by any S6 estimate).** With the corrections switched off and computed in double precision, 69 of the 70 Image 9 pastes (`Deciles!Q12:W21`) match to every printed digit (7 significant digits). The exception is 1731 decile 7: 501.75055 against the pasted 501.7506. `fiscalpolicy.do` stores every generated variable as a Stata float (`gen … = 0`). `tax_off_float()` reproduces that storage (each generated variable is rounded to IEEE single precision, as Stata stores it). It then matches the S2 run-A1 household `totaltax` exactly (max |diff| = 0) and all 70 pastes. The household check (≤ 0.01 st) passes either way (0.0016 st in double). The double-arithmetic count is kept in the check file as a diagnostic. The float emulation is used only for this check and for S1, which the card describes as reproducing Image 9. The primary and every other item use double precision. For W24 (a formula on the 7-digit pastes) the tolerance is 5e-5 pp.
+
+**D3. Stata `xtile` in R.** S1, S2 and the §4 check need `egen … xtile(tslaves), by(jaar) p(10(10)90)` (egenmore `_gxtile` 2.1). `xtile10()` uses `_pctile`'s default percentile definition and `_gxtile`'s assignment rule (group = 1 + number of cut points below the value). It equals the Stata `slavesdecile` for all 13,770 retained records.
+
+**D4. District-cluster bootstrap (§5B ii): missing `ds`.** The card says to state the number of districts but does not say how to treat the 12 records with missing `ds` in 1773. Following the stratified rule in (i) ("missing `ds` as its own stratum"), they form their own cluster. That gives 3 clusters in 1700 and 5 in 1773 (4 districts plus the missing group). This was decided before the run. With so few clusters the interval indicates direction only (card §10.5).
+
+**D5. Small details the card leaves open.**
+- *E-prog decile rates.* The decile rates use fractional decile weights: record i's expected mass in tenth j under random tie-breaking, i.e. the overlap of its tie group's position interval with ((j−1)k, jk] divided by the tie-group size. For decile 10 this is exactly the card's §3 weight.
+- *Concentration indices.* C = 2·cov(y, F)/mean(y), with F = (mid-rank − 0.5)/n.
+- *Undefined draws.* In a few draws the bottom deciles hold no farm output, so their tax-to-output rate is infinite: deciles 1–5 in 1773 (2 of 9,999 draws) and in 1757 (5 draws). As §5B requires, no draw is dropped, and those ten intervals are reported as undefined with the count (`eprog_boot.csv`, `n_undefined`). No SP-rise draw is undefined.
+- *B for diagnostics (i) and (ii).* Both use B = 9,999, the card's fixed B.
+- *MC SE of m-out-of-n endpoints.* The lower endpoint S − q₀.₉₇₅(d*) takes the batch MC SE of q₀.₉₇₅, and the upper endpoint that of q₀.₀₂₅.
+- *S11(d).* No record with missing `ds` belongs to U_t, so S11(d) equals the primary.
+- *S16.* The leave-one-out minimum of Δ is taken over single deletions from either year.

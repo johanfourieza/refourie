@@ -1,0 +1,35 @@
+scope,workbook,n_formula,n_type_match,n_numeric_both,max_abs_diff,max_rel_diff,n_absdiff_gt_1e9,sheet
+all formula cells,copy,15401,15401,15383,2.9103830456733704e-11,3.723967880872827e-15,0,
+all formula cells,primary,14666,14666,14649,2.9103830456733704e-11,3.723967880872827e-15,0,
+chain formula cells,copy,9350,9350,9348,1.4551915228366852e-11,2.499470693118931e-15,0,
+chain formula cells,primary,9822,9822,9820,1.4551915228366852e-11,3.723967880872827e-15,0,
+by sheet,copy,3154,3154,,2.2737367544323206e-13,,,Agricultural production
+by sheet,copy,17,17,,0,,,Consumption of wheat
+by sheet,copy,17,17,,0,,,Exports
+by sheet,copy,248,248,,0,,,Exports in money value
+by sheet,copy,46,46,,0,,,Exports of wines
+by sheet,copy,120,120,,0,,,Gross receipts from VOC sales
+by sheet,copy,1754,1754,,5.684341886080802e-14,,,INCOMEVOCEMPLOYEES
+by sheet,copy,943,943,,0,,,Livestock in possession
+by sheet,copy,392,392,,2.9103830456733704e-11,,,Meet supplied to the Company
+by sheet,copy,3387,3387,,1.1368683772161603e-13,,,Population
+by sheet,copy,73,73,,0,,,Taxation on wine
+by sheet,copy,185,185,,0,,,VOC income
+by sheet,copy,2054,2054,,1.4551915228366852e-11,,,resteconomy
+by sheet,copy,578,578,,0,,,ships
+by sheet,copy,2433,2433,,9.094947017729282e-13,,,total economy
+by sheet,primary,3157,3157,,2.2737367544323206e-13,,,Agricultural production
+by sheet,primary,17,17,,0,,,Consumption of wheat
+by sheet,primary,17,17,,0,,,Exports
+by sheet,primary,248,248,,0,,,Exports in money value
+by sheet,primary,46,46,,0,,,Exports of wines
+by sheet,primary,120,120,,0,,,Gross receipts from VOC sales
+by sheet,primary,1754,1754,,5.684341886080802e-14,,,INCOMEVOCEMPLOYEES
+by sheet,primary,943,943,,0,,,Livestock in possession
+by sheet,primary,392,392,,2.9103830456733704e-11,,,Meet supplied to the Company
+by sheet,primary,2835,2835,,0,,,Population
+by sheet,primary,73,73,,0,,,Taxation on wine
+by sheet,primary,185,185,,0,,,VOC income
+by sheet,primary,2054,2054,,1.4551915228366852e-11,,,resteconomy
+by sheet,primary,578,578,,0,,,ships
+by sheet,primary,2247,2247,,9.094947017729282e-13,,,total economy

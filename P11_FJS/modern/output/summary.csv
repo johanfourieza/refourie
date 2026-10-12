@@ -1,0 +1,3 @@
+group,rows_assessed,rows_not_testable,rows_different_estimand,weakest_verdict,note
+H1,3,2,2,confirmed,progressivity and its increase not assessed (not-testable); SP-rise and E-prog are different-estimand
+H2,2,2,0,confirmed,both assessed rows re-verify printed secondary arithmetic; non-extraction and the 1652-1795 span not assessed

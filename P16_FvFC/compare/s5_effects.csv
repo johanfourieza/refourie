@@ -1,0 +1,43 @@
+scenario,claim_id,published,original_code,scenario_value,note
+S3 rebuild (baseline),text_p26_gini_initial,0.501,NA,0.5266510168082346,"Independent R rebuild, D1-D12; original code unavailable (S1)"
+S3 rebuild (baseline),text_p26_gini_1709,0.65,NA,0.6471974070129718,"Independent R rebuild, D1-D12; original code unavailable (S1)"
+S3 rebuild (baseline),text_p26_gini_1757,0.62,NA,0.626280536226927,"Independent R rebuild, D1-D12; original code unavailable (S1)"
+S3 rebuild (baseline),text_p23_slave_gap,0.2,NA,0.14171490921871213,"Independent R rebuild, D1-D12; original code unavailable (S1)"
+"published figure, digitised",text_p26_gini_initial,0.501,NA,0.501,Digitised Fig 5c / Fig 4 (gap = mean over 20 years); shows the text-vs-figure rounding and the 0.2 vs 0.14 gap
+"published figure, digitised",text_p26_gini_1709,0.65,NA,0.648,Digitised Fig 5c / Fig 4 (gap = mean over 20 years); shows the text-vs-figure rounding and the 0.2 vs 0.14 gap
+"published figure, digitised",text_p26_gini_1757,0.62,NA,0.626,Digitised Fig 5c / Fig 4 (gap = mean over 20 years); shows the text-vs-figure rounding and the 0.2 vs 0.14 gap
+"published figure, digitised",text_p23_slave_gap,0.2,NA,0.1417,Digitised Fig 5c / Fig 4 (gap = mean over 20 years); shows the text-vs-figure rounding and the 0.2 vs 0.14 gap
+whole-sample PCA weights,text_p26_gini_initial,0.501,NA,0.5207106036641498,Pair-B gap scenario; vine weight 0.3191
+whole-sample PCA weights,text_p26_gini_1709,0.65,NA,0.6463513551007389,Pair-B gap scenario; vine weight 0.3191
+whole-sample PCA weights,text_p26_gini_1757,0.62,NA,0.6242690778035931,Pair-B gap scenario; vine weight 0.3191
+hhsize incl knegte,text_p26_gini_initial,0.501,NA,0.5517985067194864,Pair-B gap scenario; vine weight 0.3139
+hhsize incl knegte,text_p26_gini_1709,0.65,NA,0.6168552324403433,Pair-B gap scenario; vine weight 0.3139
+hhsize incl knegte,text_p26_gini_1757,0.62,NA,0.6083301876950238,Pair-B gap scenario; vine weight 0.3139
+Gini aweight (ineqdeco-style),text_p26_gini_initial,0.501,NA,0.5266510168082346,Pair-B gap scenario; vine weight 0.3139
+Gini aweight (ineqdeco-style),text_p26_gini_1709,0.65,NA,0.6471974070129716,Pair-B gap scenario; vine weight 0.3139
+Gini aweight (ineqdeco-style),text_p26_gini_1757,0.62,NA,0.626280536226927,Pair-B gap scenario; vine weight 0.3139
+"unweighted Gini, per capita",text_p26_gini_initial,0.501,NA,0.5249444885624079,Pair-B gap scenario; vine weight 0.3139
+"unweighted Gini, per capita",text_p26_gini_1709,0.65,NA,0.6976389012773361,Pair-B gap scenario; vine weight 0.3139
+"unweighted Gini, per capita",text_p26_gini_1757,0.62,NA,0.7070831602539254,Pair-B gap scenario; vine weight 0.3139
+1723 same-name records merged,text_p26_gini_initial,0.501,NA,0.5269487770004553,Pair-B gap scenario; vine weight 0.3136
+1723 same-name records merged,text_p26_gini_1709,0.65,NA,0.6471959618278003,Pair-B gap scenario; vine weight 0.3136
+1723 same-name records merged,text_p26_gini_1757,0.62,NA,0.6264421241722342,Pair-B gap scenario; vine weight 0.3136
+drop DS4/DS5 rows,text_p26_gini_initial,0.501,NA,0.5224857118211355,Pair-B gap scenario; vine weight 0.3132
+drop DS4/DS5 rows,text_p26_gini_1709,0.65,NA,0.6472548827049391,Pair-B gap scenario; vine weight 0.3132
+drop DS4/DS5 rows,text_p26_gini_1757,0.62,NA,0.6289079215356299,Pair-B gap scenario; vine weight 0.3132
+vines winsorised p99.9,text_p26_gini_initial,0.501,NA,0.526658100179568,Pair-B gap scenario; vine weight 0.3182
+vines winsorised p99.9,text_p26_gini_1709,0.65,NA,0.6455512400639005,Pair-B gap scenario; vine weight 0.3182
+vines winsorised p99.9,text_p26_gini_1757,0.62,NA,0.6266411735154369,Pair-B gap scenario; vine weight 0.3182
+PCA incl 1705 farmers,text_p26_gini_initial,0.501,NA,0.5289254557131089,Pair-B gap scenario; vine weight 0.313
+PCA incl 1705 farmers,text_p26_gini_1709,0.65,NA,0.646457253656125,Pair-B gap scenario; vine weight 0.313
+PCA incl 1705 farmers,text_p26_gini_1757,0.62,NA,0.6277624196571971,Pair-B gap scenario; vine weight 0.313
+districts 1-3 only (consistent coverage),text_p26_gini_initial,0.501,NA,0.5266510168082346,"Drops DS4 (1723, 1752, 1757) and DS5 (1688); weights unchanged"
+districts 1-3 only (consistent coverage),text_p26_gini_1709,0.65,NA,0.6471974070129718,"Drops DS4 (1723, 1752, 1757) and DS5 (1688); weights unchanged"
+districts 1-3 only (consistent coverage),text_p26_gini_1757,0.62,NA,0.630140466981143,"Drops DS4 (1723, 1752, 1757) and DS5 (1688); weights unchanged"
+Cape district (DS1) only,text_p26_gini_initial,0.501,NA,0.5266510168082346,Single-district series; the initial years are Cape-only in the data
+Cape district (DS1) only,text_p26_gini_1709,0.65,NA,0.6501541370075912,Single-district series; the initial years are Cape-only in the data
+Cape district (DS1) only,text_p26_gini_1757,0.62,NA,0.5845688627023147,Single-district series; the initial years are Cape-only in the data
+slave gap: farmers' slaves only,text_p23_slave_gap,0.2,NA,0.13582258659744512,Fig 4 variant: only farmers' slaves added as zero households
+Gini excludes zero-index households (ineqdeco default),text_p26_gini_initial,0.501,NA,0.5012930355658187,Drops farmers with core 1 index = 0 from the Gini (1 such household in 1663); reproduces F5c_1663 = 0.501 exactly
+Gini excludes zero-index households (ineqdeco default),text_p26_gini_1709,0.65,NA,0.6471974070129718,Drops farmers with core 1 index = 0 from the Gini (1 such household in 1663); reproduces F5c_1663 = 0.501 exactly
+Gini excludes zero-index households (ineqdeco default),text_p26_gini_1757,0.62,NA,0.626280536226927,Drops farmers with core 1 index = 0 from the Gini (1 such household in 1663); reproduces F5c_1663 = 0.501 exactly

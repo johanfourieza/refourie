@@ -1,0 +1,15 @@
+# P03_BoF17 S3 recreation: 03_figures.R -- Figure 2 (SA vs UK log wheat prices) and Figure 3 (CF 8-50y cycles)
+suppressMessages({library(dplyr); library(ggplot2); library(mFilter); library(here)})
+source(here::here("tools", "paths.R")); set.seed(1)
+ann <- readRDS(dscratch("P03_BoF17", "repro_r", "annual.rds")); a <- ann[complete.cases(ann[c("ln_sa_capenatal", "ln_uk")]), ]
+out <- here::here("P03_BoF17", "repro_r", "output")
+th <- theme_minimal(base_size = 11) + theme(legend.position = "bottom", panel.grid.minor = element_blank())
+cols <- c("South Africa" = "#1f4e79", "UK (12 cities)" = "#c0504d")
+sv <- function(p, nm) { ggsave(file.path(out, paste0(nm, ".pdf")), p, width = 6.5, height = 4); ggsave(file.path(out, paste0(nm, ".png")), p, width = 6.5, height = 4, dpi = 300) }
+l <- rbind(data.frame(year = a$year, v = a$ln_sa_capenatal, s = "South Africa"), data.frame(year = a$year, v = a$ln_uk, s = "UK (12 cities)"))
+sv(ggplot(l, aes(year, v, colour = s)) + geom_line() + geom_vline(xintercept = 1872, linetype = 2) + scale_colour_manual(values = cols) + labs(x = NULL, y = "Log wheat price", colour = NULL) + th, "fig2_sa_uk_wheat")
+cf <- function(x) as.numeric(cffilter(x, pl = 8, pu = 50, root = TRUE, drift = TRUE, type = "asymmetric")$cycle)
+cyc <- data.frame(year = a$year, sa = cf(a$ln_sa_capenatal), uk = cf(a$ln_uk))
+write.csv(cyc, file.path(out, "fig3_cycles.csv"), row.names = FALSE)
+sv(ggplot(rbind(data.frame(year = cyc$year, v = cyc$sa, s = "South Africa"), data.frame(year = cyc$year, v = cyc$uk, s = "UK (12 cities)")), aes(year, v, colour = s)) + geom_line() + scale_colour_manual(values = cols) + labs(x = NULL, y = "Cyclical component (8-50 years)", colour = NULL) + th, "fig3_cycles")
+cat("cycle corr 1836-69:", cor(cyc$sa[cyc$year < 1870], cyc$uk[cyc$year < 1870]), " 1875-1913:", cor(cyc$sa[cyc$year >= 1875], cyc$uk[cyc$year >= 1875]), "\n")

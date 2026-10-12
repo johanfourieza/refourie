@@ -1,0 +1,74 @@
+claim_id,reported_value,r_value,note,wb_cell,wb_value
+T1_1650_obs,295,294.9999036157646,N implied by SD/SE in Demographic!N:O,Demographic!K2,295
+T1_1650_mean,50.6,,,Demographic!L2,50.6
+T1_1650_median,50,,,Demographic!M2,50
+T1_1700_obs,955,954.9999046717259,N implied by SD/SE in Demographic!N:O,Demographic!K3,955
+T1_1700_mean,55.6,,,Demographic!L3,55.6356
+T1_1700_median,58,,,Demographic!M3,58
+T1_1750_obs,6124,6124.0212352197605,N implied by SD/SE in Demographic!N:O,Demographic!K4,6124
+T1_1750_mean,59.4,,,Demographic!L4,59.37067
+T1_1750_median,64,,,Demographic!M4,64
+T1_1800_obs,30452,30451.85781553307,N implied by SD/SE in Demographic!N:O,Demographic!K5,30452
+T1_1800_mean,57.3,,,Demographic!L5,57.33124
+T1_1800_median,62,,,Demographic!M5,62
+T1_1850_obs,69266,69265.50626448616,N implied by SD/SE in Demographic!N:O,Demographic!K6,69266
+T1_1850_mean,57.7,,,Demographic!L6,57.66106
+T1_1850_median,65,,,Demographic!M6,65
+T1_1900_obs,11020,11019.990535918934,N implied by SD/SE in Demographic!N:O,Demographic!K7,11020
+T1_1900_mean,66.5,,,Demographic!L7,66.49991
+T1_1900_median,66,,,Demographic!M7,66
+T2_1650_obs,295,294.9999036157646,N implied by SD/SE in Demographic!N:O,Demographic!K2,295
+T2_1650_mean,50.6,,,Demographic!L2,50.6
+T2_1650_median,50,,,Demographic!M2,50
+T2_1700_obs,955,954.9999046717259,N implied by SD/SE in Demographic!N:O,Demographic!K3,955
+T2_1700_mean,55.6,,,Demographic!L3,55.6356
+T2_1700_median,58,,,Demographic!M3,58
+T2_1750_obs,6124,6124.0212352197605,N implied by SD/SE in Demographic!N:O,Demographic!K4,6124
+T2_1750_mean,59.4,,,Demographic!L4,59.37067
+T2_1750_median,64,,,Demographic!M4,64
+T2_1800_obs,30452,30451.85781553307,N implied by SD/SE in Demographic!N:O,Demographic!K5,30452
+T2_1800_mean,57.3,,,Demographic!L5,57.33124
+T2_1800_median,62,,,Demographic!M5,62
+T2_1850_obs,69266,69265.50626448616,N implied by SD/SE in Demographic!N:O,Demographic!K6,69266
+T2_1850_mean,57.7,,,Demographic!L6,57.66106
+T2_1850_median,65,,,Demographic!M6,65
+T2_1900_obs,11020,11019.990535918934,N implied by SD/SE in Demographic!N:O,Demographic!K7,11020
+T2_1900_mean,66.5,,,Demographic!L7,66.49991
+T2_1900_median,66,,,Demographic!M7,66
+TX148_pop1663,133,133,Population!C13 (Fourie-Von Fintel series),Population!I2,133
+TX148_pop1795,14952,14952,"Population!B (Van Duin-Ross series), 1795",Population!I3,14952
+TX148_popgr,3.6,3.6422242165820684,splices FvF 1663 with VD&R 1795,Population!I5,3.6422242165820684
+TX148_popgr18,2.6,2.6042513608747875,PopulationGroups!B 1701-1795,PopulationGroups!T5,2.6042513608747875
+TX149_voc_gr,1.1,1.1265305647788715,,PopulationGroups!V8,1.1265305647788715
+TX149_voc_gr2,2.3,2.359377377805605,correct base 1708; workbook W8 uses 1701 value 531,PopulationGroups!W8,2.3158066103624364
+TX149_voc1708,513,513,,PopulationGroups!V4,513
+TX149_voc1789,3392,3392,,PopulationGroups!V5,3392
+TX149_slave1701,1838,1838,"PopulationGroups!E (labelled Shell, cited as Van Duin-Ross)",PopulationGroups!Y3,1838
+TX149_slave1795,21474,21474,PopulationGroups!E,PopulationGroups!Y4,21474
+TX149_slavegr,2.6,2.649561963085878,,PopulationGroups!Y5,2.649561963085878
+TX150_khoe1660,100000,,,,
+TX150_khoegr,6.2,6.225504570790208,1701 base = 36.76 (non-integer proxy),PopulationGroups!AB5,6.225504570790208
+TX150_khoe1795,10737,10737,PopulationGroups!F (Baten-Fourie proxy),PopulationGroups!AB4,10737
+TX151_births1890s,44663,44663,"hard-coded; lookup, no formula",Demographic!B26,44663
+TX151_ls_first,51,51,round(Demographic!L2),,
+TX151_ls_last,67,66,round(Demographic!L7 = 66.49991),,
+TX152_med_first,50,,,Demographic!M2,50
+TX152_med_last,66,,,Demographic!M7,66
+TX152_gen,10,,,,
+TX157_hh,2577,,,,
+TX157_prod,28,,,,
+TX157_noslave,526,,,,
+TX158_paint_friesland,28,,,,
+TX158_paint_ams,25,,,,
+TX158_paint_cape1,38,,,,
+TX158_paint_cape2,34,,,,
+TX162_hug,160,,,,
+TX163_slave_share,24,,,,
+TX163_cattle_share,12,,,,
+TX163_sheep_share,10,,,,
+TX165_convicts,937,,,,
+TX167_fiscal,2,,,,
+TX142_servants,9,,,,
+TX145_tepc,75,,,,
+TX143_pq,600,,,,
+TX167_auction,5,,,,

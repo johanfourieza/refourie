@@ -1,0 +1,235 @@
+item,scenario,label,quantity,value
+central,K1-K5 on,central,r_horses,0.987331751646326
+central,K1-K5 on,central,r_cattle,-0.378355033010741
+central,K1-K5 on,central,r_sheep,-0.24385668261824
+central,K1-K5 on,central,r_wheat,-0.260254249040554
+central,K1-K5 on,central,r_barley,0.968325230417515
+central,K1-K5 on,central,r_wine,0.354291886621311
+central,K1-K5 on,central,s_horses,1
+central,K1-K5 on,central,s_cattle,1
+central,K1-K5 on,central,s_sheep,1
+central,K1-K5 on,central,s_wheat,1
+central,K1-K5 on,central,s_barley,1
+central,K1-K5 on,central,s_wine,1
+central,K1-K5 on,central,lox_min,0.616479252712565
+central,K1-K5 on,central,lox_p10,0.707721619758101
+central,K1-K5 on,central,s_pooled,1
+central,K1-K5 on,central,D_rise,0.049566309031791
+central,K1-K5 on,central,D_fall,0.0378385102643504
+central,K1-K5 on,central,I_anchor,0.670698935706898
+5A,K1 off (types as guessed),"same estimand, correction off",r_horses,0.987331751646326
+5A,K1 off (types as guessed),"same estimand, correction off",r_cattle,-3.97914504677014
+5A,K1 off (types as guessed),"same estimand, correction off",r_sheep,-0.24385668261824
+5A,K1 off (types as guessed),"same estimand, correction off",r_wheat,-0.260254249040554
+5A,K1 off (types as guessed),"same estimand, correction off",r_barley,0.968325230417515
+5A,K1 off (types as guessed),"same estimand, correction off",r_wine,-0.849805835864963
+5A,K1 off (types as guessed),"same estimand, correction off",s_horses,0.992957746478873
+5A,K1 off (types as guessed),"same estimand, correction off",s_cattle,0.915492957746479
+5A,K1 off (types as guessed),"same estimand, correction off",s_sheep,1
+5A,K1 off (types as guessed),"same estimand, correction off",s_wheat,1
+5A,K1 off (types as guessed),"same estimand, correction off",s_barley,1
+5A,K1 off (types as guessed),"same estimand, correction off",s_wine,1
+5A,K1 off (types as guessed),"same estimand, correction off",lox_min,0.237698503058751
+5A,K1 off (types as guessed),"same estimand, correction off",lox_p10,0.526594481088619
+5A,K1 off (types as guessed),"same estimand, correction off",s_pooled,0.984468339307049
+5A,K1 off (types as guessed),"same estimand, correction off",D_rise,0.0956097551821795
+5A,K1 off (types as guessed),"same estimand, correction off",D_fall,0.0760449276064634
+5A,K1 off (types as guessed),"same estimand, correction off",I_anchor,2.29313761922458
+5A,K2 off (base 1780),"same estimand, correction off",r_horses,0.987331751646326
+5A,K2 off (base 1780),"same estimand, correction off",r_cattle,-0.378355033010741
+5A,K2 off (base 1780),"same estimand, correction off",r_sheep,-0.24385668261824
+5A,K2 off (base 1780),"same estimand, correction off",r_wheat,-0.260254249040554
+5A,K2 off (base 1780),"same estimand, correction off",r_barley,0.968325230417515
+5A,K2 off (base 1780),"same estimand, correction off",r_wine,0.354291886621311
+5A,K2 off (base 1780),"same estimand, correction off",s_horses,1
+5A,K2 off (base 1780),"same estimand, correction off",s_cattle,1
+5A,K2 off (base 1780),"same estimand, correction off",s_sheep,1
+5A,K2 off (base 1780),"same estimand, correction off",s_wheat,1
+5A,K2 off (base 1780),"same estimand, correction off",s_barley,1
+5A,K2 off (base 1780),"same estimand, correction off",s_wine,1
+5A,K2 off (base 1780),"same estimand, correction off",lox_min,0.616479252712565
+5A,K2 off (base 1780),"same estimand, correction off",lox_p10,0.707721619758101
+5A,K2 off (base 1780),"same estimand, correction off",s_pooled,1
+5A,K2 off (base 1780),"same estimand, correction off",D_rise,0.049566309031791
+5A,K2 off (base 1780),"same estimand, correction off",D_fall,0.0378385102643504
+5A,K2 off (base 1780),"same estimand, correction off",I_anchor,0.677139320463854
+5A,K3 off (no horse_riding),"same estimand, correction off",r_horses,0.987331751646326
+5A,K3 off (no horse_riding),"same estimand, correction off",r_cattle,-0.378355033010741
+5A,K3 off (no horse_riding),"same estimand, correction off",r_sheep,-0.24385668261824
+5A,K3 off (no horse_riding),"same estimand, correction off",r_wheat,-0.260254249040554
+5A,K3 off (no horse_riding),"same estimand, correction off",r_barley,0.968325230417515
+5A,K3 off (no horse_riding),"same estimand, correction off",r_wine,0.354291886621311
+5A,K3 off (no horse_riding),"same estimand, correction off",s_horses,1
+5A,K3 off (no horse_riding),"same estimand, correction off",s_cattle,1
+5A,K3 off (no horse_riding),"same estimand, correction off",s_sheep,1
+5A,K3 off (no horse_riding),"same estimand, correction off",s_wheat,1
+5A,K3 off (no horse_riding),"same estimand, correction off",s_barley,1
+5A,K3 off (no horse_riding),"same estimand, correction off",s_wine,1
+5A,K3 off (no horse_riding),"same estimand, correction off",lox_min,0.616479252712565
+5A,K3 off (no horse_riding),"same estimand, correction off",lox_p10,0.708068178130841
+5A,K3 off (no horse_riding),"same estimand, correction off",s_pooled,1
+5A,K3 off (no horse_riding),"same estimand, correction off",D_rise,0.049566309031791
+5A,K3 off (no horse_riding),"same estimand, correction off",D_fall,0.0378385102643504
+5A,K3 off (no horse_riding),"same estimand, correction off",I_anchor,0.670698935706898
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_horses,0.987331751646326
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_cattle,-0.378355033010741
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_sheep,-0.24385668261824
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_wheat,-0.260254249040554
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_barley,0.968325230417515
+5A,K4 off (rowSums zeros),"same estimand, correction off",r_wine,0.354291886621311
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_horses,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_cattle,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_sheep,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_wheat,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_barley,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_wine,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",lox_min,0.616479252712565
+5A,K4 off (rowSums zeros),"same estimand, correction off",lox_p10,0.707721619758101
+5A,K4 off (rowSums zeros),"same estimand, correction off",s_pooled,1
+5A,K4 off (rowSums zeros),"same estimand, correction off",D_rise,0.049566309031791
+5A,K4 off (rowSums zeros),"same estimand, correction off",D_fall,0.0378385102643504
+5A,K4 off (rowSums zeros),"same estimand, correction off",I_anchor,0.670698935706898
+5A,K5 off (no wine cap),"same estimand, correction off",r_horses,0.987331751646326
+5A,K5 off (no wine cap),"same estimand, correction off",r_cattle,-0.378355033010741
+5A,K5 off (no wine cap),"same estimand, correction off",r_sheep,-0.24385668261824
+5A,K5 off (no wine cap),"same estimand, correction off",r_wheat,-0.260254249040554
+5A,K5 off (no wine cap),"same estimand, correction off",r_barley,0.968325230417515
+5A,K5 off (no wine cap),"same estimand, correction off",r_wine,0.354291886621311
+5A,K5 off (no wine cap),"same estimand, correction off",s_horses,1
+5A,K5 off (no wine cap),"same estimand, correction off",s_cattle,1
+5A,K5 off (no wine cap),"same estimand, correction off",s_sheep,1
+5A,K5 off (no wine cap),"same estimand, correction off",s_wheat,1
+5A,K5 off (no wine cap),"same estimand, correction off",s_barley,1
+5A,K5 off (no wine cap),"same estimand, correction off",s_wine,1
+5A,K5 off (no wine cap),"same estimand, correction off",lox_min,0.616479252712565
+5A,K5 off (no wine cap),"same estimand, correction off",lox_p10,0.707721619758101
+5A,K5 off (no wine cap),"same estimand, correction off",s_pooled,1
+5A,K5 off (no wine cap),"same estimand, correction off",D_rise,0.0436586923863326
+5A,K5 off (no wine cap),"same estimand, correction off",D_fall,0.0363198404083066
+5A,K5 off (no wine cap),"same estimand, correction off",I_anchor,0.670698935706898
+5C1,wine cap none,changed measurement,r_horses,0.987331751646326
+5C1,wine cap none,changed measurement,r_cattle,-0.378355033010741
+5C1,wine cap none,changed measurement,r_sheep,-0.24385668261824
+5C1,wine cap none,changed measurement,r_wheat,-0.260254249040554
+5C1,wine cap none,changed measurement,r_barley,0.968325230417515
+5C1,wine cap none,changed measurement,r_wine,0.354291886621311
+5C1,wine cap none,changed measurement,s_horses,1
+5C1,wine cap none,changed measurement,s_cattle,1
+5C1,wine cap none,changed measurement,s_sheep,1
+5C1,wine cap none,changed measurement,s_wheat,1
+5C1,wine cap none,changed measurement,s_barley,1
+5C1,wine cap none,changed measurement,s_wine,1
+5C1,wine cap none,changed measurement,lox_min,0.616479252712565
+5C1,wine cap none,changed measurement,lox_p10,0.707721619758101
+5C1,wine cap none,changed measurement,s_pooled,1
+5C1,wine cap none,changed measurement,D_rise,0.0436586923863326
+5C1,wine cap none,changed measurement,D_fall,0.0363198404083066
+5C1,wine cap none,changed measurement,I_anchor,0.670698935706898
+5C1,wine cap 500,changed measurement,r_horses,0.987331751646326
+5C1,wine cap 500,changed measurement,r_cattle,-0.378355033010741
+5C1,wine cap 500,changed measurement,r_sheep,-0.24385668261824
+5C1,wine cap 500,changed measurement,r_wheat,-0.260254249040554
+5C1,wine cap 500,changed measurement,r_barley,0.968325230417515
+5C1,wine cap 500,changed measurement,r_wine,0.354291886621311
+5C1,wine cap 500,changed measurement,s_horses,1
+5C1,wine cap 500,changed measurement,s_cattle,1
+5C1,wine cap 500,changed measurement,s_sheep,1
+5C1,wine cap 500,changed measurement,s_wheat,1
+5C1,wine cap 500,changed measurement,s_barley,1
+5C1,wine cap 500,changed measurement,s_wine,1
+5C1,wine cap 500,changed measurement,lox_min,0.616479252712565
+5C1,wine cap 500,changed measurement,lox_p10,0.707721619758101
+5C1,wine cap 500,changed measurement,s_pooled,1
+5C1,wine cap 500,changed measurement,D_rise,0.049566309031791
+5C1,wine cap 500,changed measurement,D_fall,0.0381139269159126
+5C1,wine cap 500,changed measurement,I_anchor,0.670698935706898
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_horses,0.645483426492192
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_cattle,-0.424368488177246
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_sheep,-0.286066667274352
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_wheat,-0.858317967644396
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_barley,0.289324375093664
+5C2,H2 windows 1700-19 vs 1780-99,changed estimand,r_wine,0.316573104758325
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_horses,0.304834572356408
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_cattle,-0.469888839952553
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_sheep,-0.185154488785926
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_wheat,-0.752214587207292
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_barley,-0.371448041433026
+5C2,H2 windows 1700-49 vs 1750-99,changed estimand,r_wine,0.398265999061141
+5C3,H2 pooled row-level means,changed estimand,horses,1.04344006238656
+5C3,H2 pooled row-level means,changed estimand,cattle,-0.349523466155402
+5C3,H2 pooled row-level means,changed estimand,sheep,-0.207753646685328
+5C3,H2 pooled row-level means,changed estimand,wheat,-0.163152227887528
+5C3,H2 pooled row-level means,changed estimand,barley,1.1752337036148
+5C3,H2 pooled row-level means,changed estimand,wine,0.396046427342722
+5C4,sheep_goats_pigs in sheep,changed measurement,r_horses,0.987331751646326
+5C4,sheep_goats_pigs in sheep,changed measurement,r_cattle,-0.378355033010741
+5C4,sheep_goats_pigs in sheep,changed measurement,r_sheep,-0.24385668261824
+5C4,sheep_goats_pigs in sheep,changed measurement,r_wheat,-0.260254249040554
+5C4,sheep_goats_pigs in sheep,changed measurement,r_barley,0.968325230417515
+5C4,sheep_goats_pigs in sheep,changed measurement,r_wine,0.354291886621311
+5C4,sheep_goats_pigs in sheep,changed measurement,s_horses,1
+5C4,sheep_goats_pigs in sheep,changed measurement,s_cattle,1
+5C4,sheep_goats_pigs in sheep,changed measurement,s_sheep,1
+5C4,sheep_goats_pigs in sheep,changed measurement,s_wheat,1
+5C4,sheep_goats_pigs in sheep,changed measurement,s_barley,1
+5C4,sheep_goats_pigs in sheep,changed measurement,s_wine,1
+5C4,sheep_goats_pigs in sheep,changed measurement,lox_min,0.616479252712565
+5C4,sheep_goats_pigs in sheep,changed measurement,lox_p10,0.707863973406313
+5C4,sheep_goats_pigs in sheep,changed measurement,s_pooled,1
+5C4,sheep_goats_pigs in sheep,changed measurement,D_rise,0.049566309031791
+5C4,sheep_goats_pigs in sheep,changed measurement,D_fall,0.0378385102643504
+5C4,sheep_goats_pigs in sheep,changed measurement,I_anchor,0.670698935706898
+5C6,Ginis over positive holders,changed population,s_horses,0.929577464788732
+5C6,Ginis over positive holders,changed population,s_cattle,0.957746478873239
+5C6,Ginis over positive holders,changed population,s_sheep,0.778571428571429
+5C6,Ginis over positive holders,changed population,s_wheat,0.971428571428571
+5C6,Ginis over positive holders,changed population,s_barley,0.6
+5C6,Ginis over positive holders,changed population,s_wine,0.93984962406015
+5C6,Ginis over positive holders,changed population,lox_min,0
+5C6,Ginis over positive holders,changed population,lox_p10,0.387379986071
+5C6,Ginis over positive holders,changed population,s_pooled,0.862604540023895
+5C6,Ginis over positive holders,changed population,D_rise,-0.0229682263411407
+5C6,Ginis over positive holders,changed population,D_fall,-0.0189444027451285
+5C7,H3 years before 1804 only,changed period,s_horses,1
+5C7,H3 years before 1804 only,changed period,s_cattle,1
+5C7,H3 years before 1804 only,changed period,s_sheep,1
+5C7,H3 years before 1804 only,changed period,s_wheat,1
+5C7,H3 years before 1804 only,changed period,s_barley,1
+5C7,H3 years before 1804 only,changed period,s_wine,1
+5C7,H3 years before 1804 only,changed period,lox_min,0.616479252712565
+5C7,H3 years before 1804 only,changed period,lox_p10,0.699247588969213
+5C7,H3 years before 1804 only,changed period,s_pooled,1
+5C8,no zero-fill,changed missing-data rule and population,r_horses,0.46833664899232
+5C8,no zero-fill,changed missing-data rule and population,r_cattle,-0.296977387017344
+5C8,no zero-fill,changed missing-data rule and population,r_sheep,-0.126173286171229
+5C8,no zero-fill,changed missing-data rule and population,r_wheat,1.20313419097611
+5C8,no zero-fill,changed missing-data rule and population,r_barley,1.0249369039755
+5C8,no zero-fill,changed missing-data rule and population,r_wine,1.21541823094654
+5C8,no zero-fill,changed missing-data rule and population,s_horses,0.929577464788732
+5C8,no zero-fill,changed missing-data rule and population,s_cattle,0.957746478873239
+5C8,no zero-fill,changed missing-data rule and population,s_sheep,0.778571428571429
+5C8,no zero-fill,changed missing-data rule and population,s_wheat,0.971428571428571
+5C8,no zero-fill,changed missing-data rule and population,s_barley,0.607142857142857
+5C8,no zero-fill,changed missing-data rule and population,s_wine,0.93984962406015
+5C8,no zero-fill,changed missing-data rule and population,lox_min,0
+5C8,no zero-fill,changed missing-data rule and population,lox_p10,0.387379986071
+5C8,no zero-fill,changed missing-data rule and population,s_pooled,0.863799283154122
+5C8,no zero-fill,changed missing-data rule and population,D_rise,-0.0232426729601178
+5C8,no zero-fill,changed missing-data rule and population,D_fall,-0.0189808462318739
+5C8,no zero-fill,changed missing-data rule and population,I_anchor,0.292480891719745
+5C10,Gini x n/(n-1),changed estimator,s_horses,1
+5C10,Gini x n/(n-1),changed estimator,s_cattle,1
+5C10,Gini x n/(n-1),changed estimator,s_sheep,1
+5C10,Gini x n/(n-1),changed estimator,s_wheat,1
+5C10,Gini x n/(n-1),changed estimator,s_barley,1
+5C10,Gini x n/(n-1),changed estimator,s_wine,1
+5C10,Gini x n/(n-1),changed estimator,lox_min,0.617896446396961
+5C10,Gini x n/(n-1),changed estimator,lox_p10,0.708960339992596
+5C10,Gini x n/(n-1),changed estimator,s_pooled,1
+5C10,Gini x n/(n-1),changed estimator,D_rise,0.0485211454628254
+5C10,Gini x n/(n-1),changed estimator,D_fall,0.0378770762320866
+5C9,H3 pooled share over all asset-years,different reading of 'across all assets',s_pooled,1
+5C11,"H4 Pre = 1700s, Post = 1840s",changed estimand,D_rise,0.133092289697911
+5C11,"H4 Pre = 1700s, Post = 1840s",changed estimand,D_fall,0.0830572327329944
+5C12,H4 wine cap off,changed measurement,D_rise,0.0436586923863326
+5C12,H4 wine cap off,changed measurement,D_fall,0.0363198404083066

@@ -1,0 +1,8 @@
+"sample","B_outer","B_inner","outer_ipf_fail","outer_zero_cell_adj","inner_ipf_fail","inner_zero_cell_adj","outer_se_invalid_I1","outer_se_invalid_I4","B_used_I1","B_used_I4"
+"primary",4999,199,0,41,46,61096,0,0,4999,4999
+"S1a_grazier_only",4999,199,0,39,23,57560,0,0,4999,4999
+"S1b_century_only",4999,199,0,9,0,21922,0,0,4999,4999
+"S2_dedup",4999,199,0,41,46,61096,0,0,4999,4999
+"S3_highest_class",4999,199,0,51,69,86277,0,0,4999,4999
+"S4_with_1910",4999,199,0,48,15,62051,0,0,4999,4999
+"S6_original_coding",4999,199,0,13,0,24038,0,0,4999,4999

@@ -1,0 +1,19 @@
+check,value
+"Slaves VD&R column D: 1701, 1795",891 16839
+Slave growth 1701-1795 with VD&R column D (%),3.18
+"Khoe growth 1701-1795, Green-Fourie column G (%)",2.88
+"Khoe Green-Fourie column G: 1701, 1795",616.1 8883.7
+VOC growth 1708-1789 as in workbook W8 (base 1701=531) (%),2.316
+VOC maximum 1701-1799 (value year),3392 1789
+Settler growth 1663-1773 within FvF series only (%),3.85
+FvF/VD&R ratio in overlap years: mean min max,1.005 0.952 1.074
+"Probate inventories per year (Population!D): total, years",2228 1673-1800
+GISA settlers 1795 vs opgaafrolle 1795,5108 14952
+Table 1 SD by half-century (Demographic!N2:N7),"19.98, 21.61, 21.21, 22.42, 25.13, 101.91"
+Demographic!L7 mean 1900-1949 unrounded,66.49991
+Fig 5 MA: max abs diff B vs recomputed; years with no data row,156 6
+"Fig 5 Growth!K years: n, range, missing",95 1693-1792 1694;1695;1704;1731;1753
+Fig 5 yearly mean (Growth!L): min max,0 2587.8
+EHR T5 total n (28-item wealth),2228
+EHR F4 shares slaves cattle sheep (auction rolls 1693-1748),24.02 11.86 10.26
+EHR T8 pictures: Cape 1711-50 by class; Cape 1740-82; Leeuwarderadeel classes; Amsterdam,15/36/51/74; 34; 25/16/28; 25

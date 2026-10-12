@@ -1,0 +1,8 @@
+check,cells,passed,max_rel_diff,note
+1 coded reference vs S5 base,88,88,3.7207541882030316e-7,"K by year/region, slaves, T3/T5 means and Ns; rel tol 1e-4, Ns exact"
+1b card-listed Ns (T3 126/38/206/370; T5 321/207/567/1095),8,8,0,126/321/38/207/206/567/370/1095
+2 central vs S5 stel2x,88,88,3.011934960446002e-7,same cells
+3a Botha = 50*lambda in all 16 scenarios,16,16,0.002963143807868107,abs diff shown; tol 0.005 (D1)
+3b Tas = 11 under S = Tas,4,4,0.0021554354963626565,"a_Tas = >5 (TAS ADAM, 1709, 20 slaves)"
+"4 missing values (vherd, slaves, slavemales)",9,9,NA,analysis n=7333; T3 n=370; T5 n=1095
+ALL,NA,NA,NA,PASS

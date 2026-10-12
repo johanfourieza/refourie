@@ -1,0 +1,8 @@
+block,exact,not-attempted,agree,disagree
+T1,121,0,,
+T2,63,0,,
+T3,94,0,,
+TXT,0,10,,
+ALL,278,10,,
+HEADLINE,6,,,
+INFERENTIAL(coef),,,88,6

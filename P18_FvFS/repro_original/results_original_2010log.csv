@@ -1,0 +1,81 @@
+claim_id,source,value,se,n,status_override,nov2010_cell,relation
+T3_r1_c1,original_nov2010,0.3829357168121999,0.70616609,270,reference-only,wine_anova_1.xls 1700 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.2736461598367127,0.6074698,372,reference-only,wine_anova_1.xls 1709 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,-0.2986291316806491,0.62793893,404,reference-only,wine_anova_1.xls 1719 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.3844261977832666,0.55544674,568,reference-only,wine_anova_1.xls 1731 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.4828697545342027,0.44495982,759,reference-only,wine_anova_1.xls 1741 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.513352768306143,0.4493081,801,reference-only,wine_anova_1.xls 1752 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.2218355854302874,0.36224756,1139,reference-only,wine_anova_1.xls 1757 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r1_c1,original_nov2010,0.3962368586604757,0.31241855,1625,reference-only,wine_anova_1.xls 1773 2.group,"year-by-year, group dummies only; print spec 1 is pooled with born abroad, district, year"
+T3_r2_c1,original_nov2010,2.150310249751561,0.37531653,270,reference-only,wine_anova_1.xls 1700 3.group,as above
+T3_r2_c1,original_nov2010,1.246761871152655,0.59997898,372,reference-only,wine_anova_1.xls 1709 3.group,as above
+T3_r2_c1,original_nov2010,1.385953222581223,0.54329538,404,reference-only,wine_anova_1.xls 1719 3.group,as above
+T3_r2_c1,original_nov2010,1.738710947376878,0.52771288,568,reference-only,wine_anova_1.xls 1731 3.group,as above
+T3_r2_c1,original_nov2010,1.808958998293038,0.47225794,759,reference-only,wine_anova_1.xls 1741 3.group,as above
+T3_r2_c1,original_nov2010,1.947066347389786,0.44735464,801,reference-only,wine_anova_1.xls 1752 3.group,as above
+T3_r2_c1,original_nov2010,1.620136847742727,0.39040846,1139,reference-only,wine_anova_1.xls 1757 3.group,as above
+T3_r2_c1,original_nov2010,1.697118447330165,0.34289047,1625,reference-only,wine_anova_1.xls 1773 3.group,as above
+T3_r1_c4,original_nov2010,-2.688790420406279,0.64451444,270,reference-only,wine_capital_1.xls 1700 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,-1.150010568385909,0.62579077,372,reference-only,wine_capital_1.xls 1709 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,-1.449911600678941,0.70411998,404,reference-only,wine_capital_1.xls 1719 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,0.1710898526315961,0.58387059,568,reference-only,wine_capital_1.xls 1731 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,-0.4237313829737399,0.3912392,759,reference-only,wine_capital_1.xls 1741 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,0.1623378429833759,0.33472931,801,reference-only,wine_capital_1.xls 1752 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,-0.211644657124383,0.24657354,1139,reference-only,wine_capital_1.xls 1757 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r1_c4,original_nov2010,0.0388274790406337,0.17492495,1625,reference-only,wine_capital_1.xls 1773 2.group,main effect in model with group x slaves/knechts/vines interactions; base district Drakenstein
+T3_r2_c4,original_nov2010,0.3482161736258104,0.81768411,270,reference-only,wine_capital_1.xls 1700 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.5352736856095794,0.85177302,372,reference-only,wine_capital_1.xls 1709 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,-0.3300984738654576,0.68926752,404,reference-only,wine_capital_1.xls 1719 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.2176600211656471,0.49652106,568,reference-only,wine_capital_1.xls 1731 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.3596355444940919,0.33379805,759,reference-only,wine_capital_1.xls 1741 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.9222000659122616,0.48682144,801,reference-only,wine_capital_1.xls 1752 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.6395159373735319,0.28481251,1139,reference-only,wine_capital_1.xls 1757 3.group,as above; headline analogue
+T3_r2_c4,original_nov2010,0.4992049520510598,0.29351795,1625,reference-only,wine_capital_1.xls 1773 3.group,as above; headline analogue
+T4_r1_c5,original_nov2010,1.767374532939362,0.70479423,71,reference-only,fwine_anova_1.xls 1700 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,0.9731157113159424,0.77844936,90,reference-only,fwine_anova_1.xls 1709 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.684582354261872,0.76971751,80,reference-only,fwine_anova_1.xls 1719 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.354284749593613,0.71191257,142,reference-only,fwine_anova_1.xls 1731 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.326089243758835,0.61463732,179,reference-only,fwine_anova_1.xls 1741 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.433713579083642,0.59492171,224,reference-only,fwine_anova_1.xls 1752 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.39830126231244,0.50005239,292,reference-only,fwine_anova_1.xls 1757 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c5,original_nov2010,1.30088158866969,0.4402076,405,reference-only,fwine_anova_1.xls 1773 3.group,"year-by-year Huguenot sample, WH dummy only"
+T4_r1_c7,original_nov2010,2.976266689390457,0.95078546,71,reference-only,fwine_capital_1.xls 1700 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,1.326996115496718,0.93934214,90,reference-only,fwine_capital_1.xls 1709 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.960649005688758,0.71037304,80,reference-only,fwine_capital_1.xls 1719 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.0886943072034179,0.69071096,142,reference-only,fwine_capital_1.xls 1731 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.7161211643521395,0.41242754,179,reference-only,fwine_capital_1.xls 1741 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.7181092979751491,0.47344458,224,reference-only,fwine_capital_1.xls 1752 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.8057986636516004,0.29983723,292,reference-only,fwine_capital_1.xls 1757 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c7,original_nov2010,0.4272299856920013,0.27222541,405,reference-only,fwine_capital_1.xls 1773 3.group,main effect with WH x input interactions; headline analogue
+T4_r1_c8,original_nov2010,4.172940483411924,1.0421482,62,reference-only,nfwine_capital_1.xls 1700 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,1.264597080782913,1.0886892,70,reference-only,nfwine_capital_1.xls 1709 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,1.683859254790803,0.63950711,62,reference-only,nfwine_capital_1.xls 1719 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,0.8978508305978201,0.85499871,106,reference-only,nfwine_capital_1.xls 1731 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,0.8585474606670455,0.39972371,140,reference-only,nfwine_capital_1.xls 1741 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,0.646550497558797,0.42076817,173,reference-only,nfwine_capital_1.xls 1752 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,0.9966243570073686,0.26556233,217,reference-only,nfwine_capital_1.xls 1757 3.group,adds non-numeracy and born abroad
+T4_r1_c8,original_nov2010,0.2467808414436038,0.28601691,289,reference-only,nfwine_capital_1.xls 1773 3.group,adds non-numeracy and born abroad
+T5_r1_c11,original_nov2010,-0.3052745253277355,0.88296455,270,reference-only,wheat_anova_1.xls 1700 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,0.6618217727304545,0.73457444,372,reference-only,wheat_anova_1.xls 1709 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,0.9514366306352288,0.76433933,404,reference-only,wheat_anova_1.xls 1719 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,0.0726507622487466,0.70186156,568,reference-only,wheat_anova_1.xls 1731 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,0.423923362916959,0.71525097,759,reference-only,wheat_anova_1.xls 1741 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,-0.2027370407158649,0.55208427,801,reference-only,wheat_anova_1.xls 1752 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,-0.6943970634228708,0.36249375,1139,reference-only,wheat_anova_1.xls 1757 2.group,"year-by-year, group dummies only"
+T5_r1_c11,original_nov2010,0.5632070342381826,0.40201309,1625,reference-only,wheat_anova_1.xls 1773 2.group,"year-by-year, group dummies only"
+T5_r2_c11,original_nov2010,1.724971009896516,0.79912055,270,reference-only,wheat_anova_1.xls 1700 3.group,as above
+T5_r2_c11,original_nov2010,1.408044161651021,0.68351758,372,reference-only,wheat_anova_1.xls 1709 3.group,as above
+T5_r2_c11,original_nov2010,1.719336605435912,0.46942735,404,reference-only,wheat_anova_1.xls 1719 3.group,as above
+T5_r2_c11,original_nov2010,0.6138190038309617,0.59375966,568,reference-only,wheat_anova_1.xls 1731 3.group,as above
+T5_r2_c11,original_nov2010,1.239431868441235,0.60403168,759,reference-only,wheat_anova_1.xls 1741 3.group,as above
+T5_r2_c11,original_nov2010,0.8732720863511241,0.52948791,801,reference-only,wheat_anova_1.xls 1752 3.group,as above
+T5_r2_c11,original_nov2010,-0.1091093646886577,0.39162189,1139,reference-only,wheat_anova_1.xls 1757 3.group,as above
+T5_r2_c11,original_nov2010,0.1732430769390589,0.33993223,1625,reference-only,wheat_anova_1.xls 1773 3.group,as above
+T5_r2_c15,original_nov2010,1.17799264741414,1.1478596,270,reference-only,wheat_capital_1.xls 1700 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,-0.2061070474469948,1.1002716,372,reference-only,wheat_capital_1.xls 1709 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,0.9180135472123524,0.77278012,404,reference-only,wheat_capital_1.xls 1719 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,0.3632142834431689,0.96979064,568,reference-only,wheat_capital_1.xls 1731 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,0.4591479363968464,0.73165256,759,reference-only,wheat_capital_1.xls 1741 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,-0.0953211321944869,0.48654652,801,reference-only,wheat_capital_1.xls 1752 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,-0.3932443390266967,0.27428234,1139,reference-only,wheat_capital_1.xls 1757 3.group,main effect with group x input interactions (wheat sown)
+T5_r2_c15,original_nov2010,-0.2278982867959594,0.26452705,1625,reference-only,wheat_capital_1.xls 1773 3.group,main effect with group x input interactions (wheat sown)

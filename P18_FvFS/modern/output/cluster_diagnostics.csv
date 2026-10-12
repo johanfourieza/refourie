@@ -1,0 +1,4 @@
+claim_id,N_sample,N_est,n_removed_fe_sep,n_wh_est,n_clusters,n_wh_clusters,largest_cluster_n,largest_cluster_share_all,largest_wh_cluster,largest_wh_cluster_share_of_wh,small_cluster_rule,cv3_se,cv3_G,cv3_failed
+T3_r2_c4,9078,8121,957,1079,1511,116,116,0.014283955177933752,devilliers,0.09453197405004633,FALSE,NA,NA,NA
+T4_r1_c7,2230,1991,239,1079,222,116,116,0.05826217980914113,devilliers,0.09453197405004633,FALSE,NA,NA,NA
+T4_r1_c10,368,368,0,182,82,42,18,0.04891304347826087,devilliers,0.0989010989010989,FALSE,NA,NA,NA

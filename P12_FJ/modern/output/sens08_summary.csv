@@ -1,0 +1,8 @@
+"spec","term","loo_min","loo_max","n_changed","changed_by","categories"
+"c2","Black_x_Pandemic",-1.0302827411218,-0.553305866254708,0,"","weakened"
+"c2","Coloured_x_Pandemic",-1.39961366449683,-0.692372508837904,1,"Kuruman","weakened/confirmed"
+"c3","Black_x_Pandemic",-1.21375203212265,-0.382804118435113,0,"","weakened"
+"c3","Coloured_x_Pandemic",-1.02686486569566,-0.514363392496537,1,"Kuruman","weakened/confirmed"
+"c3","Pandemic_x_Street_road_and_stad",-1.77614032510173,-0.392993452184819,1,"Mafeking","weakened/confirmed"
+"c3","Street_road_and_stad",0.835764613750294,1.71035474366804,0,"","uncertain"
+"c3","theta_U",-0.0657855814336941,1.09745979528503,0,"","uncertain"

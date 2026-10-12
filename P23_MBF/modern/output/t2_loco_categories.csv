@@ -1,0 +1,67 @@
+scen,row,category,estimate,meets_confirm
+S8_drop_cntry_204,H1-OR,confirmed,0.4003274525288497,TRUE
+S8_drop_cntry_204,H1-P,confirmed,0.6737248026590393,TRUE
+S8_drop_cntry_204,H2-OR,weakened,0.2733973501301896,FALSE
+S8_drop_cntry_204,H2-Pd,weakened,0.0203824986197549,FALSE
+S8_drop_cntry_204,H2-lit,weakened,0.0955194845482646,FALSE
+S8_drop_cntry_204,H2-RRR,weakened,0.2797555767588493,FALSE
+S8_drop_cntry_288,H1-OR,confirmed,0.4727574711231313,TRUE
+S8_drop_cntry_288,H1-P,qualified (inference-fragile),0.3764256032702605,FALSE
+S8_drop_cntry_288,H2-OR,weakened,-0.0963318678528707,FALSE
+S8_drop_cntry_288,H2-Pd,weakened (direction lost),-0.0353482147254616,FALSE
+S8_drop_cntry_288,H2-lit,weakened (direction lost),-0.0202672747991667,FALSE
+S8_drop_cntry_288,H2-RRR,weakened,0.0802672795344552,FALSE
+S8_drop_cntry_324,H1-OR,confirmed,0.3982929625350483,TRUE
+S8_drop_cntry_324,H1-P,confirmed,0.6743107102057477,TRUE
+S8_drop_cntry_324,H2-OR,weakened,0.2760177476706994,FALSE
+S8_drop_cntry_324,H2-Pd,weakened,0.0230752344819397,FALSE
+S8_drop_cntry_324,H2-lit,weakened,0.1006834563722511,FALSE
+S8_drop_cntry_324,H2-RRR,weakened,0.2787572759780196,FALSE
+S8_drop_cntry_404,H1-OR,confirmed,0.3776256346942191,TRUE
+S8_drop_cntry_404,H1-P,confirmed,0.6426517840416532,TRUE
+S8_drop_cntry_404,H2-OR,weakened,0.2650261493474341,FALSE
+S8_drop_cntry_404,H2-Pd,weakened,0.0117307578391208,FALSE
+S8_drop_cntry_404,H2-lit,weakened,0.063458200597838,FALSE
+S8_drop_cntry_404,H2-RRR,weakened,0.2716711912467358,FALSE
+S8_drop_cntry_454,H1-OR,confirmed,0.3898971337654247,TRUE
+S8_drop_cntry_454,H1-P,confirmed,0.7304068632562133,TRUE
+S8_drop_cntry_454,H2-OR,qualified (inference-fragile),0.3405097294907886,FALSE
+S8_drop_cntry_454,H2-Pd,weakened,0.0304208302419621,FALSE
+S8_drop_cntry_454,H2-lit,weakened,0.1018497387589425,FALSE
+S8_drop_cntry_454,H2-RRR,confirmed,0.3163331773970712,TRUE
+S8_drop_cntry_466,H1-OR,confirmed,0.3746208085071731,TRUE
+S8_drop_cntry_466,H1-P,confirmed,0.6638786758711109,TRUE
+S8_drop_cntry_466,H2-OR,weakened,0.2892578673639378,FALSE
+S8_drop_cntry_466,H2-Pd,weakened,0.0229960197839286,FALSE
+S8_drop_cntry_466,H2-lit,weakened,0.1091449023272001,FALSE
+S8_drop_cntry_466,H2-RRR,weakened,0.2824227981221258,FALSE
+S8_drop_cntry_686,H1-OR,confirmed,0.4094605397945816,TRUE
+S8_drop_cntry_686,H1-P,confirmed,0.7108547542707064,TRUE
+S8_drop_cntry_686,H2-OR,weakened,0.3013942144761247,FALSE
+S8_drop_cntry_686,H2-Pd,weakened,0.0254631159402556,FALSE
+S8_drop_cntry_686,H2-lit,weakened,0.1009030816345273,FALSE
+S8_drop_cntry_686,H2-RRR,confirmed,0.2982821254846942,TRUE
+S8_drop_cntry_694,H1-OR,qualified (inference-fragile),0.3682911811783794,FALSE
+S8_drop_cntry_694,H1-P,qualified (inference-fragile),0.6502836051931554,FALSE
+S8_drop_cntry_694,H2-OR,weakened,0.281992424014776,FALSE
+S8_drop_cntry_694,H2-Pd,weakened,0.0222087875576194,FALSE
+S8_drop_cntry_694,H2-lit,weakened,0.0996668232071167,FALSE
+S8_drop_cntry_694,H2-RRR,weakened,0.2766410963596859,FALSE
+S8_drop_cntry_800,H1-OR,qualified (inference-fragile),0.4043250861193288,FALSE
+S8_drop_cntry_800,H1-P,qualified (inference-fragile),0.6854441240932365,FALSE
+S8_drop_cntry_800,H2-OR,weakened,0.2811190379739076,FALSE
+S8_drop_cntry_800,H2-Pd,weakened,0.0200085849311195,FALSE
+S8_drop_cntry_800,H2-lit,qualified (magnitude below the floor),0.1177489503881915,FALSE
+S8_drop_cntry_800,H2-RRR,confirmed,0.2775068460703987,TRUE
+S8_drop_cntry_834,H1-OR,qualified (inference-fragile),0.238529147638254,FALSE
+S8_drop_cntry_834,H1-P,qualified (inference-fragile),0.52589489624783,FALSE
+S8_drop_cntry_834,H2-OR,qualified (inference-fragile),0.287365748609576,FALSE
+S8_drop_cntry_834,H2-Pd,weakened,0.0261740126551188,FALSE
+S8_drop_cntry_834,H2-lit,weakened,0.05759830528388,FALSE
+S8_drop_cntry_834,H2-RRR,confirmed,0.2341074349537782,TRUE
+S8_drop_cntry_894,H1-OR,qualified (inference-fragile),0.3652171365949679,FALSE
+S8_drop_cntry_894,H1-P,qualified (inference-fragile),0.6510799286825011,FALSE
+S8_drop_cntry_894,H2-OR,weakened,0.2858627920875333,FALSE
+S8_drop_cntry_894,H2-Pd,weakened,0.019997647312207,FALSE
+S8_drop_cntry_894,H2-lit,weakened,0.1093237551311995,FALSE
+S8_drop_cntry_894,H2-RRR,weakened,0.2815410236539476,FALSE

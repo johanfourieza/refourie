@@ -1,0 +1,27 @@
+scenario,claim_id,published,original_code,scenario_value,note
+baseline,T1_r1_c1,39.432 (10.933),39.4315 (10.933),39.4315 (10.933; p 0.0004; N 205),"original code, HC2 as printed"
+baseline,T2_r3_c3,-460.648 (110.832),no code,-460.648 (110.832; N 108; R2 0.892),s5_checks/01: re-estimated from aggregate voter_roll_birth.dta; exact
+baseline,T3_r1_c1,-0.007 (0.002),-0.00728 (0.00201),-0.00728 (0.00201; p 0.0004; N 205),"original code, classical SE as printed"
+C1_hc2_all_T1_cols,T1_r1_c1,39.432 (10.933),39.4315 (10.933),39.4315 (10.933),col 1 already HC2; headline unchanged
+C1_hc2_all_T1_cols,T1_r1_c4,1.374*** (0.483),1.374 (0.483),1.374 (0.595; p 0.022),not headline: *** -> **
+C1_hc2_all_T1_cols,T1_r1_c3,32.854*** (9.782),32.854 (9.782),32.854 (10.07; p 0.0013),not headline: stays ***
+C2_hc2,T3_r1_c1,-0.007*** (0.002),-0.00728 (0.00201),-0.00728 (0.00269; p 0.0073),HC2 as the note states; stays ***
+C2_hc3,T3_r1_c1,-0.007*** (0.002),-0.00728 (0.00201),-0.00728 (0.00288; p 0.0122),HC3 sensitivity; ** 
+C2_hc2,T3_r1_c2,0.001 (0.001),0.00109 (0.00071),0.00109 (0.00061; p 0.076),not headline: women would gain *
+C2_hc2,T3_r1_c3,-0.011*** (0.003),-0.01067 (0.00324),-0.01067 (0.00383; p 0.0059),not headline: stays ***
+C3_mean_denominator,T2_r3_c3,"25% of mean cohort 1,787",460.648/1787.016 = 25.8%,460.648/2455.60 = 18.8%,"printed mean averages all 1,647 cells (birth years 1-9810); 1915-23 sample mean 2,455.6; dip/counterfactual July 1919 = 18.7%"
+C4_offset_labels,T2_r3_c3,"-460.648 (110.832), Oct 1918 conception",saved .tex labels Nov 1918,-460.648 (110.832) = births July 1919,9-month offset reproduces published labels Aug-Nov; saved .tex used 8; T2_r2_c2 SE is 118.264 (published 119.264 is a typo)
+T2_placebo_rank,T2_r3_c3,-460.648***,no code,rank 1 of 108 cells; share |coef|>=460.6 = 0.009,single-cell dummy has leverage 1 (HC SEs undefined); permutation over all cells supports the dip
+C5_outliers_from_log_model,T1_r1_c1,39.432,39.4315,39.4315,"headline unaffected; rows 6,85,96 = top-3 |rstudent| of col 1; col 4 with log-model outliers = 1.803 (0.435)"
+C6_means_est_sample,T1_r1_c1,mean 25.946,25.946,26.027,dep-var mean on the 205 estimation rows
+C7_add_port_shepstone,T1_r1_c1,39.432 (10.933),39.4315 (10.933),41.774 vs 41.945 (S3 data with/without Port Shepstone),Port Shepstone silently dropped (no 1911 covariates); effect -0.17
+F9_area_weighted_shares,T1_r1_c1,39.432 (10.933),39.4315 (10.933),42.088 (11.810; N 205),S3 area-weighted 1911 shares swapped into authors' data
+F9_density_total_over_area,T1_r1_c1,39.432 (10.933),39.4315 (10.933),39.636 (10.79; N 205),density = 1911 total / 1918 polygon area
+F9_density_total_over_area,T3_r1_c1,-0.007 (0.002),-0.00728 (0.00201),-0.00734 (0.00202),as above
+pairB_all_S3_variables,T1_r1_c1,39.432 (10.933),39.4315 (10.933),41.774 (11.807; N 206),"full S3 rebuild; shares +2.66, density +0.43, rail -0.57, Port Shepstone -0.17"
+F10_workingage_15_64,T3_r1_c1,-0.007*** (0.002),-0.00728 (0.00201),-0.00741 (0.00206; p 0.0004),denominator 15-64 as the text states (code uses 15-69); mean 0.0386 -> 0.0399
+F10_workingage_15_64_hc2,T3_r1_c1,-0.007*** (0.002),-0.00728 (0.00201),-0.00741 (0.00274; p 0.0075),"15-64 and HC2, both as stated: the specification the paper describes"
+F10_workingage_15_64_hc2,T3_r1_c3,-0.011*** (0.003),-0.01067 (0.00324),-0.01097 (0.00395; p 0.0060),not headline
+pairB_S3_outcome,T3_r1_c1,-0.007 (0.002),-0.00728 (0.00201),-0.00680 (HC2 0.00281),S3 area-weighted 15-64 outcome on authors' regressors; all S3 variables: -0.00693 (0.00291)
+C9_fn11_full_precision,T3_r1_c1,0.49 pp per doubling,-0.505 pp,-0.513 pp (15-64),paper multiplies rounded -0.007; men 0.76 -> 0.740 (0.761 at 15-64)
+C8_rain_units,T1_r1_c1,39.432,39.4315,39.4315,"rain is mm, label says cm; rescaling changes only the rain coefficient"

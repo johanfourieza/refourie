@@ -1,0 +1,15 @@
+name,value
+n_rows,142592
+n_censuses,143
+gini_p10,0.708597940496545
+gini_max,0.999316473000683
+share_gini_in_04_1,1
+wine_peak_year,1771
+break_year,1835
+dv_rise_dec,1730
+lf_first,1689
+lf_settled,1718
+lf_last,1750
+lf_variants_before,15
+lf_settled_strict,NA
+lf_years_after_exact_variant,23

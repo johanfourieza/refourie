@@ -1,0 +1,31 @@
+claim,node,estimate,se,L,U,interval,level,crit_c,B,V_jointly_valid,n_undefined_draws,family_defined,mcse_L,mcse_U,n_rows,n_synthetic_rows,n_clusters,mean_cluster_size,max_cluster_size,share_missing_id,n_positive
+H1,decade 1690,0.735937,0.01104,0.699211,0.772662,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.97e-4,1.97e-4,1675,0,847,1.977568,7,0,950
+H1,decade 1700,0.747826,0.010353,0.713383,0.782268,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.82e-4,2.82e-4,3157,0,1387,2.276136,10,0,2064
+H1,decade 1710,0.721704,0.011658,0.682923,0.760486,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,4.54e-4,4.54e-4,3020,0,1200,2.516667,9,0,2094
+H1,decade 1720,0.697084,0.010375,0.662569,0.731599,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.87e-4,2.87e-4,3710,0,1250,2.968,9,0,2629
+H1,decade 1730,0.657708,0.011126,0.620697,0.69472,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.98e-4,2.98e-4,5194,0,1647,3.153613,10,0,4093
+H1,decade 1740,0.686919,0.009917,0.653927,0.719911,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.42e-4,2.42e-4,5835,0,2023,2.88433,9,0,4840
+H1,decade 1750,0.70395,0.009509,0.672318,0.735583,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.63e-4,1.63e-4,7083,0,2004,3.534431,10,0,5817
+H1,decade 1760,0.734093,0.008118,0.707088,0.761097,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.3e-4,2.3e-4,9551,0,2819,3.388081,10,0,7342
+H1,decade 1770,0.709993,0.007412,0.685336,0.73465,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.57e-4,2.57e-4,11992,0,3404,3.522914,10,0,9579
+H1,decade 1780,0.72695,0.007262,0.702791,0.751108,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,2.38e-4,2.38e-4,12108,0,4174,2.900815,8,0,11057
+H1,decade 1790,0.727167,0.005434,0.709091,0.745243,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.23e-4,1.23e-4,11951,0,4426,2.700181,8,0,11197
+H1,decade 1800,0.73949,0.0049,0.72319,0.75579,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.6e-4,1.6e-4,14468,0,6842,2.114586,9,0,9013
+H1,decade 1810,0.803262,0.005475,0.785047,0.821476,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.48e-4,1.48e-4,14325,0,5387,2.65918,9,0,6356
+H1,decade 1820,0.828584,0.005132,0.81151,0.845658,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.45e-4,1.45e-4,19586,0,6816,2.873533,10,0,8376
+H1,decade 1830,0.823848,0.004064,0.81033,0.837367,sup-t band (household-cluster bootstrap),0.9875,3.326671,9999,9999,0,TRUE,1.14e-4,1.14e-4,12028,0,7144,1.683651,8,0,5495
+H2,"period 1780-1799, enslaved men as zero-asset rows",0.925228,0.002438,0.919071,0.931294,percentile (household-cluster bootstrap),0.9875,NA,9999,9999,0,TRUE,1.1e-4,1.05e-4,24059,63380,7377,11.852921,824,0,22254
+H3a,Bethelsdorp 1814 cattle,0.695016,0.019071,0.643915,0.737755,"percentile (iid households, stratified)",0.9875,NA,9999,9999,0,TRUE,7.15e-4,4.77e-4,425,0,425,1,1,0,244
+H3b,Bethelsdorp 1814 Horses,0.975686,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,425,0,425,1,1,0,15
+H3b,Bethelsdorp 1814 Oxen,0.984986,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,425,0,425,1,1,0,13
+H3b,Bethelsdorp 1814 Sheep,0.991964,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,12,FALSE,NA,NA,425,0,425,1,1,0,7
+H3b,Groenekloof Horses,0.752568,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,108,0,108,1,1,0,46
+H3b,Groenekloof Oxen,0.800117,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,108,0,108,1,1,0,33
+H3b,Groenekloof Cattle,0.772941,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,108,0,108,1,1,0,41
+H3b,Groenekloof Sheep,0.990741,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,3672,FALSE,NA,NA,108,0,108,1,1,0,1
+H3b,Groenekloof Wheat reaped,0.778212,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,108,0,108,1,1,0,34
+H3b,Swartrivier Horses,0.770788,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,364,0,364,1,1,0,128
+H3b,Swartrivier Oxen,0.918858,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,364,0,364,1,1,0,44
+H3b,Swartrivier Cattle,0.955829,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,364,0,364,1,1,0,29
+H3b,Swartrivier Sheep,NA,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,9999,FALSE,NA,NA,364,0,364,1,1,0,0
+H3b,Swartrivier Wheat reaped,0.863513,NA,NA,NA,"sup-t band (iid households, stratified)",0.9875,NA,9999,0,0,FALSE,NA,NA,364,0,364,1,1,0,76

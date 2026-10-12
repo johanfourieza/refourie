@@ -1,0 +1,101 @@
+claim_id,source,value,se,n,status_override,note
+I2_1725,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I2_1750,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I2_1794,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I3_1790,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I3_1791,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I3_1797,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1702,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1720,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1729,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1740,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1753,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1766,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_stb_1794,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_swd_1760,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_swd_1770,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I4_swd_1780,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I5_civil,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I5_military,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I5_ships,original_A1,,,,unavailable,secondary-source table (De Kock/Boeseken/Venter); no code or data survive
+I6_1777_rev,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1777_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1787_rev,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1787_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1789_rev,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1789_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1791_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1792_rev,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1792_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1794_rev,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1794_exp,original_A1,,,,unavailable,De Kock (secondary); not in workbook
+I6_1777_def,original_A1,,,,unavailable,no code; arithmetic exp-rev of the printed table checks (audit S2)
+I6_1787_def,original_A1,,,,unavailable,no code; arithmetic exp-rev of the printed table checks (audit S2)
+I6_1789_def,original_A1,,,,unavailable,no code; arithmetic exp-rev of the printed table checks (audit S2)
+I6_1792_def,original_A1,,,,unavailable,no code; arithmetic exp-rev of the printed table checks (audit S2)
+I6_1794_def,original_A1,,,,unavailable,no code; arithmetic exp-rev of the printed table checks (audit S2)
+I6_1777_gdp,original_A1,2503594.821652677,,,,P15 S2 recalculated nominal GDP (Van Duin en Ross.xlsx total economy!E x 1000); printed GDP vintage not found in any surviving P15 workbook
+I6_1777_revgdp,original_A1,7.988513088071324,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1777_expgdp,original_A1,18.133924709921903,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1777_defgdp,original_A1,10.145411621850581,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1787_gdp,original_A1,4118476.2111756043,,,,P15 S2 recalculated nominal GDP (Van Duin en Ross.xlsx total economy!E x 1000); printed GDP vintage not found in any surviving P15 workbook
+I6_1787_revgdp,original_A1,6.847192639714292,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1787_expgdp,original_A1,38.50938839215201,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1787_defgdp,original_A1,31.662195752437718,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1789_gdp,original_A1,3321462.256732933,,,,P15 S2 recalculated nominal GDP (Van Duin en Ross.xlsx total economy!E x 1000); printed GDP vintage not found in any surviving P15 workbook
+I6_1789_revgdp,original_A1,10.266562545118772,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1789_expgdp,original_A1,52.50699436565143,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1789_defgdp,original_A1,42.240431820532656,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1791_gdp,original_A1,3220081.989242598,,,,P15 S2 recalculated nominal GDP (Van Duin en Ross.xlsx total economy!E x 1000); printed GDP vintage not found in any surviving P15 workbook
+I6_1791_expgdp,original_A1,40.37164284459029,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1792_gdp,original_A1,2988403.2570797037,,,,P15 S2 recalculated nominal GDP (Van Duin en Ross.xlsx total economy!E x 1000); printed GDP vintage not found in any surviving P15 workbook
+I6_1792_revgdp,original_A1,13.92047739924227,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1792_expgdp,original_A1,25.364716030350095,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+I6_1792_defgdp,original_A1,11.444238631107828,,,ambiguous,printed numerator (secondary) / P15 recalculated GDP; numerator not reproducible
+txt_p16_defgdp_1789,original_A1,42.240431820532656,,,ambiguous,printed deficit / P15 recalculated GDP
+txt_p16_defgdp_1792,original_A1,11.444238631107828,,,ambiguous,printed deficit / P15 recalculated GDP
+I7_1700_total,original_A1,51984.592077828944,,438,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1705_total,original_A1,51197.99081071094,,558,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1712_total,original_A1,79838.48173946142,,697,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1719_total,original_A1,59723.57359343767,,770,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1723_total,original_A1,73236.23894882202,,816,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1731_total,original_A1,74864.79713210464,,909,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1738_total,original_A1,75535.31922888756,,1111,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1741_total,original_A1,97578.38231677748,,1247,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1757_total,original_A1,99488.1573190093,,1788,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1773_total,original_A1,160300.13994824886,,2702,,A1 Stata sums /16 + typed property (Tables!W) + pachten (VOC Income)
+I7_1773_poll,original_A1,7026,,2702,,A1
+I7_1773_winetax,original_A1,32980.49998474121,,2702,,A1
+I7_1773_grain,original_A1,37629.899963378906,,2702,,A1
+I7_1773_meat,original_A1,5172.740000128746,,2702,,A1
+I7_1773_property,original_A1,9216,,2702,,typed secondary-source input in workbook (not code output)
+I7_1773_winepacht,original_A1,32000,,2702,,typed secondary-source input in workbook (not code output)
+I7_1773_brandypacht,original_A1,26975,,2702,,typed secondary-source input in workbook (not code output)
+I7_1773_foreign,original_A1,9300,,2702,,typed secondary-source input in workbook (not code output)
+I7_1700_winepacht,original_A1,38300,,,,typed secondary-source input (VOC Income!C4)
+I9_1700_top10,original_A1,45.68481568325963,,438,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1719_top10,original_A1,50.29085804487818,,770,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1731_top10,original_A1,49.29035114546679,,909,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1738_top10,original_A1,56.969949919079255,,1111,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1741_top10,original_A1,56.55243197291912,,1247,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1757_top10,original_A1,56.90088069429104,,1788,,A1 workbook method: mean10 / sum of 10 decile means
+I9_1773_top10,original_A1,61.241325038265764,,2702,,A1 workbook method: mean10 / sum of 10 decile means
+txt_p19_top10_1700,original_A1,45.68481568325963,,438,,A1
+txt_p19_top10_1773,original_A1,61.241325038265764,,2702,,A1
+txt_p21_top10_1773,original_A1,61.241325038265764,,2702,,A1
+txt_p18_direct1773,original_A1,57.40802221255588,,,,direct = poll+wine tax+grain+meat+property over Image 7 total
+txt_p18_rev1773,original_A1,160300.13994824886,,,,Image 7 1773 total; text figure equals this plus the no-0.7 wine tax (Tables!M74)
+txt_p18_extrap1777,original_A1,141142.9447110875,,,ambiguous,method not documented; OLS linear trend on the 10 Image 7 totals
+txt_p18_rev1777,original_A1,,,,unavailable,"Company-published figure (De Kock, secondary)"
+txt_p10_grain_declared,original_A1,,,,unavailable,secondary source (Van Duin and Ross)
+txt_p17_poll,original_A1,32,,,,"fiscalpolicy.do:27,33"
+txt_p17_hearth,original_A1,4,,,,fiscalpolicy.do:30
+txt_p17_wine_pre1743,original_A1,1,,,,A1: 48 stuivers
+txt_p17_wine_post1743,original_A1,3,,,,fiscalpolicy.do:48 (x0.7 share brought to Cape Town; effective 2.1 Rd)
+txt_p17_graintax,original_A1,10,,,,fiscalpolicy.do:63
+txt_p17_wheatprice,original_A1,6,,,,fiscalpolicy.do:63
+txt_p17_barleyprice,original_A1,3,,,,fiscalpolicy.do:63
+txt_p17_cattle,original_A1,1,,,,fiscalpolicy.do:67
+txt_p17_sheep,original_A1,16,,,,fiscalpolicy.do:67 (0.16 per sheep)
+txt_fn28_rixdollar,original_A1,48,,,,fiscalpolicy.do:30 (4*48); workbook /48*3
+txt_fn28_guilder,original_A1,16,,,,Tables!L58 etc. (/48*3 = /16)

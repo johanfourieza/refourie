@@ -1,0 +1,368 @@
+scenario,claim_id,published,original_code,scenario_value,note
+wheat,T1_GraaffReinet_crops,0.95,0.949387,0.92689,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Maine_crops,0.61,0.60903,0.604969,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Maine_cropswine,0.61,0.60903,0.604969,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Massachusetts_crops,0.73,0.730153,0.726412,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Stellenbosch_crops,0.89,0.893579,0.856347,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Swellendam_crops,0.8,0.795691,0.69984,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Swellendam_cropswine,0.83,0.826897,0.720915,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Tulbagh_crops,0.79,0.790241,0.740966,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_mass,93.7,93.7373,98.8606,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_tulb,66.7,66.731,227.975,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_stel,59.1,59.1081,177.461,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_maine,45.6,45.6019,50.5056,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_gr,9.9,9.9393,37.0007,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_cape,37.4,37.4056,125.374,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropval_us,55.8,68.2135,73.2203,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropwine_stel,477,477.008,595.36,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropwine_tulb,142.1,142.119,303.363,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropwine_us,55.8,68.2135,73.2203,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_cropwine_cape,190.8,190.752,278.721,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_income_cape,135.1,135.091,223.06,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p16_income_us,76,76.0141,81.021,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p17_income_cape_cons,92.3,92.2769,180.245,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p17_income_us_cons,76,76.0141,81.021,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,tx_p17_income_cape_cons_wine,245.6,245.624,333.592,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,F6_crops_cape_median,90,88.5052,231.455,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,F6_crops_us_median,85,82.6793,87.1904,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,F6_cropswine_cape_median,230,223.754,356.154,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+wheat,F6_cropswine_us_median,85,82.6793,87.1904,"C1: V_Wheat = Wheatreaped*PWheat instead of prod(...) (l.180, 194)"
+units,A1_Maine_wheat,4.1,4.11537,1.45022,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Maine_barley,8.4,8.4415,2.97471,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Maine_rye,4.7,4.7419,1.671,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Maine_oats,1.5,1.53231,0.539971,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Maine_corn,34.7,34.7357,12.2406,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Maine_crops,53.6,53.5668,18.8765,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_wheat,4.3,4.2997,1.51518,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_barley,1.1,1.06945,0.376866,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_rye,19.6,19.6094,6.91017,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_oats,18.8,18.8302,6.6356,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_corn,61.8,61.7816,21.7713,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,A1_Massachusetts_crops,105.6,105.59,37.2091,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_total,105.6,105.59,37.2091,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_wheat,4.3,4.2997,1.51518,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_barley,1.1,1.06945,0.376866,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_rye,19.6,19.6094,6.91017,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_oats,18.8,18.8302,6.6356,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_mass_corn,61.8,61.7816,21.7713,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_total,53.6,53.5668,18.8765,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_wheat,4.1,4.11537,1.45022,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_barley,8.4,8.4415,2.97471,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_rye,4.7,4.7419,1.671,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_oats,1.5,1.53231,0.539971,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p15_maine_corn,34.7,34.7357,12.2406,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p16_cropval_mass,93.7,93.7373,33.0322,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p16_cropval_maine,45.6,45.6019,16.0697,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p16_cropval_us,55.8,68.2135,24.0378,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p16_cropwine_us,55.8,68.2135,24.0378,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p16_income_us,76,76.0141,31.8385,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,tx_p17_income_us_cons,76,76.0141,31.8385,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,F6_crops_us_median,85,82.6793,29.1355,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+units,F6_cropswine_us_median,85,82.6793,29.1355,N1: Maine/Massachusetts crop quantities divided by 2.837757 (Combined sheet = raw bushels x 2.837757)
+wheat_units,T1_GraaffReinet_crops,0.95,0.949387,0.92689,C1 + N1 (both corrections)
+wheat_units,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,C1 + N1 (both corrections)
+wheat_units,T1_Maine_crops,0.61,0.60903,0.604969,C1 + N1 (both corrections)
+wheat_units,T1_Maine_cropswine,0.61,0.60903,0.604969,C1 + N1 (both corrections)
+wheat_units,T1_Massachusetts_crops,0.73,0.730153,0.726412,C1 + N1 (both corrections)
+wheat_units,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,C1 + N1 (both corrections)
+wheat_units,T1_Stellenbosch_crops,0.89,0.893579,0.856347,C1 + N1 (both corrections)
+wheat_units,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,C1 + N1 (both corrections)
+wheat_units,T1_Swellendam_crops,0.8,0.795691,0.69984,C1 + N1 (both corrections)
+wheat_units,T1_Swellendam_cropswine,0.83,0.826897,0.720915,C1 + N1 (both corrections)
+wheat_units,T1_Tulbagh_crops,0.79,0.790241,0.740966,C1 + N1 (both corrections)
+wheat_units,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,C1 + N1 (both corrections)
+wheat_units,A1_Maine_wheat,4.1,4.11537,1.45022,C1 + N1 (both corrections)
+wheat_units,A1_Maine_barley,8.4,8.4415,2.97471,C1 + N1 (both corrections)
+wheat_units,A1_Maine_rye,4.7,4.7419,1.671,C1 + N1 (both corrections)
+wheat_units,A1_Maine_oats,1.5,1.53231,0.539971,C1 + N1 (both corrections)
+wheat_units,A1_Maine_corn,34.7,34.7357,12.2406,C1 + N1 (both corrections)
+wheat_units,A1_Maine_crops,53.6,53.5668,18.8765,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_wheat,4.3,4.2997,1.51518,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_barley,1.1,1.06945,0.376866,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_rye,19.6,19.6094,6.91017,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_oats,18.8,18.8302,6.6356,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_corn,61.8,61.7816,21.7713,C1 + N1 (both corrections)
+wheat_units,A1_Massachusetts_crops,105.6,105.59,37.2091,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_total,105.6,105.59,37.2091,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_wheat,4.3,4.2997,1.51518,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_barley,1.1,1.06945,0.376866,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_rye,19.6,19.6094,6.91017,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_oats,18.8,18.8302,6.6356,C1 + N1 (both corrections)
+wheat_units,tx_p15_mass_corn,61.8,61.7816,21.7713,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_total,53.6,53.5668,18.8765,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_wheat,4.1,4.11537,1.45022,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_barley,8.4,8.4415,2.97471,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_rye,4.7,4.7419,1.671,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_oats,1.5,1.53231,0.539971,C1 + N1 (both corrections)
+wheat_units,tx_p15_maine_corn,34.7,34.7357,12.2406,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_mass,93.7,93.7373,34.8376,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_tulb,66.7,66.731,227.975,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_stel,59.1,59.1081,177.461,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_maine,45.6,45.6019,17.7977,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_gr,9.9,9.9393,37.0007,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_cape,37.4,37.4056,125.374,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropval_us,55.8,68.2135,25.8022,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropwine_stel,477,477.008,595.36,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropwine_tulb,142.1,142.119,303.363,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropwine_us,55.8,68.2135,25.8022,C1 + N1 (both corrections)
+wheat_units,tx_p16_cropwine_cape,190.8,190.752,278.721,C1 + N1 (both corrections)
+wheat_units,tx_p16_income_cape,135.1,135.091,223.06,C1 + N1 (both corrections)
+wheat_units,tx_p16_income_us,76,76.0141,33.6028,C1 + N1 (both corrections)
+wheat_units,tx_p17_income_cape_cons,92.3,92.2769,180.245,C1 + N1 (both corrections)
+wheat_units,tx_p17_income_us_cons,76,76.0141,33.6028,C1 + N1 (both corrections)
+wheat_units,tx_p17_income_cape_cons_wine,245.6,245.624,333.592,C1 + N1 (both corrections)
+wheat_units,F6_crops_cape_median,90,88.5052,231.455,C1 + N1 (both corrections)
+wheat_units,F6_crops_us_median,85,82.6793,30.7251,C1 + N1 (both corrections)
+wheat_units,F6_cropswine_cape_median,230,223.754,356.154,C1 + N1 (both corrections)
+wheat_units,F6_cropswine_us_median,85,82.6793,30.7251,C1 + N1 (both corrections)
+base_va0,tx_p16_cropval_us,55.8,68.2135,55.8263,C2: desall3 keeps Virginia (crop value 0) - reproduces the printed $55.8
+base_va0,tx_p16_cropwine_us,55.8,68.2135,55.8263,C2: desall3 keeps Virginia (crop value 0) - reproduces the printed $55.8
+base_va0,tx_p16_income_us,76,76.0141,63.981,C2: desall3 keeps Virginia (crop value 0) - reproduces the printed $55.8
+wheat_va0,T1_GraaffReinet_crops,0.95,0.949387,0.92689,C1 + Virginia as zeros
+wheat_va0,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,C1 + Virginia as zeros
+wheat_va0,T1_Maine_crops,0.61,0.60903,0.604969,C1 + Virginia as zeros
+wheat_va0,T1_Maine_cropswine,0.61,0.60903,0.604969,C1 + Virginia as zeros
+wheat_va0,T1_Massachusetts_crops,0.73,0.730153,0.726412,C1 + Virginia as zeros
+wheat_va0,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,C1 + Virginia as zeros
+wheat_va0,T1_Stellenbosch_crops,0.89,0.893579,0.856347,C1 + Virginia as zeros
+wheat_va0,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,C1 + Virginia as zeros
+wheat_va0,T1_Swellendam_crops,0.8,0.795691,0.69984,C1 + Virginia as zeros
+wheat_va0,T1_Swellendam_cropswine,0.83,0.826897,0.720915,C1 + Virginia as zeros
+wheat_va0,T1_Tulbagh_crops,0.79,0.790241,0.740966,C1 + Virginia as zeros
+wheat_va0,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_mass,93.7,93.7373,98.8606,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_tulb,66.7,66.731,227.975,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_stel,59.1,59.1081,177.461,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_maine,45.6,45.6019,50.5056,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_gr,9.9,9.9393,37.0007,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_cape,37.4,37.4056,125.374,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropval_us,55.8,68.2135,59.9239,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropwine_stel,477,477.008,595.36,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropwine_tulb,142.1,142.119,303.363,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropwine_us,55.8,68.2135,59.9239,C1 + Virginia as zeros
+wheat_va0,tx_p16_cropwine_cape,190.8,190.752,278.721,C1 + Virginia as zeros
+wheat_va0,tx_p16_income_cape,135.1,135.091,223.06,C1 + Virginia as zeros
+wheat_va0,tx_p16_income_us,76,76.0141,68.0786,C1 + Virginia as zeros
+wheat_va0,tx_p17_income_cape_cons,92.3,92.2769,180.245,C1 + Virginia as zeros
+wheat_va0,tx_p17_income_us_cons,76,76.0141,81.021,C1 + Virginia as zeros
+wheat_va0,tx_p17_income_cape_cons_wine,245.6,245.624,333.592,C1 + Virginia as zeros
+wheat_va0,F6_crops_cape_median,90,88.5052,231.455,C1 + Virginia as zeros
+wheat_va0,F6_crops_us_median,85,82.6793,87.1904,C1 + Virginia as zeros
+wheat_va0,F6_cropswine_cape_median,230,223.754,356.154,C1 + Virginia as zeros
+wheat_va0,F6_cropswine_us_median,85,82.6793,87.1904,C1 + Virginia as zeros
+wheat_units_va0,T1_GraaffReinet_crops,0.95,0.949387,0.92689,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Maine_crops,0.61,0.60903,0.604969,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Maine_cropswine,0.61,0.60903,0.604969,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Massachusetts_crops,0.73,0.730153,0.726412,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Stellenbosch_crops,0.89,0.893579,0.856347,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Swellendam_crops,0.8,0.795691,0.69984,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Swellendam_cropswine,0.83,0.826897,0.720915,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Tulbagh_crops,0.79,0.790241,0.740966,C1 + N1 + Virginia as zeros
+wheat_units_va0,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_wheat,4.1,4.11537,1.45022,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_barley,8.4,8.4415,2.97471,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_rye,4.7,4.7419,1.671,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_oats,1.5,1.53231,0.539971,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_corn,34.7,34.7357,12.2406,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Maine_crops,53.6,53.5668,18.8765,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_wheat,4.3,4.2997,1.51518,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_barley,1.1,1.06945,0.376866,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_rye,19.6,19.6094,6.91017,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_oats,18.8,18.8302,6.6356,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_corn,61.8,61.7816,21.7713,C1 + N1 + Virginia as zeros
+wheat_units_va0,A1_Massachusetts_crops,105.6,105.59,37.2091,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_total,105.6,105.59,37.2091,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_wheat,4.3,4.2997,1.51518,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_barley,1.1,1.06945,0.376866,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_rye,19.6,19.6094,6.91017,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_oats,18.8,18.8302,6.6356,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_mass_corn,61.8,61.7816,21.7713,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_total,53.6,53.5668,18.8765,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_wheat,4.1,4.11537,1.45022,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_barley,8.4,8.4415,2.97471,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_rye,4.7,4.7419,1.671,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_oats,1.5,1.53231,0.539971,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p15_maine_corn,34.7,34.7357,12.2406,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_mass,93.7,93.7373,34.8376,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_tulb,66.7,66.731,227.975,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_stel,59.1,59.1081,177.461,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_maine,45.6,45.6019,17.7977,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_gr,9.9,9.9393,37.0007,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_cape,37.4,37.4056,125.374,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropval_us,55.8,68.2135,21.1166,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropwine_stel,477,477.008,595.36,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropwine_tulb,142.1,142.119,303.363,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropwine_us,55.8,68.2135,21.1166,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_cropwine_cape,190.8,190.752,278.721,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_income_cape,135.1,135.091,223.06,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p16_income_us,76,76.0141,29.2713,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p17_income_cape_cons,92.3,92.2769,180.245,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p17_income_us_cons,76,76.0141,33.6028,C1 + N1 + Virginia as zeros
+wheat_units_va0,tx_p17_income_cape_cons_wine,245.6,245.624,333.592,C1 + N1 + Virginia as zeros
+wheat_units_va0,F6_crops_cape_median,90,88.5052,231.455,C1 + N1 + Virginia as zeros
+wheat_units_va0,F6_crops_us_median,85,82.6793,30.7251,C1 + N1 + Virginia as zeros
+wheat_units_va0,F6_cropswine_cape_median,230,223.754,356.154,C1 + N1 + Virginia as zeros
+wheat_units_va0,F6_cropswine_us_median,85,82.6793,30.7251,C1 + N1 + Virginia as zeros
+base_r03,tx_p16_livinc_gr,148.7,148.694,74.3469,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p16_livinc_maine,8.1,8.06031,4.03015,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p16_livinc_mass,7.5,7.50755,3.75377,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p16_income_cape,135.1,135.091,86.2485,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p16_income_us,76,76.0141,72.1138,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_income_cape_cons,92.3,92.2769,64.8413,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_income_us_cons,76,76.0141,72.1138,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_income_cape_cons_wine,245.6,245.624,218.188,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_ensinc_stel_med,60.9,60.9466,30.4733,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_ensinc_va_med,53.4,53.553,26.7765,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_ensinc_va_mean,88.8,88.767,44.3835,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r03,tx_p17_ensinc_stel_mean,83,82.997,41.4985,C4: capitalisation 3% instead of 6% (original code otherwise)
+base_r10,tx_p16_livinc_gr,148.7,148.694,247.823,C4: 10% instead of 6%
+base_r10,tx_p16_livinc_maine,8.1,8.06031,13.4338,C4: 10% instead of 6%
+base_r10,tx_p16_livinc_mass,7.5,7.50755,12.5126,C4: 10% instead of 6%
+base_r10,tx_p16_income_cape,135.1,135.091,200.215,C4: 10% instead of 6%
+base_r10,tx_p16_income_us,76,76.0141,81.2146,C4: 10% instead of 6%
+base_r10,tx_p17_income_cape_cons,92.3,92.2769,128.858,C4: 10% instead of 6%
+base_r10,tx_p17_income_us_cons,76,76.0141,81.2146,C4: 10% instead of 6%
+base_r10,tx_p17_income_cape_cons_wine,245.6,245.624,282.204,C4: 10% instead of 6%
+base_r10,tx_p17_ensinc_stel_med,60.9,60.9466,101.578,C4: 10% instead of 6%
+base_r10,tx_p17_ensinc_va_med,53.4,53.553,89.255,C4: 10% instead of 6%
+base_r10,tx_p17_ensinc_va_mean,88.8,88.767,147.945,C4: 10% instead of 6%
+base_r10,tx_p17_ensinc_stel_mean,83,82.997,138.328,C4: 10% instead of 6%
+wheat_units_r03,T1_GraaffReinet_crops,0.95,0.949387,0.92689,"C1 + N1, 3%"
+wheat_units_r03,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,"C1 + N1, 3%"
+wheat_units_r03,T1_Maine_crops,0.61,0.60903,0.604969,"C1 + N1, 3%"
+wheat_units_r03,T1_Maine_cropswine,0.61,0.60903,0.604969,"C1 + N1, 3%"
+wheat_units_r03,T1_Massachusetts_crops,0.73,0.730153,0.726412,"C1 + N1, 3%"
+wheat_units_r03,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,"C1 + N1, 3%"
+wheat_units_r03,T1_Stellenbosch_crops,0.89,0.893579,0.856347,"C1 + N1, 3%"
+wheat_units_r03,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,"C1 + N1, 3%"
+wheat_units_r03,T1_Swellendam_crops,0.8,0.795691,0.69984,"C1 + N1, 3%"
+wheat_units_r03,T1_Swellendam_cropswine,0.83,0.826897,0.720915,"C1 + N1, 3%"
+wheat_units_r03,T1_Tulbagh_crops,0.79,0.790241,0.740966,"C1 + N1, 3%"
+wheat_units_r03,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_wheat,4.1,4.11537,1.45022,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_barley,8.4,8.4415,2.97471,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_rye,4.7,4.7419,1.671,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_oats,1.5,1.53231,0.539971,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_corn,34.7,34.7357,12.2406,"C1 + N1, 3%"
+wheat_units_r03,A1_Maine_crops,53.6,53.5668,18.8765,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_wheat,4.3,4.2997,1.51518,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_barley,1.1,1.06945,0.376866,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_rye,19.6,19.6094,6.91017,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_oats,18.8,18.8302,6.6356,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_corn,61.8,61.7816,21.7713,"C1 + N1, 3%"
+wheat_units_r03,A1_Massachusetts_crops,105.6,105.59,37.2091,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_total,105.6,105.59,37.2091,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_wheat,4.3,4.2997,1.51518,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_barley,1.1,1.06945,0.376866,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_rye,19.6,19.6094,6.91017,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_oats,18.8,18.8302,6.6356,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_mass_corn,61.8,61.7816,21.7713,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_total,53.6,53.5668,18.8765,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_wheat,4.1,4.11537,1.45022,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_barley,8.4,8.4415,2.97471,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_rye,4.7,4.7419,1.671,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_oats,1.5,1.53231,0.539971,"C1 + N1, 3%"
+wheat_units_r03,tx_p15_maine_corn,34.7,34.7357,12.2406,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_mass,93.7,93.7373,34.8376,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_tulb,66.7,66.731,227.975,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_stel,59.1,59.1081,177.461,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_maine,45.6,45.6019,17.7977,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_gr,9.9,9.9393,37.0007,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_cape,37.4,37.4056,125.374,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropval_us,55.8,68.2135,25.8022,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropwine_stel,477,477.008,595.36,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropwine_tulb,142.1,142.119,303.363,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropwine_us,55.8,68.2135,25.8022,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_cropwine_cape,190.8,190.752,278.721,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_livinc_gr,148.7,148.694,74.3469,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_livinc_maine,8.1,8.06031,4.03015,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_livinc_mass,7.5,7.50755,3.75377,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_income_cape,135.1,135.091,174.217,"C1 + N1, 3%"
+wheat_units_r03,tx_p16_income_us,76,76.0141,29.7025,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_income_cape_cons,92.3,92.2769,152.81,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_income_us_cons,76,76.0141,29.7025,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_income_cape_cons_wine,245.6,245.624,306.156,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_ensinc_stel_med,60.9,60.9466,30.4733,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_ensinc_va_med,53.4,53.553,26.7765,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_ensinc_va_mean,88.8,88.767,44.3835,"C1 + N1, 3%"
+wheat_units_r03,tx_p17_ensinc_stel_mean,83,82.997,41.4985,"C1 + N1, 3%"
+wheat_units_r03,F6_crops_cape_median,90,88.5052,231.455,"C1 + N1, 3%"
+wheat_units_r03,F6_crops_us_median,85,82.6793,30.7251,"C1 + N1, 3%"
+wheat_units_r03,F6_cropswine_cape_median,230,223.754,356.154,"C1 + N1, 3%"
+wheat_units_r03,F6_cropswine_us_median,85,82.6793,30.7251,"C1 + N1, 3%"
+wheat_units_r10,T1_GraaffReinet_crops,0.95,0.949387,0.92689,"C1 + N1, 10%"
+wheat_units_r10,T1_GraaffReinet_cropswine,0.95,0.94951,0.925956,"C1 + N1, 10%"
+wheat_units_r10,T1_Maine_crops,0.61,0.60903,0.604969,"C1 + N1, 10%"
+wheat_units_r10,T1_Maine_cropswine,0.61,0.60903,0.604969,"C1 + N1, 10%"
+wheat_units_r10,T1_Massachusetts_crops,0.73,0.730153,0.726412,"C1 + N1, 10%"
+wheat_units_r10,T1_Massachusetts_cropswine,0.73,0.730153,0.726412,"C1 + N1, 10%"
+wheat_units_r10,T1_Stellenbosch_crops,0.89,0.893579,0.856347,"C1 + N1, 10%"
+wheat_units_r10,T1_Stellenbosch_cropswine,0.76,0.762797,0.724712,"C1 + N1, 10%"
+wheat_units_r10,T1_Swellendam_crops,0.8,0.795691,0.69984,"C1 + N1, 10%"
+wheat_units_r10,T1_Swellendam_cropswine,0.83,0.826897,0.720915,"C1 + N1, 10%"
+wheat_units_r10,T1_Tulbagh_crops,0.79,0.790241,0.740966,"C1 + N1, 10%"
+wheat_units_r10,T1_Tulbagh_cropswine,0.81,0.805522,0.750792,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_wheat,4.1,4.11537,1.45022,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_barley,8.4,8.4415,2.97471,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_rye,4.7,4.7419,1.671,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_oats,1.5,1.53231,0.539971,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_corn,34.7,34.7357,12.2406,"C1 + N1, 10%"
+wheat_units_r10,A1_Maine_crops,53.6,53.5668,18.8765,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_wheat,4.3,4.2997,1.51518,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_barley,1.1,1.06945,0.376866,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_rye,19.6,19.6094,6.91017,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_oats,18.8,18.8302,6.6356,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_corn,61.8,61.7816,21.7713,"C1 + N1, 10%"
+wheat_units_r10,A1_Massachusetts_crops,105.6,105.59,37.2091,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_total,105.6,105.59,37.2091,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_wheat,4.3,4.2997,1.51518,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_barley,1.1,1.06945,0.376866,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_rye,19.6,19.6094,6.91017,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_oats,18.8,18.8302,6.6356,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_mass_corn,61.8,61.7816,21.7713,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_total,53.6,53.5668,18.8765,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_wheat,4.1,4.11537,1.45022,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_barley,8.4,8.4415,2.97471,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_rye,4.7,4.7419,1.671,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_oats,1.5,1.53231,0.539971,"C1 + N1, 10%"
+wheat_units_r10,tx_p15_maine_corn,34.7,34.7357,12.2406,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_mass,93.7,93.7373,34.8376,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_tulb,66.7,66.731,227.975,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_stel,59.1,59.1081,177.461,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_maine,45.6,45.6019,17.7977,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_gr,9.9,9.9393,37.0007,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_cape,37.4,37.4056,125.374,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropval_us,55.8,68.2135,25.8022,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropwine_stel,477,477.008,595.36,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropwine_tulb,142.1,142.119,303.363,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropwine_us,55.8,68.2135,25.8022,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_cropwine_cape,190.8,190.752,278.721,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_livinc_gr,148.7,148.694,247.823,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_livinc_maine,8.1,8.06031,13.4338,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_livinc_mass,7.5,7.50755,12.5126,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_income_cape,135.1,135.091,288.183,"C1 + N1, 10%"
+wheat_units_r10,tx_p16_income_us,76,76.0141,38.8033,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_income_cape_cons,92.3,92.2769,216.826,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_income_us_cons,76,76.0141,38.8033,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_income_cape_cons_wine,245.6,245.624,370.173,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_ensinc_stel_med,60.9,60.9466,101.578,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_ensinc_va_med,53.4,53.553,89.255,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_ensinc_va_mean,88.8,88.767,147.945,"C1 + N1, 10%"
+wheat_units_r10,tx_p17_ensinc_stel_mean,83,82.997,138.328,"C1 + N1, 10%"
+wheat_units_r10,F6_crops_cape_median,90,88.5052,231.455,"C1 + N1, 10%"
+wheat_units_r10,F6_crops_us_median,85,82.6793,30.7251,"C1 + N1, 10%"
+wheat_units_r10,F6_cropswine_cape_median,230,223.754,356.154,"C1 + N1, 10%"
+wheat_units_r10,F6_cropswine_us_median,85,82.6793,30.7251,"C1 + N1, 10%"
+check_110,tx_p14_stel_total,110.1,59.5341,110.092,110.1 = obs-weighted Stellenbosch crop total for 1805 and 1815 only (check_110.R); components pool all four benchmarks
+check_slaveprice,tx_p15_price_enslaved_16plus,178.51,2.8728362556719516,2.8728362556719516,"Cape/US enslaved price ratio 2.87 (Cape 1798-1802 auction sales vs US 1782-1817 appraisals, ages 16+); conservative Cape price 126.97 = 0.71 x US"
+breakeven_rate,tx_p16_income_cape,135.1,6,2.06,"capitalisation rate (%) at which Cape income = US income, original code, baseline prices (linear in r)"
+breakeven_rate,tx_p17_income_cape_cons,92.3,6,3.92,"same, conservative Cape livestock prices: below ~3.9% the Cape falls below the US $72-76 in the original code"
+breakeven_rate_fixed,tx_p16_income_cape,135.1,6,0,after C1 + N1 the Cape exceeds the US at any rate >= 0 (crops alone $125.4 vs $25.8)
+farmer_filter,T1_Stellenbosch_obs,2962,2962,2867,"N2: code admits 95 wine-only households (Wine>0) as farmers; fn 45 excludes specialist viticulturalists (check_wine_only.R); explains pair-B N gaps (GR 3441, Swe 1754, Tul 1077)"

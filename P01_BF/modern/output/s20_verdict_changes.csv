@@ -1,0 +1,11 @@
+row,deletions,to,volumes,n_changed
+H1-pt,43,not-testable,CJ782,1
+H1-rel,43,not-testable,CJ782,1
+H2-IND-pt,43,not-testable; weakened,"CJ782,CJ789,CJ794,CJ817",4
+H2-IND-rel,43,not-testable; weakened,"CJ782,CJ785,CJ789,CJ790,CJ793,CJ794,CJ799,CJ802,CJ809,CJ810,CJ812,CJ815,CJ817,CJ818,CJ820",15
+H2-MOZ-pt,43,not-testable,CJ782,1
+H2-MOZ-rel,43,not-testable; weakened,"CJ782,CJ817",2
+H2-SEA-pt,43,not-testable,CJ782,1
+H2-SEA-rel,43,not-testable,CJ782,1
+H2-all,43,not-testable; weakened,"CJ782,CJ789,CJ794,CJ817",4
+H3,43,qualified (inference-fragile); weakened,"CJ782,CJ785,CJ786,CJ789,CJ790,CJ792,CJ793,CJ794,CJ799,CJ802,CJ809,CJ810,CJ812,CJ815,CJ817,CJ818,CJ820",17

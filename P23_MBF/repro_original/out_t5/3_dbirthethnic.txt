@@ -1,0 +1,47 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	d_birth	d_birth	d_birth	d_birth
+				
+d_mission	1.16**	1.98**	2.43**	7.86**
+	(0.52)	(0.88)	(1.19)	(3.31)
+2o.iso2		-	-	-
+				
+3o.iso2				-
+				
+4o.iso2		-	-	-
+				
+6o.iso2		-	-	-
+				
+7o.iso2		-	-	-
+				
+9o.iso2				-
+				
+10o.iso2		-	-	-
+				
+12o.iso2		-	-	-
+				
+14o.iso2		-	-	-
+				
+16o.iso2		-	-	-
+				
+17o.iso2		-	-	-
+				
+18o.iso2		-	-	-
+				
+21o.iso2		-	-	-
+				
+22o.iso2				-
+				
+23o.iso2		-	-	-
+				
+25o.iso2		-	-	-
+				
+				
+Observations	155	94	94	64
+Constant	yes	yes	yes	yes
+Country FE	no	yes	yes	yes
+Controls geo	no	no	yes	yes
+Controls precolonial	no	no	no	yes
+Pseudo R2	0.0460	0.162	0.219	0.400
+)				
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,8 @@
+check,target,got,pass
+"stored 570, ldebt, bond1/year_string: slaves = 0.0826",0.0826,0.08256283170624314,TRUE
+  conventional t = 8.65,8.65,8.430201963540028,FALSE
+  HC1 t = 7.12,7.12,7.11847536345492,TRUE
+  N = 570,570,565,FALSE
+"inheritance excluded, bond/year decades: slaves = 0.0712",0.0712,0.07124311077307739,TRUE
+  N = 564,564,559,FALSE
+S3 rebuild locked Tobit slaves = 0.0454,0.0454,0.04540839577689919,TRUE

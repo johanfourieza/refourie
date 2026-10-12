@@ -1,0 +1,22 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule_number,flags
+I1-L,0.83267,,,0.801 <= UK share <= 0.861 (A8 +-0.03),confirmed,1,
+I1-T,0.83267,,,UK share > 0.5,confirmed,1,England-born share 0.5792 (> 0.5; literal 'English' reading)
+I3-L,,,,each level within +-10% of 172.91 / 175.03 cm,confirmed,1,England 172.911; Cape/Natal 175.028 cm
+I6-L,4.4631,,,4.014 <= mean <= 4.906 shillings/day (+-10%),confirmed,1,
+I4-LP,-0.056815,"[-0.1155, -0.006690] (99%)",p1=0.0044; p2=0.000295,b <= -0.0285 (50% floor of -0.057),confirmed,4,WCR validity flag raised
+I4-PCT,5.5231,"[0.6668, 10.91] (99%)",p1=0.0044; p2=0.000295,100(1-exp(b)) >= 2.55 (50% floor of 5.1%),confirmed,4,WCR validity flag raised
+I5-LP,0.077740,"[-0.02814, 0.1594] (99%)",p1=0.134; p2=1.8e-06,b >= 0.039 (50% floor of 0.078),not-testable (primary inference unreliable: few treated clusters),1,WCR validity flag raised; secondary disagreement (p2 on other side of 0.01)
+I5-PCT,7.4795,"[-2.854, 14.74] (99%)",p1=0.134; p2=1.8e-06,100(1-exp(-b)) >= 4.3 (50% floor of 8.6%),not-testable (primary inference unreliable: few treated clusters),1,WCR validity flag raised; secondary disagreement (p2 on other side of 0.01)
+I3a-C,2.1179,"[1.088, 3.147] (99%)",p1=1.95e-07; p2=0.000363,Delta > 0 and 99% CI excludes 0,confirmed,3,
+I3a-M,2.1179,"[1.088, 3.147] (99%)",p1=1.95e-07; p2=0.000363,Delta >= 1.06 cm and p1 < 0.01,confirmed,3,
+I3b-C,1.9559,"[1.184, 2.727] (99%)",p1=1.27e-10; p2=0.000116,Delta > 0 and 99% CI excludes 0,confirmed,4,
+I6-C,-0.56409,"[-0.6624, -0.4658] (99%)",p1=6.91e-38; p2=0.0363,Delta < 0 and 99% CI excludes 0,confirmed,3,secondary disagreement (p2 on other side of 0.01)
+I2,10399.,,,count of digitised records; S4 governs,not-testable,I2 rule,"Augmented sheet has 10,399 rows"
+I4-D,,,,discrimination not identified by these data,not-testable,I4-D rule,OB reported as sensitivity 5.5
+HEADLINE tx_p585_uk,,,,"weakest of I1-L, I1-T",confirmed,headline mapping (§8),
+HEADLINE T1_England_height / T1_SouthernAfrica_height,,,,"weakest of I3-L, I3a-C, I3a-M",confirmed,headline mapping (§8),
+p.592 cohort claim (own verdict),,,,weakest of I3b-C,confirmed,headline mapping (§8),
+HEADLINE T3_afrikaans_s4,,,,"weakest of I4-LP, I4-PCT (I4-D beside: not-testable)",confirmed,headline mapping (§8),
+HEADLINE T3_england_s4,,,,"weakest of I5-LP, I5-PCT",not-testable (primary inference unreliable: few treated clusters),headline mapping (§8),
+HEADLINE T1_Boerrepublics_wage,,,,"weakest of I6-L, I6-C",confirmed,headline mapping (§8),
+HEADLINE tx_p580_terms,,,,weakest of I2,not-testable,headline mapping (§8),

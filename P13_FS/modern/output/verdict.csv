@@ -1,0 +1,12 @@
+claim,estimate,interval,test_p,threshold_or_band,verdict,rule
+H1-cons (T5_r9_full_pct = 20.89),C = 22.39%,point (no inference),,"A8a band [18.801, 22.979]",confirmed,1
+H1-land (T5_r10_full_pct = 25.78),L = 27.63%,point (no inference),,"A8a band [23.202, 28.358]",confirmed,1
+"H1-main (land largest purpose, purpose-recorded rows, bonds as land)",min Delta_c = 18.34 pp (vs Funeral Expenses),smallest simultaneous lower bound 13.77 (vs Funeral Expenses); all 21 lower bounds > 0,,"all 21 Bonferroni intervals (0.0125/21 per tail) > 0; B = 49,999, undefined draws 0",confirmed,2
+H2-mag (T6A_slaves_nom_coef = 0.087),b = 0.0801 (N 559),"HC3 undefined (h_ii = 1 for MOOC8/2.33, sole 1700s obs)",HC3 undefined,"same sign, p < 0.025, b >= 0.0435; null if CI in (-0.0435, 0.0435)",not-testable,0
+H1-all (shares of all borrowing),NA,NA,NA,65% of debt-side rows lack a purpose,not-testable,§1/§8
+H1-bond (land debts contracted through bonds),NA,NA,NA,bond purpose not recorded; paper allocation,not-testable,§1/§8
+H2-causal (slave ownership a driver),NA,NA,NA,no exogenous variation,not-testable,§1/§8
+H3-mag (T6B_wealth_nom_coef = 0.0185),NA,NA,NA,6-variable PCA and N 251 sample unrecoverable,not-testable,§1/§8
+H3-pct (1.85% per percentage point),NA,NA,NA,as H3-mag,not-testable,§1/§8
+"H3-benefit (rich, not poor, benefited)",NA,NA,NA,welfare not measured,not-testable,§1/§8
+H3-ext (3-variable wealth index),b = 0.0253 (N 565),HC3 undefined (max leverage 1),,never votes,different-estimand,§8

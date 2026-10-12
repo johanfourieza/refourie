@@ -1,0 +1,34 @@
+\begin{table}
+\centering
+\begin{talltblr}[         %% tabularray outer open
+caption={Recreated Table 3. 1918 influenza mortality and 1936 white unemployment (HC2 SEs; region FE)},
+note{}={* p \num{< 0.1}, ** p \num{< 0.05}, *** p \num{< 0.01}},
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+colspec={Q[]Q[]Q[]Q[]},
+hline{2}={1-4}{solid, black, 0.05em},
+hline{16}={1-4}{solid, black, 0.05em},
+hline{1}={1-4}{solid, black, 0.08em},
+hline{18}={1-4}{solid, black, 0.08em},
+column{2-4}={}{halign=c},
+column{1}={}{halign=l},
+}                     %% tabularray inner close
+& U. Rate (Total) & U. Rate (Women) & U. Rate (Men) \\
+Log (Deaths/1,000) & \num{-0.007}** & \num{0.001}* & \num{-0.010}** \\
+& (\num{0.003}) & (\num{0.001}) & (\num{0.004}) \\
+Black Pop. Share (1911) & \num{0.002} & \num{-0.013}*** & \num{0.000} \\
+& (\num{0.014}) & (\num{0.004}) & (\num{0.023}) \\
+Coloured Pop. Share (1911) & \num{0.005} & \num{-0.010}* & \num{0.008} \\
+& (\num{0.019}) & (\num{0.006}) & (\num{0.033}) \\
+Log (1 + Pop. Density (1911)) & \num{0.018}*** & \num{0.007}*** & \num{0.029}*** \\
+& (\num{0.003}) & (\num{0.001}) & (\num{0.005}) \\
+Log (1 + Distance to Rail in Km (1907)) & \num{-0.001} & \num{-0.000} & \num{-0.002} \\
+& (\num{0.001}) & (\num{0.000}) & (\num{0.002}) \\
+Avg. Sept/Oct Rain in Cm (1910-1950) & \num{-0.004}*** & \num{-0.001}** & \num{-0.005}*** \\
+& (\num{0.001}) & (\num{0.000}) & (\num{0.002}) \\
+Constant & \num{0.037}*** & \num{0.005} & \num{0.060}*** \\
+& (\num{0.012}) & (\num{0.004}) & (\num{0.020}) \\
+Num.Obs. & \num{206} & \num{206} & \num{206} \\
+R2 & \num{0.443} & \num{0.361} & \num{0.425} \\
+\end{talltblr}
+\end{table}

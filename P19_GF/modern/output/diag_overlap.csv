@@ -1,0 +1,38 @@
+column,class,in_A2,n_classes,total_column_with_parts
+Pensions,hr,FALSE,1,FALSE
+EducationNatives,hr,FALSE,1,FALSE
+Education Non- Natives,hr,FALSE,1,FALSE
+District Surgeons,hr,FALSE,1,FALSE
+Public Health,hr,FALSE,1,FALSE
+Public Worship,hr,FALSE,1,FALSE
+Eastern Cape hospital and lepers,hr,FALSE,1,FALSE
+"Somerset , old and new Hospital",hr,FALSE,1,FALSE
+Colonial Secretary,adm,FALSE,1,FALSE
+The Governor,adm,FALSE,1,FALSE
+Crown Forests,adm,FALSE,1,FALSE
+Joint parliamentary expenses,adm,FALSE,1,FALSE
+Transkeian territories,adm,FALSE,1,FALSE
+"Rents, rates, insurance, gas , electric light",adm,FALSE,1,FALSE
+Headman & Chiefs Allowances,adm,FALSE,1,FALSE
+Cape Town & frontier Mounted riflemen,mil,FALSE,1,FALSE
+Imperial Military Expr,mil,FALSE,1,FALSE
+Defence and Colonial Military allowance,mil,FALSE,1,FALSE
+Divisional Courts,law,FALSE,1,FALSE
+Registrar of Deeds,law,FALSE,1,FALSE
+High Sheriff,law,FALSE,1,FALSE
+Superior Courts,law,FALSE,1,FALSE
+Police and Gaol,law,FALSE,1,FALSE
+Convicts and Prisons,law,FALSE,1,FALSE
+Robben Island,law,FALSE,1,FALSE
+National Debt Servicing,debt,FALSE,1,FALSE
+Total Railways,rail,TRUE,1,FALSE
+Roads & Bridges,pwo,TRUE,1,FALSE
+Works & Buildings,pwo,TRUE,1,FALSE
+Conveyance of mails,pwo,FALSE,1,FALSE
+Telegraph,pwo,TRUE,1,FALSE
+Post Office,pwo,FALSE,1,FALSE
+Ports and Harbours,pwo,TRUE,1,FALSE
+Customs,pwo,FALSE,1,FALSE
+Mines,pwo,FALSE,1,FALSE
+Surveyor General,pwo,FALSE,1,FALSE
+Commissioner for public works,pwo,FALSE,1,FALSE

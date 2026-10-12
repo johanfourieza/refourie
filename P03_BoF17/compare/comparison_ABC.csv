@@ -1,0 +1,325 @@
+claim_id,location,quantity_type,headline,pair,ref,rep,rep_se,status,delta,rel_delta,inferential_agree
+T1_r1_c1,T1 row Aliwal North col Wheat,coef,0,A,0.42,,,unavailable,,,
+T1_r1_c2,T1 row Aliwal North col Mealies,coef,0,A,0.11,,,unavailable,,,
+T1_r1_c3,T1 row Aliwal North col Mutton,coef,0,A,0.03,,,unavailable,,,
+T1_r1_c4,T1 row Aliwal North col Beef,coef,0,A,0.14,,,unavailable,,,
+T1_r2_c1,T1 row Beaufort West col Wheat,coef,0,A,0.45,,,unavailable,,,
+T1_r2_c2,T1 row Beaufort West col Mealies,coef,0,A,0.35,,,unavailable,,,
+T1_r2_c3,T1 row Beaufort West col Mutton,coef,0,A,0.24,,,unavailable,,,
+T1_r2_c4,T1 row Beaufort West col Beef,coef,0,A,0.11,,,unavailable,,,
+T1_r3_c1,T1 row Burgersdorp col Wheat,coef,0,A,-0.18,,,unavailable,,,
+T1_r3_c2,T1 row Burgersdorp col Mealies,coef,0,A,0.74,,,unavailable,,,
+T1_r3_c3,T1 row Burgersdorp col Mutton,coef,0,A,-0.13,,,unavailable,,,
+T1_r3_c4,T1 row Burgersdorp col Beef,coef,0,A,0.27,,,unavailable,,,
+T1_r4_c1,T1 row Clanwilliam col Wheat,coef,0,A,0.37,,,unavailable,,,
+T1_r4_c2,T1 row Clanwilliam col Mealies,coef,0,A,0.33,,,unavailable,,,
+T1_r4_c3,T1 row Clanwilliam col Mutton,coef,0,A,0.09,,,unavailable,,,
+T1_r4_c4,T1 row Clanwilliam col Beef,coef,0,A,0.51,,,unavailable,,,
+T1_r5_c1,T1 row Colesberg col Wheat,coef,0,A,0.61,,,unavailable,,,
+T1_r5_c2,T1 row Colesberg col Mealies,coef,0,A,0.35,,,unavailable,,,
+T1_r5_c3,T1 row Colesberg col Mutton,coef,0,A,-0.29,,,unavailable,,,
+T1_r5_c4,T1 row Colesberg col Beef,coef,0,A,-0.06,,,unavailable,,,
+T1_r6_c1,T1 row Cradock col Wheat,coef,0,A,0.4,,,unavailable,,,
+T1_r6_c2,T1 row Cradock col Mealies,coef,0,A,0.06,,,unavailable,,,
+T1_r6_c3,T1 row Cradock col Mutton,coef,0,A,0.06,,,unavailable,,,
+T1_r6_c4,T1 row Cradock col Beef,coef,0,A,0.31,,,unavailable,,,
+T1_r7_c1,T1 row Dordrecht col Wheat,coef,0,A,0.38,,,unavailable,,,
+T1_r7_c2,T1 row Dordrecht col Mealies,coef,0,A,-0.17,,,unavailable,,,
+T1_r7_c3,T1 row Dordrecht col Mutton,coef,0,A,-0.34,,,unavailable,,,
+T1_r7_c4,T1 row Dordrecht col Beef,coef,0,A,-0.16,,,unavailable,,,
+T1_r8_c1,T1 row East London col Wheat,coef,0,A,0.1,,,unavailable,,,
+T1_r8_c2,T1 row East London col Mealies,coef,0,A,0.16,,,unavailable,,,
+T1_r8_c3,T1 row East London col Mutton,coef,0,A,0.38,,,unavailable,,,
+T1_r8_c4,T1 row East London col Beef,coef,0,A,0.03,,,unavailable,,,
+T1_r9_c1,T1 row Graaff-Reinet col Wheat,coef,0,A,0.14,,,unavailable,,,
+T1_r9_c2,T1 row Graaff-Reinet col Mealies,coef,0,A,0.2,,,unavailable,,,
+T1_r9_c3,T1 row Graaff-Reinet col Mutton,coef,0,A,0.17,,,unavailable,,,
+T1_r9_c4,T1 row Graaff-Reinet col Beef,coef,0,A,0.51,,,unavailable,,,
+T1_r10_c1,T1 row Grahamstown col Wheat,coef,0,A,-0.1,,,unavailable,,,
+T1_r10_c2,T1 row Grahamstown col Mealies,coef,0,A,0.09,,,unavailable,,,
+T1_r10_c3,T1 row Grahamstown col Mutton,coef,0,A,0.09,,,unavailable,,,
+T1_r10_c4,T1 row Grahamstown col Beef,coef,0,A,0.1,,,unavailable,,,
+T1_r11_c1,T1 row Kimberley col Wheat,coef,1,A,0.27,,,unavailable,,,
+T1_r11_c2,T1 row Kimberley col Mealies,coef,1,A,0.3,,,unavailable,,,
+T1_r11_c3,T1 row Kimberley col Mutton,coef,0,A,0,,,unavailable,,,
+T1_r11_c4,T1 row Kimberley col Beef,coef,0,A,-0.02,,,unavailable,,,
+T1_r12_c1,T1 row King William's Town col Wheat,coef,0,A,0.42,,,unavailable,,,
+T1_r12_c2,T1 row King William's Town col Mealies,coef,0,A,-0.09,,,unavailable,,,
+T1_r12_c3,T1 row King William's Town col Mutton,coef,0,A,0.06,,,unavailable,,,
+T1_r12_c4,T1 row King William's Town col Beef,coef,0,A,0.19,,,unavailable,,,
+T1_r13_c1,T1 row Malmesbury col Wheat,coef,0,A,0.46,,,unavailable,,,
+T1_r13_c2,T1 row Malmesbury col Mealies,coef,0,A,0.32,,,unavailable,,,
+T1_r13_c3,T1 row Malmesbury col Mutton,coef,0,A,0.32,,,unavailable,,,
+T1_r13_c4,T1 row Malmesbury col Beef,coef,0,A,0.12,,,unavailable,,,
+T1_r14_c1,T1 row Mossel Bay col Wheat,coef,0,A,-0.01,,,unavailable,,,
+T1_r14_c2,T1 row Mossel Bay col Mealies,coef,0,A,-0.04,,,unavailable,,,
+T1_r14_c3,T1 row Mossel Bay col Mutton,coef,0,A,0.23,,,unavailable,,,
+T1_r14_c4,T1 row Mossel Bay col Beef,coef,0,A,0.37,,,unavailable,,,
+T1_r15_c1,T1 row Port Alfred col Wheat,coef,0,A,-0.09,,,unavailable,,,
+T1_r15_c2,T1 row Port Alfred col Mealies,coef,0,A,-0.16,,,unavailable,,,
+T1_r15_c3,T1 row Port Alfred col Mutton,coef,0,A,-0.01,,,unavailable,,,
+T1_r15_c4,T1 row Port Alfred col Beef,coef,0,A,0.12,,,unavailable,,,
+T1_r16_c1,T1 row Port Elizabeth col Wheat,coef,0,A,0.32,,,unavailable,,,
+T1_r16_c2,T1 row Port Elizabeth col Mealies,coef,0,A,0.2,,,unavailable,,,
+T1_r16_c3,T1 row Port Elizabeth col Mutton,coef,0,A,0,,,unavailable,,,
+T1_r16_c4,T1 row Port Elizabeth col Beef,coef,0,A,0.27,,,unavailable,,,
+T1_r17_c1,T1 row Queenstown col Wheat,coef,0,A,-0.09,,,unavailable,,,
+T1_r17_c2,T1 row Queenstown col Mealies,coef,0,A,0.28,,,unavailable,,,
+T1_r17_c3,T1 row Queenstown col Mutton,coef,0,A,0.04,,,unavailable,,,
+T1_r17_c4,T1 row Queenstown col Beef,coef,0,A,0.05,,,unavailable,,,
+T1_r18_c1,T1 row Tarkastad col Wheat,coef,0,A,0.26,,,unavailable,,,
+T1_r18_c2,T1 row Tarkastad col Mealies,coef,0,A,0.08,,,unavailable,,,
+T1_r18_c3,T1 row Tarkastad col Mutton,coef,0,A,-0.31,,,unavailable,,,
+T1_r18_c4,T1 row Tarkastad col Beef,coef,0,A,0.27,,,unavailable,,,
+T1_r19_c1,T1 row Vryburg col Wheat,coef,0,A,0.22,,,unavailable,,,
+T1_r19_c2,T1 row Vryburg col Mealies,coef,0,A,0.29,,,unavailable,,,
+T1_r19_c3,T1 row Vryburg col Mutton,coef,0,A,-0.04,,,unavailable,,,
+T1_r19_c4,T1 row Vryburg col Beef,coef,0,A,-0.32,,,unavailable,,,
+T1_r20_c1,T1 row Worcester col Wheat,coef,0,A,0.41,,,unavailable,,,
+T1_r20_c2,T1 row Worcester col Mealies,coef,0,A,0.14,,,unavailable,,,
+T1_r20_c3,T1 row Worcester col Mutton,coef,0,A,-0.06,,,unavailable,,,
+T1_r20_c4,T1 row Worcester col Beef,coef,0,A,0.22,,,unavailable,,,
+T2_r1_c1,T2 row Kimberley col Wheat,tstat,1,A,5.09,,,unavailable,,,
+T2_r1_c2,T2 row Kimberley col Mealies,tstat,1,A,8.17,,,unavailable,,,
+T2_r1_c3,T2 row Kimberley col Mutton,tstat,0,A,5.01,,,unavailable,,,
+T2_r1_c4,T2 row Kimberley col Beef,tstat,0,A,2.96,,,unavailable,,,
+T2_r2_c1,T2 row Queenstown col Wheat,tstat,0,A,3.47,,,unavailable,,,
+T2_r2_c2,T2 row Queenstown col Mealies,tstat,0,A,2.8,,,unavailable,,,
+T2_r2_c3,T2 row Queenstown col Mutton,tstat,0,A,4.94,,,unavailable,,,
+T2_r2_c4,T2 row Queenstown col Beef,tstat,0,A,1.91,,,unavailable,,,
+T2_r3_c1,T2 row East London col Wheat,tstat,0,A,1.75,,,unavailable,,,
+T2_r3_c2,T2 row East London col Mealies,other,0,A,,,,unavailable,,,
+T2_r3_c3,T2 row East London col Mutton,tstat,0,A,2.12,,,unavailable,,,
+T2_r3_c4,T2 row East London col Beef,tstat,0,A,1.64,,,unavailable,,,
+T2_r4_c1,T2 row Graaff-Reinet col Wheat,tstat,0,A,0.09,,,unavailable,,,
+T2_r4_c2,T2 row Graaff-Reinet col Mealies,tstat,0,A,2.66,,,unavailable,,,
+T2_r4_c3,T2 row Graaff-Reinet col Mutton,tstat,0,A,8.04,,,unavailable,,,
+T2_r4_c4,T2 row Graaff-Reinet col Beef,tstat,0,A,1.65,,,unavailable,,,
+TXT_corr_pre,text p.24,coef,1,A,0.05,,,unavailable,,,
+TXT_corr_post,text p.24,coef,1,A,0.86,,,unavailable,,,
+TXT_ukcities,text p.23,count,0,A,12,,,unavailable,,,
+TXT_breakyear,text p.24,other,0,A,1872,,,unavailable,,,
+TXT_diamond_exports,text p.24,other,0,A,1,,,unavailable,,,
+TXT_cycle_lo,text p.25,other,0,A,8,,,unavailable,,,
+TXT_cycle_hi,text p.25,other,0,A,50,,,unavailable,,,
+TXT_other_countries_break,text p.26,other,0,A,1875,,,unavailable,,,
+TXT_telegraph_london,text p.26,other,0,A,1885,,,unavailable,,,
+TXT_pss_towns,text p.28,count,0,A,5,,,unavailable,,,
+TXT_pss_crit_lo,T2 note,other,0,A,4.29,,,unavailable,,,
+TXT_pss_crit_hi,T2 note,other,0,A,5.08,,,unavailable,,,
+T1_r1_c1,T1 row Aliwal North col Wheat,coef,0,B,0.42,-0.1612,0.1206,differs,-0.5811999999999999,-1.3838095238095238,FALSE
+T1_r1_c2,T1 row Aliwal North col Mealies,coef,0,B,0.11,-0.2379,0.1224,differs,-0.3479,-3.1627272727272726,FALSE
+T1_r1_c3,T1 row Aliwal North col Mutton,coef,0,B,0.03,0.2733,0.1232,differs,0.2433,8.11,FALSE
+T1_r1_c4,T1 row Aliwal North col Beef,coef,0,B,0.14,-0.0176,0.125,differs,-0.15760000000000002,-1.1257142857142857,FALSE
+T1_r2_c1,T1 row Beaufort West col Wheat,coef,0,B,0.45,0.2976,0.1299,differs,-0.15240000000000004,-0.3386666666666667,TRUE
+T1_r2_c2,T1 row Beaufort West col Mealies,coef,0,B,0.35,0.1056,0.1329,differs,-0.24439999999999998,-0.6982857142857143,TRUE
+T1_r2_c3,T1 row Beaufort West col Mutton,coef,0,B,0.24,0.0968,0.1394,differs,-0.1432,-0.5966666666666667,TRUE
+T1_r2_c4,T1 row Beaufort West col Beef,coef,0,B,0.11,0.2227,0.1407,differs,0.11270000000000001,1.0245454545454546,TRUE
+T1_r3_c1,T1 row Burgersdorp col Wheat,coef,0,B,-0.18,0.6306,0.1351,differs,0.8106,4.503333333333334,FALSE
+T1_r3_c2,T1 row Burgersdorp col Mealies,coef,0,B,0.74,0.1358,0.184,differs,-0.6042,-0.8164864864864865,FALSE
+T1_r3_c3,T1 row Burgersdorp col Mutton,coef,0,B,-0.13,0.2527,0.1148,differs,0.3827,2.943846153846154,FALSE
+T1_r3_c4,T1 row Burgersdorp col Beef,coef,0,B,0.27,0.0202,0.1474,differs,-0.24980000000000002,-0.9251851851851852,TRUE
+T1_r4_c1,T1 row Clanwilliam col Wheat,coef,0,B,0.37,0.6032,0.1075,differs,0.23319999999999996,0.6302702702702702,FALSE
+T1_r4_c2,T1 row Clanwilliam col Mealies,coef,0,B,0.33,0.5593,0.1692,differs,0.2293,0.6948484848484848,FALSE
+T1_r4_c3,T1 row Clanwilliam col Mutton,coef,0,B,0.09,-0.1083,0.1406,differs,-0.19829999999999998,-2.203333333333333,FALSE
+T1_r4_c4,T1 row Clanwilliam col Beef,coef,0,B,0.51,0.2611,0.1352,differs,-0.2489,-0.4880392156862745,FALSE
+T1_r5_c1,T1 row Colesberg col Wheat,coef,0,B,0.61,-0.2565,0.1303,differs,-0.8665,-1.4204918032786886,FALSE
+T1_r5_c2,T1 row Colesberg col Mealies,coef,0,B,0.35,0.2122,0.1755,differs,-0.13779999999999998,-0.3937142857142857,TRUE
+T1_r5_c3,T1 row Colesberg col Mutton,coef,0,B,-0.29,0.0353,0.1542,differs,0.3253,1.1217241379310345,FALSE
+T1_r5_c4,T1 row Colesberg col Beef,coef,0,B,-0.06,0.2286,0.184,differs,0.28859999999999997,4.81,FALSE
+T1_r6_c1,T1 row Cradock col Wheat,coef,0,B,0.4,0.0414,0.1959,differs,-0.35860000000000003,-0.8965000000000001,TRUE
+T1_r6_c2,T1 row Cradock col Mealies,coef,0,B,0.06,-0.1162,0.1877,differs,-0.1762,-2.9366666666666665,FALSE
+T1_r6_c3,T1 row Cradock col Mutton,coef,0,B,0.06,0.3148,0.1342,differs,0.2548,4.246666666666667,FALSE
+T1_r6_c4,T1 row Cradock col Beef,coef,0,B,0.31,-0.4038,0.2287,differs,-0.7138,-2.3025806451612905,FALSE
+T1_r7_c1,T1 row Dordrecht col Wheat,coef,0,B,0.38,0.1719,0.1437,differs,-0.2081,-0.5476315789473685,FALSE
+T1_r7_c2,T1 row Dordrecht col Mealies,coef,0,B,-0.17,-0.2809,0.1431,differs,-0.11089999999999997,-0.6523529411764704,FALSE
+T1_r7_c3,T1 row Dordrecht col Mutton,coef,0,B,-0.34,0.2937,0.1313,differs,0.6337,1.8638235294117647,FALSE
+T1_r7_c4,T1 row Dordrecht col Beef,coef,0,B,-0.16,0.0464,0.1579,differs,0.2064,1.29,FALSE
+T1_r8_c1,T1 row East London col Wheat,coef,0,B,0.1,0.0359,0.1178,close,-0.0641,-0.641,TRUE
+T1_r8_c2,T1 row East London col Mealies,coef,0,B,0.16,0.0643,0.1193,differs,-0.09570000000000001,-0.598125,TRUE
+T1_r8_c3,T1 row East London col Mutton,coef,0,B,0.38,0.5474,0.1,differs,0.1674,0.44052631578947365,TRUE
+T1_r8_c4,T1 row East London col Beef,coef,0,B,0.03,0.2416,0.1177,differs,0.2116,7.053333333333334,FALSE
+T1_r9_c1,T1 row Graaff-Reinet col Wheat,coef,0,B,0.14,-0.0172,0.124,differs,-0.1572,-1.1228571428571428,FALSE
+T1_r9_c2,T1 row Graaff-Reinet col Mealies,coef,0,B,0.2,0.1155,0.1251,close,-0.0845,-0.4225,TRUE
+T1_r9_c3,T1 row Graaff-Reinet col Mutton,coef,0,B,0.17,0.0607,0.1289,differs,-0.10930000000000001,-0.6429411764705882,TRUE
+T1_r9_c4,T1 row Graaff-Reinet col Beef,coef,0,B,0.51,0.1044,0.1317,differs,-0.4056,-0.7952941176470588,FALSE
+T1_r10_c1,T1 row Grahamstown col Wheat,coef,0,B,-0.1,0.0851,0.1993,differs,0.1851,1.8509999999999998,FALSE
+T1_r10_c2,T1 row Grahamstown col Mealies,coef,0,B,0.09,-0.1202,0.1213,differs,-0.2102,-2.3355555555555556,FALSE
+T1_r10_c3,T1 row Grahamstown col Mutton,coef,0,B,0.09,0.3139,0.1292,differs,0.22390000000000002,2.487777777777778,FALSE
+T1_r10_c4,T1 row Grahamstown col Beef,coef,0,B,0.1,0.3007,0.1286,differs,0.20070000000000002,2.007,FALSE
+T1_r11_c1,T1 row Kimberley col Wheat,coef,1,B,0.27,0.3774,0.1062,differs,0.1074,0.39777777777777773,FALSE
+T1_r11_c2,T1 row Kimberley col Mealies,coef,1,B,0.3,0.0508,0.1161,differs,-0.24919999999999998,-0.8306666666666667,TRUE
+T1_r11_c3,T1 row Kimberley col Mutton,coef,0,B,0,0.1773,0.1129,exact,0.1773,,FALSE
+T1_r11_c4,T1 row Kimberley col Beef,coef,0,B,-0.02,0.1383,0.1136,differs,0.1583,7.915,FALSE
+T1_r12_c1,T1 row King William's Town col Wheat,coef,0,B,0.42,0.1958,0.1401,differs,-0.22419999999999998,-0.5338095238095237,FALSE
+T1_r12_c2,T1 row King William's Town col Mealies,coef,0,B,-0.09,0.0484,0.1249,differs,0.1384,1.5377777777777777,FALSE
+T1_r12_c3,T1 row King William's Town col Mutton,coef,0,B,0.06,0.3425,0.1184,differs,0.28250000000000003,4.708333333333334,FALSE
+T1_r12_c4,T1 row King William's Town col Beef,coef,0,B,0.19,0.2611,0.1216,differs,0.0711,0.37421052631578944,FALSE
+T1_r13_c1,T1 row Malmesbury col Wheat,coef,0,B,0.46,0.4576,0.1086,exact,-0.0024000000000000132,-0.005217391304347854,TRUE
+T1_r13_c2,T1 row Malmesbury col Mealies,coef,0,B,0.32,0.1818,0.128,differs,-0.13820000000000002,-0.43187500000000006,TRUE
+T1_r13_c3,T1 row Malmesbury col Mutton,coef,0,B,0.32,0.3498,0.1171,differs,0.029799999999999993,0.09312499999999997,FALSE
+T1_r13_c4,T1 row Malmesbury col Beef,coef,0,B,0.12,0.2709,0.1194,differs,0.15089999999999998,1.2574999999999998,FALSE
+T1_r14_c1,T1 row Mossel Bay col Wheat,coef,0,B,-0.01,0.057,0.122,differs,0.067,6.7,FALSE
+T1_r14_c2,T1 row Mossel Bay col Mealies,coef,0,B,-0.04,-0.1866,0.1174,differs,-0.14659999999999998,-3.6649999999999996,TRUE
+T1_r14_c3,T1 row Mossel Bay col Mutton,coef,0,B,0.23,0.25,0.1174,differs,0.01999999999999999,0.08695652173913039,FALSE
+T1_r14_c4,T1 row Mossel Bay col Beef,coef,0,B,0.37,0.2507,0.1157,differs,-0.11930000000000002,-0.32243243243243247,TRUE
+T1_r15_c1,T1 row Port Alfred col Wheat,coef,0,B,-0.09,0.4272,0.2131,differs,0.5172,5.746666666666667,FALSE
+T1_r15_c2,T1 row Port Alfred col Mealies,coef,0,B,-0.16,-0.2767,0.1559,differs,-0.1167,-0.729375,TRUE
+T1_r15_c3,T1 row Port Alfred col Mutton,coef,0,B,-0.01,-0.3922,0.1437,differs,-0.3822,-38.22,FALSE
+T1_r15_c4,T1 row Port Alfred col Beef,coef,0,B,0.12,-0.319,0.1413,differs,-0.439,-3.6583333333333337,FALSE
+T1_r16_c1,T1 row Port Elizabeth col Wheat,coef,0,B,0.32,0.5188,0.3823,differs,0.19880000000000003,0.6212500000000001,TRUE
+T1_r16_c2,T1 row Port Elizabeth col Mealies,coef,0,B,0.2,0.212,0.1306,exact,0.011999999999999983,0.059999999999999915,TRUE
+T1_r16_c3,T1 row Port Elizabeth col Mutton,coef,0,B,0,0.3342,0.2162,exact,0.3342,,FALSE
+T1_r16_c4,T1 row Port Elizabeth col Beef,coef,0,B,0.27,0.029,0.2424,differs,-0.24100000000000002,-0.8925925925925926,TRUE
+T1_r17_c1,T1 row Queenstown col Wheat,coef,0,B,-0.09,0.02,0.1147,differs,0.11,1.2222222222222223,FALSE
+T1_r17_c2,T1 row Queenstown col Mealies,coef,0,B,0.28,0.0365,0.1162,differs,-0.24350000000000002,-0.8696428571428572,TRUE
+T1_r17_c3,T1 row Queenstown col Mutton,coef,0,B,0.04,0.2732,0.1118,differs,0.2332,5.83,FALSE
+T1_r17_c4,T1 row Queenstown col Beef,coef,0,B,0.05,0.444,0.1056,differs,0.394,7.88,FALSE
+T1_r18_c1,T1 row Tarkastad col Wheat,coef,0,B,0.26,0.1747,0.1304,differs,-0.08530000000000001,-0.3280769230769231,TRUE
+T1_r18_c2,T1 row Tarkastad col Mealies,coef,0,B,0.08,0.0259,0.1373,differs,-0.0541,-0.67625,TRUE
+T1_r18_c3,T1 row Tarkastad col Mutton,coef,0,B,-0.31,0.0227,0.1348,differs,0.3327,1.073225806451613,FALSE
+T1_r18_c4,T1 row Tarkastad col Beef,coef,0,B,0.27,0.0012,0.1374,differs,-0.26880000000000004,-0.9955555555555556,TRUE
+T1_r19_c1,T1 row Vryburg col Wheat,coef,0,B,0.22,0.1824,0.1434,differs,-0.037599999999999995,-0.17090909090909087,TRUE
+T1_r19_c2,T1 row Vryburg col Mealies,coef,0,B,0.29,0.1367,0.1374,differs,-0.1533,-0.5286206896551724,TRUE
+T1_r19_c3,T1 row Vryburg col Mutton,coef,0,B,-0.04,0.075,0.1357,differs,0.11499999999999999,2.8749999999999996,FALSE
+T1_r19_c4,T1 row Vryburg col Beef,coef,0,B,-0.32,-0.098,0.1354,differs,0.222,0.69375,TRUE
+T1_r20_c1,T1 row Worcester col Wheat,coef,0,B,0.41,0.1762,0.1327,differs,-0.23379999999999998,-0.5702439024390243,FALSE
+T1_r20_c2,T1 row Worcester col Mealies,coef,0,B,0.14,0.4644,0.1116,differs,0.32439999999999997,2.3171428571428567,FALSE
+T1_r20_c3,T1 row Worcester col Mutton,coef,0,B,-0.06,0.3625,0.1213,differs,0.4225,7.041666666666667,FALSE
+T1_r20_c4,T1 row Worcester col Beef,coef,0,B,0.22,0.2139,0.1231,close,-0.006099999999999994,-0.0277272727272727,TRUE
+T2_r1_c1,T2 row Kimberley col Wheat,tstat,1,B,5.09,3.0199,,differs,-2.0701,-0.40669941060903736,
+T2_r1_c2,T2 row Kimberley col Mealies,tstat,1,B,8.17,3.7959,,differs,-4.3741,-0.5353855569155447,
+T2_r1_c3,T2 row Kimberley col Mutton,tstat,0,B,5.01,3.9868,,differs,-1.0231999999999997,-0.20423153692614765,
+T2_r1_c4,T2 row Kimberley col Beef,tstat,0,B,2.96,1.7641,,differs,-1.1959,-0.40402027027027027,
+T2_r2_c1,T2 row Queenstown col Wheat,tstat,0,B,3.47,0.6605,,differs,-2.8095000000000003,-0.8096541786743516,
+T2_r2_c2,T2 row Queenstown col Mealies,tstat,0,B,2.8,2.5569,,differs,-0.24309999999999965,-0.08682142857142845,
+T2_r2_c3,T2 row Queenstown col Mutton,tstat,0,B,4.94,4.0556,,differs,-0.8844000000000003,-0.1790283400809717,
+T2_r2_c4,T2 row Queenstown col Beef,tstat,0,B,1.91,3.2177,,differs,1.3076999999999999,0.6846596858638743,
+T2_r3_c1,T2 row East London col Wheat,tstat,0,B,1.75,6.1773,,differs,4.4273,2.5298857142857143,
+T2_r3_c2,T2 row East London col Mealies,other,0,B,,3.2601,,,,,
+T2_r3_c3,T2 row East London col Mutton,tstat,0,B,2.12,2.6358,,differs,0.5158,0.24330188679245285,
+T2_r3_c4,T2 row East London col Beef,tstat,0,B,1.64,2.2141,,differs,0.5741000000000003,0.3500609756097563,
+T2_r4_c1,T2 row Graaff-Reinet col Wheat,tstat,0,B,0.09,25.0525,,differs,24.9625,277.3611111111111,
+T2_r4_c2,T2 row Graaff-Reinet col Mealies,tstat,0,B,2.66,2.5478,,close,-0.11220000000000008,-0.042180451127819575,
+T2_r4_c3,T2 row Graaff-Reinet col Mutton,tstat,0,B,8.04,8.2917,,close,0.25170000000000137,0.0313059701492539,
+T2_r4_c4,T2 row Graaff-Reinet col Beef,tstat,0,B,1.65,3.3429,,differs,1.6929000000000003,1.0260000000000002,
+TXT_corr_pre,text p.24,coef,1,B,0.05,0.0716,0.1736,differs,0.021599999999999994,0.4319999999999999,
+TXT_corr_post,text p.24,coef,1,B,0.86,0.8224,0.09,differs,-0.03759999999999997,-0.0437209302325581,
+TXT_ukcities,text p.23,count,0,B,12,12,,exact,0,0,
+TXT_breakyear,text p.24,other,0,B,1872,1872,,exact,0,0,
+TXT_diamond_exports,text p.24,other,0,B,1,,,unavailable,,,
+TXT_cycle_lo,text p.25,other,0,B,8,8,,exact,0,0,
+TXT_cycle_hi,text p.25,other,0,B,50,50,,exact,0,0,
+TXT_other_countries_break,text p.26,other,0,B,1875,,,unavailable,,,
+TXT_telegraph_london,text p.26,other,0,B,1885,,,unavailable,,,
+TXT_pss_towns,text p.28,count,0,B,5,,,unavailable,,,
+TXT_pss_crit_lo,T2 note,other,0,B,4.29,,,unavailable,,,
+TXT_pss_crit_hi,T2 note,other,0,B,5.08,,,unavailable,,,
+T1_r1_c1,T1 row Aliwal North col Wheat,coef,0,C,,-0.1612,0.1206,,,,
+T1_r1_c2,T1 row Aliwal North col Mealies,coef,0,C,,-0.2379,0.1224,,,,
+T1_r1_c3,T1 row Aliwal North col Mutton,coef,0,C,,0.2733,0.1232,,,,
+T1_r1_c4,T1 row Aliwal North col Beef,coef,0,C,,-0.0176,0.125,,,,
+T1_r2_c1,T1 row Beaufort West col Wheat,coef,0,C,,0.2976,0.1299,,,,
+T1_r2_c2,T1 row Beaufort West col Mealies,coef,0,C,,0.1056,0.1329,,,,
+T1_r2_c3,T1 row Beaufort West col Mutton,coef,0,C,,0.0968,0.1394,,,,
+T1_r2_c4,T1 row Beaufort West col Beef,coef,0,C,,0.2227,0.1407,,,,
+T1_r3_c1,T1 row Burgersdorp col Wheat,coef,0,C,,0.6306,0.1351,,,,
+T1_r3_c2,T1 row Burgersdorp col Mealies,coef,0,C,,0.1358,0.184,,,,
+T1_r3_c3,T1 row Burgersdorp col Mutton,coef,0,C,,0.2527,0.1148,,,,
+T1_r3_c4,T1 row Burgersdorp col Beef,coef,0,C,,0.0202,0.1474,,,,
+T1_r4_c1,T1 row Clanwilliam col Wheat,coef,0,C,,0.6032,0.1075,,,,
+T1_r4_c2,T1 row Clanwilliam col Mealies,coef,0,C,,0.5593,0.1692,,,,
+T1_r4_c3,T1 row Clanwilliam col Mutton,coef,0,C,,-0.1083,0.1406,,,,
+T1_r4_c4,T1 row Clanwilliam col Beef,coef,0,C,,0.2611,0.1352,,,,
+T1_r5_c1,T1 row Colesberg col Wheat,coef,0,C,,-0.2565,0.1303,,,,
+T1_r5_c2,T1 row Colesberg col Mealies,coef,0,C,,0.2122,0.1755,,,,
+T1_r5_c3,T1 row Colesberg col Mutton,coef,0,C,,0.0353,0.1542,,,,
+T1_r5_c4,T1 row Colesberg col Beef,coef,0,C,,0.2286,0.184,,,,
+T1_r6_c1,T1 row Cradock col Wheat,coef,0,C,,0.0414,0.1959,,,,
+T1_r6_c2,T1 row Cradock col Mealies,coef,0,C,,-0.1162,0.1877,,,,
+T1_r6_c3,T1 row Cradock col Mutton,coef,0,C,,0.3148,0.1342,,,,
+T1_r6_c4,T1 row Cradock col Beef,coef,0,C,,-0.4038,0.2287,,,,
+T1_r7_c1,T1 row Dordrecht col Wheat,coef,0,C,,0.1719,0.1437,,,,
+T1_r7_c2,T1 row Dordrecht col Mealies,coef,0,C,,-0.2809,0.1431,,,,
+T1_r7_c3,T1 row Dordrecht col Mutton,coef,0,C,,0.2937,0.1313,,,,
+T1_r7_c4,T1 row Dordrecht col Beef,coef,0,C,,0.0464,0.1579,,,,
+T1_r8_c1,T1 row East London col Wheat,coef,0,C,,0.0359,0.1178,,,,
+T1_r8_c2,T1 row East London col Mealies,coef,0,C,,0.0643,0.1193,,,,
+T1_r8_c3,T1 row East London col Mutton,coef,0,C,,0.5474,0.1,,,,
+T1_r8_c4,T1 row East London col Beef,coef,0,C,,0.2416,0.1177,,,,
+T1_r9_c1,T1 row Graaff-Reinet col Wheat,coef,0,C,,-0.0172,0.124,,,,
+T1_r9_c2,T1 row Graaff-Reinet col Mealies,coef,0,C,,0.1155,0.1251,,,,
+T1_r9_c3,T1 row Graaff-Reinet col Mutton,coef,0,C,,0.0607,0.1289,,,,
+T1_r9_c4,T1 row Graaff-Reinet col Beef,coef,0,C,,0.1044,0.1317,,,,
+T1_r10_c1,T1 row Grahamstown col Wheat,coef,0,C,,0.0851,0.1993,,,,
+T1_r10_c2,T1 row Grahamstown col Mealies,coef,0,C,,-0.1202,0.1213,,,,
+T1_r10_c3,T1 row Grahamstown col Mutton,coef,0,C,,0.3139,0.1292,,,,
+T1_r10_c4,T1 row Grahamstown col Beef,coef,0,C,,0.3007,0.1286,,,,
+T1_r11_c1,T1 row Kimberley col Wheat,coef,1,C,,0.3774,0.1062,,,,
+T1_r11_c2,T1 row Kimberley col Mealies,coef,1,C,,0.0508,0.1161,,,,
+T1_r11_c3,T1 row Kimberley col Mutton,coef,0,C,,0.1773,0.1129,,,,
+T1_r11_c4,T1 row Kimberley col Beef,coef,0,C,,0.1383,0.1136,,,,
+T1_r12_c1,T1 row King William's Town col Wheat,coef,0,C,,0.1958,0.1401,,,,
+T1_r12_c2,T1 row King William's Town col Mealies,coef,0,C,,0.0484,0.1249,,,,
+T1_r12_c3,T1 row King William's Town col Mutton,coef,0,C,,0.3425,0.1184,,,,
+T1_r12_c4,T1 row King William's Town col Beef,coef,0,C,,0.2611,0.1216,,,,
+T1_r13_c1,T1 row Malmesbury col Wheat,coef,0,C,,0.4576,0.1086,,,,
+T1_r13_c2,T1 row Malmesbury col Mealies,coef,0,C,,0.1818,0.128,,,,
+T1_r13_c3,T1 row Malmesbury col Mutton,coef,0,C,,0.3498,0.1171,,,,
+T1_r13_c4,T1 row Malmesbury col Beef,coef,0,C,,0.2709,0.1194,,,,
+T1_r14_c1,T1 row Mossel Bay col Wheat,coef,0,C,,0.057,0.122,,,,
+T1_r14_c2,T1 row Mossel Bay col Mealies,coef,0,C,,-0.1866,0.1174,,,,
+T1_r14_c3,T1 row Mossel Bay col Mutton,coef,0,C,,0.25,0.1174,,,,
+T1_r14_c4,T1 row Mossel Bay col Beef,coef,0,C,,0.2507,0.1157,,,,
+T1_r15_c1,T1 row Port Alfred col Wheat,coef,0,C,,0.4272,0.2131,,,,
+T1_r15_c2,T1 row Port Alfred col Mealies,coef,0,C,,-0.2767,0.1559,,,,
+T1_r15_c3,T1 row Port Alfred col Mutton,coef,0,C,,-0.3922,0.1437,,,,
+T1_r15_c4,T1 row Port Alfred col Beef,coef,0,C,,-0.319,0.1413,,,,
+T1_r16_c1,T1 row Port Elizabeth col Wheat,coef,0,C,,0.5188,0.3823,,,,
+T1_r16_c2,T1 row Port Elizabeth col Mealies,coef,0,C,,0.212,0.1306,,,,
+T1_r16_c3,T1 row Port Elizabeth col Mutton,coef,0,C,,0.3342,0.2162,,,,
+T1_r16_c4,T1 row Port Elizabeth col Beef,coef,0,C,,0.029,0.2424,,,,
+T1_r17_c1,T1 row Queenstown col Wheat,coef,0,C,,0.02,0.1147,,,,
+T1_r17_c2,T1 row Queenstown col Mealies,coef,0,C,,0.0365,0.1162,,,,
+T1_r17_c3,T1 row Queenstown col Mutton,coef,0,C,,0.2732,0.1118,,,,
+T1_r17_c4,T1 row Queenstown col Beef,coef,0,C,,0.444,0.1056,,,,
+T1_r18_c1,T1 row Tarkastad col Wheat,coef,0,C,,0.1747,0.1304,,,,
+T1_r18_c2,T1 row Tarkastad col Mealies,coef,0,C,,0.0259,0.1373,,,,
+T1_r18_c3,T1 row Tarkastad col Mutton,coef,0,C,,0.0227,0.1348,,,,
+T1_r18_c4,T1 row Tarkastad col Beef,coef,0,C,,0.0012,0.1374,,,,
+T1_r19_c1,T1 row Vryburg col Wheat,coef,0,C,,0.1824,0.1434,,,,
+T1_r19_c2,T1 row Vryburg col Mealies,coef,0,C,,0.1367,0.1374,,,,
+T1_r19_c3,T1 row Vryburg col Mutton,coef,0,C,,0.075,0.1357,,,,
+T1_r19_c4,T1 row Vryburg col Beef,coef,0,C,,-0.098,0.1354,,,,
+T1_r20_c1,T1 row Worcester col Wheat,coef,0,C,,0.1762,0.1327,,,,
+T1_r20_c2,T1 row Worcester col Mealies,coef,0,C,,0.4644,0.1116,,,,
+T1_r20_c3,T1 row Worcester col Mutton,coef,0,C,,0.3625,0.1213,,,,
+T1_r20_c4,T1 row Worcester col Beef,coef,0,C,,0.2139,0.1231,,,,
+T2_r1_c1,T2 row Kimberley col Wheat,tstat,1,C,,3.0199,,,,,
+T2_r1_c2,T2 row Kimberley col Mealies,tstat,1,C,,3.7959,,,,,
+T2_r1_c3,T2 row Kimberley col Mutton,tstat,0,C,,3.9868,,,,,
+T2_r1_c4,T2 row Kimberley col Beef,tstat,0,C,,1.7641,,,,,
+T2_r2_c1,T2 row Queenstown col Wheat,tstat,0,C,,0.6605,,,,,
+T2_r2_c2,T2 row Queenstown col Mealies,tstat,0,C,,2.5569,,,,,
+T2_r2_c3,T2 row Queenstown col Mutton,tstat,0,C,,4.0556,,,,,
+T2_r2_c4,T2 row Queenstown col Beef,tstat,0,C,,3.2177,,,,,
+T2_r3_c1,T2 row East London col Wheat,tstat,0,C,,6.1773,,,,,
+T2_r3_c2,T2 row East London col Mealies,other,0,C,,3.2601,,,,,
+T2_r3_c3,T2 row East London col Mutton,tstat,0,C,,2.6358,,,,,
+T2_r3_c4,T2 row East London col Beef,tstat,0,C,,2.2141,,,,,
+T2_r4_c1,T2 row Graaff-Reinet col Wheat,tstat,0,C,,25.0525,,,,,
+T2_r4_c2,T2 row Graaff-Reinet col Mealies,tstat,0,C,,2.5478,,,,,
+T2_r4_c3,T2 row Graaff-Reinet col Mutton,tstat,0,C,,8.2917,,,,,
+T2_r4_c4,T2 row Graaff-Reinet col Beef,tstat,0,C,,3.3429,,,,,
+TXT_corr_pre,text p.24,coef,1,C,,0.0716,0.1736,,,,
+TXT_corr_post,text p.24,coef,1,C,,0.8224,0.09,,,,
+TXT_ukcities,text p.23,count,0,C,,12,,,,,
+TXT_breakyear,text p.24,other,0,C,,1872,,,,,
+TXT_diamond_exports,text p.24,other,0,C,,,,unavailable,,,
+TXT_cycle_lo,text p.25,other,0,C,,8,,,,,
+TXT_cycle_hi,text p.25,other,0,C,,50,,,,,
+TXT_other_countries_break,text p.26,other,0,C,,,,unavailable,,,
+TXT_telegraph_london,text p.26,other,0,C,,,,unavailable,,,
+TXT_pss_towns,text p.28,count,0,C,,,,unavailable,,,
+TXT_pss_crit_lo,T2 note,other,0,C,,,,unavailable,,,
+TXT_pss_crit_hi,T2 note,other,0,C,,,,unavailable,,,

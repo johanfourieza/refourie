@@ -1,0 +1,6 @@
+claim,basis,old,new,authors,direction,agrees_with_authors
+I3b-share,1757 prices,0.331,0.4774747441893044,increases / underestimated,up,TRUE
+I3b-level,1757 prices,0.421363,0.3537841,increases / underestimated,down,FALSE
+I3c-share,1757 prices,0.669,0.5225251208485127,decreases significantly,down,TRUE
+I3c-level,1757 prices,0.851637,0.3871641,decreases significantly,down,TRUE
+I3a (sensitivity 11),1757 prices,1.273,0.7409483,Gini 0.74 -> 0.50 (no code),down,NA

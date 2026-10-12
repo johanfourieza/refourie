@@ -1,0 +1,472 @@
+sens,variant,quantity,estimate,lo,hi,note
+S1,grain = kgw only,G1700,0.6033269460464294,NA,NA,
+S1,grain = kgw only,G1723,0.6613512269125527,NA,NA,
+S1,grain = kgw only,G1757,0.7426024342542519,NA,NA,
+S1,grain = kgw only,C_wine,0.5487879132307765,NA,NA,
+S1,grain = kgw only,S_wine,0.47624728270034605,NA,NA,
+S1,grain = kgw only,C_grain,0.26851398032570833,NA,NA,
+S1,grain = kgw only,Delta,0.13927548820782243,NA,NA,
+S1,grain = kgw only,Da,0.05802428086612321,NA,NA,
+S1,grain = kgw only,Db,0.08125120734169922,NA,NA,
+S1,grain = kgw only,E,0.07254063053043042,NA,NA,
+S1,grain = kgw only,D_grain,0.28027393290506813,NA,NA,
+S1,grain = kgw only,D_cattle,0.457619871304654,NA,NA,
+S1,grain = kgw only,D_sheep,0.465490058169105,NA,NA,
+S1,grain = kgw only,D_pigs,0.5481010527670089,NA,NA,
+S1,grain = kgw only,D_horses,0.5412425642388227,NA,NA,
+S2,weights = n only,G1700,0.5996744482948556,NA,NA,
+S2,weights = n only,G1723,0.666625377692043,NA,NA,
+S2,weights = n only,G1757,0.7449605953661879,NA,NA,
+S2,weights = n only,C_wine,0.5215191346075059,NA,NA,
+S2,weights = n only,S_wine,0.4561828471774529,NA,NA,
+S2,weights = n only,C_grain,0.30549213555432786,NA,NA,
+S2,weights = n only,Delta,0.14528614707133225,NA,NA,
+S2,weights = n only,Da,0.06695092939718739,NA,NA,
+S2,weights = n only,Db,0.07833521767414486,NA,NA,
+S2,weights = n only,E,0.06533628743005299,NA,NA,
+S2,weights = n only,D_grain,0.21602699905317801,NA,NA,
+S2,weights = n only,D_cattle,0.43525245328484075,NA,NA,
+S2,weights = n only,D_sheep,0.4426797066003874,NA,NA,
+S2,weights = n only,D_pigs,0.5208605596040221,NA,NA,
+S2,weights = n only,D_horses,0.5142950891026069,NA,NA,
+S2,unweighted households,G1700,0.6621436855782447,NA,NA,
+S2,unweighted households,G1723,0.7159975351656055,NA,NA,
+S2,unweighted households,G1757,0.820804192424789,NA,NA,
+S2,unweighted households,C_wine,0.48674941861542054,NA,NA,
+S2,unweighted households,S_wine,0.45004638074210157,NA,NA,
+S2,unweighted households,C_grain,0.30426037582690263,NA,NA,
+S2,unweighted households,Delta,0.1586605068465443,NA,NA,
+S2,unweighted households,Da,0.053853849587360836,NA,NA,
+S2,unweighted households,Db,0.10480665725918348,NA,NA,
+S2,unweighted households,E,0.03670303787331897,NA,NA,
+S2,unweighted households,D_grain,0.1824890427885179,NA,NA,
+S2,unweighted households,D_cattle,0.3802017077198158,NA,NA,
+S2,unweighted households,D_sheep,0.39310987009902687,NA,NA,
+S2,unweighted households,D_pigs,0.4859048242878287,NA,NA,
+S2,unweighted households,D_horses,0.4787910667973339,NA,NA,
+S3a,S3 factors from surviving counts,G1700,0.5996744482948555,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,G1723,0.6666253776920429,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,G1757,0.7449605953661879,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,C_wine,0.5215191346075058,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,S_wine,0.4561828471774529,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,C_grain,0.30549213555432775,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,Delta,0.14528614707133236,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,Da,0.06695092939718739,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,Db,0.07833521767414497,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,E,0.06533628743005288,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,D_grain,0.21602699905317801,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,D_cattle,0.4352524532848407,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,D_sheep,0.4426797066003873,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,D_pigs,0.520860559604022,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3a,S3 factors from surviving counts,D_horses,0.5142950891026068,NA,NA,1700 0.928 1723 0.952 1757 1.004
+S3b,factors re-estimated per draw,G1700,0.5996744482948555,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,G1723,0.666625377692043,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,G1757,0.7449605953661879,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,C_wine,0.5215191346075059,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,S_wine,0.45618284717745294,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,C_grain,0.30549213555432786,NA,NA,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,Delta,0.14528614707133236,0.06827847936596104,0.22854475926262946,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,Da,0.0669509293971875,-0.016121175022971588,0.1573324280523353,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,Db,0.07833521767414486,0.018708185570114333,0.1448085569494348,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,E,0.06533628743005293,0.04528583624356,0.08686611465521014,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,D_grain,0.21602699905317801,0.06349824814687648,0.36235412015889834,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,D_cattle,0.43525245328484075,0.34161555190048826,0.5209523075034933,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,D_sheep,0.44267970660038736,0.3502213472385889,0.5262150932384086,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,D_pigs,0.5208605596040221,0.43724675814375685,0.5978788740816852,identical to primary by construction: one burgher factor per year scales w proportionally
+S3b,factors re-estimated per draw,D_horses,0.5142950891026069,0.4298674587381332,0.5920081865517179,identical to primary by construction: one burgher factor per year scales w proportionally
+S4,"household income, household weight wf",G1700,0.6066535410152746,NA,NA,
+S4,"household income, household weight wf",G1723,0.6796761689882638,NA,NA,
+S4,"household income, household weight wf",G1757,0.76794264166895,NA,NA,
+S4,"household income, household weight wf",C_wine,0.5125457619459656,NA,NA,
+S4,"household income, household weight wf",S_wine,0.45618284717745283,NA,NA,
+S4,"household income, household weight wf",C_grain,0.298281554296005,NA,NA,
+S4,"household income, household weight wf",Delta,0.1612891006536754,NA,NA,
+S4,"household income, household weight wf",Da,0.0730226279729892,NA,NA,
+S4,"household income, household weight wf",Db,0.08826647268068621,NA,NA,
+S4,"household income, household weight wf",E,0.05636291476851274,NA,NA,
+S4,"household income, household weight wf",D_grain,0.21426420764996057,NA,NA,
+S4,"household income, household weight wf",D_cattle,0.4183870897204394,NA,NA,
+S4,"household income, household weight wf",D_sheep,0.4259025636636471,NA,NA,
+S4,"household income, household weight wf",D_pigs,0.5118990034388975,NA,NA,
+S4,"household income, household weight wf",D_horses,0.5048217072028489,NA,NA,
+S5,1700 prices all years,G1700,0.5996744482948555,NA,NA,
+S5,1700 prices all years,G1723,0.678599345044428,NA,NA,
+S5,1700 prices all years,G1757,0.7066532040423068,NA,NA,
+S5,1700 prices all years,C_wine,0.4878857589458023,NA,NA,
+S5,1700 prices all years,S_wine,0.4093555975762697,NA,NA,
+S5,1700 prices all years,C_grain,0.24551633784802834,NA,NA,
+S5,1700 prices all years,Delta,0.1069787557474513,NA,NA,
+S5,1700 prices all years,Da,0.07892489674957248,NA,NA,
+S5,1700 prices all years,Db,0.028053858997878822,NA,NA,
+S5,1700 prices all years,E,0.07853016136953256,NA,NA,
+S5,1700 prices all years,D_grain,0.24236942109777393,NA,NA,
+S5,1700 prices all years,D_cattle,0.30888391953817407,NA,NA,
+S5,1700 prices all years,D_sheep,0.42313934132737324,NA,NA,
+S5,1700 prices all years,D_pigs,0.48755838255480305,NA,NA,
+S5,1700 prices all years,D_horses,0.46536348915668935,NA,NA,
+S5,1757 prices all years,G1700,0.6105648274680326,NA,NA,
+S5,1757 prices all years,G1723,0.7001913580591653,NA,NA,
+S5,1757 prices all years,G1757,0.7449605953661879,NA,NA,
+S5,1757 prices all years,C_wine,0.5215191346075059,NA,NA,
+S5,1757 prices all years,S_wine,0.45618284717745294,NA,NA,
+S5,1757 prices all years,C_grain,0.30549213555432786,NA,NA,
+S5,1757 prices all years,Delta,0.13439576789815522,NA,NA,
+S5,1757 prices all years,Da,0.08962653059113268,NA,NA,
+S5,1757 prices all years,Db,0.044769237307022536,NA,NA,
+S5,1757 prices all years,E,0.06533628743005293,NA,NA,
+S5,1757 prices all years,D_grain,0.21602699905317801,NA,NA,
+S5,1757 prices all years,D_cattle,0.43525245328484075,NA,NA,
+S5,1757 prices all years,D_sheep,0.44267970660038736,NA,NA,
+S5,1757 prices all years,D_pigs,0.5208605596040221,NA,NA,
+S5,1757 prices all years,D_horses,0.5142950891026069,NA,NA,
+S6,"cattle/sheep/pigs 0.10, horses 0.00",G1700,0.5587923872638909,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",G1723,0.6417145367426768,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",G1757,0.72722710834342,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",C_wine,0.577220436957115,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",S_wine,0.5064263943171649,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",C_grain,0.33529075387119456,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",Delta,0.16843472107952906,0.09077789632557484,0.25137515780668906,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",Da,0.08292214947878584,-0.004373484469261089,0.17198527724187926,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",Db,0.08551257160074321,0.01922323372794247,0.15840314295966806,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",E,0.07079404263995015,0.04738752405356702,0.0958312386494858,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",D_grain,0.24192968308592044,0.07052399379987863,0.40469778034681825,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",D_cattle,0.5316573858883162,0.43700217739666203,0.6203427302890937,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",D_sheep,0.535768289949944,0.4425518221514787,0.6236814234915602,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",D_pigs,0.5767468258613944,0.48782983584228823,0.6595366851904653,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.00",D_horses,0.577220436957115,0.48841493837139405,0.6599792025308667,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",G1700,0.6033679366050133,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",G1723,0.6767930326318066,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",G1757,0.7724558713876397,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",C_wine,0.556152422764339,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",S_wine,0.500085015884788,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",C_grain,0.3244586394806462,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",Delta,0.1690879347826264,0.09393570357803291,0.2494608729399854,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",Da,0.07342509602679326,-0.010116259804998577,0.16139445120599102,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",Db,0.09566283875583315,0.03687530075687258,0.16098606068396656,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",E,0.05606740687955092,0.0378882317726567,0.07571995985122969,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",D_grain,0.23169378328369278,0.07059483893922194,0.38564071552596557,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",D_cattle,0.4978231600850634,0.4048329254372408,0.5813839444091194,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",D_sheep,0.5031152707005284,0.4118780121440347,0.5855994916044976,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",D_pigs,0.5556928314466173,0.4701492786945515,0.6342834216044357,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.05",D_horses,0.548589491070132,0.4621323861281017,0.6279693358574774,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",G1700,0.6007187814676043,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",G1723,0.6736709103201736,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",G1757,0.7687245534909692,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",C_wine,0.5515488521699687,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",S_wine,0.49390048459671204,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",C_grain,0.3221154665984559,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",Delta,0.16800577202336497,0.09280281224426647,0.24802475272818736,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",Da,0.0729521288525693,-0.010113428568045904,0.16036335632437476,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",Db,0.09505364317079568,0.036457333291104406,0.16066915248956246,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",E,0.0576483675732567,0.03921822017093012,0.07752572146520931,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",D_grain,0.22943338557151283,0.06956043499176895,0.3822356128656245,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",D_cattle,0.49359994986516886,0.4008107090986513,0.5769383867631107,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",D_sheep,0.4989006835770998,0.40818316925229936,0.5813245991063669,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",D_pigs,0.5510922998535484,0.46588362950717227,0.6297040574312022,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.10, horses 0.10",D_horses,0.5362667941524826,0.44986100511879124,0.6159805232572378,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",G1700,0.5542115384393245,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",G1723,0.6293224009810993,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",G1757,0.6927917138818723,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",C_wine,0.5459795246728875,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",S_wine,0.46145381897832694,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",C_grain,0.3188786599909555,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",Delta,0.13858017544254786,0.06137671714843969,0.22452573159081532,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",Da,0.07511086254177479,-0.010573080526245417,0.16753722426547768,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",Db,0.06346931290077307,-0.00250941046511361,0.13672988406631467,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",E,0.08452570569456053,0.05863795824867547,0.11206584617879049,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",D_grain,0.22710086468193197,0.06360531844852638,0.38498998303913823,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",D_cattle,0.47583955237097164,0.37895621873191765,0.5656310678481578,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",D_sheep,0.48166621644781016,0.38551639518981695,0.5714076381290449,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",D_pigs,0.5452909898637238,0.45782845039348685,0.6275729914749038,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.00",D_horses,0.5459795246728875,0.458441427334316,0.6282707844006308,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",G1700,0.5996744482948555,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",G1723,0.666625377692043,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",G1757,0.7449605953661879,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",C_wine,0.5215191346075059,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",S_wine,0.45618284717745294,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",C_grain,0.30549213555432786,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",Delta,0.14528614707133236,0.06827847936596104,0.22854475926262946,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",Da,0.0669509293971875,-0.016121175022971588,0.1573324280523353,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",Db,0.07833521767414486,0.018708185570114333,0.1448085569494348,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",E,0.06533628743005293,0.04528583624356,0.08686611465521014,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",D_grain,0.21602699905317801,0.06349824814687648,0.36235412015889834,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",D_cattle,0.43525245328484075,0.34161555190048826,0.5209523075034933,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",D_sheep,0.44267970660038736,0.3502213472385889,0.5262150932384086,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",D_pigs,0.5208605596040221,0.43724675814375685,0.5978788740816852,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.05",D_horses,0.5142950891026069,0.4298674587381332,0.5920081865517179,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",G1700,0.5973806821988693,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",G1723,0.6641410189770377,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",G1757,0.7419026530451507,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",C_wine,0.5174684815079935,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",S_wine,0.4510309311639486,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",C_grain,0.3033152968991107,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",Delta,0.14452197084628138,0.06787016166103606,0.2275150159974791,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",Da,0.0667603367781684,-0.01574404004819696,0.15640982908809958,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",Db,0.07776163406811298,0.01843315054887673,0.14396385591496796,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",E,0.06643755034404492,0.04620301330475476,0.08811024304572748,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",D_grain,0.21415318460888283,0.06270247176685487,0.35907360811870964,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",D_cattle,0.4317280646954935,0.3384838267614247,0.5170879090842744,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",D_sheep,0.43917390436052894,0.3470785613331914,0.5225923848441338,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",D_pigs,0.5168143745886193,0.4335559624565283,0.593653820431078,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.15, horses 0.10",D_horses,0.5029413607944363,0.4179828049395481,0.5812016479128814,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",G1700,0.5517288954988977,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",G1723,0.6220810163445865,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",G1757,0.6657635068637979,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",C_wine,0.5155543184411785,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",S_wine,0.4238172476725369,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",C_grain,0.30285431306299493,NA,NA,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",Delta,0.11403461136490023,0.035083025186488856,0.20240338971820573,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",Da,0.07035212084568876,-0.015836177225678143,0.16408492310317968,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",Db,0.04368249051921147,-0.02308603889387037,0.11647734742403754,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",E,0.09173707076864157,0.06403017308017592,0.12151374776286021,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",D_grain,0.21270000537818357,0.05758231355447576,0.36228631810112083,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",D_cattle,0.4215283452543751,0.3219361651560586,0.5132947451668637,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",D_sheep,0.42887239543085887,0.3302478035978746,0.5195281268610398,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",D_pigs,0.5146708461424748,0.4284625559761921,0.596587247596705,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.00",D_horses,0.5155543184411785,0.4293476133844066,0.5974536697362021,FB-pt=TRUE;FB-rise=TRUE;FB-steady=FALSE;W-pt=TRUE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",G1700,0.5977455475241382,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",G1723,0.6606903337314864,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",G1757,0.723340697681705,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",C_wine,0.48897222923822076,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",S_wine,0.4193668763505052,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",C_grain,0.2878529003474243,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",Delta,0.12559515015756673,0.047877420264911943,0.20974730125689975,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",Da,0.06294478620734822,-0.020226999010490482,0.15374258058989598,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",Db,0.0626503639502185,0.0023282994927555185,0.12956762912543093,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",E,0.06960535288771558,0.048521617585685635,0.09196098757493434,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",D_grain,0.20111932889079648,0.05651771235929249,0.3386427743268979,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",D_cattle,0.3766010161505146,0.2809417549230858,0.46414335396807804,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",D_sheep,0.38589518657661104,0.29147263106230664,0.4710655124905533,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",D_pigs,0.48813627174935104,0.40642085600678535,0.5639906981839962,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.05",D_horses,0.4820815720620513,0.4000426224779827,0.5582847496144603,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",G1700,0.595716464874425,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",G1723,0.6585716459451985,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",G1757,0.7207833555204678,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",C_wine,0.4852227255222938,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",S_wine,0.41500899768505317,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",C_grain,0.2859986692987763,NA,NA,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",Delta,0.12506689064604282,0.04731764672080575,0.20872504191759633,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",Da,0.06285518107077348,-0.0203766574412046,0.15360083183805295,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",Db,0.062211709575269336,0.0018056560975910046,0.12855283361297679,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",E,0.07021372783724061,0.04897632908202722,0.09263571183363344,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",D_grain,0.19922405622351747,0.05571523741907476,0.33577460661676717,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",D_cattle,0.3735027324666732,0.27844321393097177,0.4605267939565011,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",D_sheep,0.3828257623642115,0.28879995248268264,0.46765626100222,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",D_pigs,0.48439200383967407,0.40303899373617363,0.5598026769889991,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S6,"cattle/sheep/pigs 0.20, horses 0.10",D_horses,0.4713917982396866,0.389269743491837,0.5478607202741966,FB-pt=FALSE;FB-rise=TRUE;FB-steady=FALSE;W-pt=FALSE;W-cmp=TRUE;W-max=TRUE
+S7,frequency-expanded (integer weights),G1700,0.6023649431386519,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),G1723,0.6669159317383241,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),G1757,0.7449605953661879,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),C_wine,0.5215191346075059,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),S_wine,0.4561828471774529,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),C_grain,0.30549213555432786,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),Delta,0.142595652227536,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),Da,0.06455098859967223,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),Db,0.07804466362786378,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),E,0.06533628743005299,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),D_grain,0.21602699905317801,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),D_cattle,0.43525245328484075,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),D_sheep,0.4426797066003874,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),D_pigs,0.5208605596040221,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S7,frequency-expanded (integer weights),D_horses,0.5142950891026069,NA,NA,unweighted LY on rows expanded by round(w) equals weighted LY with integer weights
+S8,top 1% of farming households dropped,G1700,0.5769696650601084,NA,NA,dropped 19
+S8,top 1% of farming households dropped,G1723,0.6481621839123586,NA,NA,dropped 19
+S8,top 1% of farming households dropped,G1757,0.7200711518015717,NA,NA,dropped 19
+S8,top 1% of farming households dropped,C_wine,0.5225882579480398,NA,NA,dropped 19
+S8,top 1% of farming households dropped,S_wine,0.4491931442952449,NA,NA,dropped 19
+S8,top 1% of farming households dropped,C_grain,0.2979564945390976,NA,NA,dropped 19
+S8,top 1% of farming households dropped,Delta,0.14310148674146328,NA,NA,dropped 19
+S8,top 1% of farming households dropped,Da,0.0711925188522502,NA,NA,dropped 19
+S8,top 1% of farming households dropped,Db,0.07190896788921308,NA,NA,dropped 19
+S8,top 1% of farming households dropped,E,0.07339511365279489,NA,NA,dropped 19
+S8,top 1% of farming households dropped,D_grain,0.22463176340894214,NA,NA,dropped 19
+S8,top 1% of farming households dropped,D_cattle,0.4333346050628256,NA,NA,dropped 19
+S8,top 1% of farming households dropped,D_sheep,0.4404626446851754,NA,NA,dropped 19
+S8,top 1% of farming households dropped,D_pigs,0.5219786117521031,NA,NA,dropped 19
+S8,top 1% of farming households dropped,D_horses,0.5151219227791922,NA,NA,dropped 19
+S9,A = 0 households included,G1700,0.6969647218168229,NA,NA,
+S9,A = 0 households included,G1723,0.7765244364673007,NA,NA,
+S9,A = 0 households included,G1757,0.8092485778218871,NA,NA,
+S9,A = 0 households included,C_wine,0.5011677004612843,NA,NA,
+S9,A = 0 households included,S_wine,0.45618284717745294,NA,NA,
+S9,A = 0 households included,C_grain,0.29413351246131364,NA,NA,
+S9,A = 0 households included,Delta,0.11228385600506419,NA,NA,
+S9,A = 0 households included,Da,0.07955971465047784,NA,NA,
+S9,A = 0 households included,Db,0.032724141354586345,NA,NA,
+S9,A = 0 households included,E,0.044984853283831394,NA,NA,
+S9,A = 0 households included,D_grain,0.2070341879999707,NA,NA,
+S9,A = 0 households included,D_cattle,0.398955124922703,NA,NA,
+S9,A = 0 households included,D_sheep,0.4078461981664274,NA,NA,
+S9,A = 0 households included,D_pigs,0.5005348131431319,NA,NA,
+S9,A = 0 households included,D_horses,0.492635878535473,NA,NA,
+S10,raw xls (different population),G1700,0.6017506554040302,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),G1723,0.6512780449861405,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),G1757,0.7455323939010856,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),C_wine,0.5213765547692253,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),S_wine,0.45628620685604526,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),C_grain,0.3054206779264156,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),Delta,0.14378173849705544,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),Da,0.04952738958211034,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),Db,0.09425434891494511,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),E,0.06509034791318002,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),D_grain,0.2159558768428097,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),D_cattle,0.43499104746807626,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),D_sheep,0.44243492364953496,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),D_pigs,0.5207181697448652,NA,NA,rows 439/1681/1787
+S10,raw xls (different population),D_horses,0.5141593109100655,NA,NA,rows 439/1681/1787
+S11,1757 duplicates dropped,G1700,0.5996744482948555,NA,NA,dropped 7
+S11,1757 duplicates dropped,G1723,0.666625377692043,NA,NA,dropped 7
+S11,1757 duplicates dropped,G1757,0.7447496918766948,NA,NA,dropped 7
+S11,1757 duplicates dropped,C_wine,0.5216648492399862,NA,NA,dropped 7
+S11,1757 duplicates dropped,S_wine,0.4564391416667169,NA,NA,dropped 7
+S11,1757 duplicates dropped,C_grain,0.3055783795379475,NA,NA,dropped 7
+S11,1757 duplicates dropped,Delta,0.14507524358183932,NA,NA,dropped 7
+S11,1757 duplicates dropped,Da,0.0669509293971875,NA,NA,dropped 7
+S11,1757 duplicates dropped,Db,0.07812431418465182,NA,NA,dropped 7
+S11,1757 duplicates dropped,E,0.06522570757326934,NA,NA,dropped 7
+S11,1757 duplicates dropped,D_grain,0.21608646970203876,NA,NA,dropped 7
+S11,1757 duplicates dropped,D_cattle,0.4355178655942151,NA,NA,dropped 7
+S11,1757 duplicates dropped,D_sheep,0.4429395629515954,NA,NA,dropped 7
+S11,1757 duplicates dropped,D_pigs,0.5210060388543395,NA,NA,dropped 7
+S11,1757 duplicates dropped,D_horses,0.5144391583377287,NA,NA,dropped 7
+S12,BCa,Delta,0.14528614707133236,0.06224051719986699,0.22144318056794565,z0=-0.062 a=-0.0118
+S12,BCa,Da,0.0669509293971875,-0.019311599774454943,0.15311585305818343,z0=-0.027 a=-0.0058
+S12,BCa,Db,0.07833521767414486,0.016593323654758515,0.14182675749830978,z0=-0.028 a=-0.0059
+S12,BCa,E,0.06533628743005293,0.04462863308523614,0.08605373429151865,z0=0.001 a=-0.0184
+S12,BCa,D_grain,0.21602699905317801,0.06012050301515887,0.35962433270533223,z0=-0.005 a=-0.0050
+S12,BCa,D_cattle,0.43525245328484075,0.345474539066434,0.5224433601381596,z0=-0.000 a=0.0100
+S12,BCa,D_sheep,0.44267970660038736,0.3540314117725791,0.5294816072148226,z0=0.010 a=0.0106
+S12,BCa,D_pigs,0.5208605596040221,0.4381437020262573,0.5984662545231179,z0=0.002 a=0.0045
+S12,BCa,D_horses,0.5142950891026069,0.43038961513840424,0.5922449037747121,z0=-0.001 a=0.0048
+S13,year 1700,gini_grain,0.6670175944839737,NA,NA,
+S13,year 1700,rank_grain,0.9067278635611018,NA,NA,
+S13,year 1700,elast_grain,0.00238085177777253,NA,NA,
+S13,year 1700,contrib_grain,0.2807467573249544,NA,NA,
+S13,year 1700,gini_wine,0.6913093031875464,NA,NA,
+S13,year 1700,rank_wine,0.8975968452981726,NA,NA,
+S13,year 1700,elast_wine,0.014682874838120301,NA,NA,
+S13,year 1700,contrib_wine,0.4371322951847094,NA,NA,
+S13,year 1700,gini_cattle,0.6149717076195643,NA,NA,
+S13,year 1700,rank_cattle,0.8786504310247811,NA,NA,
+S13,year 1700,elast_cattle,-0.02098452153672203,NA,NA,
+S13,year 1700,contrib_cattle,0.19111781243236295,NA,NA,
+S13,year 1700,gini_sheep,0.7797624877817749,NA,NA,
+S13,year 1700,rank_sheep,0.8459769797065931,NA,NA,
+S13,year 1700,elast_sheep,0.00777169207768264,NA,NA,
+S13,year 1700,contrib_sheep,0.0854637104745219,NA,NA,
+S13,year 1700,gini_pigs,0.874892055876958,NA,NA,
+S13,year 1700,rank_pigs,0.7330671122321929,NA,NA,
+S13,year 1700,elast_pigs,6.594395548280957e-5,NA,NA,
+S13,year 1700,contrib_pigs,0.00101471477865064,NA,NA,
+S13,year 1700,gini_horses,0.6087425612489372,NA,NA,
+S13,year 1700,rank_horses,0.5280199885228504,NA,NA,
+S13,year 1700,elast_horses,-0.00391684111233641,NA,NA,
+S13,year 1700,contrib_horses,0.00452470980480053,NA,NA,
+S13,year 1723,gini_grain,0.7840630010488981,NA,NA,
+S13,year 1723,rank_grain,0.9337826657918896,NA,NA,
+S13,year 1723,elast_grain,0.031962391047751,NA,NA,
+S13,year 1723,contrib_grain,0.3571645610967202,NA,NA,
+S13,year 1723,gini_wine,0.8019511934484199,NA,NA,
+S13,year 1723,rank_wine,0.8571655272624197,NA,NA,
+S13,year 1723,elast_wine,0.00633731345661803,NA,NA,
+S13,year 1723,contrib_wine,0.20964373896899996,NA,NA,
+S13,year 1723,gini_cattle,0.6337525366250503,NA,NA,
+S13,year 1723,rank_cattle,0.9120632770976592,NA,NA,
+S13,year 1723,elast_cattle,-0.02865398286685769,NA,NA,
+S13,year 1723,contrib_cattle,0.18693104569055444,NA,NA,
+S13,year 1723,gini_sheep,0.7136969449353897,NA,NA,
+S13,year 1723,rank_sheep,0.9132597887213302,NA,NA,
+S13,year 1723,elast_sheep,-0.00508578504572029,NA,NA,
+S13,year 1723,contrib_sheep,0.22345428028703956,NA,NA,
+S13,year 1723,gini_pigs,0.8242502303046846,NA,NA,
+S13,year 1723,rank_pigs,0.6751241999700581,NA,NA,
+S13,year 1723,elast_pigs,-4.430993010639396e-4,NA,NA,
+S13,year 1723,contrib_pigs,0.0022384281037377,NA,NA,
+S13,year 1723,gini_horses,0.7240227466871871,NA,NA,
+S13,year 1723,rank_horses,0.7671693368429726,NA,NA,
+S13,year 1723,elast_horses,-0.00411683729072715,NA,NA,
+S13,year 1723,contrib_horses,0.02056794585294812,NA,NA,
+S13,year 1757,gini_grain,0.921789711113055,NA,NA,
+S13,year 1757,rank_grain,0.9177123982921644,NA,NA,
+S13,year 1757,elast_grain,0.03646574771501293,NA,NA,
+S13,year 1757,contrib_grain,0.30549213555432786,NA,NA,
+S13,year 1757,gini_wine,0.9012009760038336,NA,NA,
+S13,year 1757,rank_wine,0.9450242303323144,NA,NA,
+S13,year 1757,elast_wine,0.06533628743005293,NA,NA,
+S13,year 1757,contrib_wine,0.5215191346075059,NA,NA,
+S13,year 1757,gini_cattle,0.6175313696358283,NA,NA,
+S13,year 1757,rank_cattle,0.7570819295411961,NA,NA,
+S13,year 1757,elast_cattle,-0.05119273267597964,NA,NA,
+S13,year 1757,contrib_cattle,0.08626668132266511,NA,NA,
+S13,year 1757,gini_sheep,0.649772733068286,NA,NA,
+S13,year 1757,rank_sheep,0.7211919207550099,NA,NA,
+S13,year 1757,elast_sheep,-0.046493282067924,NA,NA,
+S13,year 1757,contrib_sheep,0.07883942800711849,NA,NA,
+S13,year 1757,gini_pigs,0.98999047139621,NA,NA,
+S13,year 1757,rank_pigs,0.8602094787547503,NA,NA,
+S13,year 1757,elast_pigs,8.246779957412134e-5,NA,NA,
+S13,year 1757,contrib_pigs,6.585750034837913e-4,NA,NA,
+S13,year 1757,gini_horses,0.6343300480530932,NA,NA,
+S13,year 1757,rank_horses,0.7427386805373404,NA,NA,
+S13,year 1757,elast_horses,-0.00419848820073635,NA,NA,
+S13,year 1757,contrib_horses,0.0072240455048989604,NA,NA,
+S13,year 1700,C_grain - C_wine,-0.156385537859755,NA,NA,wine ranks above grain
+S13,year 1723,C_grain - C_wine,0.14752082212772022,NA,NA,grain ranks above wine
+S13,year 1757,C_grain - C_wine,-0.21602699905317801,NA,NA,wine ranks above grain
+S14,magnitude,Delta/0.135,1.0761936820098692,NA,NA,no flag
+S15,(a) drop missing / (b) median impute,G1700,0.5996744482948555,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,G1723,0.666625377692043,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,G1757,0.7449605953661879,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,C_wine,0.5215191346075059,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,S_wine,0.45618284717745294,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,C_grain,0.30549213555432786,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,Delta,0.14528614707133236,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,Da,0.0669509293971875,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,Db,0.07833521767414486,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,E,0.06533628743005293,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,D_grain,0.21602699905317801,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,D_cattle,0.43525245328484075,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,D_sheep,0.44267970660038736,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,D_pigs,0.5208605596040221,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S15,(a) drop missing / (b) median impute,D_horses,0.5142950891026069,NA,NA,"0 missing values in every used count, 1700/1723/1757: identical to primary"
+S16,"normal, rho = -0.5",Delta,0.14528614707133236,0.05429229127401225,0.23628000286865247,
+S16,"normal, rho = -0.5",Da,0.0669509293971875,-0.04039772460926086,0.17429958340363585,
+S16,"normal, rho = -0.5",Db,0.07833521767414486,0.0032322685806038393,0.1534381667676859,
+S16,"normal, rho = 0",Delta,0.14528614707133236,0.06787003110797671,0.22270226303468801,
+S16,"normal, rho = 0",Da,0.0669509293971875,-0.021240664826965183,0.15514252362134018,
+S16,"normal, rho = 0",Db,0.07833521767414486,0.015851631572069765,0.14081880377621997,
+S16,"normal, rho = 0.5",Delta,0.14528614707133236,0.08440406244178,0.20616823170088472,
+S16,"normal, rho = 0.5",Da,0.0669509293971875,0.0034546218935299078,0.1304472369008451,
+S16,"normal, rho = 0.5",Db,0.07833521767414486,0.03177403102900178,0.12489640431928795,
+S16,"paired bootstrap, van+naam linkage",G1700,0.5996744482948555,0.5263137005172692,0.6656182030375045,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",G1723,0.666625377692043,0.6095488180293904,0.7162721565451913,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",G1757,0.7449605953661879,0.7113237230048413,0.7752332003589097,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",C_wine,0.5215191346075059,0.43856211467008277,0.5974082750950747,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",S_wine,0.45618284717745294,0.38386356869604543,0.5227301996913545,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",C_grain,0.30549213555432786,0.23180452005788893,0.3850730528187212,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",Delta,0.14528614707133236,0.07218816352610609,0.22525077821947875,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",Da,0.0669509293971875,-0.02095400027373969,0.1567317338692865,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",Db,0.07833521767414486,0.017431801542916806,0.14148700922450097,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",E,0.06533628743005293,0.045158023141916304,0.0870070242667086,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",D_grain,0.21602699905317801,0.05586502753473059,0.3617414776954707,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",D_cattle,0.43525245328484075,0.3419168192934882,0.5181537190123464,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",D_sheep,0.44267970660038736,0.3507621676388378,0.5239690408050663,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",D_pigs,0.5208605596040221,0.43774301798409554,0.5967559190650391,2609 ids; 258 linked across rolls
+S16,"paired bootstrap, van+naam linkage",D_horses,0.5142950891026069,0.43035276159022434,0.590535952191875,2609 ids; 258 linked across rolls
+S17,cluster bootstrap by loc within year,G1700,0.5996744482948555,0.3349990927070905,0.6257680614205029,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,G1723,0.666625377692043,0.4241122361868123,0.6876863155032485,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,G1757,0.7449605953661879,0.6290653956654912,0.7641417433520353,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,C_wine,0.5215191346075059,0.4642038097893183,0.7986657985247316,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,S_wine,0.45618284717745294,0.40685616759355187,0.6969558933402691,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,C_grain,0.30549213555432786,0.08068435023366256,0.3477421478905785,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,Delta,0.14528614707133236,0.01966405816635619,0.4081355496543178,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,Da,0.0669509293971875,-0.18171899983593426,0.3188147966591515,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,Db,0.07833521767414486,-0.042047939999917475,0.31654311950361125,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,E,0.06533628743005293,0.05691256210890102,0.16617177248062104,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,D_grain,0.21602699905317801,0.11640897346888769,0.6962221737746177,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,D_cattle,0.43525245328484075,0.3715218852948555,0.7550558194282097,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,D_sheep,0.44267970660038736,0.3775970328182476,0.7622213044076485,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,D_pigs,0.5208605596040221,0.46346300577379307,0.7981215044933846,clusters per year 10/11/11
+S17,cluster bootstrap by loc within year,D_horses,0.5142950891026069,0.45614523948419283,0.7956322886435759,clusters per year 10/11/11
+S18,"leave-one-out, 1757",max |shift| G1757,0.0033309781717359987,NA,NA,top 20 in s18_influence_top20.csv
+S18,"leave-one-out, 1757",max |shift| C_wine,0.00778087796245952,NA,NA,top 20 in s18_influence_top20.csv

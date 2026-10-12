@@ -1,0 +1,8 @@
+obs,dist,price,source
+Bloemfontein-Kimberley,100,0.031,price diff
+Bloemfontein-Johannesburg,250,0.026,price diff
+Kimberley-Johannesburg,300,0.014,price diff
+Port Elizabeth-Grahamstown,80,0.033,direct
+Robertson-Worcester,30,0.024,direct
+Port Elizabeth-Humansdorp,54,0.026,direct
+East London-Elliot,155,0.013,direct

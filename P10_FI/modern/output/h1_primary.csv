@@ -1,0 +1,13 @@
+quantity,estimate,lo,hi,fail,n_def,fieller_lo,fieller_hi,fieller_bounded,fieller_convex,block,B,ci_level,note
+A,4.30861411930778,,,,,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+D,5.58471796361857,2.91625705448136,8.31910827141578,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+E25,2.7697247706422,-0.9,12.9753007217323,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+F,0.771500753910239,0.515027090770804,0.913195893192572,0,9999,0.5155,0.913,1,1,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+G,1.51625513749849,0.0477061595650767,3.01910531707449,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+L30,2,1.0898941668014,3.00120981476516,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+R25,4.07747196738022,,,,,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+S25,3.6697247706422,0,13.8753007217323,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+d30,4.062424969988,1.34790174086263,6.86880961844193,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+s1,6.062424969988,3.35553346278461,8.81878064396095,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+s3,1.75381085068022,0.901746021633254,2.6868957860315,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"
+s4,0.477707006369427,0.152360647447875,1.03156884059374,0,9999,,,,,H1,9999,0.9875,"parish-cluster bootstrap (parishdum), percentile CI on defined draws"

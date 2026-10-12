@@ -1,0 +1,14 @@
+check,value
+"share below 160.02, all forces",0.0073
+implied N after truncreg drop if published N=6972,6921
+63*2.54 == 160.02 in double,TRUE
+weight range (min/max),0.217/5.873
+Kish effective N / N (colonial+WWI),0.533
+mean attest gap WWII-WWI (years),24.28
+published col8: 6.334 + (-0.249)*gap (cf. col2 WWII 0.311),0.289
+rows sharing name+birthyear with another row,1711
+later copies not flagged Repeat (all),198
+"later unflagged copies, SA-born",67
+Repeat==1 flagged rows,2852
+analysis-sample (colonial+WWI) callings with * or ?,3
+Data rows with * or ? in calling,31

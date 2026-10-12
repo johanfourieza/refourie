@@ -1,0 +1,35 @@
+quantity,L,U
+share_rows: Middle class,18.37837837837838,63.389335281227176
+share_rows: Businessmen,11.921110299488678,56.93206720233748
+share_rows: Farmers,16.53761869978086,61.548575602629654
+share_rows: Rentiers,4.236669101533966,49.24762600438276
+share_rows: Working class,2.9802775748721695,47.991234477720965
+share_rows: Company investors,0.9349890430971511,45.94594594594595
+share_value: Middle class,15.995609520441542,68.7936521969764
+share_value: Businessmen,19.731878417974915,72.52992109450976
+share_value: Farmers,2.3790052666809802,55.177047943215825
+share_value: Rentiers,4.543064905212373,57.34110758174722
+share_value: Working class,1.2168345921163974,54.014877268651254
+share_value: Company investors,3.3355646210389382,56.133607297573796
+share_value: Foreign (C1),9.086800775477727,22.633861474923272
+share_rows: Local (C1),76.68371073776478,96.6837107377648
+D_rows: Middle class - Businessmen,-38.5536888239591,51.468224981738494
+D_rows: Middle class - Farmers,-43.170197224251275,46.85171658144631
+D_rows: Middle class - Rentiers,-30.86924762600438,59.15266617969321
+D_rows: Middle class - Working class,-29.612856099342583,60.40905770635501
+D_rows: Middle class - Company investors,-27.56756756756757,62.45434623813002
+D_value: Middle class - Businessmen,-56.53431157406822,49.061773779001484
+D_value: Middle class - Farmers,-39.181438422774285,66.41464693029542
+D_value: Middle class - Rentiers,-41.345498061305676,64.25058729176402
+D_value: Middle class - Working class,-38.01926774820971,67.57681760486
+D_value: Middle class - Company investors,-40.13799777713225,65.45808757593747
+share_rows: African (Xhosa),0.2191380569758948,0.2191380569758948
+count: African (Xhosa),15,15
+N rows,6845,NA
+N companies,285,NA
+rows unknown class,3081,NA
+rows unknown location,1369,NA
+rows bad Value (excluded from capital),137,NA
+total Value,2533664,NA
+Value unknown class,1337725,NA
+Value unknown location,343237,NA

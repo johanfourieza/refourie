@@ -1,0 +1,258 @@
+sensitivity,variant,statistic,value,old,direction
+0 central,"lambda 1, S text, gamma stated",K1685,182.6508679598729,NA,NA
+0 central,"lambda 1, S text, gamma stated",K1773,7162.6313247708795,NA,NA
+0 central,"lambda 1, S text, gamma stated",gK,4.257521456088353,NA,NA
+0 central,"lambda 1, S text, gamma stated",gS,4.009908170373189,NA,NA
+0 central,"lambda 1, S text, gamma stated",rKS,1.0617503631491192,NA,NA
+0 central,"lambda 1, S text, gamma stated",I1c,1.0467092393352155,NA,NA
+0 central,"lambda 1, S text, gamma stated",T3_without,14.54454438072085,NA,NA
+0 central,"lambda 1, S text, gamma stated",T3_with,8.021607266167376,NA,NA
+0 central,"lambda 1, S text, gamma stated",P_T3,-44.847998973414306,NA,NA
+0 central,"lambda 1, S text, gamma stated",T3_n_with,370,NA,NA
+0 central,"lambda 1, S text, gamma stated",T5_without,9.020762495148311,NA,NA
+0 central,"lambda 1, S text, gamma stated",T5_with,4.9419865473498215,NA,NA
+0 central,"lambda 1, S text, gamma stated",P_T5,-45.215423308087345,NA,NA
+0 central,"lambda 1, S text, gamma stated",T5_n_with,1095,NA,NA
+0 central,"lambda 1, S text, gamma stated",T3_Stel_with,6.4829454352984195,NA,NA
+0 central,"lambda 1, S text, gamma stated",T3_Drak_with,5.575424735315671,NA,NA
+0 central,"lambda 1, S text, gamma stated",P_T5_Stel,-58.246380416136496,NA,NA
+0 central,"lambda 1, S text, gamma stated",P_T5_Drak,-61.001927062641776,NA,NA
+1 tornado,lambda = 0.5,K1685,91.32543397993643,NA,NA
+1 tornado,lambda = 0.5,K1773,3581.3156623854397,NA,NA
+1 tornado,lambda = 0.5,gK,4.257521456088353,NA,NA
+1 tornado,lambda = 0.5,gS,4.009908170373189,NA,NA
+1 tornado,lambda = 0.5,rKS,1.0617503631491192,NA,NA
+1 tornado,lambda = 0.5,I1c,0.5233546196676078,NA,NA
+1 tornado,lambda = 0.5,T3_without,14.54454438072085,NA,NA
+1 tornado,lambda = 0.5,T3_with,9.60127567422964,NA,NA
+1 tornado,lambda = 0.5,P_T3,-33.98709905993092,NA,NA
+1 tornado,lambda = 0.5,T3_n_with,370,NA,NA
+1 tornado,lambda = 0.5,T5_without,9.020762495148311,NA,NA
+1 tornado,lambda = 0.5,T5_with,5.970056905608998,NA,NA
+1 tornado,lambda = 0.5,P_T5,-33.818710903652466,NA,NA
+1 tornado,lambda = 0.5,T5_n_with,1095,NA,NA
+1 tornado,lambda = 0.5,T3_Stel_with,9.334510688467764,NA,NA
+1 tornado,lambda = 0.5,T3_Drak_with,7.886676343871994,NA,NA
+1 tornado,lambda = 0.5,P_T5_Stel,-43.23557706670921,NA,NA
+1 tornado,lambda = 0.5,P_T5_Drak,-45.74806764254091,NA,NA
+1 tornado,S = code,K1685,121.76724530658194,NA,NA
+1 tornado,S = code,K1773,6842.9800778327035,NA,NA
+1 tornado,S = code,gK,4.68467827177852,NA,NA
+1 tornado,S = code,gS,4.009908170373189,NA,NA
+1 tornado,S = code,rKS,1.1682756992768073,NA,NA
+1 tornado,S = code,I1c,0.999997088679337,NA,NA
+1 tornado,S = code,T3_without,14.54454438072085,NA,NA
+1 tornado,S = code,T3_with,8.189994312990196,NA,NA
+1 tornado,S = code,P_T3,-43.69026558270031,NA,NA
+1 tornado,S = code,T3_n_with,370,NA,NA
+1 tornado,S = code,T5_without,9.020762495148311,NA,NA
+1 tornado,S = code,T5_with,5.102134641525156,NA,NA
+1 tornado,S = code,P_T5,-43.44009562086059,NA,NA
+1 tornado,S = code,T5_n_with,1095,NA,NA
+1 tornado,S = code,T3_Stel_with,8.122503522783774,NA,NA
+1 tornado,S = code,T3_Drak_with,5.575424735315671,NA,NA
+1 tornado,S = code,P_T5_Stel,-49.483349630870634,NA,NA
+1 tornado,S = code,P_T5_Drak,-61.001927062641776,NA,NA
+1 tornado,S = Tas,K1685,132.8548877940886,NA,NA
+1 tornado,S = Tas,K1773,6176.969747734137,NA,NA
+1 tornado,S = Tas,gK,4.459442537636837,NA,NA
+1 tornado,S = Tas,gS,4.009908170373189,NA,NA
+1 tornado,S = Tas,rKS,1.1121059007248568,NA,NA
+1 tornado,S = Tas,I1c,0.9026698447660584,NA,NA
+1 tornado,S = Tas,T3_without,14.54454438072085,NA,NA
+1 tornado,S = Tas,T3_with,8.732347511702418,NA,NA
+1 tornado,S = Tas,P_T3,-39.96135400929191,NA,NA
+1 tornado,S = Tas,T3_n_with,370,NA,NA
+1 tornado,S = Tas,T5_without,9.020762495148311,NA,NA
+1 tornado,S = Tas,T5_with,5.40896034650276,NA,NA
+1 tornado,S = Tas,P_T5,-40.03876779361067,NA,NA
+1 tornado,S = Tas,T5_n_with,1095,NA,NA
+1 tornado,S = Tas,T3_Stel_with,7.760696645408021,NA,NA
+1 tornado,S = Tas,T3_Drak_with,6.616295341450627,NA,NA
+1 tornado,S = Tas,P_T5_Stel,-51.38424195549183,NA,NA
+1 tornado,S = Tas,P_T5_Drak,-54.0894925223823,NA,NA
+1 tornado,S = drift,K1685,117.90601483301698,NA,NA
+1 tornado,S = drift,K1773,7162.631324770879,NA,NA
+1 tornado,S = drift,gK,4.77736244670417,NA,NA
+1 tornado,S = drift,gS,4.009908170373189,NA,NA
+1 tornado,S = drift,rKS,1.1913894891661714,NA,NA
+1 tornado,S = drift,I1c,1.046709239335215,NA,NA
+1 tornado,S = drift,T3_without,14.54454438072085,NA,NA
+1 tornado,S = drift,T3_with,8.35066003000447,NA,NA
+1 tornado,S = drift,P_T3,-42.585619656305816,NA,NA
+1 tornado,S = drift,T3_n_with,370,NA,NA
+1 tornado,S = drift,T5_without,9.020762495148311,NA,NA
+1 tornado,S = drift,T5_with,5.19183745129659,NA,NA
+1 tornado,S = drift,P_T5,-42.44569176841819,NA,NA
+1 tornado,S = drift,T5_n_with,1095,NA,NA
+1 tornado,S = drift,T3_Stel_with,7.056745627130213,NA,NA
+1 tornado,S = drift,T3_Drak_with,6.060595198083228,NA,NA
+1 tornado,S = drift,P_T5_Stel,-54.25458099366058,NA,NA
+1 tornado,S = drift,P_T5_Drak,-57.421928567880464,NA,NA
+1 tornado,gamma = none,K1685,152.3051844632184,NA,NA
+1 tornado,gamma = none,K1773,6085.427412315651,NA,NA
+1 tornado,gamma = none,gK,4.279690089815258,NA,NA
+1 tornado,gamma = none,gS,4.009908170373189,NA,NA
+1 tornado,gamma = none,rKS,1.06727882733957,NA,NA
+1 tornado,gamma = none,I1c,0.8892923297260925,NA,NA
+1 tornado,gamma = none,T3_without,14.54454438072085,NA,NA
+1 tornado,gamma = none,T3_with,8.255893748039647,NA,NA
+1 tornado,gamma = none,P_T3,-43.23717861535054,NA,NA
+1 tornado,gamma = none,T3_n_with,370,NA,NA
+1 tornado,gamma = none,T5_without,9.020762495148311,NA,NA
+1 tornado,gamma = none,T5_with,5.093081146122568,NA,NA
+1 tornado,gamma = none,P_T5,-43.540458482730166,NA,NA
+1 tornado,gamma = none,T5_n_with,1095,NA,NA
+1 tornado,gamma = none,T3_Stel_with,6.978587956263553,NA,NA
+1 tornado,gamma = none,T3_Drak_with,5.90480134937424,NA,NA
+1 tornado,gamma = none,P_T5_Stel,-56.036539130335925,NA,NA
+1 tornado,gamma = none,P_T5_Drak,-58.76145533653504,NA,NA
+1 A range (16 scenarios),min,gK,3.6487020808582127,NA,NA
+1 A range (16 scenarios),max,gK,4.799641616000638,NA,NA
+1 A range (16 scenarios),min,rKS,0.9099216056408196,NA,NA
+1 A range (16 scenarios),max,rKS,1.1969455189678202,NA,NA
+1 A range (16 scenarios),min,I1c,0.4243539495024908,NA,NA
+1 A range (16 scenarios),max,I1c,1.0467092393352155,NA,NA
+1 A range (16 scenarios),min,P_T3,-44.847998973414306,NA,NA
+1 A range (16 scenarios),max,P_T3,-30.967606076065906,NA,NA
+1 A range (16 scenarios),min,P_T5,-45.215423308087345,NA,NA
+1 A range (16 scenarios),max,P_T5,-30.264704362727915,NA,NA
+2 no herd cap in T5,central,T5_without,9.794233102731589,NA,NA
+2 no herd cap in T5,central,T5_with,5.948694201513358,NA,NA
+2 no herd cap in T5,central,P_T5,-39.26329770674662,NA,NA
+2 no herd cap in T5,central,T5_n_with,1765,NA,NA
+3 wheat only,central,T3_without,12.612963938552172,NA,NA
+3 wheat only,central,T3_with,7.027088416835242,NA,NA
+3 wheat only,central,P_T3,-44.286779451128176,NA,NA
+3 wheat only,central,T5_without,7.646474084297318,NA,NA
+3 wheat only,central,T5_with,4.252898041014603,NA,NA
+3 wheat only,central,P_T5,-44.38092650116621,NA,NA
+3 wheat only,central,T3_Stel_with,4.654606839415528,NA,NA
+3 wheat only,central,T3_Drak_with,5.062853331984147,NA,NA
+4 ratio of means,central,T3_without,12.042749855574812,NA,NA
+4 ratio of means,central,T3_with,7.187670479853515,NA,NA
+4 ratio of means,central,P_T3,-40.31537177095637,NA,NA
+4 ratio of means,central,T5_without,6.802535657686212,NA,NA
+4 ratio of means,central,T5_with,4.55636107468161,NA,NA
+4 ratio of means,central,P_T5,-33.0196664308057,NA,NA
+5 labour allocation,"alpha = 0.5, central",T3_with,9.60127567422964,NA,NA
+5 labour allocation,"alpha = 0.5, central",P_T3,-33.98709905993092,NA,NA
+5 labour allocation,"alpha = 0.5, central",T5_with,5.970056905608998,NA,NA
+5 labour allocation,"alpha = 0.5, central",P_T5,-33.818710903652466,NA,NA
+5 labour allocation,"alpha = 0.5, A min",P_T3,-33.98709905993092,NA,NA
+5 labour allocation,"alpha = 0.5, A max",P_T3,-20.635420498397323,NA,NA
+5 labour allocation,"alpha = 0.5, A min",P_T5,-33.818710903652466,NA,NA
+5 labour allocation,"alpha = 0.5, A max",P_T5,-19.91468088953789,NA,NA
+5 labour allocation,"alpha = 0, central",T3_with,14.54454438072085,NA,NA
+5 labour allocation,"alpha = 0, central",P_T3,0,NA,NA
+5 labour allocation,"alpha = 0, central",T5_with,9.020762495148311,NA,NA
+5 labour allocation,"alpha = 0, central",P_T5,0,NA,NA
+5 labour allocation,"alpha = 0, A min",P_T3,0,NA,NA
+5 labour allocation,"alpha = 0, A max",P_T3,0,NA,NA
+5 labour allocation,"alpha = 0, A min",P_T5,0,NA,NA
+5 labour allocation,"alpha = 0, A max",P_T5,0,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,K1685,306.3061985399634,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,K1773,8123.069355097843,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,gK,3.795103885071849,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,gS,4.009908170373189,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,rKS,0.9464316198339902,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,I1c,1.1870625975592346,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T3_without,14.54454438072085,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T3_with,6.04266308070184,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,P_T3,-58.45409163375694,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T3_n_with,370,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T5_without,9.020762495148311,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T5_with,3.968971948629102,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,P_T5,-56.001813031173846,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T5_n_with,1095,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T3_Stel_with,6.4829454352984195,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,T3_Drak_with,5.575424735315671,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,P_T5_Stel,-58.246380416136496,NA,NA
+6 Cape Khoesan at Drakenstein divisor,central,P_T5_Drak,-61.001927062641776,NA,NA
+7 concave herd scaling (exponent 0.75),central,K1685,284.4110829484155,NA,NA
+7 concave herd scaling (exponent 0.75),central,K1773,10518.22972259268,NA,NA
+7 concave herd scaling (exponent 0.75),central,gK,4.188104727369346,NA,NA
+7 concave herd scaling (exponent 0.75),central,gS,4.009908170373189,NA,NA
+7 concave herd scaling (exponent 0.75),central,rKS,1.0444390618001542,NA,NA
+7 concave herd scaling (exponent 0.75),central,I1c,1.5370787260839809,NA,NA
+7 concave herd scaling (exponent 0.75),central,T3_without,14.54454438072085,NA,NA
+7 concave herd scaling (exponent 0.75),central,T3_with,7.074474292201638,NA,NA
+7 concave herd scaling (exponent 0.75),central,P_T3,-51.35994564684318,NA,NA
+7 concave herd scaling (exponent 0.75),central,T3_n_with,370,NA,NA
+7 concave herd scaling (exponent 0.75),central,T5_without,9.020762495148311,NA,NA
+7 concave herd scaling (exponent 0.75),central,T5_with,4.2986696174422905,NA,NA
+7 concave herd scaling (exponent 0.75),central,P_T5,-52.3469371934549,NA,NA
+7 concave herd scaling (exponent 0.75),central,T5_n_with,1095,NA,NA
+7 concave herd scaling (exponent 0.75),central,T3_Stel_with,4.609831184816975,NA,NA
+7 concave herd scaling (exponent 0.75),central,T3_Drak_with,4.219789498184469,NA,NA
+7 concave herd scaling (exponent 0.75),central,P_T5_Stel,-68.25253437761765,NA,NA
+7 concave herd scaling (exponent 0.75),central,P_T5_Drak,-70.32029736927298,NA,NA
+8 1752 and 1762 restored,central,K1685,182.6508679598729,NA,NA
+8 1752 and 1762 restored,central,K1773,7162.6313247708795,NA,NA
+8 1752 and 1762 restored,central,gK,4.257521456088353,NA,NA
+8 1752 and 1762 restored,central,gS,4.009908170373189,NA,NA
+8 1752 and 1762 restored,central,rKS,1.0617503631491192,NA,NA
+8 1752 and 1762 restored,central,I1c,1.0467092393352155,NA,NA
+8 1752 and 1762 restored,central,T3_without,15.124613414383903,NA,NA
+8 1752 and 1762 restored,central,T3_with,8.74083989438588,NA,NA
+8 1752 and 1762 restored,central,P_T3,-42.20784588072108,NA,NA
+8 1752 and 1762 restored,central,T3_n_with,478,NA,NA
+8 1752 and 1762 restored,central,T5_without,8.899459065006265,NA,NA
+8 1752 and 1762 restored,central,T5_with,5.045424943424559,NA,NA
+8 1752 and 1762 restored,central,P_T5,-43.30638630314317,NA,NA
+8 1752 and 1762 restored,central,T5_n_with,1445,NA,NA
+8 1752 and 1762 restored,central,T3_Stel_with,7.380597923545407,NA,NA
+8 1752 and 1762 restored,central,T3_Drak_with,5.690512883271434,NA,NA
+8 1752 and 1762 restored,central,P_T5_Stel,-57.73860034370923,NA,NA
+8 1752 and 1762 restored,central,P_T5_Drak,-59.158650971359734,NA,NA
+9 published-run totals (district 0 kept),central,K1685,182.6508679598729,NA,NA
+9 published-run totals (district 0 kept),central,K1773,7162.6313247708795,NA,NA
+9 published-run totals (district 0 kept),central,gK,4.257521456088353,NA,NA
+9 published-run totals (district 0 kept),central,gS,4.016417647058845,NA,NA
+9 published-run totals (district 0 kept),central,rKS,1.0600295661996366,NA,NA
+9 published-run totals (district 0 kept),central,I1c,1.0467092393352155,NA,NA
+9 published-run totals (district 0 kept),central,T3_without,14.54454438072085,NA,NA
+9 published-run totals (district 0 kept),central,T3_with,8.021607266167376,NA,NA
+9 published-run totals (district 0 kept),central,P_T3,-44.847998973414306,NA,NA
+9 published-run totals (district 0 kept),central,T3_n_with,370,NA,NA
+9 published-run totals (district 0 kept),central,T5_without,9.014964962458093,NA,NA
+9 published-run totals (district 0 kept),central,T5_with,4.939910525560878,NA,NA
+9 published-run totals (district 0 kept),central,P_T5,-45.20321991119617,NA,NA
+9 published-run totals (district 0 kept),central,T5_n_with,1096,NA,NA
+9 published-run totals (district 0 kept),central,T3_Stel_with,6.4829454352984195,NA,NA
+9 published-run totals (district 0 kept),central,T3_Drak_with,5.575424735315671,NA,NA
+9 published-run totals (district 0 kept),central,P_T5_Stel,-58.246380416136496,NA,NA
+9 published-run totals (district 0 kept),central,P_T5_Drak,-61.001927062641776,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),K1685,121.76724530658194,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),K1773,6842.9800778327035,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),gK,4.68467827177852,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),gS,4.016417647058845,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),rKS,1.1663822548954863,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),I1c,0.999997088679337,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T3_without,14.54454438072085,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T3_with,8.189994312990196,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),P_T3,-43.69026558270031,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T3_n_with,370,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T5_without,9.014964962458093,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T5_with,5.099912499212329,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),P_T5,-43.428371375258834,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T5_n_with,1096,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T3_Stel_with,8.122503522783774,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),T3_Drak_with,5.575424735315671,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),P_T5_Stel,-49.483349630870634,NA,NA
+9 published-run totals (district 0 kept),coded reference (S = code),P_T5_Drak,-61.001927062641776,NA,NA
+10 CSD series,central,K1685,182.6508679598729,NA,NA
+10 CSD series,central,K1773,3615.3910809885233,NA,NA
+10 CSD series,central,gK,3.450676664447805,NA,NA
+10 CSD series,central,gS,3.880652158677722,NA,NA
+10 CSD series,central,rKS,0.8892001971193354,NA,NA
+10 CSD series,coded reference (S = code; basis of the published 3.82),K1685,121.76724530658194,NA,NA
+10 CSD series,coded reference (S = code; basis of the published 3.82),K1773,3295.739834050348,NA,NA
+10 CSD series,coded reference (S = code; basis of the published 3.82),gK,3.8191640739154487,NA,NA
+10 CSD series,coded reference (S = code; basis of the published 3.82),gS,3.880652158677722,NA,NA
+10 CSD series,coded reference (S = code; basis of the published 3.82),rKS,0.9841552186982858,NA,NA
+Theil readings (card 4.4),"I3b-share, 1757 prices",old -> new,0.4774747441893044,0.331,up
+Theil readings (card 4.4),"I3b-level, 1757 prices",old -> new,0.3537841,0.421363,down
+Theil readings (card 4.4),"I3c-share, 1757 prices",old -> new,0.5225251208485127,0.669,down
+Theil readings (card 4.4),"I3c-level, 1757 prices",old -> new,0.3871641,0.851637,down
+11 total Theil level,"I3a (sensitivity 11), 1757 prices",old -> new,0.7409483,1.273,down
